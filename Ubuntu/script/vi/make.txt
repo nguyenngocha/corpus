@@ -1,0 +1,68 @@
+ “ touch ”  thành  viên  kho  không  có  trên  VMS
+ lbr $ set _ module ( )  đã  không  giải  nén  thông  tin  về  mô-đun ,  trạng  thái  =  % d
+ lbr $ ini _ control ( )  bị  lỗi  với  trạng  thái  =  % d
+ ( có  lẽ  tên  bị  cắt  ngắn )
+ Ngày  % s
+ uid  =  % d ,  gid  =  % d ,  chế  độ  =  0 % o .
+ * * *  Ngắt .
+ #   công  thức  cần  thực  hiện
+ ( dựng-sẵn ) :
+ #  Thư  mục
+ #  % s :  không  thể  lấy  thống  kê .
+ #  % s  ( khoá  % s ,  mtime  % d ) :  không  thể  mở .
+ #  % s  ( thiết  bị  % d ,  nút  thông  tin  [ % d , % d , % d ] ) :  không  thể  mở .
+ #  % s  ( thiết  bị  % ld ,  nút  thông  tin  % ld ) :  không  thể  mở .
+ #  % s  ( khoá  % s ,  mtime  % d ) : 
+ #  % s  ( thiết  bị  % d ,  inode  [ % d , % d , % d ] ) : 
+ #  % s  ( thiết  bị  % ld ,  inode  % ld ) : 
+ tập  tin , 
+ không  thể
+ cho  đến  giờ .
+ việc  không  thể  làm  được  trong  % lu  thư  mục .
+ tham  chiếu  biến  chưa  chấm  dứt
+ Xoá  các  tập  tin  trung  gian ...
+ % s :  Thời  gian  của  tập  tin  ở  ngoài  phạm  vi  nên  thay  thế  bằng  % s
+ Giờ  hiện  tại
+ #  Không  phải  là  đích :
+ #   Tập  tin  giá  trị  ( điều  kiện  tiên  quyết  của  .PRECIOUS ) .
+ #   Đích  giả  ( điều  kiện  tiên  quyết  của  .PHONY ) .
+ #   Đích  dòng  lệnh .
+ #   Mặc  định ,  MAKEFILES ,  hoặc  makefile  kiểu  -include / sinclude .
+ #   Hoàn  tất  tìm  quy  tắc  ngầm .
+ #   Chưa  hoàn  tất  tìm  quy  tắc  ngầm .
+ #   Tập  tin  là  một  điều  kiện  tiên  quyết  trung  gian .
+ #   Cũng  tạo :
+ #   Chưa  kiểm  tra  giờ  sửa  đổi .
+ #   Tập  tin  không  tồn  tại .
+ #   Tập  tin  rất  cũ .
+ #   Lần  sửa  cuối  cùng  % s
+ #   Tập  tin  đã  được  cập  nhật .
+ #   Tập  tin  chưa  được  cập  nhật .
+ #   Công  thức  đang  chạy  ( ĐÂY  LÀ  MỘT  LỖI ) .
+ #   Công  thức  phụ  thuộc  đang  chạy  ( ĐÂY  LÀ  MỘT  LỖI ) .
+ #   Cập  nhật  thành  công .
+ #   Cần  được  cập  nhật  ( -q  được  đặt ) .
+ #   Gặp  lỗi  khi  cập  nhật .
+ #  Tập  tin
+ #  thống  kê  bảng  băm  tập  tin :  # 
+ CreatePipe ( )  bị  lỗi  ( e = % ld )
+ windows32 _ openpipe ( ) :  process _ init _ fd ( )  gặp  lỗi
+ Dọn  dẹp  tập  tin  bó  tạm  % s
+ % s :  tùy  chọn  không  hợp  lệ  --  % c
+ % s :  tùy  chọn  cần  một  đối  số  --  % c
+ không  thể  cấp  phát  % lu  byte  cho  bảng  băm :  hết  bộ  nhớ
+ Tải  = % ld / % ld = % .0f % % , 
+ Băm  lại = % d , 
+ Xung  đột   = % ld / % ld = % .0f % %
+ Tránh  quy  tắc  ngầm  đệ  quy .
+ Không  thể  tạo  tập  tin  tạm
+ ( đổ  lõi )
+ ( bỏ  qua )
+Đếm được %d đối số trong lần khởi chạy bị lỗi
+Bộ lọc ngoại lệ không quản lý được gọi từ chương trình %sExceptionCode (mã ngoại lệ) = %lxExceptionFlags (các cờ ngoại lệ) = %lxExceptionAddress (địa chỉ ngoại lệ) = 0x%p
+Chương trình này đã được dịch cho %s (%s)
+# Hoàn tất cơ sở dữ liệu Make lúc %s
+# Quy tắc ngầm
+# %u quy tắc ngầm, %u
+# Biến
+# Không có giá trị biến đặc tả cho mẫu

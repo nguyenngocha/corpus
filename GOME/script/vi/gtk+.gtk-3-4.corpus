@@ -1,0 +1,161 @@
+ Lỗi  phân  tích  cú  pháp  của  tuỳ  chọn  --gdk-debug
+ Lỗi  phân  tích  cú  pháp  của  tuỳ  chọn  --gdk-no-debug »
+ Hạng  chương  trình  như  được  dùng  bởi  bộ  quản  lý  cửa  sổ
+ HẠNG
+ Tên  chương  trình  được  dùng  bởi  trình  quản  lý  cửa  sổ
+ TÊN
+ Trình  hiển  thị  X  cần  dùng
+ HIỂN  THỊ
+ Các  cờ  gỡ  lỗi  GDK  cần  đặt
+ CỜ
+ Các  cờ  gỡ  lỗi  GDK  cần  bỏ  đặtkeyboard  label
+ BackSpacekeyboard  label
+ Tabkeyboard  label
+ Enterkeyboard  label
+ Pausekeyboard  label
+ Scroll _ Lockkeyboard  label
+ SysRqkeyboard  label
+ Esckeyboard  label
+ Multikeyboard  label
+ Homekeyboard  label
+ Tráikeyboard  label
+ Lênkeyboard  label
+ Phảikeyboard  label
+ Xuốngkeyboard  label
+ PgUpkeyboard  label
+ PgDnkeyboard  label
+ Endkeyboard  label
+ Beginkeyboard  label
+ In
+ Inskeyboard  label
+ Num _ Lockkeyboard  label
+ KP _ Spacekeyboard  label
+ KP _ Tabkeyboard  label
+ KP _ Enterkeyboard  label
+ KP _ Homekeyboard  label
+ KP _ Leftkeyboard  label
+ KP _ Upkeyboard  label
+ KP _ Rightkeyboard  label
+ KP _ Downkeyboard  label
+ KP _ Page _ Upkeyboard  label
+ KP _ Priorkeyboard  label
+ KP _ Page _ Downkeyboard  label
+ KP _ Nextkeyboard  label
+ KP _ Endkeyboard  label
+ KP _ Beginkeyboard  label
+ KP _ Insertkeyboard  label
+ KP _ Deletekeyboard  label
+ Delkeyboard  label
+ MànHìnhTăngSángkeyboard  label
+ MànHìnhGiảmSángkeyboard  label
+ ÂmThanhTắtkeyboard  label
+ ÂmThanhVặnNhỏkeyboard  label
+ ÂmThanhVặnLớnkeyboard  label
+ ÂmThanhPhátkeyboard  label
+ ÂmThanhDừngkeyboard  label
+ ÂmThanhTiếpkeyboard  label
+ ÂmThanhLùikeyboard  label
+ ÂmThanhThukeyboard  label
+ ÂmThanhTạmDừngkeyboard  label
+ ÂmThanhVòngLạikeyboard  label
+ ÂmThanhPhươngTiệnkeyboard  label
+ BảoVệMànHìnhkeyboard  label
+ Pinkeyboard  label
+ Phóng1keyboard  label
+ Tớikeyboard  label
+ Lùikeyboard  label
+ Ngủkeyboard  label
+ Ngủ  đôngkeyboard  label
+ WLANkeyboard  label
+ WebCamkeyboard  label
+ HiểnThịkeyboard  label
+ TouchpadBậtTắtkeyboard  label
+ ThứcDậykeyboard  label
+ Đừng  gởi  bó  yêu  cầu  GDI
+ Đừng  dùng  API  Wintab  để  hỗ  trợ  phiến  đồ  họa
+ Bằng  --no-wintab
+ Dùng  API  WIntab  [ mặc  định ]
+ Kích  thước  của  bản  chọn  trong  chế  độ  8  bit
+ MÀU
+ Đang  khởi  chạy  % s
+ Đang  mở  % s
+ Con  quay
+ Cung  cấp  biểu  thị  tiến  độ  trực  quanlight  switch  widget
+ Công  tắc
+ Công  tắc  chuyển  trạng  thái  bật / tắt
+ Chọn  màu  bạn  muốn  từ  vòng  màu  bên  ngoài .  Chọn  độ  đậm  nhạt  của  màu  từ  tam  giác  màu  bên  trong .
+ Nhấn  vào  ống  nhỏ  giọt ,  sau  đó  nhấn  vào  một  màu  trên  khắp  màn  hình  bạn  để  chọn  màu  đó .
+ _ Sắc  độ :
+ Vị  trí  trên  vòng  màu .
+ Độ  _ bão  hòa :
+ Cường  độ  màu .
+ _ Giá  trị :
+ Độ  sáng  của  màu .
+ Đỏ :
+ Lượng  sắc  đỏ  trong  màu .
+ Xanh  _ lá :
+ Lượng  sắc  xanh  lá  cây  trong  màu .
+ Xanh  _ lục :
+ Lượng  sắc  xanh  nước  biển  trong  màu .
+ Độ  đụ _ c :
+ Độ  trong  suốt  của  màu .
+ Tê _ n  màu  :
+ Bạn  có  thể  nhập  một  giá  trị  thập  lục  phân  theo  kiểu  HTML ,  hoặc  đơn  giản  là  nhập  tên  màu  như  ' orange '  ( cam )  vào  ô  này .
+ _ Bảng  chọn :
+ Vòng  màu
+ Màu  được  chọn  trước  đây  ( so  với  màu  đang  chọn ) .  Bạn  có  thể  kéo  màu  này  vào  trường  nhập  bảng  chọn ,  hoặc  chọn  màu  này  như  là  màu  hiện  thời  bằng  cách  kéo  nó  vào  dải  màu  bên  cạnh  khác .
+ Màu  bạn  chọn .  Bạn  có  thể  kéo  màu  này  vào  trường  nhập  bảng  chọn  để  lưu  nó  để  sử  dụng  sau  này .
+ Màu  chọn  lần  trước ,  để  so  sánh  với  màu  đang  chọn .
+ Màu  đã  chọn .
+ _ Lưu  màu  vào  đây
+ Nhấn  trường  nhập  bảng  chọn  này  để  chọn  nó  như  màu  hiện  thời .  Để  thay  đổi  mục  nhập  này ,  kéo  1  dải  màu  vào  đây  hoặc  nhấn-phải  vào  nó  rồi  chọn  " Lưu  màu  vào  đây " .
+ _ Chọn
+ Chọn  màu
+ aăâbcdđeêghikoôơuư  AĂÂBCDĐEÊGHIKOÔƠUƯ
+ _ Họ :
+ _ Kiểu :
+ _ Cỡ :
+ _ Xem  thử :
+ Chọn  phông
+ Chương  trình  này  HOÀN  TOÀN  KHÔNG  CÓ  BẢO  HÀNH ;  xem    %  s   để  biết  chi  tiết
+ Giấy  phép
+ Giấy  phép  của  chương  trình
+ Công  t _ rạng
+ Giấy  _ phép
+ Không  thể  hiện  liên  kết
+ Trang  chủ
+ Giới  thiệu  % s
+ Tác  giả :
+ Tài  liệu :
+ Bản  dịch :
+ Đồ  họa : keyboard  label
+ Shiftkeyboard  label
+ Ctrlkeyboard  label
+ Altkeyboard  label
+ Superkeyboard  label
+ Hyperkeyboard  label
+ Metakeyboard  label
+ Phím  cáchkeyboard  label
+ Gạch  chéo  ngược
+ Ứng  dụng  khác ...
+ Lỗi  tìm  ứng  dụng  trực  tuyến
+ Tìm  ứng  dụng  trực  tuyến
+ Không  thể  chạy  ứng  dụng
+ Không  thể  tìm  ' % s '
+ Không  thể  tìm  ứng  dụng
+ Chọn  ứng  dụng  để  mở  " % s "
+ Không  có  ứng  dụng  mở  " % s "
+ Chọn  ứng  dụng  cho  tập  tin  " % s "
+ Không  có  ứng  dụng  mở  tập  tin  " % s "
+ Nhấn  " Hiện  ứng  dụng  khác "  để  xem  chi  tiết  hoặc  " Tìm  ứng  dụng  trực  tuyến "  để  cài  đặt  ứng  dụng  mới
+ Quên  liên  kết
+ Hiện  ứng  dụng  khác
+ Ứng  dụng  mặc  định
+ Ứng  dụng  khuyến  khích
+ Ứng  dụng  liên  quan
+ Ứng  dụng  khác
+ Ứng  dụng
+ _ Tiếp  tục
+ Quay  _ lại
+ _ Hoàn  tất
+ Phần  tử 

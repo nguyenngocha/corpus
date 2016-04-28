@@ -1,0 +1,92 @@
+ Rô-bốt
+ Tránh  các  rô-bốt  và  làm  cho  chúng  đâm  sầm  vào  nhau
+ Hiển  thị  thanh  công  cụ
+ Hiển  thị  thanh  công  cụ .  Một  tùy  chọn  chuẩn  cho  thanh  công  cụ .
+ Sắc  thái  ảnh  Rô-bốt
+ Sắc  thái  ảnh  Rô-bốt .  Sắc  thái  các  ảnh  cần  dùng  cho  những  Rô-bốt  khác .
+ Màu  nền
+ Màu  nền :  cách  ghi  rõ  hệ  thập  lục  phân  của  màu  nền .
+ Kiểu  trờ  chơi
+ Kiểu  trò  chơi .  Tên  sự  thay  đổi  trò  chơi  cần  dùng .
+ Bước  đi  an  toàn
+ Bước  đi  an  toàn .  Tùy  chọn  bước  an  toàn  sẽ  giúp  đỡ  bạn  tránh  bị  giết  do  làm  lỗi .  Nếu  bạn  thử  làm  bước  sẽ  hướng  dẫn  đến  chết  khi  có  thể  bước  an  toàn  thì  sẽ  không  cho  phép  bước  nguy  hiểm  ấy .
+ Bước  đi  siêu  an  toàn
+ Bước  đi  siêu  an  toàn .  Sẽ  cảnh  báo  người  chơi  khi  không  có  bước  an  toàn  còn  lại  thì  phải  chuyển  ngay  ra .
+ Bật  âm  thanh  trò  chơi
+ Bật  âm  thanh  trò  chơi .  Phát  âm  thanh  cho  nhiều  sự  kiện  khác  trong  khi  trò  chơi .
+ Phím  để  chuyển  phía  Bắc  Tây
+ Phím  để  di  chuyển  hướng  tây  bắc .
+ Phím  để  chuyển  phía  Bắc
+ Phím  để  di  chuyển  hướng  bắc .
+ Phím  để  chuyển  phía  Bắc  Đông
+ Phím  để  di  chuyển  hướng  đông  bắc .
+ Phím  để  chuyển  phía  Tây
+ Phím  để  di  chuyển  hướng  tây .
+ Phím  để  đứng
+ Phím  để  chuyển  phía  Đông
+ Phím  để  di  chuyển  hướng  đông .
+ Phím  để  chuyển  phía  Nam  Tây
+ Phím  để  di  chuyển  hướng  tây  nam .
+ Phím  để  chuyển  phía  Nam
+ Phím  để  di  chuyển  hướng  nam .
+ Phím  để  chuyển  phía  Nam  Đông
+ Phím  để  di  chuyển  hướng  đông  nam .
+ Phím  để  chuyển  ngay
+ Phím  để  chuyển  ngay  ngẫu  nhiên
+ Phím  để  chuyển  ngay  ngẫu  nhiên .
+ Phím  để  đợi
+ Phím  để  đợi .
+ Chiều  rộng  cửa  sổ  theo  điểm  ảnh
+ Chiều  cao  cửa  sổ  theo  điểm  ảnh
+ Hết  lượt  chơi !
+ Hay  quá ,  nhưng  rất  tiếc  là  điểm  bạn  không  được  tốp  mười  cao  nhất . _ New  Game
+ Lượt  chơi  _ mới
+ Điểm  Rô-bốt
+ Chúc  mừng !
+ Điểm  của  bạn  là  tốt  nhất  !
+ Điểm  bạn  đã  đạt  đến  tốp  mười  cao  nhất .
+ Chúc  mừng ,  bạn  đã  đánh  thắng  các  Rô-bốt ! !   Nhưng  liệu  bạn  có  thể  làm  lại  điều  này ?
+ Không  có  vị  trí  chuyển  ngay  còn  lại !
+ Không  có  vị  trí  an  toàn  nơi  có  thể  chuyển  sang !
+ Lệnh  lạscore-dialog
+ Thời  gian
+ Điểmscore-dialog
+ % 1 $ dm  % 2 $ ds
+ Lượt  chơi  mớiscore-dialog
+ Tên
+ Ngày
+ Hiển  thị  trợ  giúp  cho  trò  này
+ Kết  thúc  lượt  chơi  hiện  có
+ Bật / tắt  chế  độ  toàn  màn  hình
+ Nhận  gợi  ý  cho  bước  đi  tiếp  theo
+ Ra  chế  độ  toàn  màn  hình
+ Bắt  đầu  lượt  chơi  mạng  đa  người  chơi  mới
+ Kết  thúc  lượt  chơi  mạng  hiện  thời  và  trở  về  máy  phục  vụ  mạng
+ Tạm  dừng  chơi
+ Hiện  danh  sách  các  người  chơi  trong  lượt  chơi  mạng
+ Làm  lại  bước  đi  vừa  xong
+ Chạy  lại  trò  chơi
+ Tiếp  tục  trò  chơi  bị  tạm  dừng
+ Xem  điểm  số
+ Giới  thiệu  trò  chơi  này
+ Đóng  cửa  sổ  này
+ Cấu  hình  trò  chơi
+ Thoát  khỏi  trò  chơi  này
+ _ Nội  dung
+ T _ oàn  màn  hình
+ _ Gợi  ý _ New "  is  for  the  menu  item  ' Game-  >  New ' ,  implies  " New  Game
+ _ Mới
+ _ Chuyển  lạiReset
+ _ Lập  lại _ Restart "  is  the  menu  item  ' Game-  >  Restart ' ,  implies  " Restart  Game
+ Chạy  _ lại
+ _ Ra  khỏi  toàn  màn  hình
+ Lượt  chơi  mạn _ g
+ R _ a  lượt  chơi
+ Danh  _ sách  người  chơi
+ Tạm  _ dừng
+ _ Tiếp  tục
+ Đ _ iểm
+ _ Kết  thúc  lượt  chơi
+ % s  là  phần  mềm  tự  do ;  bạn  có  quyền  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  với  điều  kiện  của  Giấy  Phép  Công  Cộng  GNU  như  được  xuất  bản  bởi  Tổ  Chức  Phần  Mềm  Tự  Do ;  hoặc  phiên  bản  % d  của  Giấy  Phép  này ,  hoặc  ( tùy  chọn )  bất  kỳ  phiên  bản  sau  nào .
+ % s  được  phát  hành  vì  mong  muốn  nó  có  ích ,  nhưng  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .  Xem  Giấy  Phép  Công  Cộng  GNU  để  biết  thêm  chi  tiết .
+ Bạn  đã  nhận  một  bản  sao  của  Giấy  Phép  Công  Cộng  GNU  cùng  với  % s ;  nếu  không ,  hãy  viết  thư  cho  Tổ  Chức  Phần  Mềm  Tự  Do ,  Free  Software  Foundation ,  Inc . ,  51  Franklin  Street ,  Fifth  Floor ,  Boston ,  MA   02110-1301 ,  USA  ( Mỹ ) .

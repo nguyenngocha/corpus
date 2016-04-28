@@ -1,0 +1,21 @@
+ Dự  đoán  " = "  sẽ  theo  sau  " % ( token ) s "
+ Dự  đoán  " % ( token ) s "  sẽ  chứa  giá  trị  nào  đó
+ Bạn  không  thể  sửa  trang  này .
+ Trang  này  không  thể  được  thay  đổi !
+ Không  thể  sửa  phiên  bản  cũ !
+ Sửa  trang  " % ( pagename ) s "
+ Xem  qua  trang  " % ( pagename ) s "
+ Thời  gian  để  bạn  sửa  trang  % ( lock _ page ) s  đã  hết !
+ Thời  gian  để  bạn  sửa  trang  % ( lock _ page ) s  sẽ  hết  trong  #  phút .
+ Thời  gian  để  bạn  sửa  trang  % ( lock _ page ) s  sẽ  hết  trong  #  giây .
+ Người  khác  đã  xoá  trang  này  trong  khi  bạn  đang  sửa !
+ Người  khác  đã  thay  đổi  trang  này  trong  khi  bạn  đang  sửa !
+ [ Nội  dung  trang  được  đọc  trong  % s ]
+ [ Không  tìm  thấy  mẫu  % s ]
+ [ Bạn  không  thể  xem  % s ]
+ Diễn  giải  % s  ở  đây .
+ Kiểm  tra  chính  tả
+ Lưu  các  thay  đổi
+ Huỷ  bỏ
+ Xem  qua
+ Thay  đổi  nhỏ  nhặt

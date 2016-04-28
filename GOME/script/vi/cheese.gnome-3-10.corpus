@@ -1,0 +1,85 @@
+ Chế  độ  ảnh
+ Chế  độ  _ phim
+ Chế  độ  chụp  hàng  loạt
+ Chụp  ảnh
+ Hiệu  ứng
+ _ Hiệu  ứng
+ _ Thôi  toàn  màn  hình
+ Tùy  thích
+ Thiết  bị
+ Độ  phân  giải  ảnh
+ Độ  phân  giải  phim
+ Webcam
+ Độ  ánh  sáng
+ Bão  hòa
+ Màu  sắc
+ Độ  tương  phản
+ Ảnh
+ Cửa  chập
+ Đế _ m  ngược
+ _ Chớp  lửa
+ Số  ảnh
+ Khoảng  dừng  giữa  các  ảnh  ( giây )
+ Thu
+ Cheese
+ Chụp  ảnh  và  phim  dùng  webcam ,  thêm  các  hiệu  ứng  đồ  họa  thứ  vị .
+ Đếm  ngược
+ Đặt  là  True  để  hiện  đếm  ngược  trước  khi  chụp  ảnh
+ Độ  dài  đếm  ngược
+ Đặt  là  True  để  hiện  đếm  ngược  trước  khi  chụp  ảnh ,  tính  theo  giây
+ Hiện  đèn  nháy  trước  khi  chụp
+ Đặt  để  hiện  đèn  nháy  khi  chụp  ảnh
+ Chuỗi  chỉ  thị  máy  ảnh
+ Chuỗi  thiết  bị  mà  chỉ  tới  máy  ảnh ,  v.d.  / dev / video0
+ Hiệu  ứng  chọn  cuối  cùng
+ Tên  của  hiệu  ứng  được  cài  đặt  được  chọn  lần  cuối
+ Chiều  rộng  ảnh
+ Chiều  rộng  của  ảnh  được  chụp  từ  máy  ảnh ,  theo  điểm  ảnh
+ Chiều  cao  ảnh
+ Chiều  cao  của  ảnh  được  chụp  từ  máy  ảnh ,  theo  điểm  ảnh
+ Chiều  rộng  phim
+ Chiều  rộng  của  phim  được  chụp  từ  máy  ảnh ,  theo  điểm  ảnh
+ Chiều  cao  phim
+ Chiều  cao  của  phim  được  chụp  từ  máy  ảnh ,  theo  điểm  ảnh
+ Dộ  ánh  sáng  của  ảnh
+ Điều  chỉnh  độ  sáng  của  ảnh  từ  máy  ảnh
+ Độ  tương  phản  của  hình
+ Điều  chỉnh  độ  tương  phản  của  ảnh  từ  máy  ảnh
+ Độ  bão  hòa  của  hình
+ Điều  chỉnh  độ  bảo  hoà  của  ảnh  từ  máy  ảnh
+ Điều  chỉnh  độ  màu  sắc  ( hue )  của  ảnh  từ  máy  ảnh
+ Đường  dẫn  phim
+ Xác  định  đường  dẫn  theo  đó  cần  lưu  lại  các  phim .  Bỏ  trống  thì  dùng  «  XDG _ VIDEO / Webcam  » .
+ Đường  dẫn  ảnh  chụp
+ Xác  định  đường  dẫn  theo  đó  cần  lưu  lại  các  ảnh  chụp .  Bỏ  trống  thì  dùng  «  XDG _ PHOTO / Webcam  » .
+ Thời  gian  giữa  hai  ảnh  chụp  ở  chế  độ  burst
+ Thời  gian ,  tính  theo  mili  giây ,  giữa  mỗi  ảnh  chụp  khi  đặt  chế  dộ  chụp  ảnh  từng  loạt .  Nếu  độ  trễ  ngá8n  hơn  khoảng  thời  gian  đếm  ngược  thì  dùng  khoảng  thời  gian  của  đếm  ngược  làm  độ  trễ .
+ Số  ảnh  chụp  với  chế  độ  burst
+ Số  ảnh  chụp  trong  một  lần  chụp  hàng  loạt .
+ Âm  thanh  khi  chụp
+ Chọn
+ _ Bỏ  ảnh
+ Thiếu  một  hoặc  nhiều  yếu  tố  GStreamer  cần  thiết : 
+ Không  tìm  thấy  thiết  bị09 : 05 : 02 : % Id % dtime  format
+ % 02i : % 02i : % 02i
+ Không  hỗ  trợ  tính  năng  thiết  bị
+ Lỗi  khởi  động  thiết  bị  % s  để  dò  tính  năng
+ Thiết  bị  không  xác  định
+ Không  hỗ  trợ  khởi  động  có  thể  huỷ
+ Khởi  động  theo  chế  dộ  rộng
+ Thiết  bị  thu
+ THIẾT  BỊ
+ Hiện  thông  tin  phiên  bản  và  thoát
+ Bắt  đầu  ở  chế  độ  toàn  màn  hình
+ _ Chụp
+ Chế  độ :
+ Ảnh  chụ _ p
+ Ph _ im
+ _ Hàng  loạt
+ _ Toàn  màn  hình
+ Trợ  g _ iúp
+ _ Giới  thiệu
+ T _ hoát
+ —  Chụp  ảnh  và  phim  dùng  webcam
+ Chạy  ' % s  --help '  để  xem  danh  sách  tuỳ  chọn  dòng  lệnh .
+ Nhóm  Việt  hóa  GNOME   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >

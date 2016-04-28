@@ -1,0 +1,9 @@
+ Xác  thực  VPN
+ Bạn  cần  phải  xác  thực  để  truy  cập  đến  Mạng  Riêng  Ảo  ( VPN )  «  % s  » .
+ Bộ  Quản  Lý  Kết  Nối  VPN  ( vpnc )
+ Thêm ,  Bỏ  và  Sửa  kết  nối  VPN
+ Ứng  dụng  khách  VPN  Cisco  tương  thích  ( vpnc )
+ Đòi  hỏi
+ Không  hỗ  trợ  đường  hầm  TCP
+ Tập  tin  thiết  lập  VPN  «  % s  »  xác  định  rằng  giao  thông  VPN  nên  theo  đường  hầm  qua  TCP ,  mà  hiện  thời  không  được  hỗ  trợ  bởi  phần  mềm  vpnc .  Vẫn  còn  có  khả  năng  tạo  kết  nối ,  với  chức  năng  chạy  đường  hầm  bị  tắt ,  nhưng  mà  nó  có  thể  không  hoạt  động  như  mong  đợi .
+ _ Miền :

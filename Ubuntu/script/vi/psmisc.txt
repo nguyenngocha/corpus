@@ -1,0 +1,27 @@
+ fuser  ( psmisc )  % s
+ PSmisc  không  bảo  đảm  gì  cả .  Đây  là  phần  mềm  tự  do  thì  bạn  có  thể  phân  phối  nó  với  điều  kiện  của  Quyền  Công  Chung  Gnu  ( GPL )  Để  tìm  thấy  thông  tin  thêm  thì  hãy  xem  tập  tin  có  tên  COPYING .
+ Không  thể  mở  thư  mục  / proc :  % s
+ Không  thể  cấp  phát  bộ  nhớ  cho  tiến  trình  khớp :  % s
+ Không  thể  lấy  các  thông  tin  về  % s :  % s
+ Không  tìm  thấy  tên  cổng  cục  bộ  % s :  % s
+ Không  biết  cổng  cục  bộ  AF  % d
+ Không  thể  mở  tập  tin  giao  thức  " % s " :  % s
+ Tùy  chọn  miền  tên  cần  đến  một  đối  số .
+ Tên  miền  tên  không  hợp  lệ
+ Chưa  nhập  đặc  tả  tiến  trình
+ tất  cả  các  tùy  chọn  không  cho  phép  bạn  dùng  với  tùy  chọn  " im  lặng " .
+ Không  cho  phép  bạn  tìm  kiếm  ổ  cắm  kiểu  cả  IPv4  lẫn  IPv6  đều  đồng  thời
+ ( không  hiểu )
+ Không  thể  lấy  các  thông  tin  về  tập  tin  % s :  % s
+ Không  thể  mở  thư  mục  / proc / net / unix :  % s
+ Có  buốc  kết  thức  tiến  trình  % d  không ?  ( y / N )  ( có / không ) 
+ Không  thể  buộc  kết  thúc  tiến  trình  % d :  % s
+ Không  thể  mở  một  ổ  cắm  mạng .
+ Không  tìm  thấy  số  hiệu  thiết  bị  ổ  cắm .
+ Có  buộc  kết  thúc  % s ( % s % d )  không ?  ( c / K ) 
+ Mới  buộc  kết  thức  % s ( % s % d )  với  tín  hiệu  % d
+ cách  sử  dụng :  killall  [ -s  sid ]  [ -c  ngữ _ cảnh ]  [  -egiqvw  ]  [  -tín _ hiệu  ]  tên  ...
+ cách  sử  dụng :  killall  [  TÙY _ CHỌN  ]  [  --  ]  tên  ...
+ -d , --sid             buộc  kết  thức  chỉ  tiến  trình  có  sid  ấy    -c , --context         buộc  kết  thức  chỉ  tiến  trình  có  scontext  ( ngữ  cảnh  s )     ( hai  đối  số  -s ,  -c  loại  từ  lẫn  nhau  và  phải  đi  trước  hết  đối  số  khác )
+ Không  tìm  thấy  người  dùng  % s
+ Biểu  thức  chính  quy  sai :  % s

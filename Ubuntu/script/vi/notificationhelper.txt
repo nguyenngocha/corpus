@@ -1,0 +1,28 @@
+ Một  ứng  dụng  đã  gặp  sự  cố  trên  hệ  thống  ( ngay  thời  điểm  hiện  tại  hoặc  đã  xảy  ra ) Opens  a  dialog  with  more  details
+ Chi  tiếtButton  to  dismiss  this  notification  once
+ Bỏ  qua  lúc  nàyButton  to  make  this  notification  never  show  up  again
+ Không  hiển  thị  lại  nữa
+ Trình  trợ  giúp  thông  báo  Kubuntu
+ Một  trình  trợ  giúp  thông  báo  cho  Kubuntu
+ Notification  when  an  upgrade  requires  the  user  to  do  something
+ Đang  có  các  thông  báo  nâng  cấp  phần  mềmUser  declines  an  action
+ Bỏ  quaUser  indicates  he  never  wants  to  see  this  notification  again
+ Cập  nhật  thông  tin
+ Thực  hiện  hoạt  động  này  ngay
+ Notification  when  additional  packages  are  required  for  complete  system  localization
+ Ẩnnotification  title
+ Installs  additional  localization  packages
+ Notification  when  the  upgrade  requires  a  restart
+ Cần  khởi  động  lại  hệ  thống  để  hoàn  tất  quá  trình  nâng  cấpRestart  the  computer
+ Khởi  động  lạiNotification  when  additional  packages  are  required  for  activating  proprietary  hardware
+ Launches  KDE  Control  Module  to  manage  drivers
+ The  name  of  the  Adobe  Flash  plugin
+ Flash
+ Bộ  mã  CD  K3b
+ Mã  hoá  MP3
+ Hỗ  trợ  Google  Talk  cho  KopeteNotification  when  a  package  wants  to  install  extra  software
+ Cái  gói  bổ  sung  có  thể  được  cài  đặt  để  nâng  cao  chức  năng  cho  % 1
+ Cài  đặt  các  gói
+ Cài  đặt  những  thứ  đã  được  chọn
+ Chọn  cài  đặt  các  gói  để  có  thêm  các  tính  năng  phụ .  Những  gói  này  không  được  cài  đặt  mặc  định  vì  vấn  đề  bản  quyền ,  giấy  phép  giới  hạn  hay  thiếu  không  gian  trong  thiết  bị  chứa  bản  cài  đặt .
+ Đã  cài  đặt  xong .  Bạn  cần  khởi  động  lại  % 1  để  sử  dụng  tính  năng  mới

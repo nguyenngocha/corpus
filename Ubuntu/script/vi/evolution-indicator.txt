@@ -1,0 +1,17 @@
+ Chỉ  thông  báo  khi  nào  có  thư  mới  trong  hộp  thư  đến .
+ Phát  âm  thanh  khi  có  thư  mới
+ Hiện  thị  thông  báo .
+ Hiển  thị  tổng  số  thư  mới  với  trình  thông  báo  thư .
+ Hộp  thư  đến
+ Viết  thư  mới
+ Các  liên  lạc
+ Khi  có  thư  _ mới  đến
+ bất  kỳ  hộp  thư  đến
+ Thư  mục  bất  kỳ .
+ :
+ Phát  âm  _ thanh
+ _ Hiển  thị  thông  báo
+ _ Hiển  thị  thư  mới  trong  bảng  điều  khiển
+ Thanh  chỉ  báo  Evolution
+ Khi  có  thư  mới
+ Hiển  thị  số  thư  mới  ở  thanh  chỉ  báo  tin  nhắn

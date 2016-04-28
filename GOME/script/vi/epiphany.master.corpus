@@ -1,0 +1,433 @@
+ Epiphany
+ Bộ  duyệt  Web
+ Web
+ Bộ  Duyệt  Web  Epiphany
+ Duyệt  qua  Web
+ Duyệt  với  con  nháy
+ _ Tìm :
+ Tên  người  dùng
+ Tự  động  tải  về
+ Khi  trình  duyệt  không  thể  mở  tập  tin ,  nó  được  tải  tự  động  về  thư  mục  tải  về ,  rồi  được  mở  bằng  ứng  dụng  thích  hợp .
+ Buộc  cửa  sổ  mới  dùng  thẻ
+ Buộc  yêu  cầu  tạo  cửa  sổ  mới  dùng  thẻ  thay  vì  tạo  cửa  sổ  mới .
+ Nhớ  mật  khẩu
+ Có  nên  cất  giữ  và  điền  sẵn  mật  khẩu  tại  địa  chỉ  Web  hay  không .
+ Tự  động  quản  lý  trạng  thái  ngoại  tuyến  bằng  trình  NetworkManager
+ Bật  cuộn  mịn
+ Kiểu  thanh  công  cụ
+ Kiểu  thanh  công  cụ .  Giá  trị  hợp  lệ :   •  " "  \ tDùng  kiểu  dáng  GNOME  mặc  định   •  both \ tVăn  bản  và  biểu  tượng   •  both-horiz \ tVăn  bản  bên  cạnh  biểu  tượng   •  icons \ tBiểu  tượng   •  text \ tVăn  bản .
+ Cửa  sổ  tải  về  có  hiển  thị  hay  ẩn
+ Ẩn  hay  hiển  thị  cửa  sổ  tải  về .  Ẩn  thì  thông  báo  khi  bắt  đầu  tải  về  tập  tin .
+ Cỡ  phông  nhỏ  nhất
+ _ Dùng  phông  hệ  thống
+ Phông  Sans  serif :
+ Phông  monospace :
+ Dùng  màu  riêng
+ Dùng  màu  riêng  của  bạn  thay  cho  màu  được  trang  yêu  cầu .
+ Dùng  phông  chữ  riêng  của  bạn  thay  cho  phông  chữ  được  trang  yêu  cầu .
+ _ Bật  kiểm  lỗi  chính  tả
+ Bảng  mã  mặc  định
+ Cỡ  bộ  nhớ  tạm  đĩa
+ Kích  cỡ  của  bộ  nhớ  tạm  trên  đĩa ,  theo  MB .
+ Ngôn  ngữ
+ Các  ngôn  ngữ  đã  muốn ,  theo  mã  hai  chữ .
+ Chấp  nhận  cookie
+ Chấp  nhận  cookie  từ  đâu .  Giá  trị  có  thể :   •  anywhere \ t \ tbất  kỳ  nơi  nào   •  current  site \ t \ tđịa  chỉ  hiện  tại   •  nowhere \ t \ tkhông  nơi  nào .
+ Chế  độ  hoạt  ảnh
+ Phương  pháp  hiển  thị  ảnh  đã  hoạt  họa .  Giá  trị  có  thể :   •  normal  \ tchuẩn   •  once \ t \ tmột  lần   •  disabled \ tbị  tắt .
+ Cho  phép  cửa  sổ  tự  mở
+ Cho  phép  các  địa  chỉ  Web  mở  cửa  sổ  mới  bằng  JavaScript  ( nếu  bật  chạy  JavaScript ) .
+ Bật  _ phần  mở  rộng
+ Bật  JavaScript
+ Đẵ  bật
+ Thư  mục  tải  về
+ Đường  dẫn  đến  thư  mục  vào  đó  cần  tải  về  tập  tin ;  hoặc  «  Downloads  »  để  sử  dụng  thư  mục  tải  về  mặc  định ,  hoặc  «  Desktop  »  để  sử  dụng  thư  mục  màn  hình  nền .
+ Có  nên  in  tên  trang  vào  phần  đầu  trang  hay  không
+ Có  nên  in  địa  chỉ  trang  vào  phần  đầu  trang  hay  không .
+ Phần  mở  rộng  đã  cài  đặt
+ Phần  mở  rộng
+ Có
+ Không
+ Kiểu  MIME
+ Mô  tả
+ Đuôi
+ Sử  dụng  bộ  nhớ
+ _ Giới  thiệu
+ Ứng  dụng
+ Danh  sách  ứng  dụng  web  đã  cài  đặt
+ Cài  đặt  lúc :
+ _ Bỏ  ra  thanh  công  cụbookmarks
+ Hay  xem  nhất
+ Trang  trắng
+ Duyệt  trên  toàn  màn  hình
+ Gởi  thư  cho  «  % s  »
+ Tiếng  Ả  Rập  ( _ IBM-864 )
+ Tiếng  Ả  Rập  ( ISO- _ 8859-6 )
+ Tiếng  Ả  Rập  ( _ MacArabic )
+ Tiếng  Ả  Rập  ( _ Windows-1256 )
+ Tiếng  thuộc  biển  Ban  Tích  ( _ ISO-8859-13 )
+ Tiếng  thuộc  biển  Ban-tích  ( I _ SO-8859-4 )
+ Tiếng  thuộc  biển  Ban-tích  ( _ Windows-1257 )
+ Tiếng  _ Ac-mê-ni  ( ARMSCII-8 )
+ Tiếng  _ Gi-oa-gi-a  ( GEOSTD8 )
+ Tiếng  vùng  Trung  Âu  ( _ IBM-852 )
+ Tiếng  vùng  Trung  Âu  ( I _ SO-8859-2 )
+ Tiếng  vùng  Trung  Âu  ( _ MacCE )
+ Tiếng  vùng  Trung  Âu  ( _ Windows-1250 )
+ Tiếng  Trung  phổ  Thông  ( _ GB18030 )
+ Tiếng  Trung  phổ  thông  ( G _ B2312 )
+ Tiếng  Trung  phổ  thông  ( GB _ K )
+ Tiếng  Trung  phổ  thông  ( _ HZ )
+ Tiếng  Trung  phổ  thông  ( _ ISO-2022-CN )
+ Tiếng  Trung  truyền  thống  ( Big _ 5 )
+ Tiếng  Trung  truyền  thống  ( Big5-HK _ SCS )
+ Tiếng  Trung  truyền  thống  ( _ EUC-TW )
+ Ki-rin  ( _ IBM-855 )
+ Ki-rin  ( I _ SO-8859-5 )
+ Ki-rin  ( IS _ O-IR-111 )
+ Ki-rin  ( _ KOI8-R )
+ Ki-rin  ( _ MacCyrillic )
+ Ki-rin  ( _ Windows-1251 )
+ Ki-rin / _ Nga  ( IBM-866 )
+ Tiếng  Hy  Lạp  ( _ ISO-8859-7 )
+ Tiếng  Hy  Lạp  ( _ MacGreek )
+ Tiếng  Hy  Lạp  ( _ Windows-1253 )
+ Tiếng  Gu-gia-ra-ti  ( _ MacGujarati )
+ Tiếng  Guổ-mu-khi  ( Mac _ Gurmukhi )
+ Tiếng  Hin-đi  ( Mac _ Devanagari )
+ Tiếng  Do  Thái  ( _ IBM-862 )
+ Tiếng  Do  Thái  ( IS _ O-8859-8-I )
+ Tiếng  Do  Thái  ( _ MacHebrew )
+ Tiếng  Do  Thái  ( _ Windows-1255 )
+ Tiếng  Do  Thái  trực  _ quan  ( ISO-8859-8 )
+ Tiếng  Nhật  ( _ EUC-JP )
+ Tiếng  Nhật  ( _ ISO-2022-JP )
+ Tiếng  Nhật  ( _ Shift-JIS )
+ Tiếng  Hàn  ( _ EUC-KR )
+ Tiếng  Hàn  ( _ ISO-2022-KR )
+ Tiếng  Hàn  ( _ JOHAB )
+ Tiếng  Hàn  ( _ UHC )
+ Tiếng  _ Xen-tơ  ( ISO-8859-14 )
+ T _ iếng  Băng  Đảo  ( MacIcelandic )
+ Tiế _ ng  vùng  Bắc  Âu  ( ISO-8859-10 )
+ Tiếng  _ Ba  Tư  ( MacFarsi )
+ Tiếng  Cợ-rô-a-ti-a  ( Mac _ Croatian )
+ Tiếng  _ Ru-ma-ni  ( MacRomanian )
+ Tiến _ g  Ru-ma-ni  ( ISO-8859-16 )
+ Tiếng  vùng  N _ am  Âu  ( ISO-8859-3 )
+ Tiếng  Thái  ( TIS- _ 620 )
+ Tiếng  Thái  ( IS _ O-8859-11 )
+ Tiếng  Thái  ( Windows-874 )
+ Tiếng  Thổ  Nhĩ  Kỳ  ( _ IBM-857 )
+ Tiếng  Thổ  Nhĩ  Kỳ  ( I _ SO-8859-9 )
+ Tiếng  Thổ  Nhĩ  Kỳ  ( _ MacTurkish )
+ Tiếng  Thổ  Nhĩ  Kỳ  ( _ Windows-1254 )
+ Unicode :  có  thể  trình  bày  mọi  ngôn  ngữ  ( UTF- _ 8 )
+ Ki-rin / U-cợ-rainh  ( _ KOI8-U )
+ Kir-in / U-cợ-rainh  ( Mac _ Ukrainian )
+ Tiếng  Việt :  kiểu  cũ  ( _ TCVN )
+ Tiếng  Việt :  kiểu  cũ  ( _ VISCII )
+ Tiếng  Việt :  kiểu  cũ  ( V _ PS )
+ Tiếng  Việt :  kiểu  cũ  ( _ Windows-1258 )
+ Tiếng  vùng  Tay  Âu  ( _ IBM-850 )
+ Tiếng  vùng  Tay  Âu  ( _ ISO-8859-1 )
+ Tiếng  vùng  Tay  Âu  ( IS _ O-8859-15 )
+ Tiếng  vùng  Tay  Âu  ( _ MacRoman )
+ Tiếng  vùng  Tay  Âu  ( _ Windows-1252 ) related
+ Tiếng  Anh  ( _ US-ASCII )
+ Unicode  ( UTF- _ 16  BE )
+ Unicode  ( UTF-1 _ 6  LE )
+ Unicode  ( UTF- _ 32  BE )
+ Unicode  ( UTF-3 _ 2  LE )
+ Không  rõ  ( % s )
+ Không  tìm  thấy
+ Tìm  lần  xuất  hiện  trước  đó  của  chuỗi  tìm  kiếm
+ Tìm  lần  xuất  hiện  tiếp  theo  của  chuỗi  tìm  kiếm
+ Lưu
+ Từ  chối
+ Cho  phép
+ Trang    %  s   muốn  biết  vị  trí  của  bạn .
+ Đang  nạp  “ % s ” …
+ Đang  nạp …
+ Chưa  xác  định
+ Á !  Không  thể  hiện  trang  web  này
+   Trang   web   ở      %   s     có   vẻ   không   xem   được  .   Lỗi   chính   xác   là  :       %   s      Có   thể   do   tạm   thời   tắt   hoặc   chuyển   sang   địa   chỉ   mới  .   Đừng   quên   kiểm   tra   kết   nối   internet   xem   có   hoạt   động   không  . 
+ Thử  lại
+   Trang   đang   nạp   khi   trình   duyệt   đóng   bất   ngờ  .    Có   thể   xảy   ra   lần   nữa   nếu   nạp   lại   trang   này  .   Nếu   thật   vậy  ,   vui   lòng   thông   báo   lỗi   cho   những   người   phát   triển      %   s    . 
+ Vẫn  cứ  nạp
+ Lưu  liên  kết  «  % s  »
+ Thôi
+ Mở
+ Mọi  kiểu  được  hỗ  trợ
+ Trang  Web
+ Ảnh
+ Mọi  tập  tin
+ Tải  về
+ Màn  hình  nền
+ Không  thể  tạo  thư  mục  tạm  thời  trong  «  % s  » .
+ Tập  tin  «  % s  »  đã  có .  Hãy  chuyển  nó  ra .
+ Lỗi  tạo  thư  mục  «  % s  » .
+ Không  cho  phép  ghi  vào  thư  mục  «  % s  »
+ Bạn  không  có  quyền  tạo  tập  tin  trong  thư  mục  này .
+ Không  cho  phép  ghi  vào  thư  mục  này
+ Không  thể  ghi  đè  lên  tập  tin  «  % s  »  đã  có
+ Tập  tin  tên  này  đã  có ,  và  bạn  không  có  quyền  ghi  đè  lên  nó .
+ Không  thể  ghi  đè  lên  tập  tin
+ Không  thể  hiển  thị  trợ  giúp :  % s
+ Cần  mật  khẩu  chủ
+ Mật  khẩu  từ  phiên  bản  trước  ( Gecko )  đang  bị  khoá  bằng  mật  khẩu  chủ .  Nếu  bạn  muốn  Epiphany  nhập  mật  khẩu  thì  nhập  mật  khẩu  chủ  bên  dưới .
+ Lỗi  chép  tập  tin  cookies  từ  Mozilla .
+ Tùy  chọn  của  Bộ  duyệt  Web  GNOMEfriendly  time "  string  for  the  current  day ,  strftime  format.  like  " Today  12 : 34  am
+ Hôm  nay  % I : % M  % pfriendly  timeYesterday  12 : 34  am
+ Hôm  qua  % I : % M  % pfriendly  timeWed  12 : 34  am
+ % a  % I : % M  % pfriendly  timeFeb  12  12 : 34  am
+ % b  % d  % I : % M  % pfriendly  timeFeb  12  1997
+ % b  % d  % Y
+ Không  rõdownload  status
+ 50 %
+ 75 %
+ 100 %
+ 125 %
+ 150 %
+ 175 %
+ 200 %
+ 300 %
+ 400 %
+ Khác
+ Tập  tin  cục  bộ
+ _ Trường  chứng  nhận
+ Đã  xong
+ Lỗi  tải  về :  % s
+ Hiện  trong  thư  mục
+ Đang  chạy …
+ _ Xoá
+ _ Hủy  bước
+ Kéo  và  thả  biểu  tượng  này  để  tạo  liên  kết  đến  trang  này
+ Thuộc  tính  «  % s  »
+ _ Tên :
+ C _ hủ  đề :
+ _ Hiện  mọi  chủ  đề
+ Đị _ a  chỉ
+ Đón _ g
+ Giải  trí
+ Tin  tức
+ Mua  sắm
+ Thể  thao
+ Du  lịch
+ Việc  làmbookmarks
+ Chưa  phân  loạibookmarks
+ Địa  chỉ  cục  bộ
+ Không  tên
+ Mozilla  ( HTML )
+ Gỡ  bỏ  ra  chủ  đề  này
+ _ Tập  tin
+ _ Sửa
+ _ Xem
+ Trợ  g _ iúp
+ Chủ  đề  _ mới
+ Tạo  chủ  đề  mới
+ Mở  liên  kết  lưu  đã  chọn  trong  cửa  sổ  mới
+ Mở  liên  kết  lưu  đã  chọn  dưới  thẻ  mới
+ Tha _ y  tên …
+ Thay  đổi  tên  của  liên  kết  lưu  hay  chủ  đề  đã  chọn
+ Th _ uộc  tính
+ Xem / sửa  đổi  thuộc  tính  về  liên  kết  lưu  đã  chọn
+ _ Nhập  Liên  kết  lưu ...
+ Nhập  liên  kết  lưu  từ  trình  duyệt  khác  hay  từ  tập  tin  liên  kết  lưu
+ _ Xuất  liên  kết  lưu ...
+ Xuất  liên  kết  lưu  ra  tập  tin
+ Đóng  cửa  sổ  liên  kết  lưu
+ Cắ _ t
+ Cắt  vùng  chọn
+ _ Chép
+ Chép  vùng  chọn
+ _ Dán
+ Dán  vào  bảng  nháp
+ _ Xóa
+ Xóa  liên  kết  lưu  hay  chủ  đề  đã  chọn
+ Chọn  _ tất  cả
+ Chọn  mọi  liên  kết  lưu  hay  văn  bản
+ _ Nội  dung
+ Hiển  thị  trợ  giúp  về  liên  kết  lưu
+ Hiển  thị  công  lao  người  tạo  trình  duyệt
+ _ Tên
+ Hiện  cột  tựa  đề
+ Địa  chỉ
+ Hiện  cột  địa  chỉ
+ Gõ  chủ  đề
+ Xóa  chủ  đề  «  % s  »  không ?
+ Xóa  chủ  đề  này  không ?
+ Xoá  chủ  đề  này  thì  gây  ra  mọi  liên  kết  lưu  của  nó  không  còn  theo  phân  loại ,  nếu  chúng  không  thuộc  về  chủ  đề  khác .  Các  liên  kết  lưu  này  sẽ  không  bị  xoá .
+ _ Xóa  chủ  đề
+ Firefox
+ Firebird
+ Hồ  sơ  Mozilla  «  % s  »
+ Galeon
+ Konqueror
+ Lỗi  nhập
+ Không  thể  nhập  các  liên  kết  lưu  từ  «  % s  »  vì  tập  tin  bị  hỏng  hoặc  có  kiểu  không  được  hỗ  trợ .
+ Nhập  liên  kết  lưu  từ  tập  tin
+ Liên  kết  lưu  Firefox / Mozilla
+ Liên  kết  lưu  Galeon / Konqueror
+ Liên  kết  lưu  Web
+ Xuất  liên  kết  lưu
+ Liên  kết  lưu
+ Định  _ dạng  tập  tin :
+ Nhập  liên  kết  lưu
+ _ Nhập
+ Nhập  liên  kết  lưu  từ  :
+ Tập  tin
+ _ Chép  địa  chỉ
+ Tên
+ Mở  ở  _ thẻ  mới
+ Mở  các  liên  kết  lưu  của  chủ  đề  này ,  mỗi  cái  dưới  thẻ  mới
+ Tạo  chủ  đề  «  % s  »
+ Xoá  toàn  dữ  liệu  cá  nhân
+ Xoá
+   Lựa   chọn   dữ   liệu   cá   nhân   cần   xoá 
+ Bạn  sắp  xoá  dữ  liệu  cá  nhân  được  lưu  lại  về  những  trang  Web  bạn  đã  thăm .  Trước  khi  tiếp  tục ,  hãy  kiểm  tra  những  kiểu  thông  tin  bạn  muốn  gỡ  bỏ  :
+ Cookie
+ _ Tập  tin  tạm
+ Xoá  lược  sử  duyệt  không ?
+ _ Mật  khẩu  đã  lưu
+          Ghi     chú     :       không    thể    hủy    bước    này   .    Dữ    liệu    bạn    chọn    xoá    sẽ    bị    xoá    hoàn    toàn   .   
+ _ Xoá  tất  cả ...
+ Địa  chỉ  Web
+ _ Cửa  sổ  mới
+ _ Liên  kết  lưu
+ _ Lược  sử
+ Tùy  thích
+ T _ hoát
+ Bảng  mã  Văn  bản
+ _ Tự  động
+ Dùng  bảng  mã  do  tài  liệu  tự  xác  định
+   _  Dùng   bảng   mã   khác  : 
+ Lược  sử
+ Xoá  lược  sử
+ Ngày
+ Đị _ a  điểm ...
+ _ Lưu  địa  chỉ  liên  kết ...
+ Mật  khẩu
+ Hiện  _ mật  khẩu
+ _ Mật  khẩu  :
+ Tên  người  _ dùng :
+ _ Thư  mục  tải  về :
+ _ Tự  động  mở  tập  tin  tải  về
+ Nội  dung  Web
+ Cho  phép  tự  mở  _ cửa  sổ
+ Chung
+ Phông  chữ
+ Phông  Serif :
+ Kiểu
+ Dùng  bảng  _ kiểu  dáng  tự  chọn
+ _ Sửa  bảng  kiểu  dáng …
+ Phông  và  Kiểu  dáng
+ Quản  lý  chứng  nhận
+ _ Luôn  luôn  chấp  nhận
+ Chỉ  _ từ  các  địa  chỉ  Web  bạn  đã  xemOnly  from  sites  you  visit
+   Thí   dụ  ,   không   phải   từ   người   quảng   cáo   ở   các   địa   chỉ   này 
+ _ Không  bao  giờ  chấp  nhận
+ _ Nhớ  mật  khẩu
+ Tập  tin  tạm
+ Sức  chứa  đĩ _ a :
+ MB
+ Riêng  tư
+ Bảng  mã
+ _ Mặc  định :
+ _ Lên
+ _ Tải  về
+ Kiểm  tra  chính  tả
+ Thêm  ngôn  ngữ
+ Chọn  n _ gôn  ngữ  :
+ Dừng
+ Dừng  truyền  dữ  liệu  đang  chạy
+ Nạp  _ lại
+ Hiển  thị  nội  dung  mới  nhất  của  trang  hiện  tại
+ _ Khác …
+ Bảng  mã  khác
+ Xoá  sạch  lược  sử  duyệt  thì  làm  cho  mọi  liên  kết  trong  lược  sử  bị  xóa  hoàn  toàn .
+ Mở  thẻ  mới  trong  cửa  sổ  duyệt  đang  mở
+ Mở  cửa  sổ  duyệt  mới
+ Nhập  các  liên  kết  lưu  từ  tập  tin  đã  cho
+ TẬP  TIN
+ Nạp  tập  tin  phiên  chạy  đã  cho
+ Lưu  địa  chỉ  liên  kết
+ URL
+ Chạy  một  thể  hiện  riêng
+ Khởi  động  trình  duyệt  trong  chế  độ  ứng  dụng
+ Thư  mục  hồ  sơ  cần  dùng  trong  thể  hiện  riêng
+ THƯ  MỤC
+ URL  …
+ Không  thể  khởi  chạy  Web
+ Không  thành  công  khởi  chạy  do  lỗi  này :  % s
+ Tuỳ  chọn  Web
+ Đóng  thẻ
+ _ Mở …
+ Lưu  _ dạng …
+ Lưu  dạng  ứng  dụng  _ Web …
+ _ In …
+ _ Gửi  liên  kết  kèm  Thư …
+ _ Làm  lại
+ _ Tìm …
+ Tìm  tiế _ p
+ Tìm  n _ gược
+ _ Sửa  Liên  kết  lưu
+ _ Dừng
+ Thu / Phóng
+ _ Cỡ  chuẩn
+ _ Bảng  mã
+ Ng _ uồn  trang
+ Lưu  đị _ a  chỉ  liên  kết ...
+ Thanh  _ lùi
+ Thanh  _ kế
+ Dời  thẻ  bên  t _ rái
+ Dời  thẻ  bên  p _ hải
+ _ Tách  rời  thẻ
+ Thanh  _ tải  về
+ T _ oàn  màn  hình
+ Cửa  sổ  _ tự  mở
+ Con  nháy  lựa  chọn
+ Thêm  đánh  _ dấu …
+ Mở  liên  kết  dưới  _ thẻ  mới
+ _ Lưu  liên  kết  dạng …
+ _ Chép  địa  chỉ  liên  kết
+ _ Chép  địa  chỉ  thư
+ Mở  ả _ nh
+ Chép  địa  chỉ  ả _ nh
+ _ Lưu  ảnh  dạng ...
+ Chạ _ y  hoạt  ảnh
+ Dừn _ g  hoạt  ảnh
+ Có  vài  thay  đổi  chưa  được  gửi  đi  trong  phần  mẫu .
+ Sẽ  mất  các  thông  tin  ấy  khi  có  phải  đóng  tài  liệu .
+ Đón _ g  tài  liệu
+ Vẫn  đang  còn  tải  về  trong  cửa  sổ  này
+ Nếu  bạn  đóng  cửa  sổ ,  tất  cả  các  tải  về  sẽ  bị  huỷ
+ Đóng  cửa  sổ  và  huỷ  tải  về
+ Lưu  là
+ Lưu  dạng  ứng  dụng
+ In
+ Tìm
+ Lớn  hơn
+ Nhỏ  hơn
+ _ Thanh  mới
+ Đi  đến  trang  đã  xem  tiếp  theo
+ Lưu  liên  kết  là
+ Lưu  ảnh  làFrench  ( France ) language
+ % s  ( % s ) language
+ Tự  định  nghĩa  ( % s )
+ Chọn  thư  mục
+ http : / / www.google.com.vn / search ? ie = utf8oe = utf8q = % s
+ Ứng  dụng  web  tên  ' % s '  đã  có .  Bạn  có  muốn  thay  thế  nó  không ?
+ Thay  thế
+ Ứng  dụng  tên  này  đã  có .  Thay  thế  nó  nghĩa  là  ghi  đè .
+ Ứng  dụng  ' % s '  đã  sẵn  sàng
+ Không  thể  tạo  ứng  dụng  ' % s '
+ Phóng
+ Tạo  ứng  dụng  Web
+ _ Tạo
+ Liên  hệ  chúng  tôi  tại :
+ Người  đóng  góp
+ Lập  trình  viên  trước :
+ Nhóm  Việt  hoá  GNOME  ( http : / / live.gnome.org / GnomeVi )
+   _  Tự   động 
+ Ứng  dụng  không  chấp  nhận  tài  liệu  trên  dòng  lệnh

@@ -1,0 +1,251 @@
+ Bàn  giao  tiếp  tương  tác  để  phát  triển  Script-Fu
+ _ Bàn  giao  tiếp  Script-Fu
+ Máy  phục  vụ  để  thao  tác  Script-Fu  từ  xa
+ _ Khởi  chạy  trình  phục  vụ
+ _ GIMP  trực  tuyến
+ _ Sổ  tay  người  dùng
+ _ Script-Fu
+ _ Thử  ra
+ _ Nút
+ _ Biểu  hình
+ _ Mẫu
+ Sắc  thái  trang  _ Mạng
+ Sáng  _ rực  rỡ  lạ
+ Mẫu  _ góc  xiên
+ Gimp.Org  _ cổ  điển
+ Anfa  đến  _ Biểu  hình
+ Đọc  lại  mọi  tập  lệnh  Script-Fu  sẵn  sàng
+ _ Cập  nhật  tập  lệnh
+ Không  cho  phép  bạn  sử  dụng  lệnh  «  Cập  nhật  tập  lệnh  »  khi  có  một  hộp  thoại  Script-Fu  được  mở .  Háy  đóng  mọi  cửa  sổ  Script-Fu ,  rồi  thử  lại .
+ Bàn  giao  tiếp  Script-Fu
+ _ Duyệt ...
+ Bộ  duyệt  thủ  tục  Script-Fu
+ Chế  độ  định  giá  Script-Fu  cho  phép  chỉ  việc  gọi  không  tương  tác
+ Script-Fu  không  thể  xử  lý  hai  tập  lệnh  cùng  lúc .
+ Bạn  đang  chạy  tập  lệnh  «  % s  » .
+ Script-Fu :  % s
+ % s :
+ Chọn  màu  của  Script-Fu
+ Chọn  tập  tin  của  Script-Fu
+ Chọn  thư  mục  của  Script-Fu
+ Chọn  phông  chữ  của  Script-Fu
+ Chọn  bảng  chọn  của  Script-Fu
+ Chọn  mẫu  của  Script-Fu
+ Chọn  độ  dốc  của  Script-Fu
+ Chọn  bút  vẽ  của  Script-Fu
+ Gặp  lỗi  khi  thực  thi  % s  % s
+ Tùy  chọn  trình  phục  vụ  Script-Fu
+ Cổng  trình  phục  vụ  :
+ Tập  tin  bản  ghi  của  máy  phục  vụ  :
+ Phải
+ Gần-Nền-RGB
+ Hàng
+ Chẵn
+ Xoá
+ Đen  lên  trắng
+ Ngang
+ Lát
+ Cuộn
+ Mẫu  xoắn  ốc
+ Tròn
+ Bút  chì
+ Màu  đặc
+ IIR
+ / Script-Fu /
+ <  Toolbox  >  / Xtns / Ngôn _ ngữ / Script-Fu
+ _ Linh  tinh
+ _ Tiện  ích
+ T _ rang  trí
+ _ Vẽ
+ _ Phác  họa  ba  chiều ...
+ Tia  cảnh  mờ  ( lớp  anfa )  sơ  đồ  mụn
+ Thiết  lập  sơ  đồ  mụn  mặc  định
+ Phông  chữ
+ Cỡ  phông  chữ  ( theo  điểm  ảnh )
+ Tia  cảnh  mờ  phác  họa
+ Mẫu
+ Hiệu  số  X  bóng
+ Hiệu  số  Y  bóng
+ Tia  cảnh  mờ  bóng
+ Chữ
+ Tợ-ru-sê  ( lát )  _ ba  chiều ...
+ Màu  nền
+ Cỡ  khối
+ Kết  thúc  pha  trộn
+ Số  đá  lạt  X
+ Số  đá  lát  Y
+ Chạy  pha  trộn
+ Siêu  mẫu
+ Độ  dày
+ Thêm  _ góc  xiên ...
+ Giữ  lớp  mụn
+ Thao  tác  bản  sao
+ Thêm  _ viền ...
+ Kích  cỡ  X  của  viền
+ Kích  cỡ  Y  của  viền
+ Màu  viền
+ Giá  trị  Delta  ( δ )  trên  màu
+ Xuống
+ Làm  phẳng  ảnh
+ Màu  rực  rỡ
+ Trái
+ Hướng
+ Cỡ
+ Lên
+ _ Mũi  tên ...
+ Độ  cao  thanh
+ Độ  dài  thanh
+ Đường  _ ngang ...
+ Tia
+ _ Dấu  đầu  dòng ...
+ _ Nút ...
+ Tia  rực  rỡ
+ Đệm
+ Màu  chữ
+ _ Sáng  rực  rỡ  lạ ...
+ Cỡ  rực  rỡ  ( điểm  ảnh  *  4 )
+ _ Nê-ông  lạ ...
+ Mờ  dần  đi
+ Số  băng
+ Độ  rộng  băng
+ Độ  rộng  khe
+ Cơ  _ bản  1 ...
+ _ Cơ  bản  2 ...
+ Độ  rộng  góc  xiên
+ Màu  dưới  phải
+ Đã  ấn
+ Nút  _ xiên  góc  đơn  giản ...
+ Màu  trên  trái
+ Đường  kính
+ Nền  trong  suốt
+ Tự _ a ...
+ Cao
+ Rộng
+ Khung  trung  gian
+ Đã  lặp  lại
+ Tia  _ mờ  tối  đa
+ _ Pha  trộn ...
+ Đá  ph _ a  trộn ...
+ Chế  độ  pha  trộn
+ Độ  dốc  tự  chọn
+ Gần-Nền-HSV
+ Cảnh-gần  trong  suốt
+ Độ  dốc
+ Độ  dốc  ngược
+ Hiệu  số  ( điểm  ảnh )
+ Phân  tách  t _ oàn  bộ  đếm ...
+ Mật  độ  điểm  X
+ Mật  độ  điểm  Y
+ Thêm  rực  rỡ
+ Ánh  sáng  tàn
+ Chá _ y  vào ...
+ Cháy  vào :  cần  tổng  số  hai  lớp .
+ Độ  rộng  quầng  sáng
+ Giảm  dần
+ Độ  rộng  giảm  dần
+ Chuẩn  bị  cho  GIF
+ Tốc  độ  ( điểm  ảnh / khung )
+ Màu  1
+ Màu  2
+ Màu  3
+ Tính  hạt
+ Cỡ  ảnh
+ Mịn
+ Ngụ _ y  trang ...
+ Khắc  các  vùng  trắng
+ Ảnh  cần  khắc
+ Tạc  kh _ uôn  tô ...
+ Ảnh  nền
+ Khắc  chữ  lên
+ Đã  khắc ...
+ Đệm  ở  quanh  chữ
+ Màu  phấn
+ _ Phấn ...
+ Lượng  mờ
+ Làm  _ mẻ  đi ...
+ Lượng  làm  mẻ
+ Bóng  thả
+ Tô  nền  bằng  mẫu
+ Đảo
+ Giữ  nền
+ Cân  bằng  crom
+ Hệ  số  crom
+ Độ  nhẹ  crom
+ Độ  bão  hoà  crom
+ Vùng  trắng  crom
+ Bản  đồ  môi  trường
+ Cân  bằng  nổi  bật
+ C _ rom  khuôn  tô ...
+ C _ rom ...
+ Hiệu  ( điểm  ảnh  *  2 )
+ Hạt  chu  vi
+ Giữ  vùng  chọn
+ Không  có  nền  ( chỉ  cho  lớp  tách  biệt )
+ tạo  hiệu  ứng  tranh  sơn  dầu  cỡ  mặt  nạ
+ Lớp  tách  biệt
+ _ Chu  vi ...
+ Góc  phương  vị
+ Mờ  X
+ Mờ  Y
+ Độ  sâu
+ Độ  cao  lên
+ Tạo  hiệu  ứng  _ vải ...
+ Chỉ  tối  ( Tốt  hơn ,  mà  chỉ  cho  ảnh  có  trắng  nhiều )
+ Vết  bẩn
+ Vết  bẩn  _ cà-phê ...
+ Sách  tranh  _ vui ...
+ Màu  phác  họa
+ Cỡ  phác  họa
+ Kim  _ mát ...
+ Cỡ  hiếu  ứng  ( điểm  ảnh )
+ Tinh  thể ...
+ Tính  hạt  ( 1  thấp )
+ Mịn  theo  chiều  ngang
+ Mịn  theo  chiều  dọc
+ Phết
+ Ngưỡng  ( lớn  hơn  1  ↔  255  nhỏ  hơn )
+ _ Méo  mó ...
+ Cho  phép  đổi  cỡ
+ Tia  mờ
+ Màu
+ Hiệu  số  X
+ Hiệu  số  Y
+ Độ  mờ  đục
+ Bóng  _ thả ...
+ Cột
+ Xoá / Tô
+ Chẵn / Lẻ
+ Tô  bằng  nền
+ Lẻ
+ Hàng / Cột
+ _ Xoá  mọi  hàng  khác ...
+ Áp  dụng  mặt  nạ  lớp  đã  tạo  ra
+ Cỡ  viền
+ Xóa  vùng  mặt  nạ  không  chọn
+ Mờ  dần  từ  %
+ Mờ  dần  vào  %
+ Dùng  vùng  chọn  đang  mở  rộng
+ _ Mờ  dần  thành  mặt  nạ  lớp ...
+ Mức  độ  chi  tiết
+ Độ  cao  ảnh
+ Độ  rộng  ảnh
+ Hạt  ngẫu  nhiên
+ Co  dãn  X
+ Co  dãn  Y
+ Đất  _ phẳng ...
+ Màu  hoạt  động
+ _ Cỡ  phông  chữ  ( theo  điểm  ảnh )
+ Vẽ  bản  đồ  _ phông  chữ ...
+ Dùng  tê _ n  phông  chữ  là  đoạn
+ _ Viền  ( điểm  ảnh )
+ _ Lược  đồ  màu
+ _ Lọc  ( biểu  thức  c.q. )
+ _ Nhãn
+ _ Chữ
+ Băng  _ giá ...
+ Thêm  bóng
+ Làm  mờ  viền
+ Độ  dài  bóng  ( % )
+ Viền  lờ  _ mờ ...
+ Tự  động  xén
+ Màu  tối

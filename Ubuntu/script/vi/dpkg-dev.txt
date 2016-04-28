@@ -1,0 +1,5 @@
+ % s  là  một  tên  biến  không  được  hỗ  trợ
+ không  biết  tùy  chọn  «  % s  »
+ không  nhận  biết  cấu  trúc  Debian  % s ,  bạn  phải  cũng  chỉ  định  kiểu  hệ  thống  GNU
+ không  nhận  biết  kiểu  hệ  thống  GNU  % s ,  bạn  cũng  phải  xác  định  cấu  trúc  Debian
+ không  nhận  biết  kiểu  hệ  thống  GNU  mặc  định  cho  cấu  trúc  Debian  % s

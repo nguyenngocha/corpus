@@ -1,0 +1,18 @@
+ Tên  người  dùng
+ Mật  khẩu
+ Đang  thẩm  tra  mật  khẩu .  Hãy  đợi ...
+ Máy  phục  vụ  không  đáp  ứng ,  đang  khởi  chạy  lại ...
+ Tự  động  đăng  nhập  trong  vòng  % d  giây
+ Chọn  _ Ngôn  ngữ ...
+ Chọn  _ Buổi  hợp ...
+ Chọn  _ Máy ...
+ _ Khởi  động  lại
+ _ Tắt  máy
+ Đăng  nhập  như  Khách
+ Mặc  định
+ Xterm  dự  phòng
+ Đổi  _ Buổi  hợp
+ Chọn  bộ  quản  lý  buổi  hợp :
+ Chọn  máy  cần  dùng  trong  buổi  hợp :
+ Đổi  _ Ngôn  ngữ
+ Chọn  ngôn  ngữ  cần  dùng  trong  buổi  hợp :

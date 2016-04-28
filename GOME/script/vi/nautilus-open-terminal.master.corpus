@@ -1,0 +1,16 @@
+ Mở  trong  Cửa  sổ  dòng  lệnh  Từ  _ xa
+ Mở  trong  cửa  sổ  dòng  lệnh  _ cục  bộ
+ Mở  thư  mục  đã  chọn  hiện  thời  trong  cửa  sổ  dòng  lệnh
+ Mở  thư  mục  đã  mở  hiện  thời  trong  cửa  sổ  dòng  lệnh
+ Mở  trong  cửa  sổ  dòng  _ lệnh
+ Mở  cửa  sổ  dòng  _ lệnh
+ Mở  cửa  sổ  dòng  lệnh
+ Mở  trong  _ Midnight  Commander
+ Mở  thư  mục  hiện  được  chọn  trong  trình  quản  lí  tập  tin  giao  diện  dòng  lệnh ,  Midnight  Commander
+ Mở  thư  mục  hiện  đang  mở  trong  trình  quản  lí  tập  tin  giao  diện  dòng  lệnh ,  Midnight  Commander
+ Mở  _ Midnight  Commander
+ Mở  trình  quản  lí  tập  tin  giao  diện  dòng  lệnh  Midnight  Commander
+ Khi  mở  cửa  sổ  dòng  lệnh  ở  màn  hình  nền  sẽ  mở  một  cửa  sổ  dòng  lệnh  tại  thư  mục  chính
+ Nếu  đặt  là  đúng ,  lệnh  mở  cửa  sổ  dòng  lệnh  ở  màn  hình  nền  sẽ  mở  cửa  sổ  dòng  lệnh  trong  thư  mục  chính .  Nếu  không ,  nó  sẽ  mở  trong  thư  mục  của  màn  hình  nền .  Chú  ý  rằng  khóa  này  không  thích  hợp  nếu  thư  mục  màn  hình  nền  cũng  là  thư  mục  chính .
+ Hiện  một  trình  đơn  Midnight  Commander
+ Nếu  đặt  là  đúng ,  và  nếu  trình  quản  lí  tập  tin  giao  diện  dòng  lệnh  " Midnight  Commander "  đã  được  cài  đặt ,  thì  trình  đơn  " Mở  trong  Midnight  Commander "  sẽ  xuất  hiện  trong  trình  đơn  ngữ  cảnh .

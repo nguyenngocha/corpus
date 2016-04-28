@@ -1,0 +1,61 @@
+ Tên  kênh
+ Kênh
+ Việc  chuyển  giao  tập  tin
+ Tên
+ Tự  động  kết  nối  đến  mạng  này  khi  khởi  đông
+ Bộ  ký  tự :
+ Thiáº ¿ t  láº ­ p  máº ¡ ng
+ Sử  dụng  thông  tin  người  dùng  toàn  cục
+ Tên  thật :
+ TÃªn  _ hiá »  u :
+ Rời  kênh  đi
+ Máy  phục  vụ
+ Sở  thích ...
+ Tên  _ hiệu :
+ Tên  _ thật :
+ Tin  nhẳn  bên  phải
+ Tin  nhẳn  mới :
+ Từ  thêm  cần  nổi  bật :
+ Hiệu  lực  nhãn  thời  gian
+ Tiền  cảnh :
+ Nền :
+ Ảnh  nền :
+ Nền  trong  suốt
+ Tập  tin  và  Thư  mục
+ Di  động  tập  tin  tải  xong  vào :
+ _ Hiá »  u  chá »  nh
+ Trò  chuyện
+ TÃªn  hiá »  u
+ NgÆ ° á »  i  dÃ ¹ ng
+ Đóng  thanh / cửa  sổ  này
+ Tên  hiệu
+ Vắng  mặt
+ Tự  động  bỏ  nhãn  Vắng  mặt
+ Thiết  lập  mạng
+ Vị  trí
+ Không  tìm  thấy  bộ  cầm  phít  như  vậy .
+ X-Chat :  Lấy  địa  chỉ  Mạng
+ Thòi  gian
+ Ä  á »  a  chá »   Máº ¡ ng
+ Lấy  địa  chỉ  Mạng ...
+ KhÃ ´ ng  táº ¡ o  Ä  Æ ° á » £ c  thÆ °  má » ¥ c  Â «  ~ / .xchat2  Â » .
+ TÃ ´ i  Ä  ang  báº ­ n
+ TÃ ´ i  Ä  i
+ *  KhÃ ´ ng  lÃ   Ã ½  kiáº ¿ n  tá »  t  Ä  á »   cháº ¡ y  IRC  vá »  Ã ­  tÆ °  cÃ ¡ ch  lÃ   ngÆ ° á »  i  chá » §  ( root ) .  HÃ £ y  táº ¡ o  má »  t  tÃ  i  khoáº £ n  ngÆ ° á »  i  dÃ ¹ ng  vÃ   sá » ­  dá » ¥ ng  nÃ ³  Ä  á »   Ä  Ä  ng  nháº ­ p .
+ Ä  ang  Ä  á »  i
+ Hoáº · t  Ä  á »  ng
+ Tháº ¥ y  báº ¡ i
+ Xong  rá »  i
+ Káº ¿ t  ná »  i
+ Bá »   há » § y  bá » 
+ KhÃ ´ ng  truy  cáº ­ p  Ä  Æ ° á » £ c  Â «  % s  Â » .
+ Lá »  i
+ KhÃ ´ ng  cÃ ³  DCC  ( trÃ ²  chuyá »  n  trá » ± c  tiáº ¿ p )  hoáº · t  Ä  á »  ng  nÃ  o
+ Có  
+ Không   
+ BÃ ¢ y  giá »   báº ¡ n  trÃ  n  ngáº ­ p  CTCP  tá » «  Â «  % s  Â »  nÃªn  bá »   qua  Â «  % s  Â » .
+ BÃ ¢ y  giá »   báº ¡ n  trÃ  n  ngáº ­ p  MSG  tá » «  Â «  % s  Â »  nÃªn  Táº ® T  tÃ ¹ y  chá »  n  tá » ±  Ä  á »  ng  má »   Ä  á »  i  thoáº ¡ i  giao  diá »  n   ( gui _ auto _ open _ dialog ) .
+ % -20s  trá » ± c  tuyáº ¿ n
+ % -20s  ngoáº ¡ á »   tuyáº ¿ n
+ ChÆ ° a  vÃ  o  kÃªnh  nÃ  o :  hÃ £ y  thá » ­  lá »  nh  Â «  / join  #    k \
+Lá»nh DCC GET t\LÃ¡Â»Ânh DCC GET t\Ã\\Â\ªn_hi\Ã\¡\Â\»\Â\u \t\tthÃÂ¬ chÃ¡ÂºÂ¥p nhÃ¡ÂºÂ­n tÃ¡ÂºÂ­p tin ÃÂÃÂ£ ÃÂÃÂ°a ra (_gÃ¡Â»Âi_)LÃ¡Â»Ânh DCC SEND [-maxcps=#] t\Ã\\Â\ªn_hi\Ã\¡\Â\»\Â\u [tÃ¡ÂºÂ­p_tin]      thÃÂ¬ _gÃ¡Â»Âi_ tÃ¡ÂºÂ­p tin Ã¡ÂºÂ¥y cho ngÃÂ°Ã¡Â»Âi Ã¡ÂºÂ¥yLÃ¡Â»Ânh DCC PSEND [-maxcps=#] t\Ã\\Â\ªn_hi\Ã\¡\Â\»\Â\u [tÃ¡ÂºÂ­p_tin]\t\tthÃÂ¬ _gÃ¡Â»Âi_ tÃ¡ÂºÂ­p tin Ã¡ÂºÂ¥y dÃÂ¹ng chÃ¡ÂºÂ¿ ÃÂÃ¡Â»Â _bÃ¡Â»Â ÃÂÃ¡Â»Âng_LÃ¡Â»Ânh DCC LIST   \t\t\t\tthÃÂ¬ hiÃ¡Â»Ân thÃ¡Â»Â _danh sÃÂ¡ch_ DCCLÃ¡Â»Ânh DCC CHAT t\Ã\\Â\ªn_hi\Ã\¡\Â\»\Â\u \tthÃÂ¬ ÃÂÃÂ°a ra _trÃÂ² chuyÃ¡Â»Ân_ DCC vÃ¡Â»Âi ngÃÂ°Ã¡Â»Âi Ã¡ÂºÂ¥yLÃ¡Â»Ânh DCC PCHAT t\Ã\\Â\ªn_hi\Ã\¡\Â\»\Â\u\t\tÃÂÃÂ°a ra _trÃ¡Â»Â chuyÃ¡Â»Ân_ DCC dÃÂ¹ng chÃ¡ÂºÂ¿ ÃÂÃ¡Â»Â _bÃ¡Â»Â ÃÂÃ¡Â»Âng_LÃ¡Â»Ânh DCC CLOSE lo\Ã\¡\Â\º\Â\¡i t\Ã\\Â\ªn_hi\Ã\¡\Â\»\Â\u t\Ã\¡\Â\º\Â\­p_tin   (_ÃÂÃÂ³ng_)      thÃÂ­ dÃ¡Â»Â¥:         ÃÂ« /dcc close send nguyenvan tÃ¡ÂºÂ­p_tin.tar.gz ÃÂ» (gÃ¡Â»Âi cho ngÃÂ°Ã¡Â»Âi nguyenvan tÃ¡ÂºÂ­p_tin.tar.gz)

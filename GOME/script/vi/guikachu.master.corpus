@@ -1,0 +1,208 @@
+ Guikachu
+ Bộ  hiệu  chỉnh  tài  nguyên  cho  PalmOS
+ Màu  cảnh  gần
+ Màu  cảnh  gần  ( ô  điều  khiển  bị  tắt )
+ Màu  nền
+ Màu  vùng  chọn
+ Hệ  số  phóng  mặc  định
+ Lời  định  nghĩa  giao  diện  người  dùng  PalmOS  Guikachu
+ Tài  liệu  Guikachu
+ Tài  liệu  PilRC
+ Bộ  nhận  diện  không  duy  nhất  «  % s  »
+ ID  ( mã  nhận  diện )  nhà  sản  suất  phải  có  độ  dài  chính  xác  bốn  ký  tự ,  hoặc  trống .
+ Thay  đổi  đoạn  chú  giải  biểu  tượng
+ Chú  _ giải  biểu  tượng :
+ _ Phiên  bản :
+ _ ID  nhà  sản  xuất :
+ Máy  _ đích :
+ _ Rộng  màn  hình :
+ _ Cao  màn  hình :
+ Màu  :
+ Ứng  dụng :  % s
+ Thay  đổi  ảnh  trong  % s
+ _ ID  tài  nguyên :
+ _ Kiểu  :
+ _ Xuất
+ Sơ  đồ  bit :  % s
+ Đang  tải  tập  tin  ảnh  tới  % s ...
+ Đang  xuất  % s ...
+ ID  tài  nguyên :
+ _ Gỡ  bỏ
+ Nhóm  sơ  đồ  bit :  % s
+ _ Blob :
+ Đốm :  % s
+ _ Mặc  định
+ Thay  đổi  cái  nút  mặc  định  của  % s
+ Nút  mới
+ Thông  tin
+ Xác  nhận
+ Cảnh  báo
+ Lỗi
+ _ Tựa :
+ Một  biểu  tượng  sẽ  đưọc  gồm  trong  hộp  thoại ,  đựa  vào  kiểu  nó .
+ ID  trợ  _ giúp :
+ _ Chữ  :
+ Chung
+ Nút
+ Hộp  thoại :  % s
+ Dán  % s
+ Tạo  bản  sao  của  % s
+ _ Rộng :
+ Kích  cỡ  ngang  của  ô  điều  khiển  ( đánh  dấu  chọn  để  tự  đặt )
+ _ Cao :
+ Kích  cỡ  dọc  của  ô  điều  khiển  ( đánh  dấu  chọn  để  tự  đặt )
+ Kiểu  kh _ ung :
+ _ Lặp  lại :
+ Cái  nút  lặp  lại  thì  gởi  nhiều  tín  hiệu  ButtonPress  ( bấm  cái  nút )  khi  được  bấm  giữ .
+ N _ eo  phải :
+ Cứ  canh  phải  khi  thay  đổi  chuỗi  nhãn  vào  lúc  chạy .
+ Không  có
+ Đơn  giản
+ Đậm
+ ID  _ nhóm :
+ Có  thể  chọn  chỉ  một  hộp  chọn  trong  mỗi  nhóm  ( hãy  chọn  0  cho  hộp  chọn  không  loại  trừ ) .
+ Bật  tắt  % s
+ Đã  _ bật / tắt :
+ Bật  tắt  tính  trạng  bị  tắt  của  % s
+ _ Bị  tắt :
+ Người  dùng  không  thể  thay  đổi  ô  điều  khiển  bị  tắt .
+ ID  _ trình  đơn :
+ _ Cách  thức :
+ _ Khung :
+ Lưu  ở  _ sau  :
+ _ Nút  mặc  định :
+ Chuyển  % s
+ _ X :
+ Vị  trí  ngang  của  đơn ,  tương  ứng  với  màn  hình .
+ _ Y :
+ Vị  trí  dọc  của  đơn ,  tương  ứng  với  màn  hình .
+ Kích  cỡ  ngang  của  đơn .
+ Kích  cỡ  dọc  của  đơn .
+ Thay  đổi  ảnh  được  hiển  thị  trong  % s
+ ID  sơ  đồ  _ bit :
+ Thay  đổi  biểu  tượng  của  % s
+ Sơ  đồ  _ bit :
+ Thay  đổi  biểu  tượng  đã  chọn  của  % s
+ _ Sơ  đồ  bit  đã  chọn :
+ _ Phông  chữ  :
+ Mục  _ hiển  thị :
+ Mục
+ Bảng  chọn  ô  điều  khiển
+ Bộ  chọn
+ Nhãn  chữ  tĩnh
+ Trường  chữ  động  có  thể  hiệu  chỉnh
+ Bộ  chỉ  tính  trạng  Graffiti
+ Nút  bấm  được
+ Nút  bật / tắt  được
+ Bộ  kích  hoạt  điều  chọn
+ Hộp  kiểm  tra
+ Danh  sách
+ Bộ  kích  hoạt  bật  lên
+ Thanh  cuộn  dọc
+ Bảng  đa  cột
+ Ô  điều  kiện  tự  chọn
+ ID  _ danh  sách :
+ Danh  sách  cần  bật  lên  khi  được  kích  hoạt
+ Có  thể  chọn  chỉ  một  nút  bấm  trong  mỗi  nhóm  ( hãy  chọn  0  cho  nút  không  loại  trừ ) .
+ Kích  cỡ  ngang  của  ô  điều  khiển
+ Kích  cỡ  dọc  của  ô  điều  khiển
+ _ Giá  trị :
+ Giá  trị  mặc  định  của  thanh  cuộn
+ Tối  thiể _ u  :
+ Giá  trị  tối  thiểu  được  phép
+ Tối  _ đa :
+ Giá  trị  tối  đa  được  pháp
+ Cỡ  t _ rang :
+ Khoảng  cách  chuyển  bộ  trượt  khi  người  dùng  nhắp  vào  thanh  cuộn .
+ Neo  _ phải :
+ Giá  trị  mặc  định  của  bộ  trượt
+ Khoảng  cách  chuyển  bộ  trượt  khi  người  dùng  nhắp  vào  bộ  trượt .
+ Thay  đổi  sơ  đồ  bit  nút  bước  của  % s
+ Sơ  đồ  nút  _ bước :
+ Thay  đổi  sơ  đồ  bit  nền  của  % s
+ Sơ  đồ  bit  _ nền :
+ Bật  tắt  ứng  xử  hồi  âm  của  % s
+ Thay  đổi  số  hàng  trong  % s
+ Số  hàng :
+ Cột
+ Số  cột :
+ Cột  % d :
+ Bật  tắt  tính  trạng  hiệu  chỉnh  được  của  % s .
+ Có  thể  _ sửa :
+ Đ _ a  dòng :
+ Cho  phép  chỉ  thuộc  _ số  :
+ Trường  thuộc  số  chỉ  chấp  nhận  chữ  số  là  dữ  liệu  nhập .
+ Thay  đổi  độ  dài  tối  đa  của  % s
+ Độ  dài  tối  đa :
+ Độ  dài  chuỗi  tối  đa ,  theo  byte .  0  có  nghĩa  là  độ  dài  tối  đa  do  PalmOS  cho  phép .
+ Đã  gạch  _ dưới :
+ _ Tự  động  Shift
+ Bật  tắt  sự  quản  lý  tính  trạng  Shift  thông  minh  ( v.d.  bật  phím  Shift  sau  khi  gõ  dấu  chấm ) .
+ Cỡ  _ động :
+ Thay  đổi  kích  cỡ  của  trường  chữ ,  đựa  vào  kích  cỡ  của  nội  dung
+ Canh  _ phải :
+ Bật  tắt  danh  trái / phải .  Trường  canh  phải  không  chấp  nhận  ký  tự  Tab .
+ Thanh  c _ uộn :
+ Bật  điều  này  để  hiển  thị  một  thanh  cuộn  dọc  nếu  chuỗi  được  nhập  là  dài  hơn  kích  cỡ  hiển  thị  của  trường .
+ Bật  tắt  tính  trạng  dùng  được  của  % s
+ _ Dùng  được :
+ Mặc  định  là  không  vẽ  ô  điều  khiển  không  dùng  được .
+ Gỡ  bỏ  % s
+ Tạo  % s
+ Vị  trí  ngang  của  ô  điều  khiển ,  tương  ứng  với  điều  mẹ .
+ Vị  trí  dọc  của  ô  điều  khiển ,  tương  ứng  với  điều  mẹ .
+ Nhãn
+ Nút  bấm
+ Graffiti
+ Thanh  cuộn
+ Tập  tin  chuỗi
+ Bảng
+ Công  cụ  nhỏ
+ Tài  sản :  % s
+ Các  tài  sản  ô  điều  khiển
+ Đơn :  % s
+ _ Sữa  đơn
+ _ Chọn  hết
+ Trình  đơn
+ Đơn
+ Hệ  số  phóng  to  :
+ _ Xem  thử
+ _ Ô  điều  khiển
+ Tùy  thích
+ Cảnh  gần  ( _ bị  tắt ) :
+ _ Nền :
+ Đã  _ chọn :
+   Màu   sắc 
+ Phóng  mặc  định :
+ Bộ  hiệu  chỉnh  _ đơn
+ Thêm  tài  nguyên  mới
+   Thêm   thành   phần   tài   nguyên   mới 
+ Kiểu  tài  nguyên :
+ Không  thể  mở  «  % s  » :  % s
+ Không  thể  tạo  «  % s  » :  % s
+      Gặp    lỗi    trong    khi    tải    «    %   s    »    % s
+ Nếu  bạn  không  lưu ,  các  việc  của  bạn  trong  vòng  phút  trước  sẽ  bị  mất  hoàn  toàn .
+ Lưu  thay  đổi  của  tài  liệu  «  % s  »  không ?
+ Lưu  thay  đổi  của  tài  liệu  hiện  thời  không ?
+ _ Không  lưu
+ Lưu  tập  tin  Guikachu
+ Chọn  tập  tin  Guikachu  cần  mở
+ Xuất  dạng  RCP
+ Dự  án  mới
+ Tạo  dự  án  mới
+ Mới
+ Lưu  tập  tin  hiện  thời
+ _ Xuất  RCP ...
+ Tạo  một  tập  tin  RCP  để  biên  dịch
+ Thêm  tài  ng _ uyên ...
+ Thêm  thành  phần  mới  vào  dự  án  mới
+ Thêm
+ Thoát  khỏi  ứng  dụng
+ Làm  lại
+ Cắt  vùng  chọn
+ _ Xem
+ Thanh  _ công  cụ
+ Giới  thiệu  về  ứng  dụng  này
+ Không  thao  tác
+ Hoàn  tác :  % s
+ Làm  lại  % s

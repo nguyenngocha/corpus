@@ -1,0 +1,166 @@
+ _ Kích  cỡ  :
+ Tọa  độ  dọc  theo  đó  cần  dãn  cách
+ _ X
+ _ Y
+ Khoảng  cách  tối  đa  giữa  hai  điể _ m  trong  vùng
+ _ OK
+ _ Thôi
+ Không  đủ  đường
+ Không  thể  đặt  song  song
+ Hai  đường  này  có  cùng  một  điểm  cuối  nên  không  thể  đặt  song  song
+ Cơ  sở
+ Dấu
+ dấu
+ cơ  sở
+ Ở  ngoại  phạm  vi
+ Giá  trị  điều  chỉnh  phải  nằm  trong  phạm  vi  «  -128  ...  127  »  ( cũng  nên  là  nhỏ  hơn )
+ Hình  tượng  % .80s  không  nằm  trong  phông
+ Điều  khiển  neo ...
+ Kích  cỡ  theo  đó  làm  mành  hình  tượng  hiện  thời .  Đối  với  kích  cỡ  nhỏ  theo  điểm  ảnh ,  khuyên  bạn  dùng  hệ  số  phóng  to  bên  dưới  để  xem  rõ  ràng  hơn .  Danh  sách  thả  xuống  thì  chứa  các  kích  cỡ  theo  điểm  ảnh  ở  đó  có  sự  sửa  chữa  bảng  thiết  bị.Magnification
+ To  :
+ Sửa :
+ Đối  số  thêm  cho  chương  trình  đồ  lại  tự  động :
+ Không  tìm  thấy  hàm  đồ  lại  tự  động
+ Không  tìm  thấy  chương  trình  đồ  lại  tự  động  ( hãy  đặt  biến  môi  trường  AUTOTRACE )  hoặc  tải  chương  trình  xuống  địa  chỉ :    http : / / sf.net / projects / autotrace /
+ Đang  đồ  lại  tự  động ...
+ Không  có  gì  cần  đồ  lại
+ Không  tìm  thấy  mf
+ Không  tìm  thấy  chương  trình  siêu  phông  mf  —  metafont  ( hãy  đặt  biến  môi  trường  MF )  hoặc  tải  chương  trình  xuống  địa  chỉ :    http : / / www.tug.org /    http : / / www.ctan.org /  Nó  thuộc  về  bản  phát  hành  TeX .
+ Không  thể  tạo  thư  mục  lưu  tạm
+ Không  thể  chạy  mf
+ Không  thể  đọc  ( hoặc  có  lẽ  tìm  thấy )  tập  tin  xuất  mf
+ MetaFont  đã  thoát  với  lỗi
+ Lỗi  đặt  bề  rộng  tự  động  trên  % s
+ Không  thể  mở  tập  tin
+ Không  thể  mở  tập  tin  % .200s
+ Không  có  cặp  định  chỗ
+ Không  tìm  thấy  cặp  định  chỗ  trong  % .200s
+ Cao
+ _ Cao  :
+ Ngôn  ngữ
+ Tính  năng
+ scriptProperty | NewScript " ,  ignore  " writing  system | scriptProperty | NewScript " ,  ignore  " writing  system | script
+ Chữ  viết
+ Không  ASCII
+ Mọi  ký  tự  trong  giá  trị  này  phải  nằm  trong  bộ  ký  tự  ASCII
+ Số  sai
+ Nouveau ... "  or  msgstr  " Nouvelle ...
+ Mới ...
+ Chưa  đổi
+ Thông  tin  gạch  cho  % .90s
+ Xoá
+ Đặt  tất  cảc  về  mặc  định
+ Đặt  cái  này  về  cập  nhật
+ Mảng  ảnh  co  giãn
+ Thiếu  mảng  ảnh
+ Thử  tạo  ra  lại  một  kích  cỡ  điểm  ảnh  chưa  tạo  ( % d @ % d )
+ Mọi  hình  tượng
+ Các  hình  tượng  đã  chọn
+ Hình  tượng  hiện  thời
+ Kích  cỡ  điểm  ảnh :
+ Cỡ  điểm  trên  màn  hình  75  dpi
+ Cỡ  điểm  trên  màn  hình  96  dpi
+ Cỡ  điểm  trên  màn  hình  72  dpi
+ Cỡ  điểm  trên  màn  hình  120  dpi
+ Cỡ  điểm  trên  màn  hình  100  dpi
+ Danh  sách  các  kích  cỡ  mảng  ảnh  điểm  ảnh  hiện  thời
+ Gỡ  bỏ  kích  cỡ  thì  cũng  xoá  nó .
+ Thêm  kích  cỡ  thì  cũng  tạo  nó  bằng  cách  co  giãn .
+ Thêm  kích  cỡ  thì  cũng  tạo  nó .
+ Xác  định  các  kích  cỡ  mảng  ảnh  cần  tạo  ra  lại
+ X
+ Win
+ Mac
+ Dùng  FreeType
+ Hình  tượng  % 1 $ .80s  tại  mã  % 2 $ d  kích  cỡ  % 3 $ d  của  phông  % 4 $ .80s
+ Đặt  bề  rộng ...
+ Đặt  bề  rộng  dọc ...
+ Lệch
+ Tỷ  lệ  lệch
+ Cửa  sổ  _ phác  thảo  mới
+ Cửa  sổ  _ mảng  ảnh  mới
+ Cửa  sổ  đơn  vị  đ _ o  mới
+ Cảnh  báo
+ Lật  ngang
+ Lật  dọcCW
+ Xoay  90º  xuôi  chiềuCW
+ Xoay  90º  ngược  chiều
+ Xoay  180 °
+ Lệch ...
+ _ Mở
+ _ Vừa  mở
+ Đón _ g
+ _ Lưu
+ Lưu  _ dạng ...
+ Tạo  ra  phôn _ g ...
+ Tạo  ra  _ nhóm  Mac ...
+ _ Xuất ...
+ _ Nhập ...
+ H _ oàn  nguyên  tập  tin
+ Tù _ y  thích ...
+ T _ hoát
+ _ Hủy  bước
+ _ Làm  lại
+ Cắ _ t
+ _ Chép
+ C _ hép  tham  chiếu
+ _ Dán
+ _ Gột
+ Chọn  _ tất  cả
+ Bỏ  các  bước  hủ _ y
+ Bỏ  liê _ n  kết  tham  chiếu
+ Lật  _ ngang
+ Lật  _ dọc
+ _ Xoay  90º  xuôi  chiều
+ Xoay  _ 90º  ngược  chiều
+ Xoay  _ 180 °
+ _ Lệch ...
+ Thông  tin  _ phông ...
+ Thông  t _ in  hình  tượng ...
+ Thông  tin  BDF ...
+ _ Biến  đổi
+ _ Công  cụ
+ _ Lớp
+ _ Sắc  màu
+ Bảng  chọn  thả  n _ eo
+ _ Vừa
+ Th _ u  nhỏ
+ _ Phóng  to
+ Hình  tượng  _ kế
+ Hình  tượng  _ lùi
+ Hình  tượng  _ xác  định  kế
+ Hình  tượng  xác  định  lù _ i
+ _ Tới
+ Tìm  trong  ô  _ xem  phông
+ Cỡ  điểm  ảnh  _ lớn  hơn
+ Cỡ  điểm  ảnh  _ nhỏ  hơn
+ _ Bảng  chọn
+ Đặt  bề  _ rộng ...
+ Đặt  bề  rộng  _ dọc ...
+ _ Tập  tin
+ _ Sửa
+ _ Yếu  tố
+ _ Xem
+ Đơn  vị  đ _ o
+ Cử _ a  sổ
+ Trợ  g _ iúp
+ Tính  lại  các  mảng  ảnh
+ Tự  động
+ Không  hạng
+ Hình  tượng  cơ  sở
+ Chữ  ghép  cơ  sở
+ Thành  phần
+ Vị  trí  cặp  mới
+ Biến  thể  thay  thế  mới
+ Danh  sách  xen  kẽ  mới
+ Danh  sách  bội  mới
+ Chữ  ghép  mới
+ Bộ  lọc  đếm  mới
+ Sửa  bộ  lọc  đếm
+ _ Giá  trị  Unicode :
+ _ Có
+ _ Không
+ Tên  sai
+ Tên  hình  tượng  có  chiều  dài  tối  đa  31  ký  tự .
+ Không  cho  phép  tên  hình  tượng  bắt  đầu  với  chữ  số  hay  dấu  chấm .
+ Tên  hình  tượng  phải  là  hoàn  toàn  ký  tự  ASCII ,  không  chứa  dấu  cách ,  cũng  không  chứa  ký  tự  nào  trong  nhóm  «  ( [ {

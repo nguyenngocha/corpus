@@ -1,0 +1,196 @@
+ Không  biết  kiểu  MIME
+ Tập  tin  bị  hỏng .
+ Không  tìm  thấy  ảnh  trong  kho  % s
+ Gặp  lỗi  khi  hiển  thị  trợ  giúp
+ Truyện  tranh  vui
+ Tài  liệu  DVI  có  định  dạng  không  đúng
+ Tài  liệu  được  tạo  thành  từ  nhiều  tập  tin .  Một  trong  số  đó  không  thể  truy  cập  được .
+ Tài  liệu  Djvu
+ Tài  liệu  DVI
+ Có
+ Không
+ Type  1
+ Type  1C
+ Type  3
+ TrueType
+ Type  1  ( CID )
+ Type  1C  ( CID )
+ TrueType  ( CID )
+ Kiểu  phông  chữ  lạ
+ Không  tên
+ Tập  con  nhúng
+ Nhúng
+ Không  nhúng
+ Tài  liệu  PDF
+ Tài  liệu  không  hợp  lệ
+ Ảnh  chiều  Impress
+ Không  lỗi
+ Không  đủ  bộ  nhớ
+ Không  tìm  thấy  chữ  kí  zip
+ Tập  tin  zip  không  hợp  lệ
+ Không  hỗ  trợ  kho  nén  zip  đa  tập  tin
+ Không  thể  mở  tập  tin
+ Không  thể  đọc  dữ  liệu  từ  tập  tin
+ Không  tìm  thấy  tập  tin  trong  kho  nén  zip
+ Lỗi  không  xác  định
+ Lỗi  khi  tải  tài  liệu  ' % s '
+ Lỗi  khi  lưu  tài  liệu  ' % s '
+ Tài  liệu  Postscript
+ Không  thể  lưu  phần  đính  kèm  ' % s ' :  % s
+ Không  thể  mở  phần  đính  kèm  ' % s ' :  % s
+ Không  thể  mở  đồ  phần  đính  kèm  ' % s '
+ Không  hỗ  trợ  dạng  tập  tin  % s  ( % s )
+ Mọi  tài  liệu
+ Mọi  tập  tin
+ Lỗi  khi  tạo  tập  tin  ' % s ' :  % s
+ Tập  tin  không  phải  là  tập  tin  .desktop  hợp  lệ
+ Không  nhận  dạng  được  phiên  bản  tập  tin  desktop  ' % s '
+ Đang  chạy  % s
+ Ứng  dụng  không  chấp  nhận  tài  liệu  từ  dòng  lệnh
+ Không  nhận  dạng  được  tuỳ  chọn  chạy :  % d
+ Không  thể  chuyển  URI  của  tài  liệu  cho  mục  desktop  ' Type = Link '
+ Mục  không  thể  chạy
+ Tắt  kết  nối  đến  bộ  quản  lý  phiên  làm  việc
+ Xác  định  tập  tin  chứa  cấu  hình  đã  lưu
+ TẬP  TIN
+ Xác  định  ID  quản  lý  phiên  làm  việc
+ ID
+ Các  tuỳ  chọn  quản  lý  buổi  hợp :
+ Hiển  thị  các  tuỳ  chọn  quản  lý  buổi  hợp
+ Hiện  ' _ % s '
+ _ Di  chuyển  trên  thanh  công  cụ
+ Di  chuyển  mục  đã  chọn  trên  thanh  công  cụ
+ _ Gỡ  khỏi  thanh  công  cụ
+ Gỡ  mục  đã  chọn  khỏi  thanh  công  cụ
+ _ Xoá  thanh  công  cụ
+ Xoá  thanh  công  cụ  đã  chọn
+ Thanh  phân  cách
+ Vừa  khít
+ Vừa  độ  rộng  trang
+ 50 %
+ 70 %
+ 85 %
+ 100 %
+ 125 %
+ 150 %
+ 175 %
+ 200 %
+ 300 %
+ 400 %
+ Bộ  xem  tài  liệu
+ Xem  tài  liệu  nhiều  trang
+ Bỏ  hạn  chế  tài  liệu
+ Bỏ  qua  những  hạn  chế  của  tài  liệu ,  như  hạn  chế  sao  chép  hay  in .
+ Lỗi  khi  in  tài  liệu
+ Trang  _ trước
+ Về  trang  trước
+ Trang  _ sau
+ Đi  tới  trang  kế  tiếp
+ Phóng  to  tài  liệu
+ Thu  nhỏ  tài  liệu
+ In  tài  liệu  này
+ _ Vừa  khít
+ Hiển  thị  toàn  bộ  trang  trong  cửa  sổ
+ Vừa  độ  _ rộng  trang
+ Hiển  thị  trang  bằng  bề  rộng  cửa  sổ
+ Trang
+ Chọn  trang
+ Tài  liệu
+ Tựa  đề
+ Vị  trí
+ Chủ  đề
+ Tác  giả
+ Từ  khoá
+ Chủ  nhiệm
+ Người  tạo
+ Ngày  tạo
+ Ngày  sửa
+ Số  trang
+ Tối  ưu
+ Định  dạng
+ Bảo  mật
+ Kích  cỡ  tờ  giấy
+ Không  cópredefinito : mm
+ default : mm
+ % .0f  x  % .0f  mm
+ % .2f  x  % .2f  inch
+ % s ,  Dọc  ( % s )
+ % s ,  Ngang  ( % s )
+ ( % d  trên  % d )
+ trên  % d
+ Đang  nạp ...
+ Đang  chuẩn  bị  in  ...
+ Đang  kết  thúc ...
+ Đang  in  trang  % d  trên  % d ...
+ Không  hỗ  trợ  việc  in  trên  máy  in  này .
+ Cuộn  lên
+ Cuộn  xuống
+ Cuộn  khung  xem  lên
+ Cuộn  khung  xem  xuống
+ Khung  xem  tài  liệu
+ Tới  trang :
+ Hoàn  tất  trình  diễn .  Bấm  phím  Esc  để  thoát .
+ Về  trang  đầu
+ Tới  trang  tiếp  theo
+ Tới  trang  cuối  cùng
+ Tới  trang
+ Đi  tới  trang  % s
+ Tới  % s  trên  tập  tin  ' % s '
+ Tới  tập  tin  ' % s '
+ Khởi  chạy  % s
+ Tìm :
+ Tìm  _ ngược
+ Tìm  tiếp  theo  chiều  từ  dưới  lên
+ Tìm  _ xuôi
+ Tìm  tiếp  theo  chiều  từ  trên  xuống
+ _ Phân  biệt  hoa / thường
+ Bật / tắt  tìm  kiếm  phân  biệt  hoa / thường
+ Thông  tin
+ Đang  chạy  trong  chế  độ  trình  diễn
+ Mật  khẩu  cho  tài  liệu  % s
+ Mở  một  tài  liệu  vừa  xem
+ Tài  liệu  này  bị  khoá  và  phải  nhập  mật  khẩu  đúng  để  đọc .
+ _ Mở  khóa  tài  liệu
+ Nhập  mật  khẩu
+ Yêu  cầu  nhập  mật  khẩu
+ Tài  liệu  ' % s '  bị  khoá  và  bạn  cần  nhập  mật  khẩu  để  mở .
+ _ Mật  khẩu :
+ _ Quên  ngay  mật  khẩu
+ Nhớ  mật  khẩu  đến  khi  bạn  đăng  _ xuất
+ Nhớ  _ hẳn
+ Chung
+ Phông  chữ
+ Đang  tập  hợp  thông  tin  phông  chữ ...  % 3d % %
+ Tài  liệu  không  có  trang  nào
+ Trang  % s
+ Đính  kèm
+ Lớp
+ Chỉ  mục
+ Hình  thu  nhỏ
+ Trang  % s  -  % s
+ Không  mở  được  tài  liệu
+ Đang  nạp  tài  liệu  từ  % s
+ Đang  tải  về  tài  liệu  ( % d % % )
+ Lỗi  nạp  lại  tài  liệu .
+ Đang  nạp  lại  tài  liệu  từ  % s
+ Đang  lưu  tài  liệu  vào  % s
+ Đang  lưu  tập  tin  đính  kèm  vào  % s
+ Đang  lưu  ảnh  vào  % s
+ Không  thể  lưu  tập  tin  này  thành  ' % s ' .
+ Đang  tải  lên  tài  liệu  ( % d % % )
+ Đang  tải  lên  tập  tin  đính  kèm  ( % d % % )
+ Đang  tải  lên  ảnh  ( % d % % )
+ Đang  in  công  việc  " % s "
+ Đợi  đến  khi  hoàn  tất  công  việc  in  " % s "  trước  khi  đóng  ?
+ Có  % d  công  việc  in  vẫn  hoạt  động .  Đợi  đến  khi  hoàn  tất  tiến  trình  in  trước  khi  in  ?
+ Nếu  bạn  đóng  cửa  sổ  này  thì  công  việc  in  nào  bị  hoãn  sẽ  không  được  in .
+ Thô _ i  in  và  Đóng
+ Đóng  s _ au  khi  In
+ Bộ  sửa  đổi  thanh  công  cụ
+ Bộ  xem  tài  liệu .  Dùng  poppler  % s  ( % s )
+ Evince  là  phần  mềm  tự  do ;  bạn  có  thể  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  theo  các  điều  khoản  của  Giấy  phép  Công  cộng  GNU  như  được  xuất  bản  bởi  Tổ  chức  Phần  mềm  Tự  do ;  hoặc  phiên  bản  2  của  Giấy  phép  này ,  hoặc  bất  kì  phiên  bản  sau  nào  ( tuỳ  ý ) .
+ Evince  được  phân  phối  với  mong  muốn  nó  sẽ  là  một  phần  mềm  có  ích ,  nhưng  KHÔNG  PHẢI  CHỊU  BẤT  KÌ  TRÁCH  NHIỆM  NÀO .  Xem  Giấy  phép  Công  cộng  GNU  để  biết  thêm  chi  tiết .
+ Bạn  đã  nhận  một  bản  sao  của  Giấy  phép  Công  cộng  GNU  cùng  với  chương  trình  này ;  nếu  không ,  hãy  liên  hệ  Tổ  chức  Phần  mềm  Tự  do ,  Free  Software  Foundation ,  Inc . ,   51  Franklin  Street ,  Fifth  Floor ,  Boston ,  MA   02110-1301 ,  USA
+ Evince
+ ©  năm  1996-2007  của  các  tác  giả  Evince
+ Nhóm  Việt  hoá  Gnome   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >  Launchpad  Contributions :    Clytie  Siddall  https : / / launchpad.net / ~ clytie    Lê  Quốc  Thái  https : / / launchpad.net / ~ lquocthai % d  hit ( s )  on  this  page

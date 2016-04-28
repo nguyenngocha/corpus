@@ -1,0 +1,87 @@
+ Phần  bổ  sung  mẫu
+ Phần  bổ  sung  mẫu  cho  Anjuta .
+ Bộ  soạn  thảo  Scintilla
+ Một  trình  soạn  thảo  xen  kẽ  dựa  vào  Scintilla
+   Tùy   chọn   lặt   vặt 
+ Bộ  soạn  thảo
+ Xem  khoảng  trắng
+   Tùy   chọn   in   ấn 
+ Khoảng  t _ rắng
+ Tập  tin :  % s
+ Không  thể  lấy  vùng  đệm  văn  bản  để  in  ấn
+ Không  có  tập  tin  cần  in .
+ Tập  tin  «  % s  »  bị  sửa  đổi .  Muốn  nạp  lại  nó  ?
+ Tập  tin  «  % s  »  bị  sửa  đổi .  Muốn  nạp  lại  nó  ( cũng  mất  hẳn  các  thay  đổi  của  bạn )  ?
+ Tập  tin  «  % s  »  đã  được  xoá .  Bạn  có  xác  nhận  và  đóng  nó  không ?
+ Tập  tin  «  % s  »  bị  xoá .  Muốn  đóng  nó  ( cũng  mất  hẳn  các  thay  đổi  của  bạn )  ?
+ Không  thể  lấy  thông  tin  về  tập  tin % s " ,  " This  file  is  too  big .  Unable  to  allocate  memory .
+ Tập  tin  quá  lớn  nên  không  thể  cấp  phát  bộ  nhớ .
+ Không  thể  mở  tập  tin
+ Gặp  lỗi  khi  đọc  từ  tập  tin
+ Tập  tin  không  hình  như  một  tập  tin  văn  bản ,  hoặc  bảng  mã  tập  tin  không  được  hỗ  trợ .  Hãy  kiểm  tra  nếu  bảng  mã  của  tập  tin  nằm  trong  danh  sách  các  bảng  mã  được  hỗ  trợ .  Không  thì  thêm  nó  trong  Tùy  thích .
+ Đang  nạp  tập  tin ...
+ Không  thể  nạp  tập  tin :  % s  Chi  tiết :  % s
+ Tập  tin  đã  được  nạp
+ Đang  lưu  tập  tin ...
+ Không  thể  lưu  tập  tin  trung  gian  % s :  % s
+ Tập  tin  đã  được  lưu
+ Không  thể  nạp  các  giá  trị  mặc  định  toàn  cục  và  tập  tin  cấu  hình :  % s .  Trường  hợp  này  có  thể  gây  ra  ứng  xử  không  thích  hợp  hay  không  ổn  định .  Trình  Anjuta  sẽ  dự  trữ  thiết  lập  dựng  sẵn  ( bị  hạn  chế ) .
+ Hộp  Thử
+ Sửa  đổi  các  câu  lệnh  xây  dựng  để  sử  dụng  Hộp  Thử  1  hay  2
+ Thư  mục  Hộp  Thử :
+ Phiên  bản  Hộp  Thử :
+ Đích  Hộp  Thử :
+   Tùy   chọn   Hộp   Thử 
+ Chương  trình  «  % s  »  không  tồn  tại
+ IDE  Anjuta
+ Phát  triển  phần  mềm  trong  một  môi  trường  phát  triển  thống  nhất
+ Môi  trường  phát  triển  thống  nhất
+ Không  tìm  thấy  mô-đun  bổ  sung  % s
+ Không  thể  tìm  thấy  hàm  đăng  ký  phần  bổ  sung  % s  trong  mô-đun  % s
+ Gặp  lỗi  không  rõ  trong  mô-đun  % s
+ Thiếu  vị  trí  của  phần  bổ  sung  % s
+ Thiếu  kiểu  được  phần  bổ  sung  xác  định  % s
+ phần  bổ  sung  % s  chưa  đăng  ký  kiểu  % s
+ Bạn  đang  thử  mở  một  tập  tin  chứa  một  dãy  byte  không  hợp  lệ .
+ anjuta  không  thể  tự  động  quyết  định  bảng  mã  của  tập  tin  bạn  muốn  mở .
+ Unicode
+ Phương  Tây
+ Vùng  Trung  Âu
+ Vùng  Nam  Âu
+ Ban-tích
+ Ki-rin
+ A  Rập
+ tiếng  Hy  Lạp
+ Do  Thái  trực  quan
+ Do  Thái
+ Thổ  Nhĩ  Kỳ
+ Bắc  Âu
+ Xen-tơ
+ Rô-ma-ni
+ Ác-mê-ni
+ Tiếng  Hoa  truyền  thống
+ Ki-rin / Nga
+ Nhật
+ Hàn
+ Tiếng  Hoa  phổ  thông
+ Gi-oa-gi-a
+ Ki-rin / U-cợr-ainh
+ Tiếng  Việt
+ Thái
+ Không  rõ
+ Không  thể  thực  hiện  câu  lệnh  «  % s  »
+ execvp  không  thành  công
+ Trình  bao  Anjuta
+ Trình  bao  Anjuta  sẽ  chứa  phần  bổ  sung
+ Phần  bổ  sung  «  % s  »  không  tắt  được
+ Không  thể  nạp  % s  Thường  có  nghĩa  là  bản  cài  đặt  bị  hỏng .  Thông  điệp  lỗi  dẫn  tới  trường  hợp  này  là :  % s
+ Nạp
+ Phần  bổ  sung  ưa  thích
+ Chỉ  hiện  phần  bổ  sung  cho  người  dùng  kích  hoạt
+ Đây  là  những  phần  bổ  sung  được  bạn  chọn  khi  trình  Anjuta  nhắc  bạn  chọn  một  của  nhiều  phần  bổ  sung  thích  hợp .  Gỡ  bỏ  phần  bổ  sung  ưa  thích  sẽ  cho  Anjuta  nhắc  bạn  lần  nữa  để  chọn  một  phần  bổ  sung  khác .
+ Quên  phần  bổ  sung  đã  chọn
+ Chọn  phần  bổ  sung
+ Hãy  chọn  một  phần  bổ  sung  cần  kích  hoạt
+ Không  có  phần  bổ  sung  có  khả  năng  nạp  phần  bổ  sung  khác  trong  % s
+ Nhớ  sự  chọn  này
+ Hồ  sơ

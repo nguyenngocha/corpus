@@ -1,0 +1,40 @@
+ AisleRiot  Solitaire
+ Chơi  nhiều  trò  chơi  solitaire  khác  nhau
+ Tên  tập  tin  sắc  thái
+ Tên  tập  tin  chứa  đồ  họa  cho  bài .
+ Có  nên  hiển  thị  thanh  trạng  thái  hay  không
+ Hãy  chọn  kiểu  điều  khiển
+ Hãy  chọn  kéo  bài ,  hoặc  nhấp  vào  nguồn  rồi  đích .
+ Âm  thanh
+ Có  bật  âm  thanh  cho  sự  kiện  không .
+ Hoạt  ảnh
+ Có  nên  hoạt  cảnh  khi  di  chuyển  quân  bài  hay  không .
+ Tập  tin  trò  chơi  cần  dùng
+ Tên  tập  tin  sắc  thái  chứa  trò  chơi  solitaire  cần  chơi .
+ Thống  kê  các  trò  đã  chơi
+ Một  danh  sách  chuỗi  dạng  năm  phần :  tên ,  lần  thắng ,  tổng  trò  đã  chơi ,  thời  gian  tốt  nhất  ( theo  giây )  và  thời  gian  xấu  nhất  ( theo  giây ) .  Không  cần  hiển  thị  trò  chưa  chơi .
+ Lượt  vừa  chơi
+ Danh  sách  các  lượt  vừa  chơi .
+ Lượt  chơi  mới
+ Đổi
+ Thống  kê
+ T _ oàn  màn  hình
+ Trợ  giúp
+ Thoát
+ Chọn  trò  chơi
+ _ Chọn
+ _ Nội  dung
+ _ Gợi  ý _ New "  is  for  the  menu  item  ' Game-  >  New ' ,  implies  " New  Game
+ _ Mới _ New  Game
+ Lượt  chơi  _ mới
+ _ Chuyển  lạiReset
+ _ Lập  lại _ Restart "  is  the  menu  item  ' Game-  >  Restart ' ,  implies  " Restart  Game
+ Chạy  _ lại
+ _ Hủy  bước
+ _ Ra  khỏi  toàn  màn  hình
+ Tạm  _ dừng
+ % s  là  phần  mềm  tự  do ;  bạn  có  quyền  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  với  điều  kiện  của  Giấy  Phép  Công  Cộng  GNU  như  được  xuất  bản  bởi  Tổ  Chức  Phần  Mềm  Tự  Do ;  hoặc  phiên  bản  % d  của  Giấy  Phép  này ,  hoặc  ( tùy  chọn )  bất  kỳ  phiên  bản  sau  nào .
+ % s  được  phát  hành  vì  mong  muốn  nó  có  ích ,  nhưng  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .  Xem  Giấy  Phép  Công  Cộng  GNU  để  biết  thêm  chi  tiết .
+ Tốc  độ  nhận  bài
+ Nhắp  đôi  để  tăng  cuộc  % .2f
+ Tùy  chọn  tốt  nhất  là  đôi  xuống

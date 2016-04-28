@@ -1,0 +1,104 @@
+ Không  có  gói
+ Tự  động  loại  bỏ  phụ  thuộc  không  dùng
+ Khi  loại  bỏ  gói ,  loại  bỏ  các  phụ  thuộc  của  gói  đó  mà  không  được  dùng  bởi  các  gói  khác .
+ Hỏi  người  dùng  có  nên  cài  đặt  các  gói  bổ  sung
+ Hỏi  người  dùng  có  nên  cài  đặt  các  gói  bổ  sung .
+ Chuỗi  tìm  có  hoàn  chỉnh  tự  động  không
+ Chuỗi  tìm  có  hoàn  chỉnh  tự  động  không .
+ Lọc  dùng  basename  trong  gpk-application
+ Lọc  danh  sách  gói  dùng  basename  trong  gpk-application .
+ Chỉ  hiện  gói  mới  nhất  trong  danh  sách  tập  tin
+ Chỉ  hiện  gói  mới  nhất  trong  danh  sách  tập  tin .
+ Chỉ  hiện  gói  được  hỗ  trợ  trong  danh  sách  tập  tin
+ Chỉ  hiện  gói  được  hỗ  trợ  trong  danh  sách  tập  tin .
+ Chỉ  hiện  gói  bản  địa  trong  danh  sách  tập  tin
+ Chỉ  hiện  gói  bản  địa  khớp  với  kiến  trúc  máy  tính  trong  danh  sách  tập  tin .
+ Hiện  trình  đơn  nhóm  phân  loại
+ Hiện  trình  đơn  nhóm  phân  loại .  Hoàn  chỉnh  hơn  so  với  bản  phân  phối  nhưngn  lâu  hơn .
+ Hiện  trình  đơn  nhóm  ' Mọi  gói '
+ Hiện  trình  đơn  nhóm  ' Mọi  gói ' .  Lâu  hơn  trên  hầu  hết  các  mặt  sau ,  và  thường  không  cần  với  người  dùng  cuối .
+ Chế  độ  tìm  kiếm  dùng  mặc  định
+ Chế  độ  tìm  kiếm  dùng  mặc  định .  Chọn  lựa  là  " name "  ( tên ) ,  " details "  ( chi  tiết ) ,  " file "  ( tập  tin ) .
+ Hiện  mọi  kho  trong  trình  xem  nguồn  phần  mềm
+ Hiện  mọi  kho  trong  trình  xem  nguồn  phần  mềm .
+ Chỉ  hiện  gói  mới  nhất  trong  danh  sách
+ Chỉ  hiện  gói  mới  nhất  trong  danh  sách ,  và  lọc  bỏ  bản  cập  nhật  cũ .
+ Cuộn  đến  gói  khi  lấy  về
+ Cuộn  đến  gói  trong  danh  sách  cập  nhật  khi  lấy  về  hoặc  cài  đặt .
+ Cho  phép  ứng  dụng  gọi  trình  cài  đặt  phông
+ Cho  phép  ứng  dụng  gọi  trình  cài  đặt  phông .
+ Chương  trình  nên  bị  bỏ  qua  khi  phát  yêu  cầu  D-Bus  phiên  làm  việc
+ Chương  trình  nên  bị  bỏ  qua  khi  phát  yêu  cầu  D-Bus  phiên  làm  việc ,  cách  bởi  dấu  phẩy .
+ Cho  phép  ứng  dụng  gọi  trình  cài  codec
+ Cho  phép  ứng  dụng  gọi  trình  cài  codec .
+ Cho  phép  ứng  dụng  gọi  trình  cài  loại  mime
+ Cho  phép  ứng  dụng  gọi  trình  cài  loại  mime .
+ Khi  hiển  thị  UI  từ  yêu  cầu  D-Bus  phiên  làm  việc ,  mặc  định  tự  động  dùng  những  tuỳ  chọn  này .
+ Khi  hiển  thị  UI  từ  yêu  cầu  D-Bus  phiên  làm  việc ,  buộc  dùng  dùng  những  tuỳ  chọn  này .
+ Thêm  hoặc  gỡ  phần  mềm  cài  đặt  trên  hệ  thống
+ Đang  áp  dụng  thay  đổi
+ Các  thay  đổi  không  được  áp  dụng  tức  thì ,  nút  này  áp  dụng  mọi  thay  đổi
+ Bỏ  chọn
+ Ngưng  tìm
+ Giấy  phép
+ Nguồn
+ Cài  gói
+ Gỡ  bỏ  gói
+ Xem  trang  chủ  của  gói  được  chọn
+ Đến  trang  chủ  dự  án
+ Tập  tin
+ Gói  cần  có
+ Gói  phụ  thuộc
+ Tìm  bản  cập  nhật
+ Cập  nhật  danh  mục  gói
+ Ghi  chép  phần  mềm
+ Chỉ  phiên  bản  mới  nhất
+ Chỉ  gói  bản  địa
+ Trợ  giúp
+ T _ hoát
+ Chi  tiết
+ Cần  hợp  đồng  giấy  phép
+ _ Chấp  nhận  hợp  đồng
+ Cài  đặt  phần  mềm  đã  chọn  vào  hệ  thống
+ Bộ  xem  ghi  chép  phần  mềm
+ Xem  các  thao  tác  quản  lý  phần  mềm  trong  quá  khứ
+ Lọc
+ Nguồn  phần  mềm  chứa  gói  có  thể  cài  trên  máy  này .
+ _ Hiện  nguồn  phần  mềm  phát  triển  và  gỡ  lỗi
+ Cần  chữ  ký  phần  mềm
+ Bạn  có  tin  tưởng  nguồn  của  những  gói  này  không ?
+ Tên  kho :
+ URL  chữ  ký :
+ Định  danh  người  dùng  chữ  ký :
+ Định  danh  chữ  ký :
+ Gói :
+ Bạn  có  nhận  ra  người  dùng  và  tin  tưởng  khoá  này  không ?
+ Cập  nhật  phần  mềm  đã  cài  đặt  trên  hệ  thống
+ _ Cài  bản  cập  nhật
+ Bản  cập  nhật  phần  mềm  sửa  lỗi ,  các  lỗ  hổng  bảo  mật  và  đem  đến  các  tính  năng  mới .
+ _ Nâng  cấp
+ Đang  chờ
+ Không  gói  nào  khác  cần  gói  này
+ Gói  này  không  phụ  thuộc  vào  gói  nào  khác
+ Không  hợp  lệ
+ Nhập  tên  gói  vào  thanh  tìm  kiếm .
+ Thử  tìm  mô  tả  gói  bằng  cách  nhấn  vào  biểu  tượng  kế  bên  chuỗi  tìm .
+ Thử  tìm  lại  với  mô  tả  khác .
+ Chuỗi  tìm  không  hợp  lệ
+ Chuỗi  tìm  chứa  ký  tự  không  hợp  lệ
+ Không  thể  hoàn  tất  tìm  kiếm
+ Lỗi  chạy  phiên  giao  dịch
+ Thay  đổi  chưa  được  áp  dụng
+ Vẫn  đón _ g
+ Những  thay  đổi  của  bạn  chưa  có  tác  dụng .
+ Những  thay  đổi  này  sẽ  bị  mất  khi  đóng  cửa  sổ .
+ Đã  cài
+ Tên
+ Kích  cỡ
+ Kích  cỡ  được  cài  đặt
+ Kích  cỡ  lấy  về
+ Tìm  theo  tên
+ Tìm  theo  mô  tả
+ Tìm  tập  tin
+ Licensed  under  the  GNU  General  Public  License  Version  2
+ Nhóm  Việt  hoá  GNOME

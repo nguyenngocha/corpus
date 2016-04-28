@@ -1,0 +1,45 @@
+ Không  thể  thêm  sự  kết  nối  VPN
+ Không  tìm  thấy  phần  mềm  VPN  thích  hợp  trong  hệ  thống  của  bạn .  Hãy  liên  lạc  với  quản  trị  hệ  thống .
+ Không  thể  nhập  khẩu  sự  kết  nối  VPN
+ Không  tìm  thấy  phần  mềm  thích  hợp  cho  kết  nối  VPN  kiểu  «  % s  »  để  nhập  khẩu  tập  tin  «  % s  » .  Hãy  liên  lạc  với  quản  trị  hệ  thống .
+ Gặp  lỗi  khi  lấy  kết  nối  PN  «  % s  »
+ Không  tìm  thấy  những  tập  tin  giao  diện  người  dùng  cho  kết  nối  VPN  kiểu  «  % s  » .  Hãy  liên  lạc  với  quản  trị  hệ  thống .
+ Xóa  kết  nối  VPN  «  % s  »  không ?
+ Mọi  thông  tin  về  sự  kết  nối  VPN  «  % s  »  sẽ  bị  mất  thì  bạn  có  thể  cần  phải  yêu  cầu  quản  trị  hệ  thống  cung  cấp  thông  tin  để  tạo  sự  kết  nối  mới .
+ Không  thể  nạp
+ Không  tìm  thấy  một  số  tài  nguyên  cần  thiết  ( tải  tập  tin  glade )  !
+ Sửa  kết  nối  VPN
+ Thêm  kết  nối  VPN  mới
+ Hãy  chọn  kiểu  kết  nối  VPN  nào  bạn  muốn  tạo .
+ Kết  nối  đến :
+ Tạo  kết  nối  VPN
+ Tạo  kết  nối  VPN  —  bước  1  trên  2
+ Tạo  kết  nối  VPN  —  bước  2  trên  2
+ Xoá  kết  nối  VPN  đã  chọn
+ _ Xuất
+ Sửa  kết  nối  VPN  đã  chọn .
+ Xuất  thiết  lập  VPN  vào  tập  tin
+ Xuất  kết  nối  VPN  đã  chọn  vào  tập  tin
+ Tạo  xong  kết  nối  VPN
+ Quản  lý  các  Kết  nối  Mạng  Riêng  Ảo  ( VPN )
+ Trợ  lý  này  sẽ  hướng  dẫn  bạn  qua  tiến  trình  tạo  kết  nối  đến  một  Mạng  Riêng  Ảo  ( VPN ) .  Cần  thiết  một  phần  thông  tin ,  như  địa  chỉ  IP  và  điều  bí  mật .  Hãy  hỏi  quan  trị  hệ  thống  cung  cấp  thông  tin  này .
+ Kết  nối  VPN
+ 40-bit  WEP
+ 104-bit  WEP
+ WPA  TKIP
+ WPA  CCMP
+ WPA  Tự  động
+ WPA2  TKIP
+ WPA2  CCMP
+ WPA2  Tự  động
+ không  có
+ không  thể  tạo  ổ  cắm  kiểu  liên  kết  mạng ,  để  theo  dõi  các  thiết  bị  Ethernet  tuyến  —  % s
+ không  thể  đóng  kết  tới  ổ  cắm  kiểu  liên  kết  mạng ,  để  theo  dõi  các  thiết  bị  Ethernet  tuyến  —  % s
+ thao  tác  đã  chạy  quá  lâu
+ đã  nhận  dữ  liệu  từ  nhà  gửi  kiểu  sai
+ đã  nhận  dữ  liệu  từ  nhà  gửi  bất  thường
+ quá  nhiều  dữ  liệu  đã  được  gửi  qua  ổ  cắm ,  thì  mất  một  số  dữ  liệu
+ gặp  lỗi  khi  đợi  dữ  liệu  trên  ổ  cắm
+ WPA2  Enterprise
+ WPA  Enterprise
+ LEAP

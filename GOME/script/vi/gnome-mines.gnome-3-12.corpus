@@ -1,0 +1,57 @@
+ Mìn
+ Xóa  mọi  mìn  bị  ẩn  ra  vùng  mìn
+ minesweeper ; dò ; mìn ;
+ Dùng  cờ  «  không  rõ  »
+ Đặt  là  thật  để  có  thể  đánh  dấu  hộp  là  chưa  biết .
+ Cảnh  báo  về  quá  nhiều  cờ
+ Đặt  là  Đúng  ( true )  để  bật  hiển  thị  biểu  tượng  cảnh  báo  khi  có  quá  nhiều  cờ  hiển  thị .
+ Bật  tự  động  để  cờ
+ Đặt  thành  đúng  ( true )  để  làm  cho  gnomine  tự  động  đặt  cờ  trên  mọi  vuông  có  mìn  khi  đủ  vuông  được  tỏ  ra
+ Số  cột  trong  lượt  chơi  riêng
+ Số  hàng  trong  lượt  chơi  riêng
+ Số  mìn  trong  lượt  chơi  riêng
+ Kích  cơ  bảng  ( 0-2 = nhỏ-lớn ,  3 = tự  chọn )
+ Chiều  rộng  cửa  sổ  theo  điểm  ảnh
+ Chiều  cao  cửa  sổ  theo  điểm  ảnh
+ Lượt  chơi  _ mới
+ Đ _ iểm
+ _ Tùy  thích
+ Trợ  _ giúp
+ _ Giới  thiệu
+ T _ hoát
+ Riêng
+ _ Ngang :
+ _ Dọc :
+ _ Số  mìn :
+ Phần  trăm :
+ _ Chơi
+ Bạn  có  muốn  bắt  đầu  một  lượt  chơi  mới  không ?
+ Giữ  lượt  chơi  hiện  thời
+ Bắt  đầu  lượt  chơi  mới
+ Trò  chơi  chính :
+ Điểm :
+ Thay  đổi  cỡ  và  hỗ  trợ  SVG :
+ Mặt :
+ Đồ  họa :
+ Nhóm  Việt  hóa  GNOME  ( http : / / gnomevi.sourceforge.net )
+ Tùy  thích  cho  Dò  Mìn
+ _ Dùng  cờ  «  Chưa  chắc  » .
+ Đã  tạm  dừng
+ Cỡ :
+ Ngày
+ Thời  gianscore-dialog
+ Cờ
+ Chơi  cờ  hai  người  truyền  thống
+ _ Trò  chơi
+ _ Từ  bỏ
+ _ Yêu  cầu  hoà
+ Thiết  _ lập
+ _ Nội  dung
+ Hủy  bước
+ Từ  bỏ
+ Tua  lại  về  đầu  lượt  chơi
+ Hiện  lượt  trước
+ Hiện  lượt  kế  tiếp
+ Hiện  lượt  hiện  thời
+ Độ  rộng  cửa  sổ
+ Chiều  rộng  của  bảng  chơi  theo  điểm  ảnh .

@@ -1,0 +1,269 @@
+ Không  tên
+ Đổi  mật  khẩu  vòng  khóa
+ Hãy  chọn  một  mật  khẩu  mới  cho  vòng  khóa  «  % s  »
+ Một  ứng  dụng  muốn  thay  đổi  mật  khẫu  cho  vòng  khoá  «  % s  » .  Hãy  chọn  mật  khẩu  cần  sử  dụng  với  nó .
+ Bạn  đã  gõ  sai  mật  khẩu  gốc
+ Mật  khẩu  vòng  khóa  mới
+ Hãy  chọn  mật  khẩu  cho  vòng  khóa  mới
+ Một  ứng  dụng  muốn  tạo  một  vòng  khóa  mới  tên  «  % s  » .  Hãy  chọn  mật  khẩu  cần  sử  dụng  với  nó .
+ Lưu  trữ  Chứng  nhận  và  Khoá
+ Vòng  Khoá  GNOME :  thành  phần  PKCS # 11
+ Dịch  vụ  lưu  trữ  mật
+ Vòng  Khoá  GNOME :  dịch  vụ  mật
+ Tác  nhân  khoá  SSH
+ Vòng  Khoá  GNOME :  SSH  Agent
+ Agent  cho  mật  khẩu  GPG
+ Vòng  Khoá  GNOME :  GPG  Agent
+ Không  biết
+ Khóa  PGP :  % s
+ Nhập  mật  mã
+ Quên  mật  khẩu  này  nếu  không  dùng  trong
+ Quên  mật  khẩu  sau
+ Quên  mật  khẩu  sau  khi  đăng  xuất
+ Đăng  nhập
+ Thành  phần  Miền
+ Mã  số  người  dùng
+ Ngày  sinh
+ Nơi  sinh
+ Giới  tính
+ Quốc  gia  cấp  công  dân
+ Quốc  gia  ở
+ Tên  chung
+ Họ
+ Số  thứ  tự
+ Quốc  gia
+ Vùng
+ Tỉnh
+ Đường
+ Tổ  chức
+ Đơn  vị  tổ  chức
+ Tuổi  tác
+ Số  điện  thoại
+ Tên  hay  gọi
+ Tên  viết  tắt
+ Thế  hệ  dè  dặt
+ Tên  miền  dè  dặt
+ Biệt  hiệu
+ RSA
+ MD2  với  mã  hoá  RSA
+ MD5  với  mã  hoá  RSA
+ SHA1  với  mã  hoá  RSA
+ DSA
+ SHA1  với  mã  hoá  DSA
+ Xác  thực  máy  chủ
+ Xác  thực  máy  khách
+ Gặp  lỗi  bất  thường  trong  «  select ( )  »  khi  đọc  dữ  liệu  từ  một  tiến  trình  con  ( % s )
+ Gặp  lỗi  bất  thường  trong  «  waitpid ( )  »  ( % s )
+ Têncolumn
+ Cấp  lúccolumn
+ Hết  hạn
+ Chứng  nhận
+ Thao  tác  bị  huỷ .
+ Xuất  chứng  nhận
+ Tập  tin  chứng  nhận
+ Tên  khác
+ Địa  chỉ  thư
+ DNS
+ Tên  thư  mục
+ ID  đăng  ký
+ Nhà  cầm  quyền  chứng  nhận  ( CA )
+ Có
+ Không
+ Không  giới  hạn
+ Dấu  nhận  diện  khoá  chủ  đề
+ Dấu  nhận  diện  khoá
+ Chữ  ký  điện  tử
+ Chữ  ký  chứng  nhận
+ Tên  thay  thế  chủ  đề
+ Phần  mở  rộng
+ Dấu  nhận  diện
+ Giá  trị
+ Tới  hạn
+ Không  thể  xuất  chứng  nhận .
+ Nhận  diện
+ Tên  chủ  đề
+ Tên  nhà  cấp
+ Chứng  nhận  đã  cấp
+ Phiên  bản
+ Không  đúng  đắn  trước
+ Không  đúng  đắn  sau
+ Vân  tay  chứng  nhận
+ Chữ  ký
+ Thuật  toán  chữ  ký
+ Tham  số  Chữ  ký
+ Thông  tin  khoá  công  khai
+ Thuật  toán  khoá
+ Tham  số  Khoá
+ Cỡ  khoá
+ Vân  tay  khoá  SHA1
+ Khoá  công  khai
+ _ Chi  tiết
+ Nguyên  nhân
+ Nhập  chứng  nhận / khoá
+ Mật  khẩu :
+ Nhập  vào :
+ Khóa  PGPcolumn
+ ID  Khóa
+ Thao  tác  bị  huỷ
+ Gõ  mật  khẩu  để  mở  khoá  cá  nhân
+ Gõ  mật  khẩu  để  mở  chứng  nhận
+ Gõ  mật  khẩu  để  gỡ  khoá
+ Để  nhập  khoá  riêng  thì  nó  phải  được  mở  khoá
+ Để  nhập  chứng  nhận  thì  nó  phải  được  mở  khoá
+ Để  nhập  dữ  liệu ,  nó  phải  được  mở  khoá
+ Để  nhập  khoá  riêng  «  % s  »  thì  nó  phải  được  mở  khoá
+ Để  nhập  chứng  nhận  «  % s  »  thì  nó  phải  được  mở  khoá
+ Để  nhập  «  % s  »  thì  nó  phải  được  mở  khoá
+ Không  có  vị  trí  vào  đó  có  thể  nhập  dữ  liệu
+ Nhập  các  chứng  nhận / khoá
+ Hãy  chọn  một  vị  trí  vào  đó  cần  lưu  các  chứng  nhận / khoá  được  nhập .
+ Khoá  cá  nhân  RSA
+ Khoá  cá  nhân  DSA
+ Khoá  cá  nhân
+ Khoá  công  khai  DSA
+ Độ  mạnh
+ Thuật  toán
+ Cỡ
+ Vân  tay
+ Dữ  liệu  không  được  nhận  ra  hay  không  được  hỗ  trợ .
+ Không  thể  phân  tích  cú  pháp  của  dữ  liệu  không  hợp  lệ  hay  dữ  liệu  bị  hỏng .
+ Dữ  liệu  bị  khoá
+ Không  tìm  thấy  vị  trí  lưu  chứng  nhận / khoá  được  nhập .
+ Tự  động  gỡ  khoá  vòng  khoá  này  khi  nào  tôi  đã  đăng  nhập
+ Khoá  vòng  khoá  này  khi  tôi  đang  xuất
+ Khoá  vòng  khoá  này  sau
+ Khoá  vòng  khoá  này  nếu  vẫn  nghỉ  sau
+ phút
+ Mở  khoá :  % s
+ Mở  khoá
+ Mật  khẩu  không  đúng
+ Mật  khẩu
+ Trình  xem  chứng  nhận  và  khoá  GCR
+ -  Xem  tập  tin  chứng  nhận  và  khoá
+ Bộ  xem  chứng  nhận
+ Chứng  nhận  không  tên
+ Không  thể  phân  tích  cú  pháp  của  khoá  SSH  công  khai
+ Mật  khẩu  gỡ  khoá  cho :  % s
+ Bạn  đã  gõ  sai  mật  khẩu  gỡ  khoá
+ Gỡ  khoá  vòng  khoá  đăng  nhập
+ Nhập  mật  khẩu  để  gỡ  khoá  vòng  khoá  đăng  nhập
+ Bạn  đang  sử  dụng  một  mật  khẩu  để  đăng  nhập  vào  máy  tính  mà  không  còn  tương  ứng  với  mật  khẩu  của  vòng  khoá  đăng  nhập .
+ Vòng  khoá  đăng  nhập  đã  không  được  gỡ  khoá  khi  bạn  đăng  nhập  vào  máy  tính  này .
+ Mở  vòng
+ Hãy  nhập  mật  khẩu  cho  vòng  khóa  «  % s  »  để  mở  vòng  khóa
+ Một  ứng  dụng  muốn  truy  cập  đến  vòng  khóa  «  % s  » ,  còn  nó  bị  khoá
+ Mở  khoá  cá  nhân
+ Mở  chứng  nhận
+ Mở  khoá  công  khai
+ Gõ  mật  khẩu  để  mở  khoá  công  khai
+ Ứng  dụng  muốn  truy  cập  đến  khoá  cá  nhân  % s ,  nhưng  nó  đang  bị  khóa
+ Ứng  dụng  muốn  truy  cập  đến  chứng  nhận  % s ,  nhưng  nó  đang  bị  khóa
+ Ứng  dụng  muốn  truy  cập  đến  khoá  công  khai  % s ,  nhưng  nó  đang  bị  khóa
+ Ứng  dụng  muốn  truy  cập  đến  «  % s  » ,  nhưng  nó  bị  khóa
+ Mở  khoá  lưu  trữ  chứng  nhận / khoá
+ Nhập  mật  khẩu  để  mở  khoá  kho  lưu  chứng  nhận / khoá
+ Một  ứng  dụng  muốn  truy  cập  đến  kho  lưu  chứng  nhận / khoá  «  % s  » ,  nhưng  nó  vẫn  bị  khóa
+ Yêu  cầu  mật  khẩu  mới
+ Yêu  cầu  mật  khẩu  mới  để  lưu  trữ  bảo  mật
+ Cần  có  mật  khẩu  để  chuẩn  bị  ' % s 'để  lưu  trữ  chứng  nhận  hay  khoá
+ Đổi  mật  khẩu
+ Thay  đổi  mật  khẩu  mới  để  lưu  trữ  bảo  mật
+ Cần  nhập  mật  khẩu  cũ  và  mới  để  đổi  mật  khẩu  cho  ' % s '
+ lệnh :  commands : 
+ Lưu  mật  khẩu  không  mật  mã  không ?
+ Dùng  một  mật  khẩu  trắng  thì  mật  khẩu  đã  lưu  sẽ  không  thể  được  mã  hoá  an  toàn .  Mọi  người  đều  có  thể  truy  cập  vào  tập  tin  của  bạn .
+ Lưu  không  an  toàn
+ Mật  khẩu  không  khớp .
+ Không  cho  phép  mật  khẩu  trắng
+ Tê _ n :
+ Mật  khẩu  _ cũ :
+ _ Mật  khẩu :
+ Xá _ c  nhận :
+ Độ  mạnh  của  mật  khẩu  mới
+ Ứn _ g  dụng :
+ Ch _ i  tiết :
+ Không  đủ  bộ  nhớ
+ ID  khe  xác  định  không  hợp  lệ
+ Lỗi  nội  bộ
+ Thao  tác  thất  bại
+ Đối  số  không  hợp  lệ
+ Module  không  thể  tạo  các  thread  cần  thiết
+ Module  không  thể  khoá  dữ  liệu  đúng  cách
+ Trường  này  chỉ  đọc
+ Trường  nhạy  cảm  và  không  thể  tiết  lộ
+ Trường  này  không  hợp  lệ  hoặc  không  tồn  tại
+ Giá  trị  không  hợp  lệ  với  trường
+ Dữ  liệu  không  hợp  lệ  hoặc  không  nhận  ra  được
+ Dữ  liệu  quá  dài
+ Lỗi  xảy  ra  trên  thiết  bị
+ Không  đủ  bộ  nhớ  trên  thiết  bị .
+ Thiết  bị  đã  bị  rút  ra
+ Dữ  liệu  mã  hoá  không  hợp  lệ  hoặc  không  thể  nhận  ra
+ Dữ  liệu  mã  hoá  quá  dài
+ Thao  tác  không  được  hỗ  trợ
+ Thiếu  khoá  hoặc  khoá  không  hợp  lệ
+ Khoá  sai  kích  thước
+ Khoá  sai  kiểu
+ Không  cần  khoá
+ Khoá  khác  trước
+ Cần  khoá
+ Không  thể  kèm  khoá  trong  tóm  tắt
+ Không  thể  thực  hiện  thao  tác  này  với  khoá  này
+ Khoá  không  thể  bị  cuộn
+ Không  thể  xuất  khoá
+ Cơ  chế  mã  hoá  không  hợp  lệ  hoặc  không  thể  nhận  ra
+ Cơ  chế  mã  hoá  có  đối  số  không  hợp  lệ
+ Thiếu  hoặc  sai  đối  tượng
+ Một  thao  tác  khác  đang  được  tiến  hành
+ Không  có  thao  tác  nào  đang  được  tiến  hành
+ Mật  khẩu  hoặc  PIN  không  đúng
+ Mật  khẩu  hoặc  PIN  không  hợp  lệ
+ Mật  khẩu  hoặc  PIN  sai  độ  dài
+ Mật  khẩu  hoặc  PIN  đã  quá  hạn
+ Mật  khẩu  hoặc  PIN  đã  bị  khoá
+ Phiên  làm  việc  đã  kết  thúc
+ Quá  nhiều  phiên  làm  việc  đang  hoạt  động
+ Phiên  làm  việc  không  hợp  lệ
+ Phiên  làm  việc  chỉ  đọc
+ Đang  có  phiên  làm  việc  mở
+ Đang  có  phiên  làm  việc  chỉ  đọc
+ Đang  có  phiên  làm  việc  quản  trị
+ Chữ  ký  hư  hoặc  không  đúng
+ Chữ  ký  hư  hoặc  không  thể  nhận  ra
+ Thiếu  một  số  trường  bắt  buộc
+ Một  số  trường  bắt  buộc  có  giá  trị  không  hợp  lệ
+ Thiết  bị  không  có  hoặc  đã  bị  rút  ra
+ Thiết  bị  không  hợp  lệ  hoặc  không  thể  nhận  ra
+ Thiết  bị  được  chống  ghi
+ Không  thể  nhập  vì  khoá  không  hợp  lệ
+ Không  thể  nhập  vì  khoá  sai  kích  thước
+ Không  thể  nhập  vì  khoá  sai  kiểu
+ Bạn  đã  đăng  nhập  rồi
+ Không  có  người  dùng  nào  đăng  nhập
+ Chưa  đặt  mật  khẩu  người  dùng  hoặc  PIN
+ Người  dùng  sai  kiểu
+ Người  dùng  khác  đã  đăng  nhập
+ Quá  nhiều  người  dùng  thuộc  các  loại  khác  nhau  đang  đăng  nhập
+ Không  thể  nhập  khoá  không  hợp  lệ
+ Không  thể  nhập  khoá  sai  kích  thước
+ Không  thể  xuất  vì  khoá  không  hợp  lệ
+ Không  thể  xuất  vì  khoá  sai  kích  thước
+ Không  thể  xuất  vì  khoá  sai  kiểu
+ Không  thể  khởi  động  bộ  phát  số  ngẫu  nhiên
+ Không  có  bộ  phát  sinh  số  ngẫu  nhiên
+ Cơ  chế  mã  hoá  có  tham  số  không  hợp  lệ
+ Không  đủ  chỗ  lưu  kết  quả
+ Trạng  thái  được  lưu  không  hợp  lệ
+ Thông  tin  nhạy  cảm  và  không  thể  tiết  lộ
+ Không  thể  lưu  trạng  thái
+ Module  đã  được  khởi  động
+ Module  đã  khởi  động  rồi
+ Không  thể  khoá  dữ  liệu
+ Người  dùng  từ  chối  yêu  cầu  ký
+ Lỗi  lạ
+ Tuỳ  chọn  này  hiệu  lực  thành  phần  PKCS # 11  trong  trình  nền  gnome-keyring .  Nó  chỉ  có  tác  dụng  trong  khi  khởi  chạy  bằng  gnome-session  ( ví  dụ :  khi  người  dùng  đăng  nhập ) .  Thiết  lập  này  có  thể  bị  ghi  đè  bằng  đối  số  dòng  lệnh  truyền  cho  trình  nền .
+ Tuỳ  chọn  này  bật  SSH  agent  trong  gnome-keyring  daemon .  Nó  chỉ  có  tác  dụng  khi  gnome-keyring-daemon  hoạt  động ,  ( ví  dụ :  khi  người  dùng  đăng  nhập ) .  Thiết  lập  này  có  thể  bị  ghi  đè  bằng  đối  số  dòng  lệnh  truyền  cho  daemon .
+ Tuỳ  chọn  này  hiệu  lực  thành  phần  dịch  vụ  mật  trong  trình  nền  gnome-keyring .  Nó  chỉ  có  tác  dụng  trong  khi  khi  khởi  chạy  bằng  gnome-session  ( ví  dụ :  khi  người  dùng  đăng  nhập ) .  Thiết  lập  này  có  thể  bị  ghi  đè  bằng  đối  số  dòng  lệnh  truyền  cho  trình  nền .
+ Có  bật  thành  phần  gnome-keyring  PKCS # 11  hay  không .
+ Có  bật  dịch  vụ  mật  của  gnome-keyring  hay  không .
+   không   rõ 

@@ -1,0 +1,86 @@
+ Thuộc  tính  bất  thường  ' % s '  cho  yếu  tố  ' % s '
+ Không  tìm  thấy  thuộc  tính  ' % s '  của  yếu  tố  ' % s '
+ Thẻ  bất  thường  ' % s ' ,  mong  đợi  thẻ  ' % s '
+ Thẻ  bất  thường  ' % s '  bên  trong  ' % s '
+ Không  tìm  thấy  tập  tin  liên  kết  lưu  hợp  lệ  trong  các  thư  mục  dữ  liệu
+ Một  liên  kết  lưu  URI  ' % s '  đã  có
+ Không  tìm  thấy  liên  kết  lưu  URI  ' % s '
+ Chưa  xác  định  kiểu  MIME  trong  liên  kết  lưu  URI  ' % s '
+ Chưa  xác  định  cờ  riêng  trong  liên  kết  lưu  URI  ' % s '
+ Chưa  đặt  nhóm  trong  liên  kết  lưu  URI  ' % s '
+ Không  có  ứng  dụng  tên  ' % s '  đã  đăng  ký  một  liên  kết  lưu  ' % s '
+ Lỗi  mở  rộng  dòng  thực  hiện  ' % s '  bằng  URI  ' % s '
+ Không  hỗ  trợ  khả  năng  chuyển  đổi  từ  bộ  ký  tự  ' % s '  sang  ' % s '
+ Không  thể  mở  bộ  chuyển  đổi  từ  ' % s '  sang  ' % s '
+ Gặp  dây  byte  không  hợp  lệ  trong  dữ  liệu  nhập  chuyển  đổi
+ Gặp  lỗi  khi  chuyển  đổi :  % s
+ Dây  ký  tự  riêng  phần  ở  cuối  dữ  liệu  nhập
+ Không  thể  chuyển  đổi  đồ  dữ  trữ  ' % s '  thành  bộ  mã  ' % s '
+ URI  ' % s '  không  phải  là  một  URI  tuyệt  đối  sử  dụng  lược  đồ  ' file '  ( tập  tin )
+ Không  cho  phép  URI  tập  tin  cục  bộ  ' % s '  chứa  dấu  thăng  ' # '
+ URI  ' % s '  không  hợp  lệ
+ Tên  máy  của  URI  ' % s '  không  hợp  lệ
+ URI  ' % s '  chứa  một  số  ký  tự  đã  thoát  không  hợp  lệ
+ Tên  đường  dẫn  ' % s '  không  phải  là  một  đường  dẫn  tuyệt  đối
+ Tên  máy  không  hợp  lệGDateTime
+ GDateTime
+ full  month  name
+ abbreviated  month  name
+ full  weekday  name
+ abbreviated  weekday  name
+ Gặp  lỗi  khi  mở  thư  mục  ' % s ' :  % s
+ Không  thẻ  cấp  phát  % lu  byte  để  đọc  tập  tin  ' % s '
+ Gặp  lỗi  khi  đọc  tập  tin  ' % s ' :  % s
+ Tập  tin  " % s "  quá  lớn
+ Lỗi  đọc  từ  tập  tin  ' % s ' :  % s
+ Lỗi  mở  tập  tin  ' % s ' :  % s
+ Lỗi  lấy  các  thuộc  tính  của  tập  tin  ' % s ' :  lỗi  ' fstat ( ) ' :  % s
+ Lỗi  mở  tập  tin  ' % s ' :  lỗi  ' fdopen ( ) ' :  % s
+ Lỗi  thay  đổi  tên  tập  tin  ' % s '  thành  ' % s ' :  lỗi  ' g _ rename ( ) ' :  % s
+ Lỗi  tạo  tập  tin  ' % s ' :  % s
+ Lỗi  ghi  tập  tin  ' % s ' :  lỗi  ' fdopen ( ) ' :  % s
+ Lỗi  ghi  tập  tin  ' % s ' :  lỗi  fflush ( ) :  % s
+ Lỗi  ghi  tập  tin  ' % s ' :  lỗi  fsync ( ) :  % s
+ Lỗi  đóng  tập  tin  ' % s ' :  lỗi  ' fclose ( ) ' :  % s
+ Không  thể  gỡ  bỏ  tập  tin  tồn  tại  ' % s ' :  lỗi  ' g _ unlink ( ) ' :  % s
+ Biểu  mẫu  ' % s '  không  hợp  lệ ,  không  nên  chứa  ' % s '
+ Biểu  mẫu  ' % s '  không  chứa  XXXXXX
+ % .1f  KB
+ % .1f  MB
+ % .1f  GB
+ % .1f  TB
+ % .1f  PB
+ % .1f  EB
+ Lỗi  đọc  liên  kết  tượng  trưng  ' % s ' :  % s
+ Không  hỗ  trợ  khả  năng  sử  dụng  liên  kết  tượng  trưng
+ Không  thể  mở  bộ  chuyển  đổi  từ  ' % s '  sang  ' % s ' :  % s
+ Không  thể  thực  hiện  tiến  trình  đọc  thô  trong  ' g _ io _ channel _ read _ line _ string '
+ Có  dữ  liệu  chưa  được  chuyển  đổi  còn  lại  nằm  trong  bộ  đệm  đọc
+ Kênh  tận  hết  trong  ký  tự  riêng  phần
+ Không  thể  thực  hiện  tiến  trình  đọc  thô  trong  ' g _ io _ channel _ read _ to _ end '
+ Lỗi  ánh  xạ  tập  tin  ' % s ' :  lỗi  ' mmap ( ) ' :  % s
+ Lỗi  trên  dòng  % d  ký  tự  % d : 
+ Văn  bản  được  mã  hoá  UTF-8  không  hợp  lệ  ' % s '
+ ' % s '  không  phải  là  tên  hợp  lệ
+ ' % s '  không  phải  là  tên  hợp  lệ :  ' % c '
+ Lỗi  trên  dòng  % d :  % s
+ Lỗi  phân  tách  ' % - . * s ' ,  nó  nên  là  một  chữ  số  bên  trong  một  tham  chiếu  ký  tự  ( v.d.  ' # 234 ' )  —  có  lẽ  chư  số  quá  lớn .
+ Tham  chiếu  ký  tự  không  có  dấu  chấm  phẩy  cuối  cùng ;  dường  như  bạn  đã  dùng  một  dấu  và  mà  không  định  bắt  đầu  một  thực  thể  —  hãy  thoát  dấu  và  như  là  ' amp ; '
+ Tham  chiếu  ký  tự  ' % - . * s '  không  mã  hóa  một  ký  tự  được  phép .
+ Thấy  thực  thể  rỗng  ' ; ' ;  những  thực  thể  hợp  lệ  là :   &  &  quot ;   &  lt ;   &  gt ;   &  apos ;
+ Thực  thể  lạ  ' % - . * s '
+ Thực  thể  không  có  dấu  chấm  phẩy  cuối  cùng ;  dường  như  bạn  đã  dùng  dấu  và  mà  không  định  bắt  đầu  một  thực  thể  —  hãy  thoát  dấu  và  như  là  ' amp ; '
+ Tài  liệu  phải  bắt  đầu  bằng  một  yếu  tố  ( v.d.   <  book  >   [ quyển  sách ] )
+ ' % s '  không  phải  là  một  ký  tự  hợp  lệ  đi  theo  một  dấu  ngoặc  nhọn  mở  '  <  '  ;  không  cho  phép  nó  bắt  đầu  một  tên  yếu  tố
+ Ký  tự  lạ  ' % s ' ,  mong  đợi  một  dấu  ngoặc  nhọn  đóng  '  >  '  để  kết  thúc  thẻ  rỗng  ' % s '
+ Ký  tự  lạ  ' % s ' ,  mong  đợi  một  dấu  bằng  ' = '  nằm  sau  tên  thuộc  tính  ' % s '  của  yếu  tố  ' % s '
+ Ký  tự  lạ  ' % s ' ,  mong  đợi  một  dấu  ngoặc  nhọn  đóng  '  >  '  hay  dấu  xuyệc  ' / '  để  kết  thúc  thẻ  khởi  đầu  của  yếu  tố  ' % s ' ,  hay  tùy  ý  một  thuộc  tính ;  có  lẽ  bạn  đã  dùng  một  ký  tự  không  hợp  lệ  trong  một  tên  thuộc  tính .
+ Ký  tự  lạ  ' % s ' ,  mong  đợi  một  dấu  nháy  kép  mở  nằm  sau  dấu  bằng  khi  đưa  giá  trị  cho  thuộc  tính  ' % s '  của  yếu  tố  ' % s '
+ ' % s '  không  phải  là  một  ký  tự  hợp  lệ  nằm  theo  các  ký  tự  '  <  / '  ;  không  cho  phép  ' % s '  bắt  đầu  một  tên  yếu  tố
+ ' % s '   không  phải  là  một  ký  tự  hợp  lệ  nằm  theo  tên  yếu  tố  đóng  ' % s ' ;  ký  tự  được  phép  là  '  >  ' .
+ Yếu  tố  ' % s '  đã  được  đóng ,  không  có  yếu  tố  mở  hiện  thời
+ Yếu  tố  ' % s '  đã  được  đóng ,  nhưng  yếu  tố  mở  hiện  thời  là  ' % s '
+ Tài  liệu  rỗng  hay  chứa  chỉ  khoảng  trắng
+ Tài  liệu  đã  kết  thúc  bất  thường  ngay  sau  một  dấu  ngoặc  nhọn  mở  '  <  '
+ Tài  liệu  đã  kết  thúc  bất  thường  với  các  yếu  tố  vẫn  còn  mở  —  ' % s '  là  yếu  tố  đã  mở  cuối  cùng
+ Tài  liệu  kết  thúc  bất  thường ,  mong  đợi  thấy  dấu  ngoặc  nhọn  đóng  kết  thúc  thẻ  '

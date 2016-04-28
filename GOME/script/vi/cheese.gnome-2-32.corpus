@@ -1,0 +1,48 @@
+ Cheese
+ Trang  chủ  Cheese
+ Chụp  ảnh  và  phim  dùng  webcam ,  thêm  các  hiệu  ứng  đồ  họa  thứ  vị .
+ Đếm  ngược
+ Đặt  là  True  để  hiện  đếm  ngược  khi  chụp  ảnh
+ Chuỗi  chỉ  thị  thiết  bị  webcam
+ Chuỗi  thiết  bị  mà  chỉ  tới  webcam ,  v.d.  «  / dev / video0  »
+ Hiệu  ứng  đã  chọn
+ Các  hiệu  ứng  được  áp  dụng  vào  lúc  khởi  chạy .  Giá  trị  có  thể  gồm :  " mauve "  ( màu  hoà  ca ) ,  " noir _ blanc "  ( màu  đen  trắng ) ,  " saturation "  ( bão  hoà ) ,  " hulk "  ( to  lớn ) ,  " vertical-flip "  ( lật  dọc ) ,  " horizontal-flip "  ( lật  ngang ) ,  " shagadelic "  ( ma  tuý ) ,  " vertigo "  ( chóng  mặt ) ,  " edge "  ( cạnh ) ,  " dice "  ( súc  sắc ) ,  " warp "  ( làm  oằn )
+ Độ  phân  giải  chiều  rộng
+ Độ  phân  giải  chiều  rộng  của  ảnh  được  chụp  từ  máy  ảnh
+ Độ  phân  giải  chiều  cao
+ Độ  phân  giải  chiều  cao  của  ảnh  được  chụp  từ  máy  ảnh
+ Bão  hòa
+ Đường  dẫn  phim
+ Xác  định  đường  dẫn  theo  đó  cần  lưu  lại  các  phim .  Bỏ  trống  thì  dùng  «  XDG _ VIDEO / Webcam  » .
+ Đường  dẫn  ảnh  chụp
+ Xác  định  đường  dẫn  theo  đó  cần  lưu  lại  các  ảnh  chụp .  Bỏ  trống  thì  dùng  «  XDG _ PHOTO / Webcam  » .
+ Có  bật  xoá  tức  thì  không
+ Nếu  là  true ,  Cheese  sẽ  có  tính  năng  cho  phép  xoá  tập  tin  tức  thì ,  tại  chỗ ,  thay  vì  phải  chuyển  vào  Sọt  rác .  Tính  năng  này  có  thể  nguy  hiểm ,  dùng  cẩn  thận .
+ Chuyển  sang  bộ  chọn  hiệu  ứng
+ Chuyển  sang  chế  độ  ảnh
+ Chuyển  sang  chế  độ  phim
+ _ Chụp  ảnh
+ _ Thôi  toàn  màn  hình
+ _ Hiệu  ứng
+ Tùy  thích
+   Độ   phân   giải 
+ Không  tìm  thấy  máy  ảnh .
+ Thiếu  một  hoặc  nhiều  yếu  tố  gstreamer  cần  thiết : 
+ % d 
+ _ Bỏ  qua
+ Bỏ  qua  _ tất  cả
+ Xoá  _ tất  cả
+ Lỗi  khởi  chạy  chương  trình  để  hiển  thị :  % s
+ Lưu  tập  tin
+ Không  thể  lưu  % s
+ Lỗi  xoá
+ Không  thể  xoá  tập  tin  «  % s  » .  Chi  tiết :  % s
+ Bạn  có  chắc  muốn  xoá  vĩnh  viễn  " % s "  không ?
+ Nếu  bạn  xoá  một  mục ,  nó  sẽ  bị  mất  vĩnh  viễn .
+ Lỗi  lạ
+ Không  thể  chuyển  tập  tin  vào  Sọt  rác ,  bạn  có  muốn  xoá  tức  thì  không ?
+ Không  thể  cho  tập  tin  «  % s  »  vào  Sọt  rác .  Chi  tiết :  % s
+ Thực  sự  muốn  di  chuyển  tất  cả  các  ảnh  chụp  và  phim  vào  Sọt  Rác  không ?
+ Chu _ yển  vào  Sọt  Rác
+ Không  thể  mở  tập  tin  trợ  giúp  cho  trình  Cheese
+ Nhóm  Việt  hóa  GNOME   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >

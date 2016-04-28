@@ -1,0 +1,354 @@
+ Điện  thoại  mềm  Ekiga
+ Điện  thoại  IP ,  VoIP  và  hội  thảo  ảnh  động
+ Nói  chuyện  với  người  qua  Internet
+ Không  phát  hiện  codec  âm  thanh  có  thể  sử  dụng
+ Gột  danh  sách
+ Đã  nhận
+ Đã  gọi
+ Nhỡ
+ Thêm  vào  bản  liệt  kê  cục  bộ
+ Dịch  vụ
+ Thử  phản  hồi
+ Phòng  hội
+ Liên  lạc
+ Gia  đình
+ Bạnlevel
+ Người  cùng  cộng  táclevel
+ Trợ  tálevel
+ Người  giám  sát
+ Mình
+ Hãy  điền  vào  đơn  này  để  thêm  một  liên  lạc  mới  vào  bản  liệt  kê  nội  bộ  của  Ekiga
+ Tên :
+ Bật  thì  các  liên  kết  ngoại  tuyến  cũng  được  hiển  thị  trên  bản  liệt  kê .
+ Địa  chỉ :
+ Để  liên  lạc  vào  nhóm :
+ Bạn  đã  cung  cấp  một  địa  chỉ  không  được  hỗ  trợ
+ Bạn  đã  có  một  liên  lạc  với  địa  chỉ  này  !
+ Thay  tên  nhóm
+ Hãy  chỉnh  sửa  tên  nhóm  này
+ Không  tên
+ _ Sửa
+ _ Bỏ
+ Chọn  nhóm :
+ Gọi
+ Chuyển
+ Nhân  đôi  bí  danh
+ Tên  người  dùng  /  mật  khẩu  sai
+ Lỗi  truyền
+ Bị  lỗi ( you  are )  unregistered " ,  and  not  as  " ( you  have  been )  unregistered
+ Đã  hủy  đăng  kýregistered  ( with  2  voice  mail  messages )
+ Đang  xử  lý ...
+ _ Tắt
+ _ Bật
+ Tái  sác  tài  khoản
+ Xem  lược  sử  số  còn  lại
+ Sửa  tài  khoản
+ Hãy  cập  nhật  những  trường  này :
+ Bộ  đăng  ký :
+ Bộ  bảo  quản  cổng  ra :
+ Người  dùng :
+ UserAuthentication  user
+ Mật  khẩu  :
+ Thời  hạn :
+ Bật  tài  khoản
+ Chưa  cung  cấp  một  tên  cho  tài  khoản  đó .
+ Chưa  cung  cấp  một  máy  với  đó  cần  đăng  ký .
+ Chưa  cung  cấp  một  tên  người  dùng  cho  tài  khoản  đó .
+ Thời  hạn  nên  dài  hơn .
+ Hãy  điền  vào  đơn  này  để  thêm  một  liên  lạc  mới  vào  bản  liệt  kê  nội  bộ  của  Ekiga ( you  are )  registered " ,  and  not  as  " ( you  have  been )  registered
+ Đã  đăng  ký
+ Không  thể  đăng  ký
+ Thê _ m  tài  khoản  Ekiga.net
+ Thê _ m  Tài  khoản  Gọi  Ra  Ekiga
+ Thê _ m  Tài  khoản  H.323
+ Mở  một  tài  khoản  SIP  Ekiga.net
+ _ Mật  khẩu
+ Mở  một  tài  khoản  gọi  đi  Ekiga
+ Mã  số  tài  khoản :
+ Mã  PIN :
+ Tê _ n :
+ Người  dùng  cục  bộ  đã  xóa  cuộc  gọi
+ Người  dùng  cục  bộ  đã  từ  chối  cuộc  gọi
+ Người  dùng  từ  xa  đã  xóa  cuộc  gọi
+ Người  dùng  từ  xa  đã  từ  chối  cuộc  gọi
+ Người  dùng  từ  xa  đã  ngừng  gọi
+ Cuộc  gọi  bị  kết  thúc  bằng  cách  bất  thường
+ Không  kết  nối  được  đến  máy  từ  xa
+ Bộ  bảo  quản  cổng  ra  đã  xóa  cuộc  gọi
+ Không  tìm  thấy  người  dùng
+ Không  đủ  băng  thông
+ Không  có  codec  dùng  chung
+ Cuộc  gọi  bị  chuyển  tiếp
+ Lỗi  kiểm  tra  bảo  mật
+ Người  dùng  cục  bộ  đang  bận
+ Liên  kết  đông  nghịt  tới  người  ở  xa
+ Người  dùng  ở  xa  đang  bận
+ Máy  ở  xa  đang  ngoại  tuyến
+ Người  dùng  không  sẵn  sàng
+ Dịch  vụ  không  sẵn  sàng
+ Hoàn  tất  cuộc  gọi
+ Cuộc  gọi  nhỡ  từ  % s
+ Ekiga  đã  không  tự  động  cấu  hình  được  thiết  lập  mạng .  Bạn  vẫn  còn  có  thể  sử  dụng  nó ,  nhưng  cũng  cần  phải  tự  cấu  hình  thiết  lập  mạng .  Xem  trang  «  http : / / wiki.ekiga.org / index.php / Enable _ port _ forwarding _ manually  »  để  tìm  hướng  dẫn  ( về  phương  pháp  chuyển  tiếp  cổng  một  cách  thủ  công ) .
+ Tin  nhắn
+ Mã  trạng  thái  sai
+ Nhiều  tùy  chọn
+ Đã  chuyển  lâu  dài
+ Đã  chuyển  tạm  thời
+ Dùng  ủy  nhiệm
+ Dịch  vụ  xen  kẽ
+ Yêu  cầu  sai
+ Không  cho  phép
+ Cần  trả  tiền
+ Không  tìm  thấy
+ Phương  pháp  không  cho  phép
+ Không  thích  hợp
+ Cần  xác  thực  ủy  nhiệm
+ Quá  thời
+ Xung  đột
+ Độ  dài  mong  đợi
+ Thực  thể  yêu  cầy  quá  lớn
+ URI  yêu  cầu  quá  dài
+ Kiểu  vật  chứa  không  được  hỗ  trợ
+ Lược  đồ  URI  không  được  hỗ  trợphone  number
+ Phần  mở  rộng  sai
+ Cần  phần  mở  rộng
+ Khoảng  quá  ngắn
+ Tạm  thời  không  có
+ Gặp  vòng  lặp
+ Quá  nhiều  bước
+ Địa  chỉ  chưa  hoàn  tất
+ Mơ  hồ
+ Bận  ở  đây
+ Yêu  cầu  bị  chấm  dứt
+ Không  thích  hợp  ở  đây
+ Sự  kiện  sai
+ Yêu  cầu  bị  hoãn
+ Không  thể  đọc
+ Lỗi  trình  phục  vụ  nội  bộ
+ Chưa  thực  hiện
+ Cổng  ra  sai
+ Máy  phục  vụ  quá  hạn
+ Phiên  bản  SIP  không  được  hỗ  trợ
+ Tin  nhẳn  quá  lớn
+ Bận  ở  khắp  nơi
+ Không  còn  có  lại
+ Không  thích  hợp  toàn  cục
+ Không  thể  gửi  tin  nhắn
+ Cuộc  gọi  đến  từ  % s
+ Cuộc  gọi  đến
+ Đang  nói  với  % s
+ Đang  nói
+ Nâng  lên  ưu  tiên  codec  đã  chọn
+ Hạ  thấp  ưu  tiên  codec  đã  chọn
+ Cấp  cao
+ Tên  tài  khoản
+ Trạng  thái
+ Tài  khoản
+ _ Tài  khoản
+ Trợ  g _ iúp
+ Sổ  địa  chỉ
+ _ Sổ  địa  chỉ
+ Loại
+ Đây  là  trợ  lý  cấu  hình  chung  của  Ekiga .  Các  bước  sau  sẽ  thiết  lập  trình  Ekiga  cho  bạn  bằng  cách  hỏi  vài  câu  đơn  giản .  Một  khi  bạn  đã  hoàn  tất  những  bước  này ,  bạn  vẫn  có  thể  sửa  lại  lần  sau  bằng  cách  chọn  Tùy  thích  trong  trình  đơn  Sửa .
+ Chào  mừng  dùng  Ekiga
+ Thông  tin  cá  nhân
+ Hãy  gõ  tên  và  họ  của  bạn :
+ Tên  và  họ  của  bạn  được  dùng  khi  kết  nối  đến  phần  mềm  Tiếng  nói  qua  IP  ( VoIP )  và  hội  thảo  ảnh  động  khác .
+ Tài  khoản  Ekiga.net
+ Hãy  gõ  tên  người  dùng  của  bạn :
+ Hãy  gõ  mật  khẩu  của  bạn :
+ Tên  người  dùng  và  mật  khẩu  được  dùng  để  đăng  nhập  vào  tài  khoản  của  bạn  đã  có  tại  dịch  vụ  SIP  miễn  phí  ekiga.net.  Chưa  có  địa  chỉ  SIP  ekiga.net  thì  trước  tiên  bạn  có  thể  tạo  tài  khoản  bên  dưới .  Hành  động  này  sẽ  tạo  một  địa  chỉ  SIP  riêng  cho  phép  người  khác  điện  thoại  cho  bạn .  Có  thể  bỏ  qua  bước  này  nếu  bạn  sử  dụng  một  dịch  vụ  SIP  xen  kẽ ,  hoặc  nếu  bạn  muốn  ghi  rõ  chi  tiết  đăng  nhập  lần  sau .
+ Tôi  không  muốn  đang  ký  với  dịch  vụ  miễn  phí  ekiga.net
+ Tài  khoản  Gọi  Ra  Ekiga
+ Hãy  gõ  mã  số  tài  khoản :
+ Hãy  gõ  mã  PIN :
+ Dùng  trình  Ekiga ,  bạn  có  khả  năng  gọi  cho  điện  thoại  cố  định  và  điện  thoại  di  động  trên  khắp  thế  giới .  Để  hiệu  lực  khả  năng  này ,  bạn  hãy  làm  hai  hành  vi :    1 .  Trước  tiên  mua  một  tài  khoản  ở  địa  chỉ  URL  bên  dưới .    2 .  Sau  đó  thì  nhập  mã  số  tài  khoản  và  mã  PIN  riêng  của  mình . \  Dịch  vụ  sẽ  hoạt  động  được  chỉ  nếu  tài  khoản  của  bạn  được  tạo  dùng  địa  chỉ  URL  trong  hộp  thoại  này .
+ Tôi  không  muốn  đang  ký  với  dịch  vụ  Gọi  Ra  Ekiga
+ Hoàn  tất  cấu  hình
+ Bạn  vừa  mới  hoàn  thánh  cấu  hình  chương  trình  Ekiga .  Mọi  thiết  lập  vẫn  còn  có  thể  được  điều  chỉnh  trong  Tùy  thích  Ekiga .  Chúc  bạn  sử  dụng  vui  vẻ  !
+ Tóm  tắt  Cấu  hình :
+ URI  SIP
+ Gọi  Ra  Ekiga
+ Trợ  lý  Cấu  hình  Ekiga  ( % d  trên  % d )
+ Bộ  _ lọc  tìm  kiếm :
+ Gặp  lỗi  khi  sơ  khởi  đầu  ra  phim
+ Gọi  mà  không  hiển  thị  phim-  >
+ Gặp  lỗi  khi  mở  hay  sơ  khởi  đầu  ra  phim .  Hãy  kiểm  tra  không  có  ứng  dụng  khác  đang  sử  dụng  đầu  ra  phim  tăng  tốc .
+ Gặp  lỗi  khi  truy  cập  đến  thiết  bị  ảnh  động  % s
+ Gặp  lỗi  khi  mở  thiết  bị .  Trong  trường  hợp  mà  nó  là  một  thiết  bị  có  thể  cắm  nóng ,  có  thể  đủ  để  tái  kết  nối .  Nếu  không ,  hoặc  nếu  nó  vẫn  còn  không  truy  cập  được ,  hãy  kiểm  tra  xem  quyền  hạn  là  đúng ,  và  trình  điều  khiển  thích  hợp  đã  được  nạp .
+ Trình  điều  khiển  thiết  bị  ảnh  động  không  hỗ  trợ  định  dạng  ảnh  động  yêu  cầu .
+ Không  mở  được  kênh  đã  chọn .
+ Có  vẻ  là  trình  điều  khiển  không  hỗ  trợ  bất  cứ  định  dạng  màu  nào  được  trình  Ekiga  hỗ  trợ .  Hãy  kiểm  tra  tài  liệu  hướng  dẫn  về  trình  điều  khiển  hạt  nhân  để  xác  định  Bảng  chọn  ( Palette )  nào  được  hỗ  trợ .
+ Gặp  lỗi  khi  đặt  tỷ  lệ  khung .
+ Gặp  lỗi  khi  đặt  kích  cỡ  khung .
+ Gặp  lỗi  khi  mở  thiết  bị  nhập  âm  thanh  % ssilence
+ Không  có  âm  thanh  sẽ  được  truyền .
+ Không  thể  mở  thiết  bị  âm  thanh  đã  chọn  để  thu .  Trong  trường  hợp  mà  nó  là  một  thiết  bị  có  thể  cắm  nóng ,  có  thể  đủ  để  tái  kết  nối .  Nếu  không ,  hoặc  nếu  nó  vẫn  còn  không  truy  cập  được ,  hãy  kiểm  tra  lại  thiết  lập  âm  thanh ,  các  quyền  hạn ,  và  thiết  bị  không  bận .
+ Thiết  bị  âm  thanh  đã  chọn  đã  được  mở ,  nhưng  không  thể  đọc  dữ  liệu  từ  nó .  Trong  trường  hợp  mà  nó  là  một  thiết  bị  có  thể  cắm  nóng ,  có  thể  đủ  để  tái  kết  nối .  Nếu  không ,  hoặc  nếu  nó  vẫn  còn  không  truy  cập  được ,  hãy  kiểm  tra  lại  thiết  lập  âm  thanh .
+ Gặp  lỗi  khi  mở  thiết  bị  xuất  âm  thanh  % s
+ Không  có  âm  thanh  gửi  đến  sẽ  được  phát .
+ Không  thể  mở  thiết  bị  âm  thanh  đã  chọn  để  phát .  Trong  trường  hợp  mà  nó  là  một  thiết  bị  có  thể  cắm  nóng ,  có  thể  đủ  để  tái  kết  nối .  Nếu  không ,  hoặc  nếu  nó  vẫn  còn  không  truy  cập  được ,  hãy  kiểm  tra  lại  thiết  lập  âm  thanh ,  các  quyền  hạn ,  và  thiết  bị  không  bận .
+ Thiết  bị  âm  thanh  đã  chọn  cũng  đã  được  mở ,  nhưng  không  thể  ghi  dữ  liệu  vào  nó .  Trong  trường  hợp  nó  là  một  thiết  bị  có  thể  cắm  nóng ,  hãy  thử  tái  kết  nối  nó .  Nếu  không ,  hoặc  nếu  nó  vẫn  còn  không  tiếp  cận  được ,  kiểm  tra  lại  thiết  lập  âm  thanh .
+ Tạm  nghỉ
+ Cửa  sổ  trò  chuyện
+ Cuộc  gọi  đang  chờ
+ Cuộc  gọi  đã  lấy
+ Có  kết  nối  với  % stransmit
+ TX :  % dx % d 
+ TX :  % dx % d  receive
+ RX :  % dx % d 
+ Gói  tin  mất :  % .1f  % %  Gói  tin  trễ :  % .1f  % %  Gói  tin  sai  thứ  tự  :  % .1f  % %  Vùng  đệm  Jitter :  % d  ms % s % s % s
+ Âm : % .1f / % .1f    Ảnh : % .1f / % .1f    Khung : % d / % d
+ _ Lấy  cuộc  gọi
+ Giữ  c _ uộc  gọi
+ Tạm  n _ gừng  âm
+ Tạm  _ ngừng  ảnh
+ T _ iếp  tục  truyền  âm
+ _ Tiếp  tục  truyền  ảnh
+ Thiết  lập  ảnh  động
+ Chỉnh  độ  sáng
+ Chỉng  độ  trắng
+ Chỉnh  màu
+ Chỉnh  độ  tương  phản
+ Thiết  lập  âm  thanh
+ Giữ  cuộc  gọi  hiện  thời
+ N _ gừng
+ Chuyển  đổ _ i  cuộc  gọi
+ Chuyển  cuộc  gọi  hiện  thời
+ Tạm  ngừng  hoặc  tiếp  tục  lại  truyền  âm  thanh
+ Tạm  ngừng  hoặc  tiếp  tục  lại  truyền  ảnh  động
+ Đóng  cửa  sổ  Ekiga
+ _ Xem
+ Phim  từ  _ xa
+ T _ oàn  màn  hình
+ Chuyển  đổi  sang  toàn  màn  hình
+ Chuyển  cuộc  gọi  tới :
+ Điều  chỉnh  âm  lượng  của  bo  mạch  âm  thanh
+ Điều  chỉnh  thiết  lập  màu  sắc  của  thiết  bị  ảnh  động
+ nói :
+ Mở  liên  kết  trong  trình  duyệt  Web
+ Chép  liên  kết
+ _ Cười ...
+ Chưa  sắp  xếp
+ Vắng  mặt
+ Trực  tuyến
+ Lỗi
+ Hãy  nhập  vào  bên  trái  một  địa  chỉ  URL ,  sau  đó  bấm  cái  nút  này  để  gọi  hay  ngừng  nói
+ Hiện  ảnh  từ  camera  của  bạn
+ Xem  danh  sách  liên  lạc
+ Xem  vùng  quay  số
+ _ Chát
+ Liên  lạ _ c
+ Làm  với  liên  lạc  đã  chọn
+ Gọi  mới
+ Thêm  một  liên  lạc  vào  bản  liệt  kê
+ Tìm  liên  lạc
+ Thoát
+ Trợ  lý  _ Cấu  hình
+ Chạy  Trợ  lý  Cấu  hình
+ Sửa  tài  khoản  của  bạn
+ Thay  đổi  tùy  thích  của  bạn
+ _ Liên  lạc
+ Vùng  _ quay  số
+ Lượ _ c  sử  cuộc  gọi
+ Hiện  liên  lạ _ c  ngoại  tuyến
+ Hiện  liên  lạc  ngoại  tuyến
+ Hãy  tìm  trợ  giúp  trong  hướng  dẫn  Ekiga
+ Xem  thông  tin  về  Ekiga
+ Vùng  quay  số
+ Ekiga
+ Phát  âm  thanh  khi  nhận  cuộc  gọi  mới
+ Phát  tiếng  chuông
+ Phát  tiếng  bận
+ Phát  tiếng  khi  nhận  thư  thoại  mới
+ Phát  tiếng  khi  nhận  tin  nhắn  tức  khắc  mới
+ Tên  đầ _ y  đủ  :
+ Nhập  họ  tên  của  bạn
+ Trình  bày  ảnh  động
+ Hiển  thị  mọi  cử _ a  sổ  ảnh  động  trên  các  cửa  sổ  khác .
+ Để  cửa  sổ  hiển  thị  ảnh  động  trên  mọi  cửa  sổ  khác  trong  suốt  cuộc  gọi
+ Thiết  lập  Mạng
+ Tắt  _ dò  tìm  mạng
+ Tắt  tự  động  thiết  lập  mạng  là  kết  quả  của  hàm  thử  STUN
+ _ Luôn  chuyển  tiếp  cuộc  gọi  đến  máy  đã  chọn
+ Bật  thì  mọi  cuộc  gọi  đến  sẽ  được  chuyển  tiếp  tới  máy  xác  định  trong  thiết  lập  giao  thức
+ Khô _ ng  trả  lời  nên  chuyển  tiếp  cuộc  gọi  tới  máy  đưa  ra
+ Bật  thì  mọi  cuộc  gọi  đến  sẽ  được  chuyển  tiếp  tới  máy  xác  định  trong  thiết  lập  giao  thức ,  nếu  bạn  không  trả  lời  cuộc  gọi .
+ _ Bận  nên  chuyển  tiếp  cuộc  gọi  tới  máy  đưa  ra
+ Bật  thì  mọi  cuộc  gọi  đến  sẽ  được  chuyển  tiếp  tới  máy  xác  định  trong  thiết  lập  giao  thức ,  nếu  bạn  đang  gọi  hoặc  nếu  bạn  đang  ở  chế  độ  Đừng  làm  phiền .
+ Tùy  chọn  gọi
+ Tự  động  từ  chối  hay  chuyển  tiếp  các  cuộc  gọi  được  gửi  đến  nếu  không  có  trả  lời  trong  khoảng  thời  gian  đã  chỉ  định  ( tính  bằng  giây )
+ A
+ Dữ  kiện
+ Chọn  âm  thanh
+ Tập  tin  WAV
+ Giọng
+ RFC2833
+ Q.931
+ _ URI  chuyển  tiếp :
+ Máy  đến  đó  cần  chuyển  tiếp  cuộc  gọi ,  nếu  khả  năng  chuyển  tiếp  cuộc  gọi  đã  được  hiệu  lực
+ Thiết  lập  cấp  cao
+ Bậ _ t  đường  hầm  H.245
+ Tùy  chọn  này  hiệu  lực  chế  độ  Đường  hầm  H.245  ( H.245  Tunnelling ) .  Trong  chế  độ  Đường  hầm  H.245 ,  các  thông  điệp  H.245  được  bao  bọc  trong  kênh  H.225  ( cổng  1720 ) .  Trường  hợp  này  tiết  kiệm  một  kết  nối  TCP  trong  cuộc  gọi .  Chức  năng  đường  hầm  H.245  được  giới  thiệu  trong  H.323v2 ,  mà  Netmeeting  không  hỗ  trợ .  Dùng  cả  hai  Sở  Khởi  Nhanh  và  H.245  đều  có  thể  làm  hỏng  một  vài  phiên  bản  Netmeeting .
+ Bật  H.245  _ sớm
+ Việc  này  bật  H.245  trong  phần  đâu  tiến  trình  thiết  lập .
+ Bật  thủ  tục  _ sở  khởi  nhanh
+ Chọn  kích  cỡ  ảnh  động  đã  truyền
+ Chế  độ  DTMF
+ _ Gởi  DTMF  dạng :
+ INFO
+ Ủy  nhiệm  đi  _ ra :
+ Ủy  nhiệm  đi  ra  SIP  cần  dùng  khi  gọi  ra
+ Bật  phát  hiện  _ im  lặng
+ Nếu  bật ,  sẽ  dò  im  lặng  bằng  các  codec
+ Bật  _ hủy  tiếng  vọng
+ Bật  thì  hủy  bỏ  tiếng  vòng
+ Kích  cỡ  vùng  đệm  tối  đa  biến  đổi  tính  thời  gian  ngẫu  nhiên ,  để  nhận  âm  thanh  ( theo  mili  giây )
+ Thiết  bị
+ Chọn  thiết  bị  réo  chuông  cần  dùng
+ Thiết  bị  xuất :
+ Chọn  thiết  bị  xuất  âm  thanh  cần  dùng
+ Thiết  bị  nhập :
+ Chọn  thiết  bị  nhập  âm  thanh  cần  dùng
+ _ Dò  tìm  Thiết  bị
+ Nhấn  vào  đây  để  cập  nhật  danh  sách  các  thiết  bị .
+ PAL  ( Châu  Âu ,  Châu  Úc )
+ NTSC  ( Mỹ )
+ SECAM  ( Pháp )
+ Tự  động
+ Chất  lượng  ảnh
+ Bật  tùy  chọn  này  nếu  bạn  muốn  đảm  bảo  mức  chất  lượng  ảnh  tối  thiểu  ( cũng  có  thể  dẫn  tới  khung  bị  bỏ  để  không  vượt  quá  giới  hạn  tỷ  lệ  bit )  hoặc  nếu  bạn  muốn  bảo  tồn  tỷ  lệ  khung .
+ Tỷ  lệ  bit  ảnh  động  tối  đa  theo  kilobit / giây .  Cả  hai  mức  chất  lượng  ảnh  động  và  tỷ  lệ  khung  hiệu  quả  sẽ  được  chỉnh  một  cách  động  để  giữ  tỷ  lệ  bit  ở  giá  trị  đưa  ra .
+ Chọn  thiết  bị  nhập  ảnh  động  cần  dùng .  Sử  dụng  thiết  bị  này  và  gặp  lỗi  thì  truyền  ảnh  thử .
+ Cỡ  :
+ Định  dạng :
+ Chọn  định  dạng  cho  máy  ảnh  động  ( không  áp  dụng  vào  phần  lớn  máy  ảnh  USB )
+ Kênh :
+ Số  hiệu  kênh  ảnh  động  cần  dùng  ( để  chọn  máy  ảnh ,  TV  hoặc  các  nguồn  khác ) .
+ Không  tìm  thấy  thiết  bị
+ Tùy  thích  Ekiga
+ Chung
+ Chuyển  tiếp  cuộc  gọi
+ Dữ  kiện  âm  thanh
+ Âm  thanh
+ Ảnh  động
+ Tin  nhẳn  tự  chọn ...
+ Dọn
+ Tin  nhẳn  riêng
+ Xoá  các  tin  nhẳn  riêng :
+ Xác  định  một  tin  nhẳn  riêng :
+ abc
+ def
+ ghi
+ jkl
+ mno
+ pqrs
+ tuv
+ wxyz
+ Người  đóng  góp :
+ Nghệ  thuật :
+ Xem  tập  tin  AUTHORS  ( các  tác  giả )  để  tìm  công  trạng  đầy  đủ .
+ Chương  trình  này  là  phần  mềm  tự  do ;  bạn  có  thể  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  với  điều  kiện  của  Giấy  Phép  Công  Cộng  GNU  như  được  xuất  bản  bởi  Tổ  Chức  Phần  Mềm  Tự  Do ;  hoặc  phiên  bản  2  của  Giấy  Phép  này ,  hoặc  ( tùy  chọn )  bất  kỳ  phiên  bản  sau  nào .  [ Xem  thêm  bản  dịch  không  chính  thức  ở  Wikisource :  http : / / vi.wikisource.org / wiki / GPL ]
+ Chương  trình  này  được  phát  hành  vì  mong  muốn  nó  có  ích ,  nhưng  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .  Xem  Giấy  Phép  Công  Cộng  GNU  để  biết  thêm  chi  tiết .  Bạn  đã  nhận  một  bản  sao  của  Giấy  Phép  Công  Cộng  GNU  cùng  với  chương  trình  này ;  nếu  không ,  hãy  viết  thư  cho  Tổ  Chức  Phần  Mềm  Tự  Do ,  Free  Software  Foundation ,  Inc . ,  51  Franklin  Street ,  Fifth  Floor ,  Boston ,  MA   02110-1301 ,  USA  ( Mỹ ) .
+ Chương  trình  Ekiga  được  cấp  phép  dưới  Giấy  Phép  Công  Cộng  GNU  ( GPL ) ,  và  tùy  theo  một  ngoại  lệ  đặc  biệt  bạn  có  quyền  liên  kết  hay  tổ  hợp  chương  trình  này  bằng  cách  khác  với  những  chương  trình  OPAL ,  OpenH323  và  PWLIB ,  và  phân  phối  tổ  hợp  này ,  mà  không  áp  dụng  các  điều  kiện  của  giấy  phép  GPL  cho  các  chương  trình  OPAL ,  OpenH323  và  PWLIB ,  miễn  là  bạn  có  phải  tùy  theo  các  điều  kiện  của  giấy  phép  GPL  đối  với  tất  cả  các  phần  phần  mềm  còn  lại  trong  tổ  hợp  đó .
+ Nhóm  Việt  hoá  GNOME  ( http : / / gnomevi.sourceforge.net )

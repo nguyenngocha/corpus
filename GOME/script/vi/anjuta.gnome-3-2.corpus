@@ -1,0 +1,1591 @@
+ IDE  Anjuta
+ Môi  trường  phát  triển  thống  nhất
+ Phát  triển  phần  mềm  trong  một  môi  trường  phát  triển  thống  nhất
+ Văn  bản
+ Văn  bản  cần  vẽ
+ Đối  tượng  đệm  điểm  ảnh
+ Pixbuf  cần  vẽ .
+ Không  tìm  thấy  mô-đun  bổ  sung  % s
+ Không  thể  tìm  thấy  hàm  đăng  ký  phần  bổ  sung  % s  trong  mô-đun  % s
+ Gặp  lỗi  không  rõ  trong  mô-đun  % s
+ Bạn  đang  thử  mở  một  tập  tin  chứa  một  dãy  byte  không  hợp  lệ .
+ anjuta  không  thể  tự  động  quyết  định  bảng  mã  của  tập  tin  bạn  muốn  mở .
+ Thiếu  vị  trí  của  phần  bổ  sung  % s
+ Thiếu  kiểu  được  phần  bổ  sung  xác  định  % s
+ phần  bổ  sung  % s  chưa  đăng  ký  kiểu  % s
+ Unicode
+ Phương  Tây
+ Vùng  Trung  Âu
+ Vùng  Nam  Âu
+ Ban-tích
+ Ki-rin
+ A  Rập
+ tiếng  Hy  Lạp
+ Do  Thái  trực  quan
+ Do  Thái
+ Thổ  Nhĩ  Kỳ
+ Bắc  Âu
+ Xen-tơ
+ Rô-ma-ni
+ Ác-mê-ni
+ Tiếng  Hoa  truyền  thống
+ Ki-rin / Nga
+ Nhật
+ Hàn
+ Tiếng  Hoa  phổ  thông
+ Gi-oa-gi-a
+ Ki-rin / U-cợr-ainh
+ Tiếng  Việt
+ Thái
+ Không  rõ
+ Trợ  giúp
+ Biến  môi  trường :
+ Tên
+ Giá  trị
+ Chọn  tập  tin
+ su "  and  the  " sudossh
+ Mật  khẩu  :
+ Không  thể  thực  hiện  câu  lệnh  «  % s  »
+ execvp  không  thành  công
+ Trình  bao  Anjuta
+ Trình  bao  Anjuta  sẽ  chứa  phần  bổ  sung
+ Phần  bổ  sung  «  % s  »  không  tắt  được
+ Không  thể  nạp  % s  Thường  có  nghĩa  là  bản  cài  đặt  bị  hỏng .  Thông  điệp  lỗi  dẫn  tới  trường  hợp  này  là :  % s
+ Nạp
+ Phần  bổ  sung  có  sẵn
+ Phần  bổ  sung  ưa  thích
+ Chỉ  hiện  phần  bổ  sung  cho  người  dùng  kích  hoạt
+ Đây  là  những  phần  bổ  sung  được  bạn  chọn  khi  trình  Anjuta  nhắc  bạn  chọn  một  của  nhiều  phần  bổ  sung  thích  hợp .  Gỡ  bỏ  phần  bổ  sung  ưa  thích  sẽ  cho  Anjuta  nhắc  bạn  lần  nữa  để  chọn  một  phần  bổ  sung  khác .
+ Quên  phần  bổ  sung  đã  chọn
+ Chọn  phần  bổ  sung
+ Hãy  chọn  một  phần  bổ  sung  cần  kích  hoạt
+ Không  có  phần  bổ  sung  có  khả  năng  nạp  phần  bổ  sung  khác  trong  % s
+ Nhớ  sự  chọn  này
+ Hồ  sơ
+ Đống  hồ  sơ  hiện  có
+ Phần  bổ  sung  hiện  thời  săn  sàng  được  tìm  trên  đường  dẫn  phần  bổ  sung
+ Phần  bổ  sung  hoạt  động
+ Phần  bổ  sung  hoạt  động  hiên  thời
+ Trình  bao  Anjuta  cho  đó  các  phần  bổ  sung
+ Trạng  thái  Anjuta
+ Trạng  thái  Anjuta  cần  dùng  khi  nạp  và  bỏ  nạp  phần  bổ  sungIcon :  % s
+ Đã  nạp :
+ Loại
+ Chung
+ Tùy  thích  Anjuta
+ Bộ  Quản  lý  Phần  bổ  sung
+ Trình  quản  lý  phần  bổ  sung  cần  dùng  để  giải  quyết  phần  bổ  sung
+ Tên  hồ  sơ
+ Tên  của  hồ  sơ  phần  bổ  sung
+ Phần  bổ  sung  theo  hồ  sơ
+ Danh  sách  các  phần  bổ  sung  cho  hồ  sơ  này
+ Tập  tin  đồng  bộ
+ Tập  tin  để  đồng  bộ  mã  XML  đo  hiệu  năng  sử  dụng  bộ  nhớ
+ Hãy  chọn  một  phần  bổ  sung  trong  danh  sách
+ Lỗi  đọc  «  % s  » :  lỗi  phân  tích  XML .  Hồ  sơ  phần  bổ  sung  Anjuta  không  hợp  lệ  hay  bị  hỏng .
+ % s :  Cài  đặt  nó  từ  «  % s  »
+ Lỗi  đọc  «  % s  » :  thiếu  những  phần  bổ  sung  bắt  buộc  phải  dùng  mà  theo  đây :  % s
+ Chọn  những  mục  cần  lưu  :
+ Không  lưu  thì  các  thay  đổi  của  bạn  sẽ  hoàn  toàn  bị  mất .
+ Lưu
+ Mục
+ _ Hủy  các  thay  đổi
+   Có   một   mục   chứa   thay   đổi   chưa   được   lưu  .   Lưu   các   thay   đổi   trước   khi   đóng   lại   không  ? 
+ Hành  vi
+ Hiển  thị
+ Nhạy  cảm
+ Phím  tắt
+ Hệ  thống :
+ Tiện  ích  «  % s  »  chưa  được  cài  đặt .  Hãy  cài  đặt  nó .
+ Không  thể  thực  hiện  câu  lệnh :  % s  ( dùng  trình  bao  % s )
+ Không  thể  hiển  thị  trợ  giúp .  Hãy  kiểm  tra  lại  gói  tài  liệu  hướng  dẫn  của  Anjuta  đã  được  cài  đặt .  Có  thể  tải  nó  xuống  địa  chỉ  «  http : / / anjuta.org  » .
+ Không  thể  xây  dựng  giao  diện  người  dùng  cho  tập  tin  mới
+ Bị  sửa  đổi
+ Đã  thêm
+ Bị  xoá
+ Bị  xung  đột
+ Hiện  thời
+ Bị  khoá
+ Bị  thiếu
+ Không  có  phiên  bản
+ Bị  lờ  đi
+ Không  tìm  thấy  ô  điều  khiển :  % s
+ Không  tìm  thấy  tập  tin  sơ  đồ  điểm  ảnh  của  ứng  dụng :  % s
+ Hãy  ghi  rõ  tên  nhóm
+ Hãy  ghi  rõ  tên  đích
+ Cấu  hình  Dự  án
+   Tạo   lại   dự   án 
+ Cấu  hình  Tuỳ  chọn :
+ Chọn  một  thư  mục  xây  dựng
+ Thư  mục  Xây  dựng :
+ Chọn  chương  trình
+ Đối  số  :
+ Chạy  trong  thiết  bị  cuối
+   Chọn   chương   trình   cần   chạy 
+ Chạy  đồng  thời  vài  câu  lệnh :
+ Tiếp  tục  với  lỗi
+ Dịch  thông  điệp
+ Tô  sáng  các  vị  trí  thông  điệp  trong  trình  soạn  thảo
+ _ Xây  dựng
+ Cài  đặt  dưới  người  chủ  :
+ Cà _ i  đặt
+ Câu  lệnh  bị  người  dùng  thôi
+ Không  thể  biên  dịch  «  % s  » .  Chưa  xác  định  quy  tắc  biên  dịch  cho  dạng  tập  tin  này .
+ Không  thể  cấu  hình  dự  án :  thiếu  văn  lệnh  cấu  hình  trong  % s .
+ Mặc  định
+ Gỡ  lỗi
+ Đo  hiệu  năng  sử  dụng
+ Tối  ưu
+ Dự  án  này  không  chứa  tập  tin  có  thể  thực  hiện
+ Chương  trình
+ Chưa  mở  tập  tin  hay  dự  án .
+ Chương  trình  «  % s  »  không  phải  là  một  tập  tin  cục  bộ
+ Dự  án  «  % s  »  không  tồn  tại
+ Chương  trình  «  % s  »  không  có  quyền  thực  hiện
+ Tập  tin  này  không  có  tập  tin  thực  thi .
+ Tập  tin  thực  thi  «  % s  »  quá  cũ .
+ make ( \ \ [ \ \ d + \ \ ] ) ? : \ \ s + Đang \ \ svào \ \ s + thư \ \ smục \ \ s +`(.+) '
+ make ( \ \ [ \ \ d + \ \ ] ) ? : \ \ s + Đang \ \ svào \ \ s + thư \ \ smục \ \ s + ' ( . + ) '
+ make ( \ \ [ \ \ d + \ \ ] ) ? : \ \ s + Đang \ \ srời \ \ s + thư \ \ smục \ \ s +`(.+) '
+ make ( \ \ [ \ \ d + \ \ ] ) ? : \ \ s + Đang \ \ srời \ \ s + thư \ \ smục \ \ s + ' ( . + ) '
+ Đang  vào  :  % s
+ Đang  rời  khỏi :  % s
+ cảnh  báo  :
+ lỗi :
+ Câu  lệnh  đã  thoát  với  trạng  thái  % d
+ Câu  lệnh  bị  người  dùng  hủy  bỏ
+ Câu  lệnh  bị  chấm  dứt  vì  nhận  tín  hiệu  % d
+ Câu  lệnh  bị  chấm  dứt  vì  nguyên  nhân  không  rõ
+ Tổng  thời  gian  đã  qua :  % lu  giây
+ Hoàn  tất  mà  không  thành  công
+ Hoàn  tất  thành  công
+ Bản  sây  dựng  % d :  % s
+ _ Xây  dựng  dự  án
+ Xây  dựng  dự  án  hoàn  toàn
+ Cà _ i  đặt  dự  án
+ Cài  đặt  dự  án  hoàn  toàn
+ _ Gột  dự  án
+ Gột  toàn  dự  án
+ Cấu  hình  dự  án
+ Xây  dựng  kho  nén  _ Tar
+ Xây  dựng  bản  phân  phối  dạng  kho  nén  Tar
+ _ Xây  dựng  mô-đun
+ Xây  dựng  mô-đun  liên  quan  đến  tập  tin  hiện  thời
+ Cà _ i  đặt  mô-đun
+ Cài  đặt  mô-đun  liên  quan  đến  tập  tin  hiện  thời
+ _ Gột  mô-đun
+ Gột  mô-đun  liên  quan  đến  tập  tin  hiện  thời
+ _ Biên  dịch  tập  tin
+ Biên  dịch  tập  tin  đang  soạn  thảo
+ Chọn  Cấu  hình
+ Chọn  cấu  hình  hiện  thời
+ Gỡ  bỏ  Cấu  hình
+ Xoá  sạch  dự  án  ( distclean )  và  gỡ  bỏ  thư  mục  cấu  hình  nếu  có  thể  làm  được
+ _ Biên  dịch
+ Biên  dịch  tập  tin
+ Xây  dựng  mô-đun
+ Cài  đặt  mô-đun
+ _ Gột
+ Gột  mô-đun
+ Thôi  _ chạy  câu  lệnh
+ Thôi  chạy  câu  lệnh  xây  dựng
+ _ Xây  dựng  ( % s )
+ Cà _ i  đặt  ( % s )
+ _ Gột  ( % s )
+ Biên  _ dịch  ( % s )
+ Biên  _ dịch
+ Xây  dựng  câu  lệnh
+ Xây  dựng  câu  lệnh  tự  mở
+ Xây  dựng  Tự  động  Công  cụ
+ Lỗi  đóng  dự  án :  % s
+ Câu  lệnh  bị  hủy  bỏ
+ Giấy  Phép  Công  Cộng  GNU  ( GPL )
+ Giấy  phép  Công  Cộng  Phụ  GNU  ( LGPL )
+ Giấy  Phép  Phân  Phối  Phần  mềm  Berkeley  ( BSD )
+ Không  có  giấy  phép
+ Bộ  phát  sinh  hạng
+ Tên  hạng :
+ Hạng  cơ  bản :
+ Kế  thừa  hạng  cơ  bản :
+ Tùy  chọn  hạng :
+ Tiêu  đề  nguồn / phần  đầu
+ Khai  báo  và  thực  hiện  trực  tiếp
+ Tác  giả / Ngày / Giờ
+   Phần   tử   hạng 
+ Hạng  C + +  chung
+ Tiền  tố  và  kiểu  GObject :
+ Tác  giả / Ngày-Giờ
+ Tiền  tố  hàm  hạng :
+ Hàm / biến  bộ  phận
+ Thuộc  tính
+ Tín  hiệu
+ Hạng  GObject \ t
+ Biến
+ Mô-đun  Python
+ CVS :  Nhập
+ Địa  chỉ  thư  của  tác  giả :
+ Tên  tác  giả :
+ Giấy  phép :
+ Tập  tin  phần  đầu :
+ Tập  tin  nguồn :
+ Thêm  vào  dự  án
+ Thêm  vào  kho
+ Tạo
+ Chưa  tạo  tập  tin  kiểu  phần  đầu  hay  nguồn
+ Tự  động  phát  sinh  mẫu  dùng  cho  tập  tin  phần  đầu
+ Tự  động  phát  sinh  mẫu  dùng  cho  tập  tin  thực  hiện
+ Tập  tin  vào  đó  cần  ghi  mẫu  đã  xử  lý
+ Lỗi  ghi  tập  tin  xác  định  phát  sinh
+ Không  tìm  thấy  autogen  phiên  bản  5 .  Hãy  cài  đặt  gói  autogen .  Có  thể  lấy  nó  ở  địa  chỉ  «  http : / / autogen.sourceforge.net  » .
+ Lỗi  thực  hiện  autogen :  % s
+ Hành  vi  mẫu
+ Kiểu
+ Đối  số
+ Tham  số  :
+ Mô-đun
+ Tự  động
+ Bảng  chọn
+ Mô  tả  XML  của  giao  diện  người  dùng
+ Đầu  vào  tiêu  chuẩn :
+ Khác  biệt  tiêu  chuẩn  Khác  biệt  kiểu  đắp  vá
+ Đồ  cục  bộ
+ Cục  bộ  Ngoài  ( rsh )  Trình  phục  vụ  mật  khẩu  ( pserver )
+ Tùy  thích  CVS
+ Đường  dẫn  đến  lệnh  «  cvs  »
+ Cấp  nén  ( 0 = tắt ,  10 = tối  đa )
+ Bỏ  qua  tập  tin  .cvsrc  ( khuyến  khích )
+ Thao  tác  CVS
+ CVS :  Thêm  tập  tin / thư  mục
+ Chọn  tập  tin  hay  thư  mục  cần  thêm :
+ Duyệt ...
+ Tập  tin  là  nhị  phân
+ CVS :  Gỡ  bỏ  tập  tin / thư  mục
+ Chọn  tập  tin  hay  thư  mục  cần  gỡ  bỏ  :
+   Ghi   chú   :  Bấm  nút  OK  sẽ  xoá  tập  tin  khỏi  đĩa  và  khỏi  kho  CVS .  Tất  nhiên  tập  tin  sẽ  không  bị  gỡ  bỏ  khỏi  kho  CVS  trước  khi  bạn  sử  dụng  câu  lệnh  «  cvs  commit  » .   Người   dùng   đã   được   cảnh   báo   trước  . 
+ CVS :  Gài  tập  tin / thư  mục  vào
+ Chọn  tập  tin  hay  thư  mục  cần  gài  vào  :
+ Dự  án  hoàn  toàn
+ Thông  điệp  bản  ghi :
+ Bản  sửa  đổi :
+ Không  làm  đệ  qui
+ Tùy  chọn
+ CVS :  Cập  nhật  tập  tin / thư  mục
+ Chọn  tập  tin  hay  thư  mục  cần  cập  nhật :
+ Xoá  thư  mục  trống
+ Tạo  thư  mục  mới
+ Đặt  lại  thẻ  dính
+ Dùng  bản  sửa  đổi / thẻ :
+ CVS :  Trạng  thái
+ CVS :  Trạng  thái  về  tập  tin / thư  mục
+ Chọn  tập  tin  hay  thư  mục  cần  về  đó  cần  lấy  trạng  thái :
+ Xuất  chi  tiết
+ CVS :  Khác  biệt  tập  tin / thư  mục
+ Chọn  tập  tin  hay  thư  mục  cần  khác  biệt :
+ Dùng  định  thống  nhất  thay  cho  định  dạng  ngữ  cảnh
+ Dùng  bản  sửa  đổi :
+ CVS :  xem  bản  ghi  về  tập  tin / thư  mục
+ Chọn  tập  tin  hay  thư  mục  cần  về  đó  cần  lấy  bản  ghi  lưu  sự  kiện :
+ Thư  mục  gốc  của  dự  án :
+ Tên  mô-đun :
+ CVSROOT :
+ Thẻ  nhà  sản  xuất :
+ Thẻ  phát  hành :
+   Chi   tiết   mô-đun 
+ Tên  người  dùng :
+ Đầu  kho  lưu
+ Hãy  nhập  một  tên  tập  tin .
+ Hãy  điền  vào  trường :  % s
+ Câu  lệnh  CVS  đang  chạy .  Hãy  đợi  đến  khi  nó  hoàn  tất .
+ Không  thể  xoá  tập  tin
+ Bạn  có  chắc  muốn  gửi  một  thông  điệp  ghi  lưu  sự  kiện  mà  trống  không ?
+ CVSROOT
+ Nhà  sản  xuất
+ Phát  hành
+ Bạn  có  chắc  không  muốn  thấy  một  thông  điệp  ghi  lưu  sự  kiện  không ?
+ Câu  lệnh  CVS  bị  lỗi  ( xem  trên  để  tìm  chi  tiết )
+ Câu  lệnh  CVS  đang  chạy :  hãy  đợi  đến  khi  nó  hoàn  tất .
+ CVS
+ _ CVS
+ Thê _ m
+ Thêm  một  tập  tin / thư  mục  mới  vào  cây  CVS
+ _ Bỏ
+ Gỡ  bỏ  một  tập  tin / thư  mục  khỏi  cây  CVS
+ _ Gài  vào
+ Ghi  lưu  các  thay  đổi  vào  kho  CVS
+ _ Cập  nhật
+ Đồng  bộ  hoá  bản  sao  cục  bộ  với  kho  CVS
+ _ Khác  biệt
+ Hiển  thị  sự  khác  nhau  giữa  bản  sao  cục  bộ  và  kho
+ _ Hiện  trạng  thái
+ Hiện  trạng  thái  về  một  tập  tin / thư  mục
+ _ Hiện  bản  ghi
+ Hiển  thị  bản  ghi  về  một  tập  tin / thư  mục
+ _ Nhập  cây
+ Nhập  một  cây  nguồn  mới  vào  CVS
+ Thao  tác  tự  mở  CVS
+ Bộ  Quản  lý  Ngôn  ngữ
+ Đính  kèm  tiến  trình
+ Tiến  t _ rình  kèm  đó  cần  đính
+ Ẩn  đường  _ dẫn
+ Ẩn  tha _ m  số  tiến  trình
+ Hiển  thị  cây  _ tiến  trình
+ Đín _ h
+ Điểm  ngắt
+ _ Bật  tất  cả
+ _ Tắt  tất  cả
+ _ Gỡ  bỏ  tất  cả
+ Thêm  Theo  dõi
+ _ Tự  động  cập  nhật
+ Tê _ n :
+ Đổi  Theo  dõi
+ _ Giá  trị :
+ Xem  xét / Đánh  giá
+ Thuộc  tính  điểm  ngắt
+ Vị  trí
+ _ Lần  gửi :
+ Điề _ u  kiện :
+ _ Vị  trí :
+ Bộ  nhớ
+ Hãy  gõ  một  địa  chỉ  theo  thập  lục ,  hoặc  chọn  một  địa  chỉ  trong  dữ  liệu
+ Xem  xét
+ Thanh  ghi  CPU
+ Thư  viện  dùng  chung
+ Tín  hiệu  hạt  nhân
+ Đặt  thuộc  tính  tín  hiệu
+ Tín  hiệu  :
+ SIGINT
+ Mô  tả :
+ Gián  đoạn  chương  trình
+ Có
+ Gửi :
+ In :
+ Dừng :
+ Khởi  chạy  bộ  gỡ  lỗi
+ Câu  lệnh  gỡ  bỏ
+ Câu  lệnh  gỡ  bỏ  :
+ Thư  mục  nguồn
+ Chọn  một  thư  mục
+ Địa  chỉ :
+ Cổng :
+ Tắt
+   Gỡ   lỗi   từ   xa 
+ Đừn _ g  hiện  lần  nữa
+ Bạn  có  chắc  muốn  xoá  tất  cả  các  điểm  ngắt  không ?
+ Đ _ iểm  ngắt
+ Bật / tắt  điểm  ngắt
+ Bật / tắt  điểm  ngắt  ở  vị  trí  hiện  tại
+ Thêm  điểm  ngắt ...
+ Thêm  một  điểm  ngắt
+ Gỡ  bỏ  điểm  ngắt
+ Gỡ  bỏ  một  điểm  ngắt
+ Sửa  điểm  ngắt
+ Sửa  thuộc  tính  điểm  ngắt
+ Bật  điểm  ngắt
+ Hiệu  lực  một  điểm  ngắt
+ Tắt  mọi  điểm  ngắt
+ Vô  hiệu  hoá  tất  cả  các  điểm  ngắt
+ Gỡ  _ bỏ  mọi  điểm  ngắt
+ Gỡ  bỏ  tất  cả  các  điểm  ngắt
+ Nhảy  tới  điểm  ngắt
+ Nhảy  tới  vị  trí  của  điểm  ngắt
+ Tắt  điểm  ngắt
+ Tắt  một  điểm  ngắt
+ Đã  bật
+ Địa  chỉ
+ Điều  kiện
+ Lần  gửi
+ Tình  trạng
+ Thao  tác  điểm  ngắt
+ _ Thăm  địa  chỉ
+ Tháo  ra
+ Thông  tin
+ Dòng
+ Bản  ghi  gỡ  lỗi
+ Đã  bắt  đầu
+ Đã  nạp
+ Tạ _ m  dừng  chương
+ Tạm  thời  dừng  thực  hiện  chương  trình
+ Đang  chạy ...
+ _ Chạy / Tiếp  tục
+ Tiếp  tục  lại  thực  hiện  chương  trình
+ Bị  dừng
+ Đã  gỡ
+ Bộ  gỡ  lỗi  đã  kết  thúc  với  lỗi  % d :  % s
+ Chương  trình  đã  nhận  tín  hiệu  :  % s
+ _ Gỡ  lỗi
+ _ Khởi  chạy  bộ  gỡ  lỗi
+ _ Gỡ  lỗi  chương  trình
+ Khởi  chạy  bộ  gỡ  lỗi  và  nạp  chương  trình
+ _ Gỡ  lỗi  tiến  trình ...
+ Khởi  chạy  bộ  gỡ  lỗi  và  đính  kèm  một  chương  trình  đang  chạy
+ Gỡ  lỗi  đích  từ  _ xa ...
+ Kết  nối  tới  một  đích  gỡ  lỗi  từ  xa
+ Dừng  chạy  bộ  gỡ  lỗi
+ Dừng  chạy  trình  gỡ  lỗi
+ Thêm  đường  dẫn  nguồn ...
+ Thêm  các  đường  dẫn  mã  nguồn  bổ  sung
+ Câu  lệnh  gỡ  lỗi  tự  chọn
+ Thông  t _ in
+ Hiển  thị  sự  ánh  xạ  mỗi  thư  viện  dùng  chung
+ Hiện  tín  hiệu  hạt  nhân
+ Tiế _ p  tục
+ Bước  _ vào
+ Một  bước  vào  hàm
+ Bước  _ qua
+ Một  bước  qua  hàm
+ Bước  _ ra
+ Một  bước  ra  hàm
+ Chạ _ y  tới  con  trỏ
+ Chạy  tới  con  trỏ
+ Thao  tác  gỡ  lỗi
+ Không  tìm  thấy  một  phần  bổ  sung  gỡ  lỗi  mà  hỗ  trợ  một  đích  đến  có  dạng  MIME  % s
+ Thanh  ghi
+ Cập  nhật
+ Đối  tượng  dùng  chung
+ Từ
+ Đến
+ Ký  hiệu  được  đọc
+ Thao  tác  thư  viện  dùng  chung
+ Dừng
+ In
+ Gửi
+ Mô  tả
+ Gửi  cho  tiến  trình
+ Thao  tác  tín  hiệu
+ Hiện  số  thứ  tự  dòng
+ Có  nên  hiển  thị  số  thứ  tự  dòng  hay  không
+ Hiện  dấu  dòng
+ Có  nên  hiển  thị  ký  hiệu  đánh  dấu  dòng  không
+ Đặt  khung  hiện  thời
+ Xem  mã  nguồn
+ bộ  gọi  trong  vết  đống
+ Hoạt  động
+ Khung
+ Tập  tin
+ Hàm
+ Đống
+ Thao  tác  khung  đống
+ Người  dùng
+ Thời  gian
+ Lệnh
+ Không  thể  thực  hiện  % s .
+ Không  thể  mở  tập  tin :  % s
+ Không  thể  mở  «  % s  »  vì  trình  gỡ  lỗi  không  khởi  chạy  được .
+ Không  thể  phát  hiện  dạng  MIME  của  % s  thì  công  cụ  gỡ  lỗi  không  khởi  chạy  được .
+ Đường  dẫn
+ Chương  trình  đang  chạy .  Bạn  vẫn  còn  muốn  dừng  chạy  trình  gỡ  lỗi  không ?
+ Đặt  mạch  hiện  thời
+ Mạch
+ Thao  tác  mạch
+ Kiểm  tra  hoặc  định  giá  một  biểu  thức  hay  biến
+ Bỏ  Theo  dõi
+ Cập  nhật  Theo  dõi
+ Đổi  giá  trị
+ Cập  nhật  tất  cả
+ Gỡ  bỏ  tất  cả
+ Tự  động  cập  nhật
+ Thao  tác  Theo  dõi
+ Theo  dõi
+ Tìm  trong  Trợ  giúp :
+ Tham  chiếu  _ API
+ Duyệt  các  trang  API
+ Trợ  giúp  ngữ  _ cảnh
+ Tìm  kiếm  qua  Trợ  giúp  tìm  từ  hiện  thời  trong  trình  biên  soạn
+ _ Tìm  trong  Trợ  giúp
+ Tìm  kiếm  một  chuỗi  trong  Trợ  giúp
+ Thao  tác  Trợ  giúp
+ Tìm  kiếm
+ Bạn  có  chắc  muốn  nạp  lại  «  % s  »  không ?  Mọi  thay  đổi  chưa  lưu  thì  bị  mất  hoàn  toàn .
+ Nạp  _ lại
+ _ Lưu  liên  kết
+ Xoá  mọi  liên  kết  lưu
+ Liên  kết  lưu
+ Tha _ y  tên
+ Bỏ
+ Đóng  tập  tin
+ Đường  dẫn :
+ Mở  tập  tin
+ Lưu  tập  tin  là
+ Một  tập  tin  tên  «  % s  »  đã  có .  Bạn  có  muốn  thay  thế  nó  bằng  tập  tin  đang  lưu  không ?
+ Tha _ y  thế
+ [ chỉ-đọc ]
+ Bật  tự  động  lưu  tập  tin
+ Khoảng  lưu  tập  tin  ( theo  phút )
+ Khoảng  thời  gian  giữa  hai  lần  lưu  phiên  chạy ,  theo  phút
+   Tự   động   lưu   : 
+ Sắp  xếp  theo  thứ  tự  mở
+ Sắp  xếp  theo  giờ  dùng  gần  nhất
+ Sắp  xếp  theo  thứ  tự  abc
+ Không  hiện  thẻ
+ Vị  trí :
+   Thẻ   bộ   soạn   thảo 
+ _ Lưu
+ Lưu  tập  tin  hiện  có
+ Lưu  _ dạng ...
+ Lưu  tập  tin  hiện  thời  với  tên  khác
+ Lưu  tất  _ cả
+ Lưu  tất  cả  các  tập  tin  còn  mở ,  trừ  các  tập  tin  mới
+ Đón _ g  tập  tin
+ Đóng  tập  tin  hiện  tại
+ Đóng  tất  cả
+ Đóng  tất  cả  các  tập  tin
+ Nạp  lạ _ i  tập  tin
+ Nạp  lại  tập  tin  hiện  tại
+ Tập  tin  _ vừa  mở
+ In  tập  tin  hiện  tại
+ _ Xem  thử  bản  in
+ Xem  trước  tập  tin  hiện  tại  theo  định  dạng  in  ấn
+ Chu _ yển  dạng
+ Ch _ uyển  đổi  vùng  chọn  sang  chữ  hoa
+ Thay  đổi  đoạn  văn  được  chọn  thành  chữ  hoa
+ Chuyển  đổi  vùng  chọn  sang  chữ  thường
+ Thay  đổi  đoạn  văn  được  chọn  thành  chữ  thường
+ Chuyển  đổi  EOL  sang  CRLF
+ Chuyển  đổi  mỗi  ký  tự  kết  thúc  dòng  ( EOL )  sang  EOL  kiểu  DOS  ( CRLF )
+ Chuyển  đổi  EOL  sang  LF
+ Chuyển  đổi  mỗi  ký  tự  kết  thúc  dòng  ( EOL )  sang  EOL  kiểu  UNIX  ( LF )
+ Chuyển  đổi  EOL  sang  CR
+ Chuyển  đổi  mỗi  ký  tự  kết  thúc  dòng  ( EOL )  sang  EOL  kiểu  MacOS  ( CR )
+ Chuyển  đổi  EOL  sang  EOL  phần  lớn  dùng
+ Chuyển  đổi  mỗi  ký  tự  kết  thúc  dòng  ( EOL )  sang  EOL  kiểu  dùng  trong  phần  lớn  tập  tin
+ _ Chọn
+ Chọn  _ tất  cả
+ Chọn  toàn  bộ  văn  bản  trong  trình  soạn  thảo
+ Chọn  khối  _ mã
+ Lựa  chọn  khối  mã  hiện  tại
+ _ Ghi  chú  tắt
+ Ghi  chú  tắt / _ Bỏ  ghi  chú  khối
+ Ghi  chú  tắt  theo  khối  văn  bản  được  chọn
+ Ghi  chú  tắt / Bỏ  ghi  chú  hộ _ p
+ Ghi  chú  tắt  theo  hộp  văn  bản  được  chọn
+ Ghi  chú  tắt / Bỏ  ghi  chú  _ luồng
+ Ghi  chú  tắt  theo  luồng  văn  bản  được  chọn
+ _ Số  thứ  tự  dòng ...
+ Đi  tới  một  dòng  nào  đó  trong  trình  soạn  thảo
+ Ngoặc  _ móc  khác
+ Đi  tới  dấu  ngoặc  móc  tương  ứng  trong  trình  soạn  thảo
+ Đầ _ u  khối
+ Đi  về  đầu  của  khối  hiện  tại
+ _ Cuối  khối
+ Đi  tới  kết  thúc  của  khối  hiện  tại
+ Lược  sử  t _ rước
+ Đi  về  mục  lược  sử  trước
+ Lược  sử  _ sau
+ Đi  tới  mục  lược  sử  kế  tiếp
+ _ Tìm
+ Tìm  _ nhanh
+ Chức  năng  tìm  kiếm  nhanh  nhúng  trong  trình  soạn  thảo
+ Tìm  tiế _ p
+ Tìm  và  Tha _ y  thế ...
+ Tìm  và  Thay  thế
+ Tìm  n _ gược
+ Lặp  lại  lệnh  Tìm  cuối
+ Tô  sáng
+ Tô  sáng  dòng  hiện  tại
+ Biểu  thức  chính  quy
+ Tìm  kiếm  một  chuỗi  hay  biểu  thức  chính  quy  trong  trình  soạn  thảo
+ _ Sửa
+ Bộ  s _ oạn  thảo
+ Thêm  ô  _ xem  bộ  soạn  thảo
+ Thêm  một  hay  nhiều  khung  ô  xem  tài  liệu  hiện  tại
+ _ Bỏ  ô  xem  bộ  soạn  thảo
+ Gỡ  bỏ  khung  xem  hiện  thời  của  tài  liệu
+ _ Hủy  bước
+ Hủy  bước  mới  làm
+ Hoàn  _ lại
+ Phục  hồi  bước  mới  hủy
+ Cắ _ t
+ Cắt  đoạn  văn  được  chọn  từ  trình  soạn  thảo  sang  bảng  tạm .
+ _ Chép
+ Sao  chép  đoạn  văn  được  chọn  vào  khay
+ _ Dán
+ Dán  nội  dung  của  bảng  nháp  vào  vị  trí  hiệu  tại
+ _ Xoá
+ Xoá  đoạn  văn  được  chọn  khỏi  trình  soạn  thảo
+ _ Tự  động  điền  nốt
+ Tự  động  điền  nốt  từ  hiện  tại
+ _ Lề  số  thứ  tự  dòng
+ Hiện / Ẩn  số  thứ  tự  dòng
+ Lề  đánh  _ dấu
+ Hiện / Ẩn  lề  đánh  dấu
+ Lề  _ gấp  lại  mã
+ Hiện / Ẩn  lề  gấp  lại  mã
+ Dấu  ngụ  ý  thụt  _ vào
+ Hiện / Ẩn  các  dấu  ngụ  ý  khoảng  thụt  vào
+ Khoảng  t _ rắng
+ Hiện / Ẩn  khoảng  trắng  ( dấu  cách ,  cột  Tab  v.v. )
+ _ Ký  tự  kết  thúc  dòng
+ Hiện / Ẩn  ký  tự  kết  thúc  dòng
+ N _ gắt  dòng
+ Bật / tắt  ngắt  dòng  để  cuộn  văn  bản
+ Phóng  to
+ Tăng  kích  cỡ  phông
+ Thu  nhỏ
+ Giảm  kích  cỡ  phông
+ C _ hế  độ  tô  sáng
+ Gấp  _ vào  mọi  cấp
+ Đóng  ( ẩn )  tất  cả  các  phần  mã  có  thể  gấp  vào  trong  trình  soạn  thảo
+ Mở  _ ra  mọi  cấp
+ Giãn  ra  ( hiển  thị )  tất  cả  các  phần  mã  có  thể  gấp  vào  trong  trình  soạn  thảo
+ Hiện / Ẩn  cấp  hiện  tại
+ Hiển  thị  hay  ẩn  phần  mã  hiện  thời  có  thể  gấp  vào  trong  trình  soạn  thảo
+ Tài  _ liệu
+ Tài  liệu  trước
+ Chuyển  đổi  sang  tài  liệu  đã  mở  trước  đó .
+ Tài  liệu  sau
+ Chuyển  đổi  sang  tài  liệu  kế  tiếp
+ Lưu  liên  _ kết
+ Liên  kết  lưu  _ sau
+ Lưu  một  liên  kết  đến  vị  trí  dòng  hiện  thời
+ Liên  kết  lưu  t _ rước
+ Nhảy  về  liên  kết  lưu  trước  trong  tập  tin
+ Nhảy  tới  liên  kết  lưu  kế  tiếp  trong  tập  tin
+ _ Xoá  mọi  liên  kết  lưu
+ Bộ  soạn  thảo :  thao  tác  tập  tin
+ Bộ  soạn  thảo :  thao  tác  in  ấn
+ Bộ  soạn  thảo :  chuyển  dạng  văn  bản
+ Bộ  soạn  thảo :  lựa  chọn  văn  bảnActionGroupEditorInsert " ,  N _ ( " Editor  text  insertions
+ Bộ  soạn  thảo :  ghi  chú  tắt  mã
+ Bộ  soạn  thảo :  điều  hướng
+ Bộ  soạn  thảo :  thao  tác  hiệu  chỉnh
+ Bộ  soạn  thảo :  thao  tác  thu  phóng
+ Bộ  soạn  thảo :  kiểu  dáng  tô  sáng  cú  pháp
+ Bộ  soạn  thảo :  định  dạng  văn  bản
+ Tìm  kiếm  đơn  giản
+ Tài  liệu
+ Bộ  soạn  thảo :  thiết  lập  xem
+ Nạp  lại
+ ĐÈ
+ CHÈN
+ Thu / Phóng
+ Cột
+ Chế  độ
+ Lỗi  tự  động  lưu  % s
+ Tự  động  lưu  hoàn  tất
+ Đã  tìm  kiếm  «  % s  »  tới  cuối  nên  tiếp  tục  từ  đầu .
+ Đã  tìm  kiếm  «  % s  »  tới  cuối  nên  tiếp  tục  từ  đầu  nhưng  không  tìm  thấy .
+ Thay  thế
+ Thay  thế  tất  cả
+ Không  tìm  thấy
+ Không  tìm  thấy  tài  nguyên  vừa  dùng  có  địa  chỉ  URI  «  % s  »
+ Chức  năng  này  không  được  thực  hiện  cho  ô  điều  khiển  hạng  «  % s  »
+ Mở  «  % s  »
+ Không  rõ  mụcrecent  menu  label
+ recent  menu  label
+ Không  thể  mở  «  % s  » .  % s
+   Không   thể   mở   «   %  s   »  .  Không  có  phần  bổ  sung ,  hành  động  mặc  định  hay  ứng  dụng  được  cấu  hình  để  xử  lý  dạng  tập  tin  này .  Dạng  MIME :  % s  Bạn  có  thể  chọn  thử  mở  nó  dùng  một  của  những  phần  bổ  sung  hay  ứng  dụng  theo  đây .
+ Mở  bằng :
+ Bộ  Quản  lý  Tài  liệu
+ Mọi  tập  tin
+ Dự  án  Anjuta
+ Tập  tin  mã  nguồn  C / C + +
+ Tập  tin  mã  nguồn  C #
+ Tập  tin  mã  nguồn  Java
+ Tập  tin  mã  nguồn  Pascal
+ Tập  tin  mã  nguồn  PHP
+ Tập  tin  mã  nguồn  Perl
+ Tập  tin  mã  nguồn  Python
+ Tập  tin  đánh  dấu  siêu  văn  bản
+ Tập  tin  văn  lệnh  trình  bao
+ Makefile
+ Tập  tin  Lua
+ Tập  tin  khác  biệt
+ Lỗi  kích  hoạt  phần  bổ  sung :  % s
+ _ Mới
+ Tập  tin  rỗng  mới
+ _ Mở
+ Mở  _ bằng
+ Mở  bằng
+ Bộ  nạp  tập  tin
+ Mới
+ Tạo  tập  tin ,  dự  án  và  các  thành  phần  dự  án
+ Mở
+ Mở  _ gần  đây
+ Mở  tập  tin  vừa  sửa
+ Mở  một  tập  tin
+ Không  tìm  thấy  tập  tin
+ Hãy  chọn  một  phần  bổ  sung  cần  mở    %  s  .
+ Thư  mục  gốc  nếu  không  có  dự  án  còn  mở  :
+ Chọn  thư  mục  cần  hiển  thị  nếu  không  có  dự  án  còn  mở
+   Toàn   cục 
+ Không  hiển  thị  tập  tin  nhị  phân  ( .o ,  .la  v.v. )
+ Không  hiển  thị  tập  tin  ẩn
+ Không  hiển  thị  tập  tin  sao  lưu
+ Không  hiển  thị  tập  tin  không  có  phiên  bản
+   Lọc 
+ Đang  nạp ...
+ Tên  tập  tin
+ URI  cơ  bản
+ Địa  chỉ  URI  của  đường  dẫn  gần  gốc  nhất  được  hiển  thị
+ Thay  đổi  tên  của  tập  tin  hay  thư  mục
+ Hành  động  tự  mở  của  bộ  quản  lý  tập  tin
+ Bộ  Quản  lý  Tập  tin
+ Tập  tin  mới
+   Thông   tin   tập   tin 
+ Nhập  tên  tập  tin .  Phần  mở  rộng  sẽ  được  thêm  tùy  theo  dạng .
+ Tên :
+ Dạng :
+ Thêm  thông  tin  về  giấy  phép
+ Tạo  tập  tin  phần  đầu  tương  ứng
+ Tạo  tập  tin  phần  đầu  theo  mẫu
+ Tập  tin  mã  nguồn  C
+ Tập  tin  phần  đầu  C / C + +
+ Tập  tin  mã  nguồn  C + +
+ Khác
+ Giấy  Phép  Công  Cộng  BSD
+ Thiếu  tên  công  cụ
+ Nguồn :
+ Dự  án  không  tồn  tại
+ Thư  viện  Dùng  chung
+ Thư  viện  tĩnh
+ Mô-đun  Java
+ Tập  tin  Phần  đầu
+ Tài  liệu  Man
+ Tài  liệu  Info
+ Gói
+ Không  thể  cập  nhật  dự  án
+ Phiên  bản :
+ Tên  gói :
+ Cờ  biên  dịch  C :
+ Cờ  biên  dịch  C + + :
+ Cài  đặt  thư  mục :
+ Thư  mục  cài  đặt :
+ Thêm  quốc  tế  hoá :
+ Không  có  thuộc  tính  sẵn  sàng  cho  đích  này
+ Quan  hệ  phụ  thuộc  của  phần  bổ  sung :
+ Mô  tả  phần  bổ  sung :
+ Số  tối  đa  các  hành  vi
+ Đang  nạp  tập  tin  thực  thi :  % s
+ Đang  nạp  lõi :  % s
+ Không  tìm  thấy :  % s .  Không  thể  khởi  chạy  trình  gỡ  lỗi .  Hãy  kiểm  tra  lại  nó  đã  được  cài  đặt  đúng .
+ Đang  chuẩn  bị  khởi  chạy  buổi  hợp  gỡ  lỗi ...
+ Đang  nạp  tập  tin  thực  thi
+ Chưa  ghi  rõ  tập  tin  thực  thi .
+ Mở  một  tập  tin  thực  thi  hoặc  đính  nó  kèm  một  tiến  trình ,  để  bắt  đầu  gỡ  lỗi .
+ Gặp  lỗi  trong  khi  khởi  chạy  trình  gỡ  lỗi .
+ Hãy  kiểm  tra  lại  «  gdb  »  được  cài  đặt  trên  hệ  thống  này .
+ Chương  trình  đã  kết  thúc  thông  thường
+ Chương  trình  đã  kết  thúc  với  mã  lỗi  % s
+ Đã  tới  điểm  ngắt  số  % s
+ Hàm  đã  chạy  xong
+ Tiến  trình  bước  đã  chạy  xong
+ Đã  tới  vị  trí
+ Chương  trình  được  đính .  Bạn  vẫn  còn  muốn  dừng  chạy  trình  gỡ  lỗi  không ? No  such  file  or  directory
+ Công  cụ  gỡ  lỗi  được  kết  nối
+ Chương  trình  được  đính
+ Đang  đính  kèm  tiến  trình :  % d ...
+ Một  tiến  trình  đang  chạy .  Bạn  có  muốn  buộc  kết  thúc  nó ,  và  đính  tiến  trình  mới  không ?
+ Trình  Anjuta  không  thể  đính  kèm  chính  nó .
+ Chương  trình  bị  chấm  dứt
+ Chương  trình  bị  tháo  ra
+ Đang  tháo  ra  tiến  trình ...
+ Đang  gián  đoạn  tiến  trình
+ Con
+ Đang  gửi  tín  hiệu  % s  cho  tiến  trình :  % d
+ Gặp  lỗi  khi  gửi  tín  hiệu  cho  tiến  trình .
+ Lỗi  tạo  tập  tin  FIFO  tên  % s .  Vậy  chương  trình  sẽ  chạy  mà  không  có  khung  dòng  lệnh .
+ Không  thể  khởi  chạy  thiết  bị  cuối  để  gỡ  lỗi .
+ Hoạt  độngRegister  Function
+ Hàm  hiện  thời
+ Thêm  tập  tin
+ Ép  buộc
+ Tên  quy  tắc
+ Một  khi  tạo  thì  cũng  lấy  các  nhánh  từ  xa
+ Thêm  dòng  xác  nhận
+ Đừng  gài  vào
+ Bản  gài  vào  trước
+ Bản  gài  vào  này  kết  thúc  một  tiến  trình  trộn  bị  lỗi  ( dùng  «  -i  » )
+ Xác  thực  với  kho  lưu
+   Tên   nhánh  : 
+ Bản  sửa  đổi
+ Một  khi  tạo  thì  cũng  kiểm  nhánh  ra
+ Tên  đích :
+ Chú  giải  thẻ  này
+ Nhánh  phải  được  trộn  hoàn  toàn
+   Xem   bản   ghi   về   tập   tin  /  thư   mục  : 
+   Nhánh  : 
+ Đồ  thị
+ Bản  ghi  ngắn
+ Tác  giả
+ Ngày
+   Thay   đổi  : 
+ Ép
+ Dùng  một  thông  điệp  ghi  lưu  riêng
+   Tạo   đắp   vá   tương   đối   với  : 
+   Thư   mục   trong   đó   cần   tạo   đắp   vá  : 
+   Kho   từ   đó   cần   kéo   : 
+ Tạo  lại  cơ  bản
+ Phụ  thêm  dữ  liệu  lấy
+ Gài  vào  khi  trộn  tới  nhanh
+ Đừng  theo  thẻ
+ Thẻ  API
+ Gỡ  bỏ  tập  tin
+ Hỗn  hợp
+ Mềm
+ Cứng
+ Chế  độ  :
+   Việc   gài   vào   sau   đó   cần   hoàn   nguyên  : 
+ Gài  vào  thay  đổi
+ Hãy  nhập  một  tên  thẻ .
+ Hãy  nhập  một  địa  chỉ  URL .
+ Thêm  nhánh  từ  xa
+ Kiểm  tập  tin  ra
+ Hãy  nhập  đường  dẫn  1 .
+ Hãy  nhập  một  bản  sửa  đổi .
+ _ Khác  biệt  các  thay  đổi  chưa  gài  vào
+ _ Hiện  khác  biệt  gài  vào
+ Đặt  _ lại
+ Hãy  nhập  vào  một  đường  dẫn .
+ Hoàn  ngu _ yên ...
+ Hãy  nhập  một  tên  nhánh .
+ Tạo  thẻ
+   Nhánh  :   % s
+   Thẻ  :   % s
+   Từ   xa  :   % s
+ Trộn
+ Git
+ Lỗi
+ Cảnh  báo
+ Tạo  dãy  đắp  vá
+ Kéo
+   Chọn   tập   tin   cần   gỡ   bỏ   : 
+ Tạo  nhánh
+ Xoá  nhánh  từ  xa
+ Chuyển  đổi  sang  một  nhánh  khác
+ Công  cụ
+ Xoá  vùng  chọn
+ Tên  biểu  tượng  cho  phần  bổ  sung
+ Sao  chép  các  tập  tin / thư  mục  trong  kho  lưu
+ Bỏ  tập  tin  khỏi  hàng  đợi
+ _ Giải  quyết  sự  xung  đột ...
+ Đặt  các  sự  xung  đột  là  «  Đã  giải  quyết  »
+ Xoá  dữ  liệu
+ SVN :  đang  gài  các  thay  đổi  vào  kho  lưu ...
+ _ Lấy
+ Bỏ  _ qua
+ Lưu  tập  tin  hiện  thời
+ _ Hủy  bỏ
+ Khác  biệt  những  bản  sửa  đổi  được  chọn
+ Đánh  dấu  mỗi  kết  quả
+ _ Xem  bản  sửa  đổi  đã  chọn
+ Đặt  lại  cây
+ Hãy  nhập  bản  sửa  đổi  bắt  đầu .
+ Hoàn  nguyên  sau  khi  gài  vào
+ Đắp  vá
+ Tác  vụ
+ Thấp
+ Đang  nạp  tập  tin ...
+ Ô  điều  khiển
+ Không  phải  tập  tin  cục  bộ  :  % s
+ Không  thể  mở  % s
+ Không  thể  tạo  một  dự  án  Glade  mới .
+ Dự  án  Glade  «  % s  »  được  lưu
+ Tên  tập  tin  Glade  không  hợp  lệ
+ Gạch  dưới
+ Kiểu  dáng  chỉ  thị  thông  điệp  lỗi :
+ Kiểu  dáng  chỉ  thị  thông  điệp  cảnh  báo  :
+ Kiểu  dáng  chỉ  thị  thông  điệp  thông  thường :
+   Chỉ   thị 
+ Cảnh  báo  :
+ Lỗi :
+   Màu   sắc   thông   điệp 
+ Đóng  mọi  thẻ  thông  điệp
+ Biểu  tượng
+ Thông  điệp
+ Lỗi  ghi  % s
+ _ Chép  thông  điệp
+ Sao  chép  thông  điệp
+ Thông  điệp  _ sau
+ Thông  điệp  kế  tiếp
+ Thông  điệp  t _ rước
+ Thông  điệp  trước
+ _ Lưu  thông  điệp
+ Lưu  thông  điệp
+ Thông  điệp  sau / trước
+ Chọn  gói
+   Chọn   gói   cần   thêm  : 
+ Thêm  _ mô-đun
+ Thêm  _ gói
+ Tập  tin / thư  mục  cần  vá  lỗi
+ Tập  tin  đắp  vá
+ Hãy  chọn  thư  mục  cho  đó  cần  áp  dụng  đắp  vá
+ Đang  vá  lỗi  % s  dùng  % s
+ Đang  vá  lỗi ...
+ Có  công  việc  đang  chạy ,  hãy  đợi  đến  khi  hoàn  tất .
+ Đắp  vá  không  thành  công .  Hãy  xem  lại  các  thông  điệp  lỗi .  Kiểm  tra  và  gỡ  bỏ  bất  cứ  tập  tin  bị  từ  chối  nào .
+ Hoàn  tất  vá  lỗi
+ Chạy  thực  hành
+ Tập  tin / thư  mục  cần  vá  lỗi :
+ Tập  tin  đắp  vá :
+ Cấp  đắp  vá :
+ _ Công  cụ
+ Vá  lỗi  tập  tin / thư  mục
+ Một  tập  tin  tên  «  % s  »  đã  có .  Bạn  có  muốn  thay  thế  nó  không ?
+ Một  tập  tin  tên  «  % s  »  không  thể  ghi  được :  % s .  Hãy  kiểm  tra  xem  bạn  có  quyền  ghi  vào  thư  mục  dự  án .
+ Không  tìm  thấy  một  hậu  phương  dự  án  hợp  lệ  cho  thư  mục  đưa  ra  ( % s ) .  Hãy  chọn  một  thư  mục  khác ,  hoặc  thử  nâng  cấp  lên  một  phiên  bản  Anjuta  mới  hơn .
+ Tên  dự  án :
+ Nhập  dự  án
+ Ðích :
+ Một  phần  bổ  sung  hệ  thống  điều  khiển  phiên  bản
+ Tùy  chọn  dự  án
+ Thư  mục
+ Đích  mới
+ TargetTypes
+ _ Kiểu  đích :
+ Tê _ n  đích :
+ Thêm  nguồn
+ Chọn  đích  cho  các  _ tập  tin  nguồn  mới :
+ _ Chọn  tập  tin  cần  thêm ...
+ Dự  án
+ Đối  tượng  GbfProject
+ Chưa  nạp  dự  án
+ Lỗi  cập  nhật  dự  án :  % s
+ Bạn  có  chắc  muốn  gỡ  bỏ  nhóm  theo  đây  khỏi  dự  án  không ?
+ Bạn  có  chắc  muốn  gỡ  bỏ  đích  theo  đây  khỏi  dự  án  không ?
+ Bạn  có  chắc  muốn  gỡ  bỏ  tập  tin  mã  nguồn  theo  đây  khỏi  dự  án  không ?
+ Đích :  % s
+ Phím  tắt  :
+ Nhóm :  % s  Nhóm  sẽ  không  bị  xoá  khỏi  hệ  thống  tập  tin .
+ Nguồn :  % s  Tập  tin  mã  nguồn  sẽ  không  bị  xoá  khỏi  hệ  thống  tập  tin
+ Lỗi  gỡ  bõ  «  % s  » :  % s
+ Lỗi  lấy  thông  tin  về  địa  chỉ  URI  của  % s : % s
+ _ Dự  án
+ Thêm  một  đích  vào  dự  án
+ Thê _ m  tập  tin  nguồn
+ Thêm  một  tập  tin  mã  nguồn  vào  dự  án
+ Th _ uộc  tính
+ Thuộc  tính  dự  án
+ Đón _ g  dự  án
+ Đóng  dự  án
+ Thêm  hỗ  trợ  thư  viện  dùng  chung :
+ Thuộc  tính  về  nhóm / đích / nguồn
+ Gỡ  bỏ  khỏi  dự  án
+ Lỗi  phân  tích  cú  pháp  của  dự  án  ( dự  án  còn  mở ,  nhưng  sẽ  không  có  ô  xem  dự  án )  % s :  % s
+ Đã  tạo  ô  xem  dự  án ...
+ Đang  nạp  dự  án :  % s
+ Hành  vi  quản  lý  dự  án
+ Hành  vi  tự  mở  quản  lý  dự  án
+ Đang  sơ  khởi  dự  án ...
+ Dự  án  đã  được  nạp
+ Chọn  nguồn ...
+ Thuộc  tính  đích
+ Thuộc  tính  nhóm
+ Không  thể  thêm  tập  tin  nguồn
+ Không  thể  thêm  đích
+   Xác   nhận   thông   tin   sau   : 
+ Kiểu  dự  án :  % s
+ Không  tìm  thấy  mẫu  dự  án  trong  % s
+ Trường  «  % s  »  bắt  buộc  phải  điền  vào .  Hãy  gõ  vào  nó .
+ Lỗi  không  rõ .
+ Thư  mục  «  % s  »  không  trống .  Tiến  trình  tạo  dự  án  có  thể  không  thành  công  nếu  một  số  tập  tin  không  thể  ghi  được .  Bạn  có  muốn  tiếp  tục  không ?
+ Tập  tin  «  % s  »  đã  có .  Bạn  có  muốn  ghi  đè  lên  nó  không ?
+ Thiếu  chương  trình :  % s .
+ Vẫn  thiếu  một  số  chương  trình  hay  gọi  phát  triển  quan  trọng  đòi  hỏi  để  xây  dựng  dự  án  này .  Hãy  chắc  là  chúng  được  cài  đặt  đúng  trước  khi  phát  sinh  dự  án .
+ Các  chương  trình  còn  thiếu  thường  thuộc  về  một  số  gói  phân  phối  và  có  thể  được  tìm  trong  Bộ  Quản  lý  Ứng  dụng .  Tương  tự ,  các  gói  phát  triển  nằm  trong  gói  đặc  biệt  được  bản  phân  phối  cung  cấp  để  cho  phép  phát  triển  dự  án  dựa  vào  chúng .  Tên  gói  này  thường  kết  thúc  bằng  đuôi  «  -dev  »  hay  «  -devel  » ,  và  có  thể  được  tìm  bằng  cách  tìm  kiếm  qua  Bộ  Quản  lý  Ứng  dụng .
+ Thiếu  thành  phần
+ Dự  án  mới  đã  được  tạo  thành  công .
+ Lỗi  tạo  dự  án  mới .
+ Đang  bỏ  qua  % s :  tập  tin  đã  có
+ Đang  tạo  % s ...  lỗi  tạo  thư  mục
+ Đang  tạo  % s  ( dùng  Tự  động  Phát  sinh ) ...  % s
+ Đang  tạo  % s ...  % s
+ Đang  thực  hiện :  % s
+ Trợ  lý  dự  án  mới
+ Chọn  thư  mục
+ Chung  ( Tối  Thiểu )
+ Một  dự  án  tối  thiểu  phẳng  chung
+ Thông  tin  cơ  bản
+ Thông  tin  dự  án  chung
+ tên  dự  án
+ Tác  giả :
+ Địa  chỉ  thư  :
+ Tùy  chọn  về  hệ  thống  xây  dựng  dự  án
+ Giấy  phép
+ Chọn  giấy  phép  mã
+ Thêm  hỗ  trợ  C + + :
+ Thêm  hỗ  trợ  C + +  vào  dự  án ,  để  xây  dựng  các  tập  tin  mã  nguồn  C + +
+ Thêm  hỗ  trợ  để  xây  dựng  thư  viện  dùng  chung  trong  dự  án
+ Cấu  hình  gói  bên  ngoài :
+ Dùng  pkg-config  để  thêm  hỗ  trợ  thư  viện  từ  gói  khác
+ Cấu  hình  gói  bên  ngoài
+ Đòi  hỏi  gói :
+ Một  dự  án  chung
+ Thêm  hỗ  trợ  chức  năng  quốc  tế  hoá ,  để  dự  án  có  bản  dịch  bằng  các  ngôn  ngữ  khác  nhau
+ C + +  chung
+ Một  dự  án  C + +  chung
+ Dự  án  Django
+ Dự  án  Web  Python  dùng  Khuôn  Khổ  Web  Django
+ Thông  tin  dự  án  Django
+ Một  dự  án  GTK +  chung
+ Thêm  hệ  thống  gtk-doc :
+ gtk-doc  được  dùng  để  biên  dịch  tài  liệu  hướng  API  cho  hạng  dựa  vào  GObject
+ Nhập  một  tên  gói  đòi  hỏi  cho  dự  án  này .  Cũng  có  thể  ghi  rõ  phiên  bản  thích  hợp ,  v.d.  «  libgnomeui-2.0  »  hay  «  libgnomeui-2.0   >  =  2.2.0  »
+ Phần  bổ  sung  Anjuta
+ Dự  án  phần  bổ  sung  Anjuta  dùng  khuôn  khổ  libanjuta
+ Tên  dự  án  không  được  chứa  dấu  cách ,  vì  nó  sẽ  là  tên  của  đích  xây  dựng  dự  án  ( tập  tin  thực  thi ,  thư  viện  v.v. )
+ Tên  phần  bổ  sung :
+ Hiển  thị  tên  phần  bổ  sung
+ Hiển  thị  mô  tả  về  phần  bổ  sung
+ Tên  hạng  phần  bổ  sung :
+ Tên  hạng  phần  bổ  sung
+ Danh  sách  định  giới  bằng  dấu  phẩy  chứa  các  phần  bổ  sung  vào  chúng  phần  bổ  sung  này  phụ  thuộc .  Có  thể  là  tên  giao  diện  chính  hay  vị  trí  phần  bổ  sung  ( thư _ viện : hạng _
+ Tập  tin  biểu  tượng :
+ Tạo  tập  tin  giao  diện  Glade
+ Tạo  một  tập  tin  giao  diện  Glade  mẫu
+ Phần  bổ  sung  có  trình  đơn  và / hay  thanh  công  cụ
+ Phần  bổ  sung  có  trình  đơn  hay  thanh  công  cụ
+ Giá  trị  cần  theo  dõi
+ Giá  trị  trình  bao  cần  theo  dõi
+ Tên  giá  trị :
+ Tên  của  giá  trị  cần  theo  dõi
+ Thực  hiện  giao  diện  phần  bổ  sung
+ Giao  diện  phần  bổ  sung  cần  thực  hiện
+ Giao  diện :
+ Giao  diện  được  phần  bổ  sung  thực  hiện
+ Wx  Widgets
+ Một  dự  án  wx  Widgets  chung
+ Xlib
+ Một  dự  án  Xlib  chung
+ Neo  Xlib
+ Một  tiểu  dụng  neo  Xlib  chung
+ Java  biên  dịch  bằng  gcj  chung
+ Một  dự  án  Java  chung  được  biên  dịch  sở  hữu  dùng  công  cụ  Biên  dịch  Java  GNU  ( gcj )
+ Hạng  chính :
+ GCJ  cần  biết  hạng  nào  chứa  hàm  main ( )
+ Java  chung  ( automake )
+ Một  dự  án  Java  chung  được  automake  quản  lý
+ Hạng  chính
+ Python  chung  ( automake )
+ Một  dự  án  Python  chung  được  automake  quản  lý
+ Dự  án  Makefile
+ Dự  án  dựa  vào  Makefile
+ Thư  mục  dự  án ,  tập  tin  kết  xuất  v.v.
+ Thư  mục  dự  án :
+ SDL
+ Một  dự  án  SDL  ví  dụ
+ Đòi  hỏi  phiên  bản  SDL :
+ Phiên  bản  SDL  tối  thiểu  đòi  hỏi
+ Đòi  hỏi  SDL _ image :
+ Đòi  hỏi  thư  viện  SDL _ image
+ Đòi  hỏi  SDL _ gfx :
+ Đòi  hỏi  thư  viện  SDL _ gfx
+ Đòi  hỏi  SDL _ ttf :
+ Đòi  hỏi  thư  viện  SDL _ ttf
+ Đòi  hỏi  SDL _ mixer :
+ Đòi  hỏi  thư  viện  SDL _ mixer
+ Đòi  hỏi  SDL _ net :
+ Đòi  hỏi  thư  viện  SDL _ net
+ Chọn  kiểu  dáng  tô  sáng  cần  sửa :
+ Tham  số  chương  trình
+ Chạy  trên  dòng  lệnh
+ Chương  trình :
+ Thư  mục  làm  việc :
+ Chọn  thư  mục  làm  việc
+ Thư  mục  chương  trình  «  % s  »  không  phải  cục  bộ
+ Nạp  đích  cần  chạy
+ Chương  trình  đang  chạy .  Bạn  có  muốn  khởi  chạy  lại  nó  không ?
+ _ Chạy
+ Thực  hiện
+ Chạy  chương  trình  mà  không  gỡ  lỗi
+ Dừng  chương  trình
+ Giết  chương  trình
+ Đặt  chương  trình  hiện  thời ,  các  đối  số  v.v.
+ Thao  tác  chạy
+ Tự  động  điền  nốt
+ Chèn  mẩu  quản  lý ,  tự  động  đặt  vị  trí
+ Danh  sách  biến
+ Tên  mới  :
+ Xem  thử
+ Chèn
+ Vĩ  lệnh  Anjuta
+ Tập  tin  «  % s  »  trên  đĩa  vẫn  mới  hơn  vùng  đệm  hiện  thời .  Muốn  nạp  lại  nó  ?
+ Tập  tin  «  % s  »  bị  xoá .  Muốn  đóng  nó  ?
+ Không  thể  mở  % s :  % s
+ Không  thể  lưu  % s :  % s
+ Không  thể  lưu  tập  tin  vì  chưa  ghi  rõ  tên  tập  tin
+ Tập  tin  mới  % d
+ Đang  chuẩn  bị  các  trang  để  in  ấn
+ Đầu
+ Khoảng  Tab  theo  dấu  cách :
+ Dùng  khoảng  Tab  để  thụt  vào
+   Tùy   chọn   thụt   vào   và   tự   động   định   dạng 
+ Tô  sáng  cú  pháp
+ Tô  sáng  ngoặc  khớp
+ Tạo  tập  tin  sao  lưu
+ Hiện  đánh  dấu
+ Hiện  lề  phải
+ Vị  trí  của  lề  phải  theo  ký  tự
+ Xem
+ Bộ  soạn  thảo
+ Dùng  phông  chữ  sắc  thái
+ Phông :
+   Lược   đồ   màu   : 
+ Phông
+ Tạo  Tập  tin / Dự  án
+ Nhập  vào  Anjuta  một  dự  án  autotools  đã  tồn  tại
+ Dự  án  Vừa  làm
+ Sổ  tay  Anjuta
+ đã  bắt  đầu  :
+ Tùy  thích  SVN
+ Thao  tác  SVN
+ Thêm  tập  tin / thư  mục
+ Đệ  quy
+ Gỡ  bỏ  tập  tin / thư  mục
+   Tập   tin  /  URL   cần   gỡ   bỏ   : 
+ Cập  nhật  tập  tin / thư  mục
+ Khác  biệt  tập  tin / thư  mục
+   Tập   tin   hay   thư   mục   cần   khác   biệt  : 
+ Lưu  các  tập  tin  còn  mở  trước  khi  khác  biệt
+ Nhớ  mật  khẩu
+ địa  hạt
+ Địa  hạt :
+ Tin  cậy  máy  phục  vụ
+ Nhớ  sự  quyết  định  này
+ Hoàn  nguyên  thay  đổi
+   Chọn   các   thay   đổi   cần   hoàn   nguyên  : 
+ Đang  lấy  trạng  thái ...
+   Chọn   các   tập   tin   cần   gài   vào   : 
+ Xem  bản  ghi
+ Khác  biệt  với  bản  trước
+ Xem  bản  sửa  đổi  được  chọn
+ Chép  tập  tin / thư  mục
+   Đường   dẫn   nguồn  /  đích  : 
+ Bản  sao  làm  việc
+ Bản  sửa  đổi  khác :
+ Chuyển  sang  nhánh / thẻ
+   Đường   dẫn   đến   bản   sao   làm   việc  : 
+   URL   nhánh  /  thẻ  : 
+ Trộn  các  thay  đổi  vào  bản  sao  làm  việc
+   Đường   dẫn   1  : 
+ Dùng  đường  dẫn  1
+   Đường   dẫn   2  : 
+   Bản   sửa   đổi   đầu   : 
+ Bỏ  qua  tổ  tiên
+   Chọn   các   tập   tin   cần   đánh   dấu   «   Đã   giải   quyết   »  : 
+ _ SVN
+ Thêm  một  tập  tin / thư  mục  mới  vào  cây  SVN
+ Gỡ  bỏ  một  tập  tin / thư  mục  mới  khỏi  cây  SVN
+ Gài  vào  các  thay  đổi  vào  cây  SVN
+ Hoàn  nguyên  các  thay  đổi  về  bản  sao  làm  việc .
+ Giải  quyết  các  sự  xung  đột  trong  bản  sao  làm  việc .
+ Đồng  bộ  hoá  bản  sao  cục  bộ  với  cây  SVN
+ Chép  tập  tin / thư  mục ...
+ Chuyển  sang  nhánh / thẻ ...
+ Chuyển  đổi  bản  sao  cục  bộ  sang  một  nhánh  hay  thẻ  trong  kho  lưu
+ Xem  lược  sử  tập  tin
+ Khác  biệt  cây  cục  bộ  với  kho  lưu
+ Khác  biệt
+ Thao  tác  tự  mở  SVN
+ Bản  ghi  SVN
+ SVN :  tập  tin  sẽ  được  thêm  vào  lúc  gài  vào  kế  tiếp .
+ SVN :  gài  vào  hoàn  tất .
+ SVN :  sao  chép  hoàn  tất .
+ Hãy  nhập  một  đường  dẫn  nguồn .
+ Hãy  nhập  một  đường  dẫn  đích .
+ [ Đầu / Bản  sao  làm  việc ]
+ SVN :  đang  lấy  bản  khác  biệt ...
+ SVN :  đang  lấy  bản  ghi ...
+ SVN :  tập  tin  đã  được  lấy .
+ SVN :  đang  lấy  tập  tin ...
+ SVN :  trộn  hoàn  tất .
+ Hãy  nhập  đường  dẫn  2 .
+ Hãy  nhập  một  đường  dẫn  đến  bản  sao  làm  việc .
+ Hãy  nhập  bản  sửa  đổi  cuối  cùng .
+ SVN :  tập  tin  sẽ  bị  gỡ  bỏ  vào  lúc  gài  vào  kế  tiếp .
+ SVN :  giải  quyết  hoàn  tất .
+ SVN :  hoàn  nguyên  hoàn  tất .
+ SVN :  chuyển  đổi  hoàn  tất .
+ Hãy  nhập  một  địa  chỉ  URL  nhánh / thẻ .
+ SVN
+ SVN :  khác  biệt  hoàn  tất .
+ SVN :  cập  nhật  hoàn  tất .
+ Tiến  trình  xác  thực  bị  thôi
+ Tên  máy :
+ Vân  tay :
+ Hợp  lệ  từ  :
+ Hợp  lệ  đến :
+ DN  nhà  cấp :
+ Chứng  nhận  DER :
+ Đã  xoá :  % s
+ Đã  thêm :  % s
+ Đã  giải  quyết :  % s
+ Đã  cập  nhật :  % s
+ Đã  cập  nhật  bên  ngoài :  % s
+ Đã  sửa  đổi :  % s
+ Đã  trộn :  % s
+ Bị  xung  đột :  % s
+ Thiếu  :  % s
+ Bị  cản  trở  :  % s
+ Cơ  sở  dữ  liệu  ký  hiệu
+ Đang  tiếp  tục  lại  tiến  trình  quét  glb .
+ Quét  song  song  dự  án  và  các  ký  hiệu  toàn  cục
+ Tự  động  cập  nhật  các  ký  hiệu  mà  không  lưu  tập  tin
+ Sử  dụng  hồ  sơ  được  chọn  hiện  thời  trong  thiết  bị  cuối  GNOME
+ Dùng  hồ  sơ  thiết  bị  cuối  GNOME :
+ thao  tác  thiết  bị  cuối
+ Thiết  bị  cuối
+ Bộ  sửa  công  cụ
+ Lưu  mọi  tập  tin
+ Câu  lệnh :
+ Phím  tắt :
+ Đầu  ra  tiêu  chuẩn :
+ Đầu  lỗi  tiêu  chuẩn :
+ Sửa  như  văn  lệnh
+ Chỉnh  sửa  câu  lệnh  dưới  dạng  văn  lệnh  trong  Anjuta  khi  đóng
+ Bạn  có  chắc  muốn  xoá  công  cụ  «  % s  »  không ?
+ hỏi  vào  lúc  chạy
+ chưa  xác  định
+ Nghĩa
+ Bị  tắt
+ Phải  cung  cấp  một  tên  công  cụ .
+ Phải  cung  cấp  một  câu  lệnh  công  cụ .
+ Một  công  cụ  cùng  tên  đã  có .
+ Phím  tắt  này  đang  được  dùng  bởi  một  thành  phần  khác  trong  Anjuta .  Bạn  vẫn  muốn  giữ  nó  không ?
+ Không  thể  chỉnh  sửa  văn  lệnh
+ Phím  tắt  mới ...
+ Đang  mở  % sMy  tools  ( output )
+ ( kết  xuất ) My  tools  ( error )
+ ( lỗi )
+ Đang  chạy  câu  lệnh :  % s ...
+ Hoàn  tất  mà  không  thành  công  với  mã  trạng  thái  % d
+ Không  thể  tạo  một  vùng  đệm  nên  hủy  bỏ  câu  lệnh
+ Không  có  tài  liệu  còn  mở  nên  hủy  bỏ  câu  lệnh
+ Không  thể  mở  tập  tin  nhập  vào  % s  nên  hủy  bỏ  câu  lệnh
+ Gặp  phần  tử  bất  thường  «  % s  »
+ Gặp  lỗi  khi  nạp  các  công  cụ  bên  ngoài
+ Không  thể  mở  % s  để  ghi
+ Thao  tác  công  cụ
+ Dự  án  cần  nhập
+ Vùng  chọn  hiện  có
+ Tham  số  dòng  lệnh
+ Trùng  với  kết  xuất
+ Ô  thông  điệp  đã  có
+ Ô  thông  điệp  mới
+ Vùng  đệm  mới
+ Thay  thế  vùng  đệm
+ Chèn  vào  vùng  đệm
+ Phụ  thêm  vào  vùng  đệm
+ Thay  thế  vùng  chọnto  pop  up  a  dialog
+ Hộp  thoại  tự  mở
+ Hủy  kết  xuất
+ Không  có
+ Vùng  đệm  hiện  tại
+ Vùng  chọn  hiện  tại
+ Chuỗi
+ Tác  quyền  ©  Naba  Kumar
+ Đã  nạp  buổi  hợp ...
+ _ Tập  tin
+ T _ hoát
+ Thoát  khỏi  IDE  Anjuta
+ Tù _ y  thích
+ Bạn  có  thích  thiết  lập  nào ?  Hãy  xem .
+ _ Xem
+ Đặt  _ lại  bố  trí  neo
+ Đặt  lại  bố  trí  cụ  neo  ô  điều  khiển  thành  mặc  định
+ T _ oàn  màn  hình
+ Bật / tắt  chế  độ  toàn  màn  hình
+ _ Khoá  bố  trí  neo
+ Khoá  bố  trí  neo  hiện  thời  để  ngăn  cản  di  chuyển  ô  điều  khiển
+ _ Thanh  công  cụ
+ Hiện  hay  ẩn  thanh  công  cụ
+ Trợ  g _ iúp
+ _ Sổ  tay  người  dùng
+ Sổ  tay  người  dùng  của  Anjuta
+ _ Trợ  lý  bắt  đầu
+ Trợ  lý  bắt  đầu  dùng  Anjuta
+ Trợ  lý  cấp  c _ ao
+ Trợ  lý  cấp  cao  về  Anjuta
+ _ Hỏi  Đáp
+ Các  câu  thường  hỏi  về  Anjuta
+ Trang  c _ hủ  Anjuta
+ Tài  liệu  hướng  dẫn  và  tài  nguyên  trực  tuyến
+ Thông  _ báo  lỗi / đắp  vá / yêu  cầu
+ Báo  cáo  lỗi ,  gửi  một  đắp  vá  hay  yêu  cầu  tính  năng  về  Anjuta
+ Hỏi  _ câu
+ Gửi  một  câu  hỏi  cho  Hỏi  Đáp
+ _ Giới  thiệu
+ Giới  thiệu  Anjuta
+ Giới  thiệu  _ phần  bổ  sung  bên  ngoài
+ Giới  thiệu  các  phần  bổ  sung  Anjuta  thuộc  nhóm  ba
+ Sửa
+ Phần  bổ  sung  đã  cài
+ Giá  trị  không  tồn  tại
+ Xác  định  kích  cỡ  và  vị  trí  của  cửa  sổ  chính
+ RỘNGxCAO + TOẠĐỘ _ X + TỌAĐỘ _ Y
+ Không  hiển  thị  màn  hình  giật  gân
+ Khởi  chạy  một  tiến  trình  mới  và  không  mở  tập  tin  trong  trình  đã  có
+ Không  mở  buổi  hợp  cuối  cùng  khi  khởi  chạy
+ Không  mở  dự  án  và  các  tập  tin  cuối  cùng  khi  khởi  chạy
+ Tắt  Anjuta  cho  đúng ,  nhả  mọi  tài  nguyên  ( để  gỡ  lỗi )
+ —  Môi  trường  Phát  triển  Thống  nhất
+ Anjuta
+ Không  nạp  buổi  hợp  cuối  cùng  vào  lúc  khởi  chạy
+ Không  nạp  dự  án  cuối  cùng  và  các  tập  tin  vào  lúc  khởi  chạy
+ Phiên  bản
+ Nhãn  nút  thanh  công  cụ  :
+ Kiểu  dáng  chuyển  đổi  neo  :
+   Diện   mạo 
+ Bật  thụt  vào  khéo
+ Khoảng  thụt  ngoặc  móc  vào  theo  dấu  cách :
+ Khoảng  thụt  vào  câu  lệnh  theo  dấu  cách :
+   Tham   số   thụt   lề 
+ Tự  động  thụt  lề
+ Thụt  lề  cơ  bản
+ Thụt  vào  khéo
+ Thêm  một  dấu  cách  đằng  sau  tự  động  điền  nốt  cuộc  gọi  hàm
+ Thêm  ngoặc  mở  «  (  »  đằng  sau  tự  động  điền  nốt  cuộc  gọi  hàm
+ Bật  điền  nốt  khéo  ngoặc  móc
+ Hiện  gợi  ý  cuộc  gọi
+ Cuộc  gọi
+ Tự  động  thụt  vào  dòng  hay  vùng  chọn  hiện  tại ,  dựa  vào  thiết  lập  thụt  vào
+ Trao  đổi  .h / .c
+ Trao  đổi  các  tập  tin  phần  đầu  và  nguồn  kiểu  C
+ Trợ  giúp  C + + / Java
+ C / C + + / Java / Vala
+ Trợ  lý  dự  án
+ Bật  thụt  vào  thich  nghi
+ Giao  diện
+ Bộ  chỉnh  sửa  GtkSourceView
+ Phần  bổ  sung  Quản  lý  Gỡ  lỗi .
+ Điều  khiển  phiên  bản  Git
+ Trợ  giúp  API
+ Phần  bổ  sung  Trợ  giúp  Phát  triển  cho  Anjuta
+ Cung  cấp  chức  năng  quản  lý  tài  liệu .
+ Trợ  lý  tập  tin
+ Phần  bổ  sung  trợ  lý  tập  tin  Anjuta
+ Trình  quản  lý  tập  tin  cho  dự  án  và  mỗi  tập  tin  riêng
+ Một  ứng  dụng  khách  SVN  dựa  vào  libsvn
+ Trình  thiết  kế  giao  diện  Glade
+ Phần  bổ  sung  Glade  cho  Anjuta .
+ Phần  bổ  sung  đắp  vá
+ Vá  lỗi  tập  tin  và  thư  mục .
+ Dùng  chương  trình  bên  ngoài  từ  Anjuta
+ Xây  dựng  Automake
+ Phần  bổ  sung  xây  dựng  autotools  cơ  bản .
+ Phần  bổ  sung  thiết  bị  cuối  cho  Anjuta .
+ Phần  bổ  sung  CVS
+ Trợ  lý  nhập  dự  án
+ Dự  án  từ  nguồn  đã  có
+ Trình  soạn  thảo  mặc  định  dựa  vào  GtkSourceview
+ Bộ  bắt  đầu
+ Phần  bổ  sung  hỗ  trợ  C + +  và  Java
+ Phần  bổ  sung  hỗ  trợ  C + +  và  Java  để  điền  nốt  mã ,  tự  động  thụt  vào  v.v.
+ Phần  bổ  sung  phát  sinh  hạng  Anjuta
+ Bộ  Quản  lý  Dự  án
+ Phần  bổ  sung  quản  lý  dự  án  cho  Anjuta .
+ Phần  bổ  sung  Cơ  sở  dữ  liệu  Ký  hiệu  cho  Anjuta  ( bất  định ) .
+ Bộ  Quản  lý  Thông  điệp
+ Quản  lý  các  thông  điệp  từ  ứng  dụng  bên  ngoài
+ Bộ  nạp  tập  tin  để  nạp  các  tập  tin  khác  nhau
+ Chạy  chương  trình
+ Cho  phép  thực  hiện  chương  trình  mà  không  gỡ  lỗi .
+ Phần  bổ  sung  để  theo  dõi  nhiều  ngôn  ngữ  lập  trình  khác  nhau
+ Hậu  phương  Autotools  cho  trình  quản  lý  dự  án
+ Lỗi  chứa
+ Bạn  có  chắc  muốn  đặt  lại  tùy  thích  về  thiết  lập  mặc  định  không ?
+   Xây   dựng 
+   Cấu   hình  : 
+   Cài   đặt 
+ Chương  trình  «  % s  »  không  tồn  tại
+ Cấ _ u  hình  Dự  án ...
+ Ô  xem  dữ  liệu  cố  định
+ Cập  nhật  đồ  thị
+ Đồ  thị  kế  thừa
+ Giấy  Phép  Công  Cộng  GNU  ( GPL )  Giấy  Phép  Công  Cộng  GNU  Phụ  ( LGPL )  Không  có  giấy  phép
+   Tùy   chọn   CVS 
+   Tùy   chọn 
+   Kho   : 
+   Bộ   gỡ   lỗi  : 
+ Câu  lệnh  gỡ  lỗi ...
+ _ Tập  tin  đích  thông  tin
+ Hiển  thị  thông  tin  về  những  tập  tin  đang  được  gỡ  lỗi
+ Thông  tin  _ chương  trình
+ Hiển  thị  thông  tin  về  trạng  thái  thực  hiện  của  chưng  trình
+ Thông  tin  cấu  trúc  người  dùng  _ hạt  nhân
+ Hiển  thị  nội  dung  của  người  dùng  cấu  trúc  ( struct  user )  của  hạt  nhân  cho  tiến  trình  con  đang  chạy
+ Thông  tin  biến  t _ oàn  cục
+ Hiển  thị  tất  cả  các  biến  kiểu  toàn  cục  và  tĩnh  của  chương  trình
+ Thông  tin  kh _ ung  hiện  tại
+ Hiển  thị  thông  tin  về  khung  thực  hiện  hiện  thời
+ Thông  tin  đối  _ số  hàm
+ Hiển  thị  các  đối  số  hàm  của  khung  hiện  tại
+ PID
+ Thiếu  tập  tin  % s
+ Id
+ _ Xem  xét / Đánh  giá ...
+ Thêm  Theo  dõi ...
+ Đi  _ tới
+ Trực  tuyến
+ Hiển  thị  Trợ  giúp
+ Trên  Dưới  Trái  Phải
+ _ In ...
+ Tìm  _ lại  nhanh
+ Chạy  lại  chức  năng  tìm  kiếm  nhanh
+ Đi  tới
+ Chữ  hoa / thường  tương  ứng
+ _ % d .  % s
+ % d .  % s
+ _ Mở ...
+ Kiểu  GbfAmConfigValue  không  hợp  lệ
+ Nhóm  không  tồn  tại
+ Đích  không  tồn  tại
+ Đường  dẫn  không  hợp  lệ  hay  đường  dẫn  ở  xa  ( chỉ  hỗ  trợ  đường  dẫn  cục  bộ )
+ Dự  án  dạng  sai
+ Nhóm  cấp  trên  không  tồn  tại
+ Nhóm  đã  có
+ Không  thể  tạo  nhóm
+ Không  thể  gỡ  bỏ  nhóm
+ Đích  đã  có
+ Lỗi  chung  khi  tạo  đích
+ Không  thể  nhận  diện  đích  mới  tạo
+ Không  thể  gỡ  bỏ  đích
+ Nguồn  không  tồn  tại
+ Tập  tin  nguồn  đã  nằm  trong  đích  đưa  ra
+ Lỗi  chung  khi  thêm  tập  tin  nguồn
+ Không  thể  nhận  diện  tập  tin  nguồn  mới  thêm
+ Không  thể  gỡ  bỏ  nguồn
+ Thư  mục  dự  án
+ Nhập  mô-đun  mới
+ Mô-đun / Gói
+ Bạn  có  chắc  muốn  gỡ  bỏ  mô-đun  «  % s  »  và  tất  cả  các  gói  liên  quan  không ?
+ Bạn  có  chắc  muốn  gỡ  bỏ  gói  «  % s  »  không ?
+ Nhập  biến  mới
+ Bạn  có  chắc  muốn  gỡ  bỏ  biến  «  % s  »  không ?
+ Dự  án :
+ URL :
+ Dùng
+ Tên  nhóm :
+ Cấp  cao
+ Cờ  biên  dịch  gcj  ( đặt  sẵn ) :
+ Cờ  biên  dịch  Java  ( giờ  đúng ) :
+ Bao  gồm  ( bị  phản  đối ) :
+ Cờ  tiền  xử  lý  C
+ Cờ  biên  dịch  C + +
+ Cờ  biên  dịch  gcj  ( đặt  sẵn )
+ Quan  hệ  phụ  thuộc :
+ Tuỳ  chọn  cấp  cao
+ Cấp  cao ...
+ Kiểu  GbfMkfileConfigValue  không  hợp  lệ
+ Không  thể  tạo  đích
+ Tập  tin  nguồn  phải  nằm  bên  trong  thư  mục  dự  án
+ Nguồn  đã  nằm  trong  đích
+ Không  thể  thêm  nguồn
+ Bao  gồm :
+ *
+ Nhập  một  địa  chỉ  thập  lục ,  hoặc  chọn  một  địa  chỉ  trong  dữ  liệu
+ _ Gửi :
+   Bản   sửa   đổi   sai  : 
+   Nhánh   cần   xoá  : 
+   Nhánh   sang   đó   cần   chuyển  : 
+   Bản   sửa   đổi   đúng  : 
+   Thông   điệp   ghi   lưu 
+   Thông   điệp   ghi   lưu   : 
+   Chế   độ   : 
+   Nhánh   ở   xa   từ   đó   cần   phát   hành  : 
+   Cái   ở   xa   cần   xoá  : 
+   Đặt   lại   về  : 
+   Bản   sửa   đổi  : 
+   Chọn   các   tập   tin   cần   kiểm   ra  : 
+   Chọn   các   tập   tin   cần   bỏ   qua  : 
+   Chọn   các   tập   tin   cần   bỏ   khỏi   hàng   đợi  : 
+   Chọn   tập   tin   cần   thêm  : 
+   Tên   thẻ  : 
+   URL  : 
+ Tác  giả / Grep
+ Xoá  nhánh
+ Từ  :
+ Grep :
+ Bỏ  qua  tập  tin
+ Bản  sửa  đổi / Thẻ :
+ Đặt  thẻ / Gài  vào
+ Tới :
+ Git :  tập  tin  đợi  thêm .
+ Hãy  chọn  một  tập  tin .
+ Git :  đã  thêm  nhánh  từ  xa  «  % s  » .
+ Git :  đang  lấy ...
+ Git :  tập  tin  đã  được  lấy .
+ Git :  các  tập  tin  được  kiểm  ra .
+ Git :  hoàn  tất  gài  vào .
+ Git :  đã  tạo  nhánh  «  % s  » .
+ Git :  đã  tạo  thẻ  «  % s  » .
+ Git :  đã  xoá  nhánh  «  % s  » .
+ Git :  hoàn  tất  lấy .
+ Git :  đang  lấy  bản  ghi ...
+ Git :  hoàn  tất  trộn .
+ Git :  hoàn  tất  kéo .
+ Hãy  nhập  địa  chỉ  URL  của  kho  từ  đó  cần  kéo  tập  tin .
+ Git :  đang  đặt  lại  cơ  bản
+ Git :  tập  tin  đã  được  gỡ  bỏ .
+ Git :  hoàn  tất  giải  quyết .
+ Git :  hoàn  tất  kiểm  nhánh  ra .
+ Git :  hoàn  tất  khác  biệt .
+ Git :  các  tập  tin  không  còn  đợi .
+ _ Git
+ Gài  _ vào ...
+ Tạ _ o  lại  cơ  bản
+ Khởi  chạ _ y ...
+ _ Kéo ...
+ _ Bỏ  tập  tin  khỏi  hàng  đợi
+ Kiểm  tập  tin  _ ra ...
+ Tạo  dãy  đắp  vá ...
+ Đặt  _ lại  cây ...
+ Hoàn  ngu _ yên  sau  khi  gài  vào ...
+ _ Cắt  đôi
+ Đún _ g
+ _ Sai
+ _ Xem  bản  ghi ...
+ Thê _ m ...
+ _ Bỏ ...
+ Bỏ  _ qua ...
+ Tạ _ o  nhánh ...
+ _ Xoá  nhánh ...
+ Chu _ yển  sang  nhánh  khác ...
+ T _ rộn ...
+ Nhánh  ở  _ xa
+ _ Xoá ...
+ Tạ _ o  thẻ ...
+ Đặt  _ bản  sửa  đổi  đúng
+ Đặt  _ bản  sửa  đổi  sai
+ Thao  tác  Git
+ Thao  tác  ghi  lưu  Git
+ Thao  tác  FM  Git
+ Bản  ghi  Git
+   Mẫu   quản   lý 
+   Quản   lý   kết   hợp 
+   Kết   hợp   mới 
+ Kết  hợp
+ Trình  thiết  kế
+ Sửa  thì  cũng  chèn  bộ  quản  lý
+ Kiểu  vị  trí
+ Bố  trí  thiết  kế  riêng  tách
+ Biểu  thức  chính  quy  đặc  biệt
+ Tên  ô  điều  khiển
+ on _ widget _ signal
+ widget _ signal _ cb
+ Mục  kết  hợp  không  có  trình  thiết  kế
+ Mục  kết  hợp  không  có  soạn  giả
+ Nút  % s  có  tuỳ  chọn  mục  kết  hợp  sai
+ không  tìm  thấy  tên  tập  tin  trong  nút  % s
+ giá  trị  thuộc  tính  % s  không  hợp  lệ
+ Tên  tập  tin  của  mục  kết  hợp  không  có  đường  dẫn
+ Chưa  sơ  khởi  sự  kết  hợp  thì  không  có  gì  cần  lưu
+ Không  thể  lưu  kết  hợp  vì  chưa  đặt  gốc  dự  án
+ Lỗi  lưu  kết  hợp
+ Không  thể  từ  tự  xem  xét  tín  hiệu
+ Chưa  hỗ  trợ  ngôn  ngữ  Python
+ Chưa  hỗ  trợ  ngôn  ngữ  Vala
+ Không  có  trình  soạn  thảo  kết  hợp  với  trình  thiết  kế
+ Soạn  giả  dùng  ngôn  ngữ  không  rõ  «  % s  »
+ Gặp  lỗi  khi  thêm  một  mẩu  quản  lý  mới :  % s
+ Không  tìm  thấy  thông  tin  về  tín  hiệu
+ Gặp  lỗi  khi  thêm  một  mẩu  quản  lý  mới .  Không  có  soạn  giả  hiện  thời .
+ Để  tránh  hiển  thị  các  thông  điệp  này ,  tất  cờ  «  Chèn  bộ  quản  lý  khi  soạn  thảo  »  trong  Tuỳ  thích   >   Trình  Thiết  Kế  GUI  Glade
+ Những  tài  liệu  này  đã  kết  hợp  về  trước
+ Không  thể  đọc  tập  tin :  % s .
+ Không  tìm  thấy  tên  tín  hiệu  mặc  định
+ Dự  án  % s  không  có  ô  điều  khiển  bị  phản  đối  hay  phiên  bản  không  tương  ứng .
+ Không  có  dự  án  Glade
+ _ Glade
+ Chuyển  đổi  giữa  trình  thiết  kế  và  mã
+ Chèn  mẩu  quản  lý
+ Chưa  ghi  lưu

@@ -1,0 +1,115 @@
+ Thiết  bị  cuối
+ Dùng  dòng  lệnh
+ «  % s  »  không  phải  là  một  hệ  số  thu  phóng  hợp  lệ
+ Phóng  to  cửa  sổ
+ Đặt  cửa  sổ  chiếm  toàn  màn  hình
+ Đặt  cỡ  cửa  sổ ;  ví  dụ  80x24 ,  or  80x24 + 200 + 200  ( ROWSxCOLS + X + Y )
+ VỊ  TRÍ
+ Đặt  vai  trò  cửa  sổ
+ NHIỆM  VỤ
+ Dùng  hồ  sơ  đưa  ra  thay  cho  hồ  sơ  mặc  định
+ Đặt  tựa  đề  thiết  bị  cuối
+ TỰA  ĐỀ
+ Đặt  thư  mục  làm  việc
+ TÊN _ THƯ _ MỤC
+ Đặt  hệ  số  thu  phóng  của  thiết  bị  cuối  ( 1.0  =  kích  cỡ  bình  thường )
+ THU  PHÓNG
+ Thiết  bị  cuối  GNOME
+ Hiện  các  tuỳ  chọn  về  thiết  bị  cuối
+ Hiện  các  tuỳ  chọn  cho  mỗi  thiết  bị  cuối
+ Hiện  các  tuỳ  chọn  cho  mỗi  cửa  sổ
+ Tuỳ  chọn  quản  lý  buổi  hợp :
+ Tìm
+ _ Tìm : 
+ _ Khớp  chữ  hoa / thường
+ Chỉ  khớp  với  t _ oàn  từ
+ Khớp  bằng  _ biểu  thức  chính  quy
+ Tìm  n _ gược
+ _ Cuộn
+ Không  tên
+ Tên  hồ  sơ  mà  người  co  đọc  được .
+ Màu  chữ  mặc  định  trong  thiết  bị  cuối
+ Màu  mặc  định  cho  văn  bản  trong  thiết  bị  cuối ,  có  thể  là  dạng  hệ  thập  lục  phân  của  HTML ,  hoặc  tên  màu  như  « red »  ( đỏ ) .
+ Màu  màu  nền  thiết  bị  cuối  mặc  định
+ Màu  nền  mặc  định  của  thiết  bị  cuối ,  có  thể  là  dạng  hệ  thập  lục  phân  của  HTML ,  hoặc  tên  màu  như  «  red  »  ( đỏ ) .
+ Màu  chữ  đậm  mặc  định  trong  thiết  bị  cuối
+ Màu  mặc  định  cho  chữ  đậm  trong  thiết  bị  cuối ,  có  thể  là  dạng  hệ  thập  lục  phân  của  HTML ,  hoặc  tên  màu  như  " red "  ( đỏ ) .
+ Có  dùng  màu  chữ  đậm  giống  màu  chữ  thường  không
+ Nếu  đúng ,  màu  của  chữ  đậm  sẽ  giống  như  chữ  thường .
+ Làm  gì  với  tựa  đề  động
+ Nếu  ứng  dụng  trong  thiết  bị  cuối  đặt  tựa  đề  ( hầu  hết  người  dùng  thiết  lập  hệ  vỏ  của  họ  để  làm  như  thế ) ,  tựa  đề  đã  đặt  động  đó  có  thể  xóa  bỏ  tựa  đề  được  cấu  hình ,  đặt  trước  tựa  đề  cấu  hình ,  đặt  sau ,  hoặc  thay  thế  tựa  đề  cấu  hình .  Giá  trị  có  thể  là   «  replace  »  ( thay  thế ) ,  «  before  »  ( trước ) ,  «  after  »  ( sau ) ,  và  «  ignore  »  ( bỏ  qua ) .
+ Tựa  đề  thiết  bị  cuối
+ Tựa  đề  cần  hiển  thị  trong  cửa  sổ / thanh  thiết  bị  cuối .  Tựa  đề  này  có  thể  bị  thay  thế  hoặc  kết  hợp  với  tựa  đề  do  ứng  dụng  bên  trong  thiết  bị  cuối  tự  đặt ,  tùy  thuộc  vào  thiết  lập  «  title _ mode  »  ( chế  độ  tựa  đề ) .
+ Có  nên  cho  phép  chữ  đậm  hay  không .
+ Nếu  đúng ,  cho  phép  ứng  dụng  trong  thiết  bị  cuối  tạo  chữ  đậm .
+ Co  nên  cấm  chuông  thiết  bị  cuối  hay  không .
+ Ký  tự  được  coi  như  là  «  phần  của  một  từ  »
+ Khi  chọn  văn  bản  theo  từ ,  chuỗi  các  ký  tự  sau  được  coi  là  từ  đơn .  Có  thể  đặt  một  phạm  vi  các  ký  từ  như  kiểu  «  A-Z  » .  Dấu  trừ  ( không  dùng  để  chỉ  thị  một  phạm  vi )  nên  đặt  ở  vị  trí  đầu  tiên .
+ Có  nên  hiển  thị  thanh  trình  đơn  trong  cửa  sổ / thanh  mới  hay  không .
+ Đúng  nếu  thanh  trình  đơn  nên  hiển  thị  trong  cửa  sổ  mới ,  với  cửa  sổ / thanh  dùng  hồ  sơ  này .
+ Có  hạn  chế  cỡ  của  thiết  bị  đầu  cuối  trong  cửa  sổ  mới  hay  không
+ Nếu  đúng ,  cửa  sổ  đầu  cuối  mới  sẽ  có  cỡ  bằng  default _ size _ columns  và  default _ size _ rows .
+ Số  cột  mặc  định
+ Số  cột  trong  cửa  sổ  đầu  cuối  mới .  Không  hữu  hiệu  nếu  use _ custom _ default _ size  được  bật .
+ Số  dòng  mặc  định
+ Số  các  dòng  trong  cửa  sổ  đầu  cuối  mới .  Không  hữu  hiệu  nếu  use _ custom _ default _ size  bật .
+ Vị  trí  thanh  cuộn
+ Số  dòng  cuộn  ngược
+ Số  dòng  cuộn  ngược  có  thể  truy  cập .  Bạn  có  thể  cuộn  ngược  trong  thiết  bị  cuối  một  số  dòng  này.  những  dòng  nằm  ngoài  sẽ  bị  hủy .  Cẩn  thận  với  thiết  lập  này ;  nó  là  hệ  số  chính  xác  định  lượng  bộ  nhớ  thiết  bị  cuối  dùng .
+ Có  hạn  chế  số  dòng  lưu  trong  thanh  cuộn  không
+ Nếu  đúng ,  đuờng  cuộn  sẽ  luôn  hiển  thị .  Lịch  sử  đường  cuộn  được  lưu  trong  ổ  cứng  tạm  nên  hệ  thống  có  thể  làm  đầy  đĩa  cứng  nếu  hiển  thị  quá  nhiều .
+ Có  nên  cuộn  đến  đáy  khi  được  nhấn  phím  hay  không .
+ Nếu  đúng ,  thiết  bị  cuối  sẽ  cuộn  đến  đáy  nhấn  phím .
+ Có  nên  cuộn  đến  đáy  khi  có  kết  quả  mới  hay  không .
+ Nếu  đúng ,  bất  cứ  khi  nào  có  dữ  liệu  mới  xuất  ra  thiết  bị  cuối ,  nó  sẽ  được  cuộn  xuống  đáy .
+ Làm  gì  với  thiết  bị  cuối  khi  lệnh  con  kết  thúc .
+ Giá  trị  có  thể  là  «  close  »  để  _ đóng _  thiết  bị  cuối ,  và  «  restart  »  để  _ khởi  chạy  lại _  lệnh .
+ Có  nên  thực  hiện  lệnh  trong  thiết  bị  cuối  như  là  trình  bao  đăng  nhập  hay  không .
+ Nếu  đúng ,  lệnh  trong  thiết  bị  cuối  sẽ  được  thực  hiện  như  trình  bao  đăng  nhập .  «  argv [ 0 ]  »  sẽ  chứa  dấu  trừ  ở  đằng  trước .
+ Có  nên  cập  nhật  mục  ghi  đăng  nhập  khi  chạy  lệnh  thiết  bị  cuối  hay  không .
+ Nếu  đúng ,  mục  ghi  đăng  nhập  hệ  thống  «  utmp / wtmp  »  sẽ  được  cập  nhật  mỗi  khi  thực  hiện  lệnh  trong  thiết  bị  cuối .
+ Co  nên  chạy  lệnh  tự  chọn  thay  vì  trình  bao  hay  không .
+ Nếu  đúng ,  giá  trị  của  thiết  lập  «  custom _ command  »  ( lệnh  tự  chọn )  sẽ  được  dùng  thay  vì  chạy  trình  bao .
+ Có  nên  nháy  con  trỏ  hay  không .
+ Các  giá  trị  có  thể :   •  system \ t \ tđể  sử  dụng  thiết  lập  nháy  con  trỏ  của  hệ  thống   •  on \ t \ tbật  chế  độ  một  cách  dứt  khoát   •  off \ t \ ttắt  chế  độ  một  cách  dứt  khoát .
+ Hình  thức  con  trỏ
+ Chạy  lệnh  tự  chọn  để  dùng  thay  vì  hệ  vo
+ Chạy  lệnh  này  thay  vì  trình  bao ,  nếu  «  use _ custom _ command  »  ( dùng  lệnh  tự  chọn )  đúng .
+ Bảng  chọn  cho  ứng  dụng  thiết  bị  cuối
+ Phím  _ xoá  lủi  sẽ  tạo  ra :
+ Phím  _ Delete  sẽ  tạo  ra :
+ Có  nên  dùng  màu  từ  sắc  thái  của  ô  điều  khiển  thiết  bị  cuối  hay  không .
+ Có  nên  dùng  phông  chữ  hệ  thống  hay  không .
+ Phím  tắt  Mở  thanh  mới
+ Phím  tắt  Mở  cửa  sổ  mới
+ Phím  tắt  Tạo  hồ  sơ  mới
+ Phím  tắt  để  lưu  nội  dung  thẻ  hiện  tại  thành  tập  tin
+ Phím  tắt  Đóng  thanh
+ Phím  tắt  Đóng  cửa  sổ
+ Phím  tắt  Chép  văn  bản
+ Phím  tắt  Dán  văn  bản
+ Phím  tắt  Bật  tắt  Toàn  màn  hình
+ Phím  tắt  Bật  tắt  hiển  thị  thanh  trình  đơn
+ Phím  tắt  Đặt  tiêu  đề  thiết  bị  cuối
+ Phím  tắt  Đặt  lại  thiết  bị  cuối
+ Phím  tắt  Đặt  lại  và  xoá  thiết  bị  cuối
+ Phím  tắt  Chuyển  sang  thanh  trước
+ Phím  tắt  Chuyển  sang  thanh  kế
+ Phím  tắt  để  chuyển  sang  thanh  1
+ Phím  tắt  để  chuyển  sang  thanh  2
+ Phím  tắt  để  chuyển  sang  thanh  3
+ Phím  tắt  để  chuyển  sang  thanh  4
+ Phím  tắt  để  chuyển  sang  thanh  5
+ Phím  tắt  để  chuyển  sang  thanh  6
+ Phím  tắt  để  chuyển  sang  thanh  7
+ Phím  tắt  để  chuyển  sang  thanh  8
+ Phím  tắt  để  chuyển  sang  thanh  9
+ Phím  tắt  để  chuyển  sang  thanh  10
+ Phím  tắt  để  chuyển  sang  thanh  11
+ Phím  tắt  để  chuyển  sang  thanh  12
+ Phím  tắt  Hiện  trợ  giúp
+ Phím  tắt  Dùng  phông  to  hơn
+ Phím  tắt  Dùng  phông  nhỏ  hơn
+ Phím  tắt  Dùng  phông  cỡ  thường
+ Thanh  trình  đơn  có  phím  truy  cập  không .
+ Có  nên  đặt  phím  tắt  Alt-

@@ -1,0 +1,129 @@
+ Bạn  cần  phải  xác  thực  để  truy  cập  đến  «  % s  » .
+ Xác  thực  ng _ ang  hàng
+ _ Mật  khẩu  :
+ Lỗi  kết  nối  VPN
+ Thêm ,  Bỏ  và  Sửa  kết  nối  VPN
+ Từ  chối  MSCHAP
+ Cổn _ g  ra :
+   Tùy   chọn   IP 
+ _ Miền :
+ _ Tên  người  dùng :
+ Tùy  chọn  PPP
+ Xác  thực
+   Nén 
+ Dùng  mật  mã  MPPE
+ Cho  phép  nén  kiểu  _ Deflate
+ Nén  bằng  MPPC
+   Mật   mã 
+ Kiểu  xác  thực :
+ Nhớ  cho  _ buổi  hợp  này
+ _ Lưu  vào  vòng  khoá
+ Xác  thực  kết  nối
+   Thông   tin   xác   thực  Kết  nối  «  % s  »  có  thể  yêu  cầu  xác  thực  kiểu  nào .  Hãy  chọn  một  kiểu  xác  thực  thích  hợp  và  cung  cấp  thông  tin  đòi  hỏi  bên  dưới :
+ Đòi  hỏi  xác  thực
+ Kiểu  _ xác  thực :
+ Tê _ n  ở  xa :
+ Mật  khẩu  _ phụ  :
+ Kết  nối  nặc  d _ anh
+ Kết  nối  _ với  tư  cách  người  dùng :
+ Nhớ  mật  khẩu  cho  _ buổi  hợp  này
+ _ Lưu  mật  khẩu  vào  vòng  khoá
+ Bộ  Quản  Lý  Kết  Nối  VPN  ( PPP  giống  loài )
+ 00 : 00 : 00 : 00
+   Khoảng   đợi   và   Thời   hạn 
+   Tham   số   Gói   tin 
+   v.d.  :   172.16.0.0  /  16   10.11.12.0  /  24 
+ Danh  sách  các  tùy  chọn  bổ  sung  tới  pppd ,  như  được  gõ  vào  dòng  lệnh
+ Cho  phép  nén  kiểu  B _ SD
+ Kên _ h :
+ Khoả _ ng  đợi  kết  nối :
+ Nén  và  Mật  mã
+ Kết  nối
+ Tên  _ kết  nối :
+ Số  _ ngữ  cảnh :
+ Tùy  chọn  _ PPP  tự  chọn :
+ Kết  _ xuất  gỡ  lỗi :
+ Ngắt  kết  nối  sau  số  này  các  yêu  cầu  vọng  LCP  không  thành  công
+ Truy  cập  đến  thiết  bị  dành  riêng  ( khoá  kiểu  _ UUCP )
+ Bật  _ MPPE  có  tình  trạng
+ Tìm  thiết  bị
+ Vì  ly  do  bảo  mật ,  các  tùy  chọn  được  nhập  vào  hộp  bên  trên  được  kiểm  tra  so  với  danh  sách  các  tùy  chọn  được  phép ,  trước  khi  thiết  lập  kết  nối .  Hiện  thời  không  có  tùy  chọn  nằm  trong  danh  sách  đó .
+ Tùy  chọn  GPRS
+ Tên  máy  hay  địa  chỉ  IP  của  máy  phục  vụ  PPTP
+ Địa  chỉ  _ IP :
+ Nếu  không  cho  phép  nén  kiểu  BSD ,  tùy  chọn  «  nobsdcomp  »  được  gửi  qua  cho  pppd
+ Nếu  không  cho  phép  nén  kiểu  Deflate ,  tùy  chọn  «  nodefate  »  được  gửi  qua  cho  pppd
+ Đơn  vị  nhận  tối  đa
+ Đơn  vị  truyền  tối  đa
+ Từ  chối  C _ HAP
+ Từ  chối  _ EAP
+ Từ  chối  _ MS  CHAP
+ Đòi  hỏi  mật  mã  M _ PPE  128  bit
+ Đòi  hỏi  _ mật  mã  MPPE
+ Đòi  hỏi  đị _ a  chỉ  IP  xác  định
+ Đòi  hỏi  kết  nối  mạng  đang  chạy
+ Định  tuyến
+ Tùy  chọn  Nối  tiếp
+ Điểm  truy  cập  GPRS  của  nhà  cung  cấp  dịch  vụ ,  từ  cấu  hình  thiết  bị
+ Địa  chỉ  IP  của  nhà  cung  cấp  dịch  vụ
+ Số  điện  t _ hoại :
+ Đân  là  tên  dễ  nhớ  sẽ  được  dùng  để  nhận  diện  kết  nối  mạng  này   v.d.  «  VPN  đại  học  »  hay  «  Mạng  công  ty  » .
+ Thời  gian  theo  giây  giữa  hai  yêu  cầu  vọng
+ Kiể _ u  :
+ _ Dùng  DNS  ngang  hàng
+ Khi  bật ,  tùy  chọn  «  refuse-chap  »  được  gửi  qua  cho  pppd .
+ Khi  bật ,  tùy  chọn  «  refuse-eap  »  được  gửi  qua  cho  pppd .
+ Khi  bật ,  tùy  chọn  «  refuse-mschap  »  được  gửi  qua  cho  pppd .
+ Khi  bật ,  tùy  chọn  «  lock  »  được  gửi  qua  cho  pppd .
+ Khi  bật ,  tùy  chọn  «  require-mppc  »  được  gửi  qua  cho  pppd .
+ Khi  bật ,  có  đặt  tùy  chọn  «  debug  »  ( gỡ  lỗi )  của  pppd ,  cũng  thêm  thông  tin  từ  phần  bổ  sung  NetworkManager
+ Khi  bật ,  có  đặt  tùy  chọn  «  noipdefault  »  ( không  có  mặc  định  IP )  của  pppd
+ Khi  bật ,  có  đặt  tùy  chọn  «  usepeerdns  »  ( dùng  DNS  ngang  hàng )  của  pppd
+ Khi  tắt ,  tùy  chọn  «  noauth  »  ( không  xác  thực )  được  gửi  qua  cho  pppd .
+ Tên  điểm  t _ ruy  cập :
+ Địa  chỉ  thiết  _ bị :
+ RTS / CTS  p _ hần  cứng
+ _ Nhập  cấu  hình  đã  lưu ...
+ Kết  nối  bộ  điều  giả _ i
+ Chỉ  dùng  kết  nối  VPN  ch _ o  những  địa  chỉ  này :
+ K _ iểu  gói  tin :
+ DNS  ngang  hàng  _ qua  đường  hầm
+ Đòi  hỏi  nén  _ MPPC
+ Đường  hầm  pppd  ( PPTP ,  BTGPRS ,  Quay  số )
+ Tên
+ Máy  phục  vụ  PPTP
+ Số  điện  thoại
+ Địa  chỉ  Bluetooth
+ Kênh  Bluetooth
+ APN  GPRS
+ IP  GPRS
+ Số  ngữ  cảnh  GPRS
+ Kiểu  gói  tin  GPRS
+ Dùng  điều  khiển  luồng  CTS / RTS
+ Kết  nối  bằng  bộ  điều  giải
+ Đòi  hỏi  cung  cấp  địa  chỉ  IP
+ Dùng  DNS  ngang  hàng
+ Dùng  mật  mã  MPPE  128  bit
+ Bật  MPPE  có  tình  trạng
+ Không  nén  kiểu  Deflate
+ Không  nén  kiểu  BSD
+ Chỉ  pppd  truy  cập  đến  thiết  bị
+ Xác  thực  ngang  hàng  từ  xa
+ Từ  chối  EAP
+ Từ  chối  CHAP
+ Đơn  vị  truyền  tối  đa  ( theo  byte )
+ Đơn  vị  nhận  tối  đa  ( theo  byte )
+ Số  các  lần  vọng  LCP  không  thành  công  để  gây  ra  ngắt  kết  nối
+ Khoảng  thời  gian  ( theo  giây )  giữa  hai  lần  làm  vọng  LCP
+ Khoảng  thời  gian  ( theo  mili-giây )  cần  đợi  trước  khi  kết  nối .
+ Tùy  chọn  ppp  tự  chọn
+ Dùng  DNS  ngang  hàng  qua  Đường  hầm
+ Các  mạng  xác  định  sẵn  sàng
+ Hạn  chế  các  mạng  xác  định
+ Kết  nối  «  % s  »  theo  đây  sẽ  được  tạo  :
+ \ t % s :   % s
+ Chi  tiết  kết  nối  có  thể  được  sửa  đổi  bằng  nút  «  Lùi  » .
+ Chọn  tập  tin  cần  nhập  vào
+ Lưu  dạng ...
+ Một  tập  tin  tên  «  % s  »  đã  có .
+ Bạn  có  muốn  thay  thế  nó  bằng  tập  tin  đang  lưu  không ?

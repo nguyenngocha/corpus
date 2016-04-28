@@ -1,0 +1,1311 @@
+ Chương  Trình  Thao  Tác  Ảnh  GNU
+ Bộ  biên  soạn  ảnh
+ Tạo  và  biên  soạn  ảnh  hay  ảnh  chụp
+ GIMP
+ Tác  quyền  ©  năm  1995- % s  của  Spencer  Kimball ,  Peter  Mattis  và  Nhóm  Phát  Triển  GIMP .
+ Chương  trình  này  là  phần  mềm  tự  do ;  bạn  có  thể  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  với  điều  kiện  của  Giấy  Phép  Công  Cộng  GNU  như  được  xuất  bản  bởi  Tổ  Chức  Phần  Mềm  Tự  Do ;  hoặc  phiên  bản  3  của  Giấy  Phép  này ,  hoặc  ( tùy  chọn )  bất  kỳ  phiên  bản  sau  nào .  Chương  trình  này  được  phát  hành  vì  mong  muốn  nó  có  ích ,  nhưng  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .  Xem  Giấy  Phép  Công  Cộng  GNU  để  biết  thêm  chi  tiết .  Bạn  đã  nhận  một  bản  sao  của  Giấy  Phép  Công  Cộng  GNU  cùng  với  chương  trình  này ;  nếu  không ,  hãy  viết  thư  cho  Tổ  Chức  Phần  Mềm  Tự  Do ,  Có  thể  xem  tại  http : / / www.gnu.org / licenses / .
+ Chưa  xác  định  bộ  giải  thích  bó  nên  dùng  mặc  định  «  % s  » .
+ Bộ  thông  dịch  bó  «  % s  »  không  sẵn  sàng  nên  chế  độ  bó  bị  tất .
+ Hiển  thị  thông  tin  phiên  bản  rồi  thoát .
+ Hiển  thị  thông  tin  phiên  bản  rồi  thoát
+ Xuất  chi  tiết
+ Mở  cửa  sổ  GIMP  mới
+ Mở  ảnh  mới
+ Chạy  không  có  giao  diện  người  dùng
+ Không  tải  chổi ,  dốc ,  mẫu  ...
+ Không  tải  phông  chữ  nào
+ Không  hiển  thị  cửa  sổ  khởi  chạy
+ Không  dùng  bộ  nhớ  chia  sẻ  giữa  GIMP  và  bổ  sung
+ Không  dùng  hàm  tăng  tốc  độ  CPU  đặc  biệt .
+ Dùng  một  tập  tin  «  sessionrc  »  ( tài  nguyên  phiên  chạy )  thay  thế .
+ Dùng  một  tập  tin  «  gimprc  »  ( tài  nguyên  GIMP )  thay  thế .
+ Dùng  một  tập  tin  «  gimprc  »  ( tài  nguyên  GIMP )  hệ  thống  thay  thế .
+ Lệnh  bó  cần  chạy  ( có  thể  dùng  nó  nhiều  lần )
+ Thủ  tục  cần  dùng  khi  xử  lý  lệnh  bó
+ Gởi  các  thông  điệp  cho  bàn  giao  tiếp  thay  vì  hiển  thị  thoại .
+ Chế  độ  tương  thích  PDB :   •  off \ t \ ttắt   •  on \ t \ tbật   •  warn  \ tcảnh  báo .
+ Gỡ  lỗi  trong  trường  hợp  đổ  vỡ :   •  never \ t \ tkhông  bao  giờ   •  query \ t \ thỏi   •  always  \ tluôn .
+ Hiệu  lực  bộ  quản  lý  tín  hiệu  gỡ  lỗi  không  nghiêm  trọng
+ Đặt  mọi  cảnh  báo  là  nghiêm  trọng
+ Xuất  một  tập  tin  «  gimprc  »  ( tài  nguyên  GIMP )  có  thiết  lập  mặc  định
+ Đầu  ra  là  danh  sách  đã  sắp  xếp  các  thủ  tục  phản  đối  trong  PDB
+ [ TẬP _ TIN | URI ... ]
+ GIMP  không  thể  khởi  tạo  giao  diện  người  dùng  đồ  họa .  Hãy  đảm  bảo  thiết  lập  đúng  cho  môi  trường  hiển  thị  đang  có .
+ Một  cửa  sổ  GIMP  khác  đang  chạy
+ Đầu  ra  GIMP .  Nhấn  phím  bất  kỳ  để  đóng  cửa  sổ  này .
+ ( Gõ  phím  bất  kỳ  để  đóng  cửa  sổ  này )
+ Đầu  ra  GIMP .  Bạn  có  thể  thu  nhỏ  nó ,  nhưng  đừng  đóng  hẳn .
+ Không  thể  chuyển  đổi  bảng  mã  tên  tập  tin  đã  cấu  hình  sang  dạng  thức  UTF-8 :  % s  Hãy  kiểm  tra  giá  trị  của  biến  môi  trường  «  G _ FILENAME _ ENCODING  »  [ G  bảng  mã  tên  tập  tin ] .
+ Không  thể  chuyển  đổi  sang  bộ  ký  tự  UTF-8  tên  thư  mục  chứa  cấu  hình  người  dùng  GIMP :  % s  Rất  có  thể  vì  hệ  thống  tập  tin  bạn  cất  giữ  tập  tin  bằng  một  bộ  ký  tự  khác  với  UTF-8 ,  và  bạn  chưa  báo  GLib  như  thế .  Hãy  đặt  biến  môi  trường  «  G _ FILENAME _ ENCODING  »  ( bảng  mã  tên  tập  tin  G ) .
+ dùng  phiên  bản  % s  % s  ( trình  biên  dịch  % s )
+ % s  phiên  bản  % s
+ Trình  sửa  chổidialogs-action
+ Chổi
+ Bộ  đệm
+ Kênh
+ Bảng  màu
+ Ngữ  cảnh
+ Thông  tin  con  trỏ
+ Gỡ  lỗi
+ Hộp  thoại
+ Neo
+ Cụ  neo  được
+ Lược  sử  Tài  liệu
+ Vẽ  được
+ Paint  Dynamicsdialogs-action
+ Trình  soạn  thảo  Paint  Dynamicsdialogs-action
+ Chỉnh  sửavector-mode
+ Bàn  giao  tiếp  Lỗi
+ Tập  tin
+ Bộ  _ lọc
+ Phông  chữ
+ Bộ  sửa  độ  dốcdialogs-action
+ Độ  dốc
+ Cộng  cụ  định  nghĩa  trước
+ Trình  sửa  Preset  công  cụ
+ Trợ  giúp
+ Ảnhtransform-preview-type
+ Ảnh
+ Lớp
+ Bộ  sửa  bảng  chọndialogs-action
+ Bảng  chọn
+ Mẫu
+ bổ  sung
+ Mặt  nạ  nhanhundo-type
+ Điểm  mẫu
+ Chọn
+ Biểu  mẫu
+ Công  cụ  chữ
+ Bộ  sửa  chữ
+ Tùy  chọn  công  cụ
+ Công  cụ
+ Đường  dẫn
+ Xem
+ Cửa  sổ
+ % s :  % .2f
+ % s :  % dbrush-editor-action
+ Trình  đơn  sửa  chổibrush-editor-action
+ Sửa  chổi  vẽ  hiện  tạibrushes-action
+ Trình  đơn  chổibrushes-action
+ Mở  _ chổi  dạng  ảnhbrushes-action
+ Mở  chổi  dạng  ảnhbrushes-action
+ Chổi  _ mớibrushes-action
+ Tạo  chổi  mớibrushes-action
+ _ Nhân  đôi  chổibrushes-action
+ Nhân  đôi  chổi  nàybrushes-action
+ Chép  _ vị  trí  chổibrushes-action
+ Sao  chép  vị  trí  của  tập  tin  chổi  vào  bảng  nhápbrushes-action
+ _ Xóa  chổibrushes-action
+ Xóa  chổi  nàybrushes-action
+ _ Cập  nhật  chổibrushes-action
+ Cập  nhật  chổibrushes-action
+ _ Sửa  chổi ... brushes-action
+ Sửa  chổi  nàybuffers-action
+ Trình  đơn  Bộ  đệmbuffers-action
+ _ Dán  bộ  đệmbuffers-action
+ Dán  bộ  đệm  đã  chọnbuffers-action
+ Dán  bộ  đệm  _ vàobuffers-action
+ Dán  bộ  đệm  được  chọn  vào  vùng  chọnbuffers-action
+ Dá _ n  bộ  đệm  ra  ảnh  mớibuffers-action
+ Dán  bộ  đệm  được  chọn  dưới  dạng  ảnh  mớibuffers-action
+ _ Xóa  bộ  đệmbuffers-action
+ Xóa  bộ  đệm  được  chọnchannels-action
+ Trình  đơn  Kênhchannels-action
+ _ Sửa  thuộc  tính  kênh ... channels-action
+ Sửa  đổi  tên ,  màu  và  độ  trong  suốt  của  kênhchannels-action
+ Kê _ nh  mới ... channels-action
+ Tạo  kênh  mớichannels-action
+ Kê _ nh  mớichannels-action
+ Tạo  kênh  mới  với  các  giá  trị  dùng  cuối  cùngchannels-action
+ N _ hân  đôi  kênhchannels-action
+ Tạo  một  bản  sao  của  kênh  này ,  và  thêm  nó  vào  ảnhchannels-action
+ _ Xóa  kênhchannels-action
+ Xoá  kênh  nàychannels-action
+ Nân _ g  kênhchannels-action
+ Nâng  kênh  này  lên  một  bước  trong  chồng  kênhchannels-action
+ Nâng  kênh  lên  đỉn _ hchannels-action
+ Nâng  kênh  này  lên  trên  chồng  kênhchannels-action
+ _ Hạ  kênhchannels-action
+ Hạ  thấp  kênh  này  một  bước  trong  chồng  kênhchannels-action
+ Hạ  kênh  xuống  đá _ ychannels-action
+ Hạ  thấp  kênh  này  xuống  dưới  chồng  kênhchannels-action
+ Kênh  tới  _ vùng  chọnchannels-action
+ Thay  thế  vùng  chọn  bằng  kênh  nàychannels-action
+ Thê _ m  vào  vùng  chọnvectors-action
+ Thêm  kênh  này  vào  vùng  chọn  hiện  cóchannels-action
+ Loại  _ trừ  khỏi  vùng  chọnvectors-action
+ Trừ  kênh  này  ra  vùng  chọn  hiện  tạichannels-action
+ Giao  vớ _ i  vùng  chọnvectors-action
+ Giao  kênh  này  với  vùng  chọn  hiện  có
+ Thuộc  tính  kênh
+ Sửa  thuộc  tính  kênh
+ Sửa  màu  kênh
+ Độ  _ mờ  đục  tô  đầy :
+ Kênh  mới
+ Tùy  chọn  kênh  mới
+ Màu  kênh  mới
+ Bản  sao  kênh  % scolormap-action
+ Trình  đơn  bảng  màucolormap-action
+ _ Sửa  màu ... palette-editor-action
+ Sửa  đổi  màu  nàycolormap-action
+ Thê _ m  màu  từ  cảnh  gầncolormap-action
+ Thêm  màu  cận  cảnh  hiện  tạicolormap-action
+ Thê _ m  màu  từ  nềncolormap-action
+ Thêm  màu  nền  hiện  tại
+ Sửa  đổi  mục  nhập  bố  trí  màu  # % d
+ Sửa  mục  nhập  bố  trí  màucontext-action
+ Ngữ  _ cảnhcontext-action
+ _ Màuimage-action
+ Độ  _ mờ  đụclayers-action
+ Chế  độ  _ sơncontext-action
+ _ Công  cụcontext-action
+ _ Chổi
+ _ Mẫu
+ _ Bảng  chọncontext-action
+ Độ  _ dốc
+ _ Phôngcontext-action
+ _ Hìnhcontext-action
+ _ Bán  kínhcontext-action
+ Chôn _ gcontext-action
+ Độ  _ cứngcontext-action
+ Tỷ  lệ  _ hình  thểcontext-action
+ _ Góccontext-action
+ Màu  _ mặc  địnhcontext-action
+ Đặt  màu  tiền  cảnh  đen ,  nền  trắngcontext-action
+ _ Hoán  đổi  màucontext-action
+ Hoán  đổi  màu  tiền  cảnh  và  hậu  cảnh
+ Chế  độ  sơn :  % s
+ Nét  chổi :  % s
+ Bán  kính  vẽ :  % 2.2f
+ Góc  vẽ :  % 2.2fcursor-info-action
+ Trình  đơn  thông  tin  con  trỏcursor-info-action
+ _ Mẫu  đã  trộn
+ Dùng  màu  tổng  hợp  của  mọi  lớp  hình  thấyselect-action
+ Mở  ' % s '  thất  bại :  % s
+ Không  tênwindows-action
+ _ Hộp  công  cụdialogs-action
+ Tù _ y  chọn  công  cụdialogs-action
+ Mở  hộp  thoại  tùy  biến  công  cụdialogs-action
+ Trạng  thái  _ thiết  bịdialogs-action
+ Mở  hộp  thoại  trạng  thái  thiết  bịdialogs-action
+ _ Lớpdialogs-action
+ Mở  hộp  thoại  chọn  lớpdialogs-action
+ _ Kênhdialogs-action
+ Mở  hộp  thoại  chọn  kênhdialogs-action
+ Đường  _ dẫndialogs-action
+ Mở  hộp  thoại  chọn  đường  dẫndialogs-action
+ _ Bảng  màudialogs-action
+ Mở  hộp  thoại  bảng  màudialogs-action
+ Biểu  đồ  tần  _ suấtdialogs-action
+ Mở  cửa  sổ  tần  suấtdialogs-action
+ Bộ  _ sửa  vùng  chọndialogs-action
+ Mở  trình  chọn  vùngdialogs-action
+ Định  _ hướngdialogs-action
+ Mở  hộp  thoại  hiển  thị  định  hướngdialogs-action
+ Lược  sử  _ Hủy  bướcdialogs-action
+ Mở  hộp  thoại  lịch  sử  hủy  bướcdialogs-action
+ Con  trỏ
+ Mở  hộp  thoại  thông  tin  con  trỏdialogs-action
+ Điểm  _ mẫudialogs-action
+ Mở  hộp  thoại  chọn  điểm  mẫudialogs-action
+ _ Màudialogs-action
+ Mở  hộp  thoại  màu  tiền  cảnh / hậu  cảnhdialogs-action
+ _ Chổidialogs-action
+ Mở  hộp  thoại  chọn  chổidialogs-action
+ Mở  trình  soạn  thảo  chổidialogs-action
+ Mở  hộp  thoại  paint  dynamicsdialogs-action
+ Mở  trình  soạn  thảo  paint  dynamicsdialogs-action
+ Mẫ _ udialogs-action
+ Mở  hộp  thoại  mẫudialogs-action
+ _ Dốcdialogs-action
+ Mở  thoại  chọn  độ  dốcdialogs-action
+ Bản _ g  chọndialogs-action
+ Mở  thoại  chọn  bảng  chọndialogs-action
+ Tùy  chọn  công  cụdialogs-action
+ Mở  thoại  công  cụ  presetdialogs-action
+ _ Phôngdialogs-action
+ Mở  thoại  chọn  phôngdialogs-action
+ Bộ  đệ _ mdialogs-action
+ Mở  thoại  bộ  đệm  có  têndialogs-action
+ Ả _ nhdialogs-action
+ Mở  hộp  thoại  ảnhdialogs-action
+ Lược  sử  Tà _ i  liệudialogs-action
+ Mở  thoại  lược  sử  tài  liệudialogs-action
+ _ Mẫudialogs-action
+ Mở  hộp  thoại  ảnh  mẫudialogs-action
+ Bà _ n  giao  tiếp  lỗidialogs-action
+ Mở  bàn  giao  tiếp  lỗidialogs-action
+ Tù _ y  thíchdialogs-action
+ Mở  thoại  tùy  thíchdialogs-action
+ Thiết  bị  _ nhậpdialogs-action
+ Mở  trình  soạn  thảo  thiết  bị  nhậpdialogs-action
+ _ Phím  tắtdialogs-action
+ Mở  trình  soạn  thảo  phím  tắtdialogs-action
+ _ Mô-đundialogs-action
+ Mở  hộp  thoại  trình  quản  lý  mô-đundialogs-action
+ _ Mẹo  vặt  hôm  naydialogs-action
+ Hiển  thị  mẹo  GIMPdialogs-action
+ Giới  thiệu  GIMP
+ _ Giới  thiệuhelp-action
+ help-action
+ Hộp  công  cụ
+ Nâng  hộp  công  cụ
+ Hộp  công  cụ  mới
+ Tạo  hộp  công  cụ  mớidock-action
+ Chu _ yển  sang  màn  hìnhdock-action
+ Đóng  Neodock-action
+ _ Mở  hiển  thị ... view-action
+ Không  thể  kết  nối  tới  màn  hình  khácview-action
+ _ Hiện  vùng  chọn  ảnhdock-action
+ Tự  động  th _ eo  ảnh  kích  hoạtdockable-action
+ Trình  đơn  Hộp  thoạidockable-action
+ Thêm  _ thẻdockable-action
+ Cỡ  _ xem  thửdockable-action
+ Kiểu  _ thẻdockable-action
+ Đón _ g  thẻdockable-action
+ _ Tách  thẻpreview-size
+ _ Rất  nhỏpreview-size
+ _ Cực  nhỏpreview-size
+ _ Nhỏpreview-size
+ _ Vừapreview-size
+ _ Lớnpreview-size
+ Rấ _ t  lớnpreview-size
+ _ Siêu  lớnpreview-size
+ Lớn  hơn  _ nữapreview-size
+ _ Khổng  lồtab-style
+ B _ iểu  tượngtab-style
+ T _ rạng  thái  hiện  tạitab-style
+ _ Chữtab-style
+ Biểu  tượng  và  _ Chữtab-style
+ Trạn _ g  thái  và  Chữtab-style
+ Tự  độngdockable-action
+ _ Neo  thẻdockable-action
+ Không  cho  phép  kéo  thả  thẻ  này  bằng  chuộtdockable-action
+ Hiện  thanh  _ nútdockable-action
+ Xem  kiểu  _ danh  sáchdockable-action
+ Xem  kiểu  _ lướidocuments-action
+ Trình  đơn  Tài  liệudocuments-action
+ _ Mở  ảnhdocuments-action
+ Mở  hạng  mục  đã  chọndocuments-action
+ Nâng  h _ ay  Mở  ảnhdocuments-action
+ Nâng  cửa  sổ  lên  nếu  đang  mởdocuments-action
+ _ Hộp  thoại  Mở  tập  tindocuments-action
+ Hộp  thoại  mở  ảnhdocuments-action
+ Chép  _ vị  trí  ảnhdocuments-action
+ Sao  chép  vị  trí  ảnh  vào  bảng  tạmdocuments-action
+ Gỡ  _ bỏ  mục  nhậpdocuments-action
+ Gỡ  bỏ  mục  nhập  đã  chọndocuments-action
+ _ Xoá  lược  sửdocuments-action
+ Xóa  toàn  lược  sử  của  tài  liệudocuments-action
+ Tạo  lại  _ xem  thửdocuments-action
+ Tạo  lại  xem  thửdocuments-action
+ Tải  lại  _ mọi  xem  thửdocuments-action
+ Tải  lại  mọi  xem  thửdocuments-action
+ Gỡ  bỏ  mục  nhập  _ rơi  rớtdocuments-action
+ Gỡ  bỏ  hạng  mục  mà  tập  tin  không  tồn  tại
+ Xóa  lược  sử  tài  liệu
+ Xóa  lược  sử  của  tài  liệu  gần  đây  chứ ?
+ Việc  xóa  lược  sử  tài  liệu  thì  sẽ  gỡ  bỏ  vĩnh  viễn  mọi  ảnh  trong  danh  sách  tài  liệu  gần  đây.drawable-action
+ Làm  _ bằngdrawable-action
+ Tăng  độ  tương  phản  tự  độngdrawable-action
+ Đả _ odrawable-action
+ Đảo  màudrawable-action
+ drawable-action
+ Cân  bằng  t _ rắngdrawable-action
+ Sửa  tự  động  cân  bằng  trắngdrawable-action
+ _ Offset ... drawable-action
+ Dịch  các  điểm  ảnh ,  và  có  thể  cuộn  tại  viềndrawable-action
+ _ Nhìn  thấyvectors-action
+ Bật / tắt  hiển  thịdrawable-action
+ Đã  _ kết  nốivectors-action
+ Bật / tắt  tình  trạng  liên  kếtdrawable-action
+ _ Khóa  điểm  ảnhdrawable-action
+ Bảo  vệ  điểm  ảnh  không  cho  thay  đổi
+ Định  vị  lại  kênhdrawable-action
+ Bảo  vệ  điểm  ảnh  không  cho  thay  đổidrawable-action
+ Lật  _ ngangimage-action
+ Lật  ngangundo-type
+ Lật  _ dọcimage-action
+ Lật  dọcundo-desc
+ Xoay  xuôi  _ chiều  90 ° drawable-action
+ Xoay  phải  90 ° drawable-action
+ Quay  _ 180 ° drawable-action
+ Lật  trên  xuốngdrawable-action
+ Xoay  n _ gược  chiều  90 ° drawable-action
+ Xoay  sang  trái  90 ° view-padding-color
+ Đảo
+ Việc  cân  bằng  trắng  hoạt  động  chỉ  trên  lớp  màu  RGB.dynamics-action
+ Trình  đơn  Paint  Dynamicsdynamics-action
+ Dynamic  _ mớidynamics-action
+ Tạo  dyanmic  mớidynamics-action
+ Nhân  đô _ i  dynamicsdynamics-action
+ Nhân  đôi  dynamicdynamics-action
+ Chép  _ vị  trí  dynamicdynamics-action
+ Sao  chép  vị  trí  tập  tin  dynamic  vào  bảng  tạmdynamics-action
+ _ Xóa  dynamicdynamics-action
+ Xóa  dynamic  nàydynamics-action
+ _ Cập  nhật  dynamicdynamics-action
+ Cập  nhật  dynamicdynamics-action
+ _ Sửa  dynamic ... dynamics-action
+ Sửa  dynamicsdynamics-editor-action
+ Trình  đơn  Bộ  sửa  Paint  Dynamicsdynamics-editor-action
+ Sửa  dynamic  hoạt  độngedit-action
+ _ Sửaedit-action
+ _ Dán  dạngedit-action
+ _ Bộ  đệmedit-action
+ Trình  đơn  Lược  sử  Hủy  bướcedit-action
+ _ Hủy  bước
+ Hủy  thao  tác  cuốiedit-action
+ Bước  _ lại
+ Làm  lại  thao  tác  cuối  bị  hủyedit-action
+ Hủy  mạnhedit-action
+ Hủy  thao  tác  cuối ,  bỏ  qua  các  thay  đổi  nhìn  thấy  đượcedit-action
+ Làm  lại  mạnhedit-action
+ Làm  lại  thao  tác  cuối  cùng  bị  hủy  bước ,  bỏ  qua  các  thay  đổi  nhìn  thấy  đượcedit-action
+ Xóa  lượ _ c  sử  Hủy  bướcedit-action
+ Gỡ  bỏ  mọi  thao  tác  khỏi  lược  sử  hủy  bướcedit-action
+ Làm  _ mờ ...
+ Sửa  chế  độ  vẽ  và  độ  mờ  của  điểm  ảnh  dùng  lần  trướcedit-action
+ Cắ _ ttext-tool-action
+ Chuyển  các  điểm  ảnh  đã  chọn  vào  bảng  nhápedit-action
+ _ Chéptext-tool-action
+ Sao  chép  các  địa  điểm  đã  chọn  vào  bảng  nhápedit-action
+ Chép  _ phần  nhìn  thấyedit-action
+ Chép  phần  nhìn  thấy  trong  vùng  đã  chọnedit-action
+ _ Dántext-tool-action
+ Dán  nội  dung  của  bảng  nhápedit-action
+ Dán  _ vàoedit-action
+ Dán  nội  dung  của  bảng  nháp  vào  vùng  đang  chọnedit-action
+ Từ  bảng  _ tạmedit-action
+ Tạo  ảnh  mới  từ  bảng  tạmedit-action
+ Ả _ nh  mớiedit-action
+ _ Lớp  mớiedit-action
+ Tạo  lớp  mới  từ  bảng  nhápedit-action
+ Cắ _ t  có  tên ... edit-action
+ Chuyển  các  điểm  ảnh  đã  chọn  vào  vùng  nhớ  tạmedit-action
+ _ Chép  có  tên ... edit-action
+ Sao  chép  các  địa  điểm  đã  chọn  vào  bộ  nhớ  tạmedit-action
+ Chép  _ hiển  thị  có  tên ... edit-action
+ Chép  vùng  chọn  vào  vùng  nhớ  tạmedit-action
+ _ Dán  có  tên ... edit-action
+ Dán  nội  dung  của  bộ  nhớ  tạmedit-action
+ X _ oátext-tool-action
+ Xoá  điểm  ảnh  đã  chọnedit-action
+ Tô  _ bằng  màu  cận  cảnhedit-action
+ Tô  đầy  vùng  chọn  bằng  màu  cận  cảnhedit-action
+ Tô  bằn _ g  màu  nềnedit-action
+ Tô  đầy  vùng  chọn  bằng  màu  nềnedit-action
+ _ Tô  bằng  mẫuedit-action
+ Tô  đầy  vùng  chọn  bằng  mẫu  đang  dùng
+ _ Hủy  bước  % s
+ Bước  _ lại  % s
+ _ Làm  mờ  % s ...
+ Xóa  lược  sử  Hủy  bước
+ Thật  sự  xóa  lược  sử  hủy  bước  của  ảnh  này  không ?
+ Việc  xóa  lược  sử  hủy  bước  của  ảnh  này  sẽ  giải  phóng  thêm  bộ  nhớ  % s .
+ Chép  điểm  ảnh  vào  bảng  tạm
+ Chép  điểm  ảnh  vào  vùng  tạm
+ Không  có  ảnh  trong  bảng  nháp  để  dán .
+ Bảng  tạm
+ Cắt  có  tên
+ Hãy  nhập  tên  cho  bộ  đệm  này .
+ Chép  có  tên
+ Chép  hiển  thị  có  tên
+ Không  có  lớp  hoạt  động  hoặc  kênh  nào  từ  đó  cần  cắt .
+ ( Bộ  đệm  không  tên )
+ Không  có  lớp  hoạt  động  hoặc  kênh  nào  từ  đó  cần  sao  chép.error-console-action
+ Trình  đơn  Bàn  giao  tiếp  Lỗierror-console-action
+ _ Xoáerror-console-action
+ Xóa  bàn  giao  tiếp  lỗierror-console-action
+ Chọn  _ hếterror-console-action
+ Chọn  mọi  lỗierror-console-action
+ _ Lưu  lỗi  vào  tập  tin ... error-console-action
+ Xuất  mọi  lỗi  ra  tập  tinerror-console-action
+ Lưu  _ vùng  chọn  vào  tập  tin ... error-console-action
+ Ghi  lỗi  đã  chọn  vào  tập  tin
+ Không  thể  lưu  vì  chưa  chọn  gì .
+ Lưu  bản  ghi  lỗi  vào  tập  tin
+ Gặp  lỗi  khi  ghi  tập  tin  «  % s  » :  % sfile-action
+ _ Tập  tinfile-action
+ _ Tạofile-action
+ Mở  _ gần  đâyfile-action
+ _ Mở ... file-action
+ Mở  tập  tin  ảnhfile-action
+ _ Mở  dạng  lớp ... file-action
+ Mở  ảnh  dạng  lớpfile-action
+ Mở  đị _ a  chỉ ... file-action
+ Mở  ảnh  từ  một  vị  trífile-action
+ Tạo  biểu  mẫu ... file-action
+ Tạo  biểu  mẫu  mới  bằng  ảnh  nàyfile-action
+ H _ oàn  nguyênfile-action
+ Tải  lại  ảnh  từ  đĩafile-action
+ Đóng  hếtfile-action
+ Đóng  mọi  ảnh  đang  mởfile-action
+ T _ hoátfile-action
+ Thoát  GIMPfile-action
+ _ Lưufile-action
+ Cất  ảnh  nàyfile-action
+ Lư _ u  dạng ... file-action
+ Lưu  ảnh  với  tên  khácfile-action
+ Lưu  bản  _ sao ... file-action
+ Lưu  ảnh  gốc ,  không  dùng  hiệu  ứng  ở  trạng  thái  hiện  tạifile-action
+ Lưu  và  đóng ... file-action
+ Cất  ảnh  và  đóng  cửa  sổ  của  nó
+ _ Xuất
+ Xuất  lại  ảnhfile-action
+ _ Ghi  đèfile-action
+ Xuất  lại  tập  tin  với  định  dạng  nhậpfile-action
+ Xuất ... file-action
+ Xuất  ảnh  với  định  dạng  khác  như  PNG  hay  JPEG
+ Xuất  thành  % s
+ _ Ghi  đè  % s
+ Mở  ảnh
+ Mở  dạng  dạng  lớp
+ Không  có  thay  đổi  mới
+ Lưu  ảnh
+ Lưu  một  bản  sao  của  ảnh
+ Tạo  biểu  mẫu  mới
+ Hãy  n.hập  tên  cho  biểu  mẫu  này
+ Việc  hoàn  nguyên  thất  bại  vì  chưa  liên  quan  tên  tập  tin  nào  với  ảnh  này .
+ Hoàn  nguyên  ảnh
+ Hoàn  nguyên  «  % s  »  thành  «  % s  »  không ?
+ Bằng  cách  hoàn  nguyên  ảnh  này  thành  tính  trạng  được  lưu  trên  đĩa ,  bạn  sẽ  mất  toàn  bộ  các  thay  đổi  đã  làm  cũng  như  thông  tin  hoàn  tác .
+ ( Biểu  mẫu  không  tên )
+ Việc  hoàn  nguyên  thành  «  % s  »  thất  bại :  % sfilters-action
+ Làm  t _ rơnfilters-action
+ view-action
+ Hiện  bộ  _ lọc ... filters-action
+ filters-action
+ Cân  _ bằng  màu ... filters-action
+ channels-action
+ Kê _ nh  mới ... filters-action
+ Mà _ u  hóa ... colormap-action
+ _ Sửa  màu ... filters-action
+ Tạo  biểu  mẫu ... filters-action
+ Cân  _ bằng  màu ...
+ Ma  trận  chuyển  dạngfilters-action
+ _ Giảm  bão  hoà ... filters-action
+ Khoảng  cách : select-action
+ _ Nới ...
+ Th _ ay  thếfilters-action
+ Phơi  sángimage-action
+ _ Co  dãn  ảnh ... filters-action
+ Lướifilters-action
+ file-action
+ Mở  đị _ a  chỉ ... filters-action
+ tools-action
+ _ Xoay  tự  do ... filters-action
+ _ Bích  chương  hóa ... filters-action
+ image-action
+ Cỡ  _ in ... select-action
+ T _ hu  nhỏ ... plug-in-action
+ _ Nhiễu
+ Chưa  chọn  gìdialogs-action
+ Điểm  _ mẫulayers-action
+ Co  _ dãn  lớp ...
+ _ Ngưỡng ...
+ Chuyển  dạng  hướngfilters-action
+ _ Sửa  mẫu ... drawable-action
+ _ Offset ... filters-action
+ _ Sáng-Tương  phản ... filters-action
+ _ Ngưỡng ... image-action
+ Cỡ  _ vùng  vẽ ... filters-action
+ palettes-action
+ _ Sửa  bảng  màu ...
+ _ Cong ... filters-action
+ image-convert-action
+ Được  đánh  _ số ...
+ fonts-action
+ Trình  đơn  phôngfonts-action
+ _ Quét  lại  danh  sách  phôngfonts-action
+ Quét  lại  phông  đã  càigradient-editor-action
+ Trình  đơn  Bộ  sửa  độ  dốcgradient-editor-action
+ Kiểu  màu  bên  tráigradient-editor-action
+ Tải  màu  bên  t _ rái  từgradient-editor-action
+ _ Lưu  màu  bên  trái  thànhgradient-editor-action
+ Kiểu  màu  phảigradient-editor-action
+ Tải  màu  bên  _ phải  từgradient-editor-action
+ Lưu  màu  bên  phải  _ vàogradient-editor-action
+ Màu  điểm  cuối  trá _ i ... gradient-editor-action
+ Màu  đ _ iểm  cuối  phải ... gradient-editor-action
+ Hợp  màu  điểm  cuốigradient-editor-action
+ Hợp  cả  độ  đụ _ c  điểm  cuốigradient-editor-action
+ Sửa  độ  dốc  hoạt  độnggradient-editor-action
+ Điểm  phải  của  hàng  xóm  t _ ráigradient-editor-action
+ Điểm  cuối  _ phảigradient-editor-action
+ Màu  _ tiền  cảnhgradient-editor-action
+ Màu  _ hậu  cảnhgradient-editor-color-type
+ Điểm  t _ rái  của  hàng  xóm  phảigradient-editor-action
+ Điểm  cuối  t _ ráigradient-editor-color-type
+ _ Cố  địnhgradient-editor-color-type
+ Màu  _ tiền  cảnhgradient-editor-color-type
+ Màu  tiền  cảnh  ( T _ rong  suốt ) gradient-editor-color-type
+ Màu  _ hậu  cảnh  ( Trong  suốt ) gradient-editor-blending
+ T _ uyến  tínhgradient-editor-blending
+ Đường  _ conggradient-editor-blending
+ Hình  _ singradient-editor-blending
+ Cầu  ( _ tăng ) gradient-editor-blending
+ Cầu  ( _ giảm ) gradient-editor-blending
+ ( Thay  đổi )
+ _ RGBimage-convert-action
+ HSV  ( sắc  độ  ngượ _ c  chiều ) gradient-editor-coloring
+ HSV  ( sắc  độ  xuôi  c _ hiều ) gradient-editor-coloring
+ Phóng  toview-zoom-action
+ Phóng  towindows-action
+ Thu  nhỏview-zoom-action
+ Thu  nhỏview-action
+ Phóng  hết
+ Hàm  _ hợp  nhau  cho  đoạn
+ _ Kiểu  phối  màu  cho  đoạn
+ _ Lật  đoạn
+ _ Sao  lại  đoạn ...
+ Chia  đoạn  ra  tại  điể _ m  giữa
+ Chia  đoạn  ra  cùng  kiể _ u ...
+ _ Xóa  bỏ  đoạn
+ G _ iữa  lại  điểm  tâm  của  đoạn
+ P _ hân  phối  lại  các  móc  trong  đoạn
+ Kiểu  _ tô  màu  cho  đoạn
+ _ Lật  vùng  chọn
+ _ Sao  lại  vùng  chọn ...
+ Chia  các  đoạn  ra  tại  điể _ m  giữa
+ Chia  các  đoạn  ra  cùng  kiể _ u ...
+ _ Xóa  bỏ  vùng  chọn
+ Giữa  lại  điểm  tâm  trong  vùng  _ chọn
+ P _ hân  phối  lại  các  móc  trong  vùng  chọn
+ Màu  điểm  cuối  trái
+ Màu  của  điểm  cuối  bên  trái  của  đoạn  dốc .
+ Màu  điểm  cuối  phải
+ Màu  của  điểm  cuối  bên  phải  của  đoạn  dốc .
+ Sao  lại  đoạn
+ Sao  lại  đoạn  dốc
+ Sao  lại  vùng  chọn
+ Sao  lại  vùng  chọn  dốc
+ Sao  lại
+ Hãy  chọn  số  lần  cần  sao  lại  đoạn  được  chọn .
+ Hãy  chọn  số  lần  cần  sao  lại  Vùng  chọn .
+ Chia  đoạn  ra  cùng  kiểu
+ Chia  đoạn  ra  dốc  cùng  kiểu
+ Chia  các  đoạn  ra  cùng  kiểu
+ Chia  các  đoạn  ra  dốc  cùng  kiểu
+ Chia  ra
+ Hãy  chọn  số  phần  cùng  kiểu  cần  chia  đoạn  được  chọn  ra .
+ Hãy  chọn  số  phần  cùng  kiểu  cần  chia  các  đoạn  ra  trong  vùng  chọn.gradients-action
+ Trình  đơn  Độ  dốcgradients-action
+ Độ  dốc  _ mớigradients-action
+ Tạo  dốc  mớigradients-action
+ N _ hân  đôi  độ  dốcgradients-action
+ Nhân  đôi  độ  dốcgradients-action
+ Chép  _ vị  trí  độ  dốcgradients-action
+ Sao  chép  địa  điểm  tập  tin  độ  dốc  vào  bảng  tạmgradients-action
+ Lưu  dạng  _ POV-Ray ... gradients-action
+ Lưu  dốc  dạng  POV-Raygradients-action
+ Xóa  độ  _ dốcgradients-action
+ Xóa  độ  dốcgradients-action
+ _ Cập  nhật  độ  dốcgradients-action
+ Cập  nhật  độ  dốcgradients-action
+ Sửa  đổi  độ  dốc  này
+ Lưu  «  % s  »  dạng  POV-Rayhelp-action
+ Trợ  _ giúphelp-action
+ Mở  hướng  dẫn  sử  dụng  GIMPhelp-action
+ Trợ  giúp  theo  ngữ  _ cảnhhelp-action
+ Hiện  trợ  giúp  cho  hạng  mục  đang  ở  trên  màn  hìnhimage-action
+ Trình  đơn  Ảnhimage-action
+ Ả _ nhimage-action
+ _ Chế  độimage-action
+ Mẹo  t _ rướcimage-action
+ _ Biến  đổilayers-action
+ Nét  _ dẫnimage-action
+ Thô _ ng  tinimage-action
+ _ Tự  động
+ Ánh  _ xạplug-in-action
+ Thành  _ phần
+ Giảm  bão  hoàimage-action
+ _ Mới ... image-action
+ Tạo  ảnh  mớiimage-action
+ Cỡ  _ vùng  vẽ ... image-action
+ Chỉnh  các  chiều  ảnhimage-action
+ Vừa  vùng  vẽ  _ khít  các  lớpimage-action
+ Thay  đổi  kích  cỡ  ảnh  để  vây  quanh  mọi  lớpimage-action
+ _ Khớp  vùng  chọn  bảng  vẽimage-action
+ Đổi  cỡ  ảnh  khít  vào  vùng  chọnimage-action
+ Cỡ  _ in ... image-action
+ Chỉnh  độ  phân  giải  inimage-action
+ _ Co  dãn  ảnh ... image-action
+ Thay  đổi  kích  cỡ  của  nội  dung  ảnhimage-action
+ _ Cắt  tới  vùng  chọnlayers-action
+ Cắt  ảnh  rộng  tới  vùng  chọnimage-action
+ layers-action
+ N _ hân  đôiimage-action
+ Tạo  bản  sao  ảnhimage-action
+ Trộn  _ lớp  nhìn  thấy ... image-action
+ Trộn  mọi  lớp  nhìn  thấy  thành  cùng  một  lớplayers-action
+ Làm  _ phẳng  ảnhlayers-action
+ Trộn  mọi  lớp  thành  một  lớp ,  và  hủy  phần  trong  suốtlayers-action
+ Cấu  hình  _ lưới ... image-action
+ Cấu  hình  lưới  cho  ảnh  nàyimage-action
+ _ Thuộc  tính  ảnhimage-action
+ Hiển  thị  thông  tin  ảnhimage-convert-action
+ Chuyển  ảnh  thành  không  gian  màu  RGBimage-convert-action
+ Cân  bằn _ g  xámimage-convert-action
+ Chuyển  đổi  ảnh  sang  mức  xámimage-convert-action
+ Được  đánh  _ số ... image-convert-action
+ Chuyển  ảnh  thành  loại  có  đánh  số  màuimage-convert-action
+ Chuyển  ảnh  thành  loại  có  đánh  số  màuimage-action
+ Lật  ngang  ảnhimage-action
+ Lật  dọc  ảnhimage-action
+ Xoay  ảnh  này  90  độ  sang  phảiimage-action
+ Quay  ngược  ảnh  từ  trên  xuốngimage-action
+ Xoay  ảnh  90  độ  sang  trái
+ Đặt  cỡ  vùng  vẽ  ảnh
+ Đang  đổi  kích  cỡ
+ Đặt  độ  phân  giải  in  ảnh
+ Đang  lật
+ Đang  xoay
+ Không  thể  xén  gì  vì  hiện  có  vùng  chọn  rỗng .
+ Đổi  cỡ  in
+ Co  dãn  ảnh
+ Đang  tỷ  lệimages-action
+ Trình  đơn  Ảnhimages-action
+ Nâng  ô  _ xemimages-action
+ Nâng  khung  hiển  thị  ảnh  nàyimages-action
+ Ô  xem  _ mớiview-action
+ Tạo  ô  hiển  thị  mới  cho  ảnh  nàyimages-action
+ _ Xóa  ảnhimages-action
+ Xóa  ảnh  nàylayers-action
+ Trình  đơn  Lớplayers-action
+ _ Lớplayers-action
+ _ Ngăn  xếplayers-action
+ _ Mặt  nạlayers-action
+ Độ  tr _ ong  suốtlayers-action
+ _ Tính  chấtlayers-action
+ Chế  độ  lớ _ players-action
+ Công  cụ  _ Chữlayers-action
+ Kích  hoạt  công  cụ  chữ  trên  lớp  văn  bản  nàylayers-action
+ _ Sửa  thuộc  tính  lớp ... layers-action
+ Sửa  tên  lớplayers-action
+ Lớp  _ mới ... layers-action
+ Tạo  lớp  mới  và  thêm  nó  vào  ảnhlayers-action
+ Lớp  _ mớilayers-action
+ Tạo  lớp  mới  với  các  giá  trị  dùng  cuối  cùnglayers-action
+ Tạo  mới  từ  phần  _ hiển  thịlayers-action
+ Tạo  lớp  mới  từ  phần  nhìn  thấy  của  ảnhlayers-action
+ _ Nhóm  lớp  _ mới ... layers-action
+ Tạo  nhóm  lớp  mới  và  thêm  nó  vào  ảnhlayers-action
+ N _ hân  đôi  lớplayers-action
+ Tạo  bản  sao  của  lớp  và  thêm  nó  vào  ảnhlayers-action
+ _ Xóa  lớplayers-action
+ Xóa  lớp  nàylayers-action
+ Nâng  lớ _ players-action
+ Nâng  lớp  này  một  bước  trong  ngăn  xếp  lớplayers-action
+ Lớp  ở  _ trênlayers-action
+ Đưa  lớp  này  trên  đỉnh  ngăn  xếp  lớplayers-action
+ _ Hạ  lớplayers-action
+ Hạ  thấp  lớp  này  một  bước  trong  ngăn  xếp  lớplayers-action
+ Hạ  xuống  đá _ ylayers-action
+ Đưa  lớp  này  xuống  dưới  đáy  ngăn  xếp  lớplayers-action
+ N _ eo  lớplayers-action
+ Neo  lớp  trôilayers-action
+ Trộn  _ xuốnglayers-action
+ Trộn  lớp  này  với  trên  nó  nhìn  thấy  đượclayers-action
+ Trộn  nhóm  lớpundo-type
+ Trộn  các  lớp  _ nhìn  thấy ... layers-action
+ _ Hủy  thông  tin  chữlayers-action
+ Chuyển  đổi  lớp  văn  bản  này  thành  lớp  thườnglayers-action
+ Chữ  tới  đường  _ dẫnlayers-action
+ Tạo  một  đường  dẫn  từ  lớp  chữ  nàylayers-action
+ Chữ  theo  đườn _ g  dẫnlayers-action
+ Làm  oằn  các  chữ  của  lớp  này  theo  đường  dẫn  hiện  cólayers-action
+ Cỡ  _ ranh  giới  lớp ... layers-action
+ Chỉnh  các  chiều  của  lớplayers-action
+ Lớp  _ khớp  cỡ  ảnhlayers-action
+ Thay  đổi  kích  cỡ  của  lớp  thành  kích  cỡ  của  ảnhlayers-action
+ Co  _ dãn  lớp ... layers-action
+ Thay  đổi  kích  cỡ  của  nội  dung  lớplayers-action
+ Cắt  lớp  thành  phần  mở  rộng  của  vùng  chọnlayers-action
+ Thê _ m  mặt  nạ  lớp ... layers-action
+ Thêm  một  mặt  nạ  cho  phép  sửa  đổi  độ  trong  suốt  được  bảo  vệlayers-action
+ T _ hêm  kênh  alphalayers-action
+ Thêm  thông  tin  độ  trong  suốt  vào  lớplayers-action
+ Gỡ  _ bỏ  kênh  alphalayers-action
+ Gỡ  bỏ  thông  tin  độ  trong  suốt  khỏi  lớplayers-action
+ Khóa  kênh  _ alphalayers-action
+ Bảo  vệ  thông  tin  độ  trong  suốt  trên  lớp  này  không  bị  sửa  đổilayers-action
+ _ Sửa  mặt  nạ  lớplayers-action
+ Thao  tác  mặt  nạ  lớplayers-action
+ _ Hiện  mặt  nạ  lớplayers-action
+ _ Tắt  mặt  nạ  lớplayers-action
+ Bỏ  qua  hiệu  ứng  của  mặt  nạ  lớplayers-action
+ Áp  dụng  _ mặt  nạ  lớplayers-action
+ Áp  dụng  hiệu  ứng  của  mặt  nạ  lớp  và  gỡ  bỏ  nólayers-action
+ _ Xóa  mặt  nạ  lớplayers-action
+ Gỡ  bỏ  mặt  nạ  lớp  và  hiệu  ứng  của  nólayers-action
+ _ Mặt  nạ  khớp  vùng  chọnlayers-action
+ Thay  thế  vùng  chọn  bằng  mặt  nạ  lớplayers-action
+ Thêm  mặt  nạ  lớp  vào  vùng  chọn  hiện  tạilayers-action
+ Loại  trừ  mặt  nạ  lớp  ra  vùng  chọn  hiện  tạilayers-action
+ Giao  mặt  nạ  lớp  với  vùng  chọn  hiện  tạilayers-action
+ Al _ pha  thành  vùng  chọnlayers-action
+ Thay  thế  vùng  chọn  bằng  kênh  alpha  của  lớplayers-action
+ Thê _ m  vào  vùng  chọnlayers-action
+ Thêm  kênh  anfa  của  lớp  vào  vùng  chọn  hiện  tạilayers-action
+ Loại  trừ  kênh  anfa  của  lớp  ra  vùng  chọn  hiện  tạilayers-action
+ Giao  kênh  anfa  của  lớp  với  vùng  chọn  hiện  tạilayers-action
+ Chọn  lớp  _ trên  đỉnhlayers-action
+ Chọn  lớp  trêb  đỉnh  nhấtlayers-action
+ Chọn  lớp  _ dướilayers-action
+ Chọn  lớp  dưới  nhấtlayers-action
+ Chọn  lớ _ p  trướclayers-action
+ Chọn  lớp  trên  từ  lớp  hiện  tạilayers-action
+ Chọ _ n  lớp  kếlayers-action
+ Chọn  lớp  dưới  của  lớp  hiện  tại
+ Phím  tắt :  Shift
+ Thành  Lớp  _ mới
+ Thuộc  tính  lớp
+ Sửa  thuộc  tính  lớp
+ Lớptransform-type
+ Lớp  mới
+ Tạo  lớp  mới
+ Nhìn  thấy
+ Đặt  cỡ  ranh  giới  lớp
+ Co  dãn  lớpundo-type
+ _ Cắt  tới  vùng  chọn
+ Không  thể  xén  gì  vì  hiện  có  vùng  chọn  rỗng.undo-type
+ Hạ  lớp  xuống  đáy
+ Hãy  chọn  kênh  trước
+ Thêm  mặt  nạ  lớpundo-type
+ Trình  đơn  Bộ  sửa  bảng  chọnpalette-editor-action
+ Sửa  hạng  mục  nàypalette-editor-action
+ _ Xóa  màupalette-editor-action
+ Xóa  hạng  mục  nàypalette-editor-action
+ Sửa  bảng  chọn  hiện  tạipalette-editor-action
+ Màu  mới  từ  _ cận  cảnhpalette-editor-action
+ Tạo  mới  từ  màu  cận  cảnhpalette-editor-action
+ Màu  mới  từ  _ nềnpalette-editor-action
+ Hạng  mục  mới  dựa  vào  màu  nền
+ Phóng  _ toview-zoom-action
+ Thu  _ nhỏview-zoom-action
+ Phóng  _ hết
+ Sửa  màu  bảng  chọn
+ Sửa  mục  nhập  bảng  chọn  màupalettes-action
+ Trình  đơn  Bảng  chọnpalettes-action
+ Bả _ ng  chọn  mớipalettes-action
+ Tạo  bảng  màupalettes-action
+ Nhậ _ p  bảng  màu ... palettes-action
+ Nhập  bảng  màupalettes-action
+ N _ hân  đôi  bảng  màupalettes-action
+ Nhân  đôi  bảng  màu  nàypalettes-action
+ T _ rộn  các  bảng  màu ... palettes-action
+ Trộn  bảng  màupalettes-action
+ Chép  _ vị  trí  bảng  màupalettes-action
+ Sao  chép  địa  điểm  của  tập  tin  bảng  màu  vào  bảng  nháppalettes-action
+ _ Xóa  bảng  màupalettes-action
+ Xóa  bảng  màupalettes-action
+ _ Cập  nhật  bảng  màupalettes-action
+ Cập  nhật  bảng  màupalettes-action
+ _ Sửa  bảng  màu ... palettes-action
+ Sửa  bảng  màu
+ Trộn  bảng  màu
+ Hãy  nhập  tên  cho  bảng  màu  đã  trộn  nàypatterns-action
+ Trình  đơn  Mẫupatterns-action
+ _ Mở  mẫu  dạng  ảnhpatterns-action
+ Mở  mẫu  này  dạng  ảnhpatterns-action
+ Mẫu  _ mớipatterns-action
+ Tạo  một  biểu  mẫu  mớipatterns-action
+ Nhân  đôi  mẫ _ upatterns-action
+ Nhân  đôi  mẫu  nàypatterns-action
+ Chép  _ vị  trí  mẫupatterns-action
+ Sao  chép  vị  trí  tập  tin  mẫu  vào  bảng  nháppatterns-action
+ _ Xóa  mẫupatterns-action
+ Xóa  mẫu  nàypatterns-action
+ _ Cập  nhật  mẫupatterns-action
+ Cập  nhật  mẫupatterns-action
+ _ Sửa  mẫu ... patterns-action
+ Sửa  mẫuplug-in-action
+ Bộ  _ lọcplug-in-action
+ Vừa  dùngplug-in-action
+ _ Làm  nhoèplug-in-action
+ _ Nhiễuplug-in-action
+ Phá _ t  hiện  cạnhplug-in-action
+ _ Tăng  cườngplug-in-action
+ _ Kết  hợpplug-in-action
+ Chun _ gplug-in-action
+ _ Sáng  và  bóngplug-in-action
+ Làm  _ Méoplug-in-action
+ _ Nghệ  sĩplug-in-action
+ _ Decorplug-in-action
+ _ Vẽplug-in-action
+ Mâ _ yplug-in-action
+ plug-in-action
+ Tự  _ nhiênplug-in-action
+ _ Mạngplug-in-action
+ H _ oạt  ảnhplug-in-action
+ Đặt  lại  mọi  bộ  _ lọcplug-in-action
+ Đặt  thiết  lập  mặc  định  cho  mọi  phần  mở  rộngplug-in-action
+ _ Lặp  lại  hành  động  cuốiplug-in-action
+ Chạy  lại  phần  mở  rộng  vừa  dùng ,  với  cùng  thiết  lậpplug-in-action
+ H _ iện  lạiplug-in-action
+ Hiện  lại  hộp  thoại  phần  mở  rộng  vừa  dùng
+ Lặ _ p  lại  " % s "
+ H _ iện  lại  " % s "
+ Lặp  lại
+ Hiện  lại
+ Đặt  lại  mọi  bộ  lọc
+ Bạn  thật  sự  muốn  đặt  lại  mọi  bộ  lọc  là  giá  trị  mặc  định ? quick-mask-action
+ Trình  đơn  Mặt  nạ  Nhanhquick-mask-action
+ _ Cấu  hình  Màu  và  Độ  mờ  đục ... quick-mask-action
+ Bật / tắt  _ Mặt  nạ  Nhanhquick-mask-action
+ Bật / tắt  mặt  nạ  nhanhquick-mask-action
+ Mặt  nạ  các  _ vùng  chọnquick-mask-action
+ Mặt  nạ  các  vùng  _ không  chọn
+ Thuộc  tính  Mặt  nạ  Nhanh
+ Sửa  thuộc  tính  Mặt  nạ  Nhanh
+ Sửa  màu  Mặt  nạ  Nhanh
+ Độ  mờ  đục  _ mặt  nạ : sample-points-action
+ Trình  đơn  Điểm  mẫusample-points-action
+ Trình  đơn  Bộ  sửa  vùng  chọnselect-action
+ _ Chọnselect-action
+ _ Tất  cảselect-action
+ Chọn  tất  cảselect-action
+ _ Khôngselect-action
+ Bỏ  qua  vùng  chọnselect-action
+ Đả _ oselect-action
+ Đảo  vùng  chọnselect-action
+ Nổ _ iselect-action
+ Tạo  một  vùng  chọn  nổiselect-action
+ Hình  _ lông ... select-action
+ Che  mờ  viền  vùng  chọn  để  tắt  dầnselect-action
+ Mài  _ sắc ... select-action
+ Gỡ  bỏ  độ  mờ  ra  vùng  chọnselect-action
+ T _ hu  nhỏ ... select-action
+ Co  rút  vùng  chọnselect-action
+ _ Nới ... select-action
+ Mở  rộng  vùng  chọnselect-action
+ _ Viền ... select-action
+ Thay  thế  vùng  chọn  bằng  viền  nóselect-action
+ Lưu  vào  _ kênhselect-action
+ Lưu  vùng  chọn  vào  kênhselect-action
+ Chọn  _ nét ... select-action
+ Sơn  theo  nét  ngoài  vùng  chọnselect-action
+ Chọn  _ nétselect-action
+ Chọn  nét  vùng  chọn  với  các  giá  trị  lần  cuối
+ Vùng  chọn  hình  featherundo-type
+ Vùng  chọn  hình  lông  bằng
+ Thu  nhỏ  vùng  chọn
+ Thu  nhỏ  vùng  chọn  bằng
+ Chọn  một  vùng  kề  nhau  riêng  lẻ
+ Nới  vùng  chọnundo-type
+ Nới  vùng  chọn  bằng
+ Chọn  viềnundo-type
+ Chọn  viền  bằng
+ Làm  hình  _ lông  viền
+ Không  có  lớp  hoặc  kênh  kích  hoạt  nào  cần  nét  đến  nó .
+ Chọn  nétundo-type
+ Trình  đơn  Biểu  mẫutemplates-action
+ _ Tạo  ảnh  từ  biểu  mẫu ... templates-action
+ Tạo  một  ảnh  mới  từ  biểu  mẫu  được  chọntemplates-action
+ Biểu  mẫu  _ mới ... templates-action
+ Tạo  biểu  mẫu  mớitemplates-action
+ Nhân  đôi  biể _ u  mẫu ... templates-action
+ Nhân  đôi  biểu  mẫu  được  chọntemplates-action
+ _ Sửa  biểu  mẫu ... templates-action
+ Sửa  biểu  mẫutemplates-action
+ _ Xóa  biểu  mẫutemplates-action
+ Xóa  ảnh  này
+ Biểu  mẫu  mới
+ Sửa  biểu  mẫu
+ Xóa  biểu  mẫu
+ Bạn  có  chắc  muốn  xóa  bỏ  biểu  mẫu  ' % s '  ra  danh  sách  và  ra  đĩa  không ? text-editor-action
+ Mởtext-editor-action
+ Tải  văn  bản  từ  tập  tintext-editor-action
+ Xóaundo-type
+ Xóa  hết  chữtext-tool-action
+ LTRtext-editor-action
+ Trái  sang  phảitext-tool-action
+ RTLtext-editor-action
+ Phải  sang  tráitool-options-action
+ Mở  tập  tin  văn  bản  ( UTF-8 )
+ Không  thể  mở  ' % s '  để  đọc :  % stext-tool-action
+ Công  cụ  _ Chữtext-tool-action
+ _ Kiểu  nhậptext-tool-action
+ _ Xóatext-tool-action
+ _ Mở  tệp  văn  bản ... text-tool-action
+ Tạo  đường  dẫn  từ  chữtext-tool-action
+ Tạo  một  đường  dẫn  từ  lớp  chữ  nàytext-tool-action
+ _ Chữ  theo  đường  dẫntext-tool-action
+ Làm  oằn  các  chữ  của  lớp  này  theo  đường  dẫn  hiện  cótext-tool-action
+ Trình  đơn  Tùy  chọn  Công  cụtool-options-action
+ _ Cất  định  nghĩa  công  cụtool-options-action
+ _ Khôi  phục  định  nghĩa  công  cụtool-options-action
+ _ Sửa  định  nghĩa  công  cụtool-options-action
+ _ Xóa  công  cụ  định  nghĩa  trước
+ Công  cụ  định  nghĩa  trước  _ mớitool-options-action
+ Đặt  _ lại  tùy  chọn  công  cụtool-options-action
+ Đặt  về  giá  trị  mặc  địnhtool-options-action
+ Đặt  lại  _ mọi  tùy  chọn  công  cụtool-options-action
+ Đặt  lại  mọi  tùy  chọn  công  cụ
+ Bạn  thật  sự  muốn  xóa  bỏ  mọi  tùy  chọn  công  cụ  là  giá  trị  mặc  định  không ? tool-preset-editor-action
+ Trình  đơn  Bộ  sửa  công  cụ  định  nghĩa  trướctool-preset-editor-action
+ Sửa  công  cụ  định  nghĩa  trước  kích  hoạttool-presets-action
+ Trình  đơn  Công  cụ  định  nghĩa  trướctool-presets-action
+ Công  cụ  định  nghĩa  trước  _ mớitool-presets-action
+ Tạo  công  cụ  định  nghĩa  trước  mớitool-presets-action
+ Nhân  đô _ i  công  cụ  định  nghĩa  trướctool-presets-action
+ Nhân  đôi  công  cụ  định  nghĩa  trướctool-presets-action
+ Chép  _ vị  trí  công  cụ  định  nghĩa  trướctool-presets-action
+ Sao  chép  địa  điểm  của  tập  tin  bảng  chọn  vào  bảng  nháptool-presets-action
+ Xóa  công  cụ  định  nghĩa  trước  nàytool-presets-action
+ _ Cập  nhật  công  cụ  định  nghĩa  trướctool-presets-action
+ Cập  nhật  công  cụ  định  nghĩa  trướctool-presets-action
+ _ Sửa  công  cụ  định  nghĩa  trước ... tool-presets-action
+ Sửa  công  cụ  định  nghĩa  trướctools-action
+ _ Công  cụtools-action
+ Công  cụ  _ chọntools-action
+ Công  cụ  _ sơntools-action
+ Công  cụ  chu _ yển  dạngtools-action
+ _ Công  cụ  màutools-action
+ Th _ eo  màutools-action
+ Chọn  vùng  theo  màu  tương  tựtools-action
+ _ Xoay  tự  do ... tools-action
+ Quay  góc  bất  kỳvectors-action
+ Trình  đơn  đường  dẫnvectors-action
+ Công  cụ  đường  _ dẫnvectors-action
+ _ Sửa  thuộc  tính  đường  dẫn ... vectors-action
+ Sửa  thuộc  tính  đường  dẫnvectors-action
+ Đườ _ ng  dẫn  mới ... vectors-action
+ Tạo  đường  dẫn  mới ... vectors-action
+ _ Tạo  đường  dẫn  mới  bằng  các  giá  trị  cuốivectors-action
+ Tạo  đường  dẫn  mới  bằng  các  giá  trị  dùng  cuối  cùngvectors-action
+ Nhân  đô _ i  đường  dẫnvectors-action
+ Nhân  đôi  đường  dẫn  hiện  tạivectors-action
+ Xóa  đường  _ dẫnvectors-action
+ Xóa  đường  dẫnvectors-action
+ T _ rộn  các  đường  dẫn  nhìn  thấyvectors-action
+ Nân _ g  đường  dẫnvectors-action
+ Nâng  đường  dẫnvectors-action
+ Nâng  đường  dẫn  lên _  đỉnhvectors-action
+ Nâng  đường  dẫn  lên  đỉnhvectors-action
+ _ Hạ  đường  dẫnvectors-action
+ Hạ  đường  dẫnvectors-action
+ Hạ  đường  dẫn  xuống  _ dướivectors-action
+ Hạ  đường  dẫn  xuống  dướivectors-action
+ Đường  dẫn  _ nét ... vectors-action
+ Vẽ  theo  đường  dẫnvectors-action
+ Đường  dẫn  _ nétvectors-action
+ Đường  dẫn  nét  với  các  giá  trị  cuối  cùngvectors-action
+ Ché _ p  đường  dẫnvectors-action
+ _ Dán  đường  dẫnvectors-action
+ _ Xuất  đường  dẫn ... vectors-action
+ Nhậ _ p  đường  dẫn ... vectors-action
+ _ Khoá  nét  vẽvectors-action
+ Đường  dẫn  đến  lựa  _ chọnvectors-action
+ Đường  dẫn  đến  vùng  chọnvectors-action
+ _ Từ  đường  dẫnvectors-action
+ Thay  thế  vùng  chọn  bằng  đường  dẫn  nàyvectors-action
+ Loại  trừ  khỏi  vùng  chọnvectors-action
+ Giao  với  vùng  chọnvectors-action
+ _ Vùng  chọn  tới  đường  dẫnvectors-action
+ Vùng  chọn  tới  đường  dẫnvectors-action
+ Tới  đường  _ dẫnvectors-action
+ Vùng  chọn  tới  đường  dẫn  ( nâng  c _ ao ) vectors-action
+ Tùy  chọn  nâng  cao
+ Thuộc  tính  đường  dẫn
+ Sửa  thuộc  tính  đường  dẫn
+ Đường  dẫnvector-mode
+ Đường  dẫn  mới
+ Tùy  chọn  đường  dẫn  mới
+ Đường  dấn  nétundo-type
+ _ Xemview-action
+ Thu  _ phóng
+ _ Xoay
+ _ Màu  đệmview-action
+ Chuyển  sang  màn  hìnhview-action
+ Tạo  ô  hiển  thị  mới  cho  ảnh  này.view-action
+ Đón _ gview-action
+ Đóng  cửa  sổ  ảnh  nàyview-action
+ _ Vừa  ảnh  khít  cửa  sổview-action
+ Điều  chỉnh  tỷ  lệ  phóng  để  hiện  nguyên  ảnhview-action
+ _ Vừa  khít  cửa  sổview-action
+ Điều  chỉnh  tỷ  lệ  phong  để  vừa  khít  cửa  sổview-action
+ Phóng  _ ngược
+ Khôi  phục  mức  thu  phóng  trướcview-action
+ Đặt  lại  góc  về  khôngview-zoom-action
+ _ Khác ... view-zoom-action
+ Đặt  hệ  số  thu  phòng  bất  kỳview-action
+ Cửa  sổ  du _ yệtview-action
+ Hiển  thị  cửa  sổ  toàn  cảnh  cho  ảnh  nàyview-action
+ Hiện  bộ  _ lọc ... view-action
+ Cấu  hình  các  bộ  lọc  được  áp  dụng  vào  khung  xem  nàyview-action
+ _ Bọc  khítview-action
+ Làm  nhỏ  cửa  sổ  ảnh  thành  kích  cỡ  hiển  thị  ảnhview-action
+ Chấm  _ với  chấmview-action
+ Một  điểm  ảnh  trên  màn  hình  đại  diện  một  điểm  ảnh  của  ảnhview-action
+ Hiện  _ vùng  chọnview-action
+ Hiển  thị  nét  ngoài  vùng  chọnview-action
+ Hiện  ranh  giới  _ lớpview-action
+ Vẽ  viền  ở  quanh  lớp  kích  hoạtview-action
+ Hiện  nét  _ dẫnview-action
+ Hiển  thị  nét  ngoài  của  ảnhview-action
+ _ Hiện  lướiview-action
+ Hiển  thị  lưới  ảnhview-action
+ Hiện  điểm  mẫuview-action
+ Hiện  điểm  mẫu  màu  của  ảnhview-action
+ _ Dính  nét  dẫnview-action
+ Thao  tác  công  cụ  snap  tới  hướng  dẫnview-action
+ Dính  lướ _ iview-action
+ Thao  tác  công  cụ  snap  tới  lướiview-action
+ Dính  _ cạnh  vùng  vẽview-action
+ Thao  tác  công  cụ  dính  tới  viền  bảng  vẽview-action
+ Dính  đường  dẫn  h _ oạt  độngview-action
+ Công  cụ  dính  vào  đường  dẫn  hoạt  độngview-action
+ Hiện  thanh  t _ rình  đơnview-action
+ Hiện  thanh  trình  đơn  cửa  sổview-action
+ Hiện  thướ _ cview-action
+ Hiện  thước  của  cửa  sổview-action
+ Hiện  th _ anh  cuộnview-action
+ Hiện  thanh  cuộn  của  cửa  sổview-action
+ Hiện  _ thanh  trạng  tháiview-action
+ Hiện  thanh  trạng  thái  cửa  sổview-action
+ T _ oàn  màn  hìnhview-action
+ Bật / tắt  hiện  toàn  màn  hìnhview-zoom-action
+ 1 _ 6 : 1   ( 1600 % ) view-zoom-action
+ Phóng  to  1 : 1view-zoom-action
+ _ 8 : 1   ( 800 % ) view-zoom-action
+ Phóng  8 : 1view-zoom-action
+ _ 4 : 1   ( 400 % ) view-zoom-action
+ Phóng  4 : 1view-zoom-action
+ _ 2 : 1   ( 200 % ) view-zoom-action
+ Phóng  2 : 1view-zoom-action
+ _ 1 : 1   ( 100 % ) view-zoom-action
+ Phóng  1 : 1view-zoom-action
+ 1 : _ 2   ( 50 % ) view-zoom-action
+ Phóng  1 : 2view-zoom-action
+ 1 : _ 4   ( 25 % ) view-zoom-action
+ Phóng  1 : 4view-zoom-action
+ 1 : _ 8   ( 12.5 % ) view-zoom-action
+ Phóng  1 : 8view-zoom-action
+ 1 : 1 _ 6   ( 6.25 % ) view-zoom-action
+ Phóng  1 : 16view-zoom-action
+ Đặt  hệ  số  thu  phòng  bất  kỳdrawable-action
+ _ Từ  sắc  tháiview-padding-color
+ Thêm  màu  nền  của  sắc  thái  hiện  tạiview-padding-color
+ Màu  ca  _ rô  nhạtview-padding-color
+ Màu  ca  rô  nhạtview-padding-color
+ Màu  ca  rô  tố _ iview-padding-color
+ Màu  ca  rô  tốiview-padding-color
+ _ Chọn  màu  khác ... view-padding-color
+ Dùng  màu  bất  kỳview-padding-color
+ Theo  tù _ y  thíchview-padding-color
+ Đặt  màu  chèn  đã  thiết  lập  trong  tham  chiếu
+ _ Phóng  ngược  ( % d % % )
+ _ Khác  ( % s ) ...
+ _ Phóng  ( % s )
+ Đặt  màu  đệm  vùng  vẽ
+ Đặt  màu  đệm  vùng  vẽ  tự  chọn
+ Màn  hình  % s
+ Chuyển  sang  màn  hình  % swindows-action
+ Cửa  _ sổwindows-action
+ Neo  vừa  đón _ gwindows-action
+ Hộp  thoại  có  thể  _ neo  đượcwindows-action
+ Ảnh  tiếp  theowindows-action
+ Chuyển  sang  ảnh  tiếp  theowindows-action
+ Ảnh  trướcwindows-action
+ Chuyển  tới  ảnh  trước
+ Vị  trí : windows-action
+ Đóng  Neowindows-action
+ Khi  dùng  neo  mà  các  hộp  thoại  khác  ẩn ,  chỉ  giữ  lại  cửa  sổ  của  ảnh.windows-action
+ Chế  độ  cửa  sổ  đơnwindows-action
+ Dùng  GIMP  trong  chế  độ  cửa  sổ  đơn.windows-tabs-position-action
+ vectors-action
+ Nâng  đường  dẫn  lên  đỉnh
+ Hạ  thấp  _ xuống  dướivectors-action
+ Hạ  đường  dẫn  xuống  dướiwindows-tabs-position-action
+ windows-tabs-position-action
+ C _ ao : windows-tabs-position-action
+ cursor-mode
+ Biểu  tượng  công  cụcursor-mode
+ Biểu  tượng  công  cụ  hình  chữ  thậpcursor-mode
+ Chỉ  chữ  thậpcanvas-padding-mode
+ Từ  sắc  tháicanvas-padding-mode
+ Màu  ca  rô  nhạtcanvas-padding-mode
+ Màu  ca  rô  tốicanvas-padding-mode
+ Màu  tự  chọnspace-bar-action
+ Chưa  hành  độngspace-bar-action
+ Xem  thửspace-bar-action
+ Chuyển  tới  công  cụ  di  chuyểnzoom-quality
+ Thấpzoom-quality
+ Caohelp-browser-type
+ Bộ  duyệt  trợ  giúp  GIMPhelp-browser-type
+ Trình  duyệtwindow-hint
+ Cửa  sổ  bình  thườngwindow-hint
+ Cửa  sổ  tiện  íchwindow-hint
+ Giữ  ở  trêncursor-format
+ Đen   &   trắngcursor-format
+ Đẹphandedness
+ Thuận  tay  tráihandedness
+ Thuận  tay  phảiposition
+ position
+ Chiều  Cao
+ Không  thể  mở  «  % s  »  để  ghi :  % s
+ Gặp  lỗi  khi  ghi  «  % s  » :  % s
+ Gặp  lỗi  khi  đọc  «  % s  » :  % s
+ Gặp  lỗi  khi  phân  tích  tập  tin  «  % s  »  của  bạn .  Như  thế  thì  sẽ  sử  dụng  các  giá  trị  mặc  định .  Đã  tạo  một  bản  sao  dự  trữ  của  cấu  hình  bạn  tại  «  % s  » .
+ Khi  bật  thì  ảnh  sẽ  trở  thành  ảnh  hoạt  động  khi  cửa  sổ  nó  nhận  tiêu  điểm .  Có  ích  cho  bộ  quản  lý  cửa  sổ  sử  dụng  khả  năng  «  nhắp  để  tiêu  điểm  » .
+ Đặt  đường  dẫn  tìm  kiếm  động .
+ Đặt  màu  đệm  vùng  vẻ  được  dùng  nếu  có  đặt  chế  độ  đệm  là  màu  riêng .
+ Xác  định  vẽ  vùng  quanh  ảnh  như  thế  nào .
+ Xử  lý  hồ  sơ  màu  nhúng  khi  mở  tập  tin .
+ Đặt  dạng  thức  điểm  ảnh  của  các  con  trỏ  chuột .
+ Đặt  kiểu  con  trỏ  chuột  cần  dùng .
+ Đặt  vị  trí  cho  trỏ  khi  dùng  một  tay .
+ Con  trỏ  chuột  phụ  thuộc  vào  ngữ  cảnh  là  trơ  tráo .  Mặc  định  là  bật  con  trỏ  kiểu  này ,  nhưng  chúng  cần  thiết  tiềm  năng  thêm .
+ Khi  bật  thì  tính  năng  này  sẽ  đảm  bảo  mọi  điểm  ảnh  của  một  ảnh  nào  đó  sẽ  được  ánh  xạ  tới  một  điểm  ảnh  trên  màn  hình .
+ Giá  trị  này  là  bao  nhiêu  điểm  ảnh  đến  vị  trí  sẽ  hoạt  hóa  khả  năng  Dính  nét  dẫn  và  Dính  lưới .
+ Công  cụ  như  «  chọn  mờ  »  và  «  tô  cái  xô  »  có  tìm  vùng  đích  dựa  vào  một  thuật  toán  «  tô  hạt  » .  Việc  tô  hạt  bắt  đầu  từ  điểm  ảnh  được  chọn  ban  đầu ,  rồi  tiếp  tục  về  mọi  hướng  đến  khi  hiệu  của  độ  mạnh  điểm  ảnh  hiện  có  và  điều  gốc  vượt  quá  một  ngưỡng  đã  xác  định .  Giá  trị  này  là  ngưỡng  mặc  định .
+ Giá  trị  này  là  lời  gợi  kiểu  cửa  sổ  được  đặt  trên  cửa  sổ  Neo .  Nó  có  thể  ảnh  hưởng  tới  cách  mà  trình  quản  lý  cửa  sổ  sắp  xếp  và  xử  lý  những  cửa  sổ  này .
+ Khi  bật  thì  sẽ  sử  dụng  chổi  được  chọn  cho  mọi  công  cụ .
+ Khi  bật ,  sẽ  sử  dụng  chổi  được  chọn  cho  mọi  công  cụ .
+ Khi  bật  thì  sẽ  sử  dụng  độ  dốc  được  chọn  cho  mọi  công  cụ .
+ Khi  bật  thì  sẽ  sử  dụng  mẫu  được  chọn  cho  mọi  công  cụ .
+ Đặt  bộ  duyệt  hệ  thống  trợ  giúp .
+ Đặt  chuỗi  sẽ  xuất  hiện  trong  thanh  trạng  thái  cửa  sổ  ảnh .
+ Đặt  chuỗi  sẽ  xuất  hiện  trong  tựa  đề  cửa  sổ  ảnh .
+ Khi  bật  thì  khả  năng  này  sẽ  đảm  bảo  sẽ  hiển  thị  toàn  ảnh  sau  khi  mở  tập  tin ;  nếu  không  thì  sẽ  hiển  thị  nó  bằng  tỷ  lệ  1 : 1 .
+ Đặt  mức  nội  suy  được  dùng  cho  việc  co  dãn  và  nhiều  việc  chuyển  dạng  khác .
+ Chỉ  định  ngôn  ngữ  dùng  cho  giao  diện  người  dùng .
+ Giá  trị  này  là  bao  nhiêu  tên  tập  tin  ảnh  đã  mở  gần  đầy  sẽ  xuất  hiện  trong  trình  đơn  Tập  tin .
+ Giá  trị  này  là  tốc  độ  các  con  kiến  có  bước  đi  trong  khung  vùng  chọn ,  theo  mili  giây  ( thời  gian  nhỏ  hơn  ngụ  ý  tốc  độ  bước  đi  nhanh  hơn ) .
+ Trình  GIMP  sẽ  cảnh  báo  người  dùng  nếu  cố  tạo  một  ảnh  sẽ  chiếm  nhiều  bộ  nhớ  hơn  kích  thước  được  xác  định  vào  đây .
+ Đặt  độ  phân  giải  ngang  cho  màn  hình ,  theo  điểm / inch ² .  Nếu  đặt  là  số  0  thì  ép  buộc  trình  phục  vụ  X  nhận  truy  vấn  về  thông  tin  cả  ngang  lẫn  dọc  đều .
+ Đặt  độ  phân  giải  dọc  cho  màn  hình ,  theo  điểm / inch ² .  Nếu  đặt  là  số  0  thì  ép  buộc  trình  phục  vụ  X  nhận  truy  vấn  về  thông  tin  cả  ngang  lẫn  dọc  đều .
+ Nếu  bật  thì  công  cụ  di  chuyển  đặt  lớp  hay  đường  dẫn  đã  hiệu  chỉnh  là  hoạt  động .  Trong  phiên  bản  cũ  hơn ,  khả  năng  này  là  ứng  xử  mặc  định .
+ Đặt  kích  thước  của  khung  xem  thử  duyệt  sẵn  sàng  trong  góc  dưới  phải  của  cửa  sổ  ảnh .
+ Đặt  số  bộ  xử  lý  GIMP  nên  thử  dùng  đồng  thời .
+ Khi  bật ,  tùy  chọn  này  truy  vấn  trình  phục  vụ  X  về  vị  trí  con  chuột  hiện  thời  đối  với  mỗi  sự  kiện  chuyển ,  hơn  là  nhờ  lời  gợi  vị  trí .  Nghĩa  là  việc  sơn  bằng  chổi  lớn  nên  là  chính  xác  hơn ,  mà  chậm  hơn ,  nhưng  chậm  hơn .  Tuy  nhiên ,  trên  một  số  X ,  bật  tùy  chọn  này  làm  sơn  nhanh  hơn .
+ Tùy  chọn  này  đặt  nếu  GIMP  nên  tạo  khung  xem  thử  lớp  và  kênh  hay  không .  Những  khung  xem  thử  này  có  thể  có  ích ,  nhưng  cũng  có  thể  làm  cho  trình  chạy  chậm  hơn  khi  thao  tác  ảnh  lớn .
+ Tùy  chọn  này  đặt  kích  thước  của  khung  xem  thử  lớp  và  kênh  trong  thoại  mới  tạo .
+ Khi  bật  thì  tùy  chọn  này  cho  phép  cửa  sổ  ảnh  có  tự  động  thay  đổi  kích  thước  chính  nó ,  khi  nào  kích  thước  vật  lý  có  thay  đổi .
+ Khi  bật  thì  tùy  chọn  này  cho  phép  cửa  sổ  ảnh  có  tự  động  thay  đổi  kích  thước  chính  nó ,  khi  phóng  to  và  thu  nhỏ  ảnh .
+ Cho  phép  GIMP  cố  phục  hồi  phiên  chạy  đã  lưu  trước  vào  mỗi  lúc  khởi  chạy .
+ Nhớ  công  cụ ,  mẫu ,  màu  và  chổi  hiện  thời  qua  nhiều  phiên  chạy  GIMP  khác .
+ Thêm  mọi  tập  tin  đã  mở  và  đã  lưu  vào  lược  sử  tài  liệu .
+ Lưu  các  vị  trí  và  kích  thước  của  những  thoại  chính ,  khi  GIMP  thoát .
+ Lưu  các  tùy  chọn  công  cụ ,  khi  GIMP  thoát .
+ Khi  bật  thì  mọi  công  cụ  sơn  sẽ  hiển  thị  khung  xem  thử  phác  thảo  của  chổi  hiện  thời .
+ Khi  bật  thì  mọi  thoại  sẽ  hiển  thị  một  cái  nút  trợ  giúp  cho  phép  truy  cập  trang  trợ  giúp  thích  hợp .  Nếu  không  có  cái  nút  này ,  vấn  còn  có  thể  tới  trang  trợ  giúp  bằng  cách  bấm  phím  F1 .
+ Khi  bật  thì  hiển  thị  con  trỏ  ở  trên  ảnh  khi  sử  dụng  một  công  cụ  sơn .
+ Khi  bật  thì  hiển  thị  thanh  trình  đơn  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  thanh  trình  đơn  » .
+ Khi  bật  thì  hiển  thị  những  thước  đo  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  thước  đo  » .
+ Khi  bật  thì  hiển  thị  những  thanh  cuộn  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  thanh  cuộn  » .
+ Khi  bật  thì  hiển  thị  thanh  trạng  thái  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  thanh  trạng  thái  » .
+ Khi  bật  thì  hiển  thị  vùng  chọn  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  vùng  chọn  » .
+ Khi  bật  thì  hiển  thị  ranh  giới  lớp  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  ranh  giới  lớp  » .
+ Khi  bật  thì  hiển  thị  những  nét  dẫn  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  nét  dẫn  » .
+ Khi  bật  thì  hiển  thị  lưới  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  lưới  » .
+ Khi  bật  thì  hiển  thị  những  điểm  mẫu  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  điểm  mẫu  » .
+ Hiện  mẹo  công  cụ  khi  con  trỏ  di  chuyển  ở  trên  mục .
+ Dùng  GIMP  trong  chế  độ  cửa  sổ  đơn .
+ Ẩn  neo  vào  các  cửa  sổ  khác ,  chỉ  hiển  thị  các  cửa  sổ  ảnh .
+ Làm  gì  khi  nhấn  phím  cách .
+ Đặt  địa  điểm  của  tập  tin  trao  đổi .  GIMP  sử  dụng  một  lược  đồ  cấp  phát  bộ  nhớ  dựa  vào  ô .  Nó  sử  dụng  tập  tin  trao  đổi  để  trao  đổi  một  cách  nhanh  và  dễ  dàng  các  ô  vào  đĩa  và  ngược  lại .  Bạn  hãy  ghi  nhớ  rằng  tập  tin  trao  đổi  có  thể  trở  thành  rất  lớn  nếu  GIMP  được  dùng  với  ảnh  lớn .  Hơn  nữa ,  tiến  trình  có  thể  chạy  rất  chấm  nếu  tập  tin  trao  đổi  được  tạo  trong  một  thư  mục  được  gắn  kết  qua  NFS .  Vì  những  lý  do  này ,  đề  nghị  bạn  để  tập  tin  trao  đổi  vào  thư  mục   <  tmp  >  .
+ Khi  bật  thì  có  thể  tách  trình  đơn  rời .
+ Khi  bật  thì  bạn  có  thể  thay  đổi  phím  tắt  cho  mục  trình  đơn ,  bằng  cách  gõ  tổ  hợp  phím  khi  mục  trình  đơn  được  tô  sáng .
+ Lưu  các  phím  tắt  đã  thay  đổi  khi  GIMP  thoát .
+ Phục  hồi  các  phím  tắt  đã  lưu  vào  mỗi  lúc  khởi  chạy  GIMP .
+ Đặt  thư  mục  cất  giữ  tạm  thời .  Một  số  tập  tin  sẽ  xuất  hiện  trong  đó  trong  khi  chạy  GIMP .  Phần  lớn  tập  tin  sẽ  biến  mất  khi  GIMP  thoát ,  nhưng  một  số  điều  có  thể  còn  lại ,  vậy  đề  nghị  người  khác  không  sử  dụng  thư  mục  này .
+ Đặt  kích  thước  của  khung  xem  thử  trong  hợp  thoại  Mở  tập  tin .
+ Hình  thu  nhỏ  trong  thoại  Mở  sẽ  tự  động  được  cập  nhật  nếu  tập  tin  đang  được  xem  thử  là  nhỏ  hơn  kích  thước  được  đặt  vào  đây .
+ Khi  số  lượng  dữ  liệu  điểm  ảnh  vượt  quá  hạn  chế  này ,  GIMP  sẽ  bắt  đầu  trao  đổi  các  «  ô  »  ( 256 × 256  điểm  ảnh )  với  đĩa .  Tiến  trình  này  là  rất  chậm  hơn ,  còn  cho  bạn  vẫn  có  khả  năng  thao  tác  ảnh  mà  bằng  bất  cứ  cách  khác  nào  chiếm  quá  nhiều  bộ  nhớ .  Nếu  bạn  có  rất  nhiều  bộ  nhớ  RAM ,  bạn  có  thể  đặt  giá  trị  này  là  cao  hơn .
+ Hiện  màu  nền  và  tiền  cảnh  trong  hộp  công  cụ  hiện  tại .
+ Hiện  _ chổi ,  mẫu  và  độ  dốc  hoạt  động  trong  hộp  công  cụ .
+ Hiển  thị  ảnh  hiện  tại  trong  hộp  công  cụ .
+ Đặt  cách  hiển  thị  độ  trong  suốt  trong  ảnh .
+ Đặt  kích  thước  của  bảng  ô  được  dùng  để  hiển  thị  độ  trong  suốt .
+ Khi  bật ,  GIMP  sẽ  không  lưu  một  ảnh  nào  đó  nếu  nó  chưa  được  thay  đổi  kể  từ  việc  mở  nó .
+ Giá  trị  này  đặt  số  thao  tác  tối  thiểu  có  thể  được  hủy  bước .  Có  mức  hủy  bước  thêm  nữa  sẵn  sàng  đến  khi  tới  giới  hạn  trên  của  kích  thước  hủy  bước .
+ Đặt  giới  hạn  trên  của  bộ  nhớ  được  dùng  cho  mỗi  ảnh ,  để  giữ  thao  tác  trong  đống  hủy  bước .  Bất  chấp  thiết  lập  này ,  có  thể  hủy  bước  ít  nhất  số  mức  hủy  bước  đã  cấu  hình .
+ Đặt  kích  thước  của  khung  xem  thử  trong  Lược  sử  Hủy  bước .
+ Khi  bật  thì  bấm  phím  F1  sẽ  mở  bộ  duyệt  trợ  giúp .
+ lỗi  phân  tích  nghiêm  trọng
+ giá  trị  cho  hiệu  bài  % s  không  phải  là  chuỗi  UTF-8  hợp  lệconvert-dither-type
+ Không  cóbrush-generated-shape
+ Floyd-Steinberg  ( bình  thường ) convert-dither-type
+ Floyd-Steinberg  ( màu  ít  giảm  hơn ) convert-dither-type
+ Đã  định  vịcurve-type
+ Mịncurve-type
+ Bằng  tayhistogram-channel
+ Giá  trị
+ Đỏselect-criterion
+ Xanh  lá  câyselect-criterion
+ Xanh  da  trờiselect-criterion
+ Alphahistogram-channel
+ RGBcolor-frame-mode
+ Bình  thườnglayer-mode-effects
+ Phân  rãlayer-mode-effects
+ Phía  saulayer-mode-effects
+ Nhiềulayer-mode-effects
+ Màn  hìnhlayer-mode-effects
+ Đèlayer-mode-effects
+ Khác  biệtlayer-mode-effects
+ Cộnglayer-mode-effects
+ Trừlayer-mode-effects
+ Chỉ  làm  thẫmlayer-mode-effects
+ Chỉ  làm  nhạtlayer-mode-effects
+ Sắc  màuselect-criterion
+ Độ  bão  hòaselect-criterion
+ Màudynamics-output-type
+ Chialayer-mode-effects
+ Giảm  độ  sánglayer-mode-effects
+ Tăng  độ  sánglayer-mode-effects
+ Sáng  trắnglayer-mode-effects
+ Sáng  mềmlayer-mode-effects
+ Xuất  hạtlayer-mode-effects
+ Xóa  màulayer-mode-effects
+ Xóalayer-mode-effects
+ Thay  thếlayer-mode-effects
+ Chống  xóamatting-engine
+ matting-engine
+ align-reference-type
+ Mục  đầualign-reference-type
+ Vùng  chọntransform-type
+ Lớp  hoạt  độngalign-reference-type
+ Kênh  hoạt  độngalign-reference-type
+ Đường  dẫn  hoạt  độngfill-style
+ Màu  đặcfill-style
+ Mẫufill-type
+ Đường  vẽstroke-method
+ Vẽ  nét  bằng  công  cụ  sơnjoin-style
+ Miterjoin-style
+ Tròncap-style
+ Góc  xiêncap-style
+ Nútcap-style
+ Vuôngink-blob-type
+ Tự  chọndash-preset
+ Đườngdash-preset
+ Gạch  dàidash-preset
+ Gạch  vừadash-preset
+ Gạch  ngắndash-preset
+ Ít  chấmdash-preset
+ Vừa  chấmdash-preset
+ Nhiều  chấmdash-preset
+ Chấm  lêndash-preset
+ Gạch ,  chấmdash-preset
+ Gạch ,  chấm ,  chấmitem-set
+ Mọi  lớpitem-set
+ Lớp  co  cỡ  ảnhitem-set
+ Mọi  lớp  hiển  thịitem-set
+ Mọi  lớp  có  liên  kếtview-size
+ Tí  honview-size
+ Rất  nhỏview-size
+ Nhỏview-size
+ Vừaview-size
+ Lớnview-size
+ Rất  lớnview-size
+ Cực  lớnview-size
+ Siêu  lớnview-size
+ Khổng  lồview-type
+ Xem  kiểu  danh  sáchview-type
+ Xem  kiểu  lướithumbnail-size
+ Không  có  hình  thu  nhỏthumbnail-size
+ Bình  thường  ( 128x128 ) thumbnail-size
+ Lớn  ( 256x256 ) undo-type
+ 

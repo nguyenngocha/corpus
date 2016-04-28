@@ -1,0 +1,21 @@
+OpenSubtitles2016: Subtitles for movies & TV series in all languages 
+OpenSubtitles2013: Subtitles for movies & TV series
+GOME: Damned Lies is the Web application used to manage the localisation (l10n) of the GNOME project.
+Ubuntu: Launchpad helps you build a community to translate your project into almost any language. Translators use this simple web interface to contribute translations in a wiki-style of collaboration. 
+KD4: News from OPUS - A Collection of Multilingual Parallel Corpora with Tools and Interfaces.
+Tatoeba: Tatoeba is a collection of sentences and translations.
+
+file gome.ja have: 5276638 characters
+file OpenSubtitle2013.ja have: 198591 characters
+file OpenSubtitle2016.ja have: 3231899 characters
+file Ubuntu.ja have: 874653 characters
+
+file gome.vi have: 11364087 characters
+file OpenSubtitle2013.vi have: 596173 characters
+file OpenSubtitle2016.vi have: 10145878 characters
+file Ubuntu.vi have: 1872604 characters
+
+file train.vi-ja.ja has: 2272014 characters
+file train.vi-ja.vi has: 1410206 characters
+
+

@@ -1,0 +1,28 @@
+ Cụm  từ  mật  khẩu :
+ Khoá  PGP
+ Mật  khẩu  và  khoá  mã  hoá
+ Đừng  chạy  seahorse-daemon  ở  chế  độ  nền
+ Ứng  dụng  không  chấp  nhận  tài  liệu  trên  dòng  lệnh
+ không  thể  tạo  tiến  trình  con
+ không  thể  tạo  nhóm  tiến  trình  mới
+ Trình  nền  mã  hoá  ( Seahorse )
+   Tên   khoá 
+ Dùng  để  lưu  trữ  các  mật  khẩu  kiểu  ứng  dụng  và  mạng
+ Có  nên  dùng  bọc  kim  ASCII  hay  không
+ Đặt  là  true  ( đúng )  thì  các  tập  tin  được  mã  hoá  bằng  Seahorse  sẽ  được  mã  hoá  bọc  sắt  ASCII .
+ Đây  xác  định  khoá  mặc  định  cần  dùng  trong  một  số  thao  tác  riêng ,  phần  lớn  là  việc  ký  tên .
+ Có  nên  luôn  luôn  mã  hoá  bằng  khoá  mặc  định  hay  không
+ Nếu  đặt  là  «  true  »  ( đúng )  thì  khoá  mặc  định  luôn  luôn  sẽ  được  thêm  vào  danh  sách  người  nhận  mã  hoá .
+ Khoá  được  dùng  cuối  cùng  để  ký  thư .
+ Mã  nhận  diện  ( ID )  của  khoá  bí  mật  cuối  cùng  được  dùng  để  ký  thư .
+ Cột  theo  nó  cần  sắp  xếp  các  người  nhận
+ Ghi  rõ  cột  theo  đó  cần  sắp  xếp  cửa  sổ  người  nhận .  Các  cột  là  ' name '  ( tên )  và  ' id '  ( mã  nhận  diện ) .  Để  dấu  trừ  ' -'  nằm  trước  tên  cột  để  sắp  xếp  theo  thứ  tự  giảm  dần .
+ Máy  phục  vụ  khoá  PGP
+ Danh  sách  các  địa  chỉ  Mạng  của  máy  phục  vụ  khoá  nơi  cần  tìm  kiếm  khoá  PGP  từ  xa .  Trong  phiên  bản  mới  hơn ,  cũng  có  thể  gồm  tên  hiển  thị ,  bằng  cách  phụ  thêm  một  dấu  cách ,  rồi  tên  đó .
+ Đa  khoá
+ Ký  bởi         hết    hạn     vào  % s .
+ Ký  bởi       vào  % s    đã   hết   hạn  .
+ Chữ  ký  đã  hết  hạn
+ Ký  bởi         đã    hủy    bỏ     vào  % s .
+   Tập   tin   tên   đó   đã   có  .  Bạn  có  muốn  thay  thế  nó  bằng  một  tập  tin  mới  không ?
+   Dùng  : 

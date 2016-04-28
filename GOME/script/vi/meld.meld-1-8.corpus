@@ -1,0 +1,167 @@
+ Không  thể  nhập : 
+ Meld  cần  % s  hay  cao  hơn .
+ Meld
+ Bộ  so  sánh  sự  khác  biệt  Meld
+ So  sánh  và  trộn  các  tập  tin  của  bạn
+ Danh  sách  có  thể  sửa  đổi
+ Hoạt  động
+ _ Thêm
+ Gỡ  _ bỏ
+ Đưa  phần  tử  lên
+ Đưa  _ Lên
+ Hạ  phần  tử  xuống
+ Hạ  _ Xuống
+ Tên
+ Mẫu
+ Thêm  bộ  lọc  mới
+ Xóa  bỏ  bộ  lọc  đã  chọn
+ Khoá  cuộn  trong  tất  cả  các  khung
+ _ Thay  thế
+ Thay  thế  toàn  _ bộ
+ _ Trước  đó
+ _ Kế  tiếp
+ Thay  thế  _ với
+ Khớp  _ chữ  hoa / thường
+ _ Nguyên  từ
+ Biểu  _ thức  chính  quy
+ Copyright   &  # xA9 ;  2002-2009  Stephen  Kennedy  Copyright   &  # xA9 ;  2009-2011  Kai  Willadsen
+ Trương  Ứng  Minh   <  truongungminh \ @ gmail \ .com  >
+ Định  dạng  như  là  bản  vá ...
+ Dùng  sự  khác  biệt  giữa :
+ Bản  bên  trái  và  giữa
+ Bản  giữa  và  bên  phải
+ Đả _ o  ngược  hướng  của  bản  vá
+ Chép  vào  bảng  tạm
+ Lưu  bản  vá  dạng ...
+ Bộ  tùy  thích  Meld
+ Phông  chữ
+ _ Dùng  độ  rộng  phông  chữ  độ  rộng  cố  định  của  hệ  thống
+ _ Phông  chữ  soạn  thảo :
+ Hiển  thị
+ Độ  rộng  _ tab :
+ _ Chèn  khoảng  trắng  thay  cho  tab
+ Bật  _ cuộn  chữ
+ Đừng  _ tách  các  từ  quá  hai  dòng
+ Hiện  số  _ dòng
+ Hiện  khoảng  _ trắng
+ Tô  _ sáng  cú  pháp
+ Bộ  soạn  thảo  bên  ngoài
+ _ Dùng   bộ  soạn  thảo  mặc  định  của  hệ  thống
+ _ Lệnh  bộ  soạn  thảo :
+ Bộ  hiệu  chỉnh
+ So  sánh  _ tập  tin
+ Bỏ  qua  các  liên  kết  biểu  trưng
+ Thông  điệp  ghi  lưu
+ Bộ  Điều  Khiển  Phiên  Bản \ t1 \ t % s
+ Khi  so  sánh  thư  mục ,  bạn  có  thể  lọc  ra  tập  tin  và  thư  mục  theo  tên .  Mỗi  mẫu  là  danh  sách  ký  tự  đại  diện  kiểu  hệ  vỏ  phân  biệt  bởi  dấu  cách .
+ Bộ  lọc  tập  tin
+ Khi  so  sánh  tập  tin ,  bạn  có  thể  bỏ  qua  một  số  kiểu  thay  đổi .  Tại  đây ,  mỗi  mẫu  là  một  biểu  thức  chính  quy  Python  thay  thế  chuỗi  khớp  bằng  chuỗi  rỗng  trước  khi  so  sánh .  Nếu  biểu  thức  chứa  nhóm  thì  chỉ  thay  thế  nhóm .  Hãy  xem  sổ  tay  người  dùng  để  biết  thêm  chi  tiết .
+ Bỏ  qua  thay  đổi  chèn  hay  xóa  bỏ  dòng  trắng .
+ Bộ  lọc  chữ
+ Đang  tải
+ Khi  tải  thì  thử  những  codec  theo  thứ  tự  ( v.d.  utf8 ,  iso8859 )
+ Mã  hóa
+ So  sánh  thư  _ mục
+ _ Phiên  Bản  Bộ  Duyệt  Điều  Khiển
+ Chọn  tập  tin
+ Chọn  thư  mục
+ So  sánh
+ Xác  nhận
+ Gài  tập  tin  vào
+ Bản  ghi  trước
+ Xác  _ nhận
+ Đẩy  sang  phải
+ _ So  sánh
+ So  sánh  vùng  chọn
+ Chép  sang  _ trái
+ Chép  sang  trái
+ Chép  sang  _ phải
+ Chép  sang  phải
+ Xóa  bỏ  vùng  chọn
+ Ẩn
+ Ẩn  vùng  chọn
+ Trùng
+ Hiển  thị  đồng  nhất
+ Mới
+ Hiện  mới
+ Bị  sửa  đổi
+ Hiện  các  thay  đổi
+ Bộ  lọc
+ Bật  bộ  lọc
+ Ẩn  % s
+ [ % s ]  Đang  quét  % s
+ [ % s ]  Đã  xong .
+ Nhiều  lỗi  phát  sinh  trong  lúc  quét  thư  mục  này
+ Đã  tìm  thấy  nhiều  tập  tin  bị  lỗi  mã  hóa  đã  tìm  thấy
+ Một  số  tập  tin  bị  lỗi  mã  hóa  không  đúng .  Tên  của  chúng  giống  như :
+ Các  tập  tin  ẩn  trong  trường  hợp  so  sánh  không  nhạy  cảm
+ Bạn  đang  chạy  việc  so  sánh  không  phân  biệt  chữ  hoa / thường  trong  hệ  thống  tập  tin  có  phải  phân  biệt  chữ  hoa / thường .  Những  tập  tin  sau  đây  sẽ  bị  ẩn :
+ «  % s  »  do  «  % s  »  ẩn
+ Ẩ _ n
+ Tập  tin  «  % s  »  đã  có .  Ghi  đè ?
+ Gặp  lỗi  khi  sao  chép  «  % s  »  vào  «  % s  »  % s
+ ' % s '  là  một  thư  mục .  Gỡ  bỏ  đệ  qui  không ?
+ Gặp  lỗi  khi  gỡ  bỏ  % s  % s
+ Dùng  sự  khác  biệt  giữa  các  tập  tin  để  tạo  một  bản  vá
+ Bắt  đầu  với  việc  so  sánh  bộ  điều  khiển  phiên  bản
+ Xung  đột  vừa  rồi
+ Đi  tới  xung  đột  vừa  xảy  ra
+ Xung  đột  tiếp  theo
+ Đi  tới  xung  đột  tiếp  theo
+ Đẩy  qua  bên  trái
+ Đẩy  thay  đổi  hiện  có  sang  phía  bên  trái
+ Đẩy  thay  đổi  hiện  có  sang  phía  bên  phải
+ Kéo  sang  trái
+ Kéo  thay  đổi  sang  phía  bên  trái
+ Kéo  sang  phải
+ Kéo  thay  đổi  sang  phía  bên  phải
+ Chép  ở  trên  sang  trái
+ Chép  thay  đổi  của  đoạn  dữ  liệu  phía  trên  bên  trái
+ Chép  ở  dưới  sang  trái
+ Chép  thay  đổi  của  đoạn  dữ  liệu  phía  dưới  bên  trái
+ Chép  ở  trên  sang  phải
+ Chép  thay  đổi  của  đoạn  dữ  liệu  phía  trên  bên  phải
+ Chép  ở  dưới  sang  phải
+ Chép  thay  đổi  của  đoạn  dữ  liệu  phía  dưới  bên  phải
+ Xóa
+ Xoá  các  thay  đổi
+ Hợp  nhất  các  thay  đổi  từ  bên  trái
+ Hợp  nhất  những  thay  đổi  không  xung  đột  nhau  từ  bên  trái
+ Hợp  nhất  các  thay  đổi  từ  bên  phải
+ Hợp  nhất  những  thay  đổi  không  xung  đột  nhau  từ  bên  phải
+ Hợp  nhất  tất  cả  thay  đổi  tương  thích  từ  bản  bên  trái  và  bên  phải
+ Quay  vòng  trong  các  tài  liệu
+ Chuyển  tiêu  điểm  bàn  phím  qua  tài  liệu  kế  tiếp  trong  so  sánh  này
+ Khoá  cuộn
+ CHÈN
+ ĐÈ
+ Dòng  % i ,  Cột  % i
+ Biểu  thức  chính  quy  «  % s  »  đã  thay  đổi  số  dòng  trong  tập  tin ,  thì  việc  so  sánh  không  chạy  đúng .  Hãy  xem  sổ  tay  người  dùng  để  tìm  chi  tiết .
+ [ % s ]  Đặt  ô  số
+ [ % s ]  Đang  mở  tập  tin
+ Không  đọc  được  tập  tin
+ [ % s ]  Đang  đọc  tập  tin
+ % s  hình  như  là  một  tập  tin  nhị  phân .
+ % s  không  được  mã  hóa :  % s
+ [ % s ]  Đang  tính  sự  khác  biệt
+ Bộ  lọc  chữ  đang  hoạt  động  và  có  thể  che  giấu  sự  khác  biệt  giữa  các  tập  tin .  Bạn  có  muốn  so  sánh  những  tập  tin  chưa  được  lọc ?
+ Các  tập  tin  đều  giống  nhau
+ Hiển  thị  nhưng  không  lọc
+ Gặp  lỗi  khi  ghi  vào  «  % s  » .  % s
+ Tập  tin  «  % s  »  chứa  nhiều  kiểu  ký  tự  kết  thúc  dòng .  Bạn  muốn  dùng  định  dạng  nào ?
+ «  % s  »  chứa  ký  tự  không  thể  được  mã  hóa  bằng  «  % s  » .  Bạn  có  muốn  lưu  nó  dạng  UTF-8  không ?
+ [ % s ]  Đang  trộng  tập  tin
+ Đối  số  cung  cấp  cho  --diff  bị  sai
+ Bắt  đầu  với  một  cửa  sổ  rỗng
+ tập  tin
+ dir
+ Bắt  đầu  một  so  sánh  2  hoặc  3  phương  diện
+ Bắt  đầu  so  sánh  2  hoặc  3  phương  diện  của  thư  mục
+ Bắt  đầu  so  sánh  giữa  tập  tin  và  địa  chỉ / tập  tin
+ Meld  là  một  công  cụ  so  sánh  tập  tin  và  thư  mục .
+ Đặt  nhãn  thay  vì  dùng  tên  tập  tin
+ Luôn  tự  động  so  sánh  các  tập  tin  khi  khởi  động
+ Bỏ  qua  để  tương  thích
+ Đặt  tập  tin  chỉ  định  để  lưu  lại  kết  quả  hợp  nhất
+ quá  nhiều  đối  số  ( muốn  0-4 ,  lấy  % d )
+ Làm  phẳng  thư  mục

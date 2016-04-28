@@ -1,0 +1,2 @@
+ Nhãn  Trốngdefault  text  direction
+ ltr

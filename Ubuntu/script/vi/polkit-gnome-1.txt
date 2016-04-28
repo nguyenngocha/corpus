@@ -1,0 +1,16 @@
+ Chọn  người  sử  dụng  ...
+ % s  ( % s )
+ _ Xác  thực
+ Một  ứng  dụng  là  cố  gắng  thực  hiện  một  hành  động  đòi  hỏi  các  đặc  quyền .  Xác  thực  là  một  trong  những  người  dùng  dưới  đây  là  cần  thiết  để  thực  hiện  hành  động  này .
+ Một  ứng  dụng  là  cố  gắng  thực  hiện  một  hành  động  đòi  hỏi  các  đặc  quyền .  Việc  xác  thực  là  cần  thiết  để  thực  hiện  hành  động  này .
+ Một  ứng  dụng  là  cố  gắng  thực  hiện  một  hành  động  đòi  hỏi  các  đặc  quyền .  Việc  xác  thực  như  là  siêu  người  dùng  được  yêu  cầu  để  thực  hiện  hành  động  này .
+ _ Mật  khẩu :
+      _   Chi    tiết   
+      Hoa   ̣   t    đô   ̣   ng   :   
+ Nhấn  vào  đây  để  sửa  % s
+      Nhà    cung    cấp   :   
+ Nhấn  để  mở  % s
+ Xác  thực
+ _ Mật  khẩu  cho  % s :
+ Thử  xác  thực  không  thành  công .  Vui  lòng  thử  lại .
+ Hộp  thoại  xác  thực  đã  bị  đóng  bởi  người  dùng

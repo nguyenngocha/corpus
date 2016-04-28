@@ -1,0 +1,8 @@
+ lỗi  nghiêm  trọng
+ cảnh  báo
+ Tình  trạng  % d 
+ % s :  không  thể  mở
+ lỗi  vào / ra
+ không  thể  đóng  tập  tin
+ Cách  dùng :  % s  [ TÙY _ CHỌN ] ...  TẬP _ TIN
+ Cũng  yêu  cầu  như  thế  đối  với  đối  số  tùy  chọn .

@@ -1,0 +1,12 @@
+ kcmnotificationhelper
+ Cấu  hình  trợ  giúp  thông  báo  cho  Kubuntu
+ ( C )  2009-2010  Jonathan  Thomas ,  ( C )  2009  Harald  Sitter
+ Jonathan  Thomas
+ Harald  Sitter
+ Cấu  hình  hoạt  động  của  Trợ  giúp  thông  báo  Kubuntu
+ Hiện  thông  báo  cho :
+ Ứng  dụng  sụp  đổ
+ Thông  tin  nâng  cấp
+ Sẵn  có  các  bộ  mã  bị  hạn  chế
+ Yêu  cầu  khởi  động  lại
+ Sử  dụng  cả  cửa  sổ  bật  lên  và  biểu  tượng  khay  hệ  thống

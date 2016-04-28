@@ -1,0 +1,507 @@
+ gThumb
+ Bộ  xem  ảnh
+ Bộ  xem  ảnh  gThumb
+ Xem  và  tổ  chức  các  ảnh  của  bạn
+ Nhập  ảnh  chụp
+ Nhập  các  ảnh  chụp  từ  máy  ảnh  số
+ Ảnh  lớn  hơn  kích  cỡ  này  ( theo  byte )  sẽ  không  được  thu  nhỏ .  Hãy  dùng  giá  trị  0  nếu  bạn  muốn  tạo  ra  hình  thu  nhỏ  cho  mọi  ảnh .
+ Xem  ảnh  khác  trong  cùng  cửa  sổ  này
+ Mở  trong  cửa  sổ  mới
+ Giá  trị  có  thể :   •  white \ t \ t \ ttrắng   •  black \ t \ t \ tđen   •  checked \ t \ tđã  chọn   •  none \ t \ t \ tkhông  có .
+ Có  nên  đặt  lại  các  vị  trí  thanh  cuộn  sau  khi  thay  đổi  ảnh  hay  không
+ Có  nên  dùng  luôn  luôn  ảnh  nền  màu  đen  hay  không .
+ Giá  trị  có  thể :  png ,  jpeg .
+ Giá  trị  có  thể :   •  mm \ t \ t \ tmili-mét   •  in \ t \ t \ t \ tinsơ .
+ Các  chiều
+ Quyết  định  theo  phần  mở  rộng
+ Tê _ n  tập  tin :
+ Standard  deviation
+ Đ _ iểm  ảnhPixels
+ _ Chọn
+ Địa  điểm
+   Ghi   đè   lên   ảnh   cú   bằng   điều   mới   không  ? 
+ Ảnh  cũ  :
+ Tên  tập  tin
+ Cỡ
+ Đã  sửa  đổi
+ Thư  mục  mới
+ _ Ghi  đè  lên  ảnh  cũ
+ Đừng  _ ghi  đè  lên  ảnh  cũ
+ Ghi  đè  lên  _ mọi  ảnh
+ _ Không  ghi  đè  lên  ảnh  nào
+ _ Lưu  ảnh  mới  dạng :
+ _ Lọc
+ Chun _ g
+ Xem  các  thư  mục
+ Tùy  thích  gThumb
+ Kiểu  dáng  _ thanh  công  cụ  :
+ Cỡ  hình  th _ u  nhỏ  :
+ Thiết  lập  hệ  thống
+ Nhãn  dưới  biểu  tượng
+ Nhãn  cạnh  biểu  tượng
+ Chỉ  biểu  tượng
+ Chỉ  nhãn
+ Làm  lại  việc  tìm  kiếm  đó
+ Đi  tới  địa  điểm  thăm  sau
+ Đi  tới  thư  _ mục  này :
+ Chọn  thư  mục  khởi  động
+ Đặt  thành  _ hiện  thời
+   Khi   khởi   chạy  : 
+ Nhắc  xác  nhận  trước  _ khi  xoá  ảnh  hay  phân  loại
+ Hỏi  có  nên  lưu  ảnh  đã  _ sửa  đổi  không
+ Khác
+ Chung
+ Phụ  đề
+ 48
+ 64
+ 85
+ 95
+ 112
+ 128
+ 164
+ 200
+ 256
+ _ Quyết  định  kiểu  ảnh  từ  nội  dung  ( chậm  hơn )
+ Bộ  duyệt
+ Sắp  xếp
+ _ Sắp  xếp :
+ Đả _ o  thứ  tự
+ 2
+ Đánh  dấu
+ Thê _ m  Dấu  nhớ
+ _ Dấu  nhớ
+ Thêm  địa  điểm  hiện  thời  vào  Đánh  dấu
+ _ Sửa  Dấu  nhớ ...
+ Sửa  Dấu  nhớ
+ _ Liên  kết  lưu  :
+ Tên
+ Không  thể  di  chuyển  ảnh :
+ Thư  _ mục  hiện  có
+ Ảnh  đã  _ chọn
+ Ghi  vào  đĩa  CD
+ Đang  chuyển  đổi  ảnh :  % s
+ _ Xem  thử  tên  mới :
+ Phân  loại  mới
+ Nhập  tên  phân  loại  : 
+ _ Tạo
+ Thư  viện  mới
+ Nhập  tên  thư  viện : 
+ Không  thể  đổi  tên  của  phân  loại  «  % s  » :  % s
+ Thê _ m  vào  loại ...
+ Đi  tới  thư  mục  chứa  ảnh  đã  chọn
+ Khác ...
+ C _ họn  trong  phân  loại
+ Thêm  các  ảnh  đã  chọn  vào  phân  loại
+ Gỡ  _ bỏ  ra  loại
+ Gỡ  bỏ  các  ảnh  đã  chọn  ra  phân  loại
+ Tạo  một  phân  loại  mới
+ Thư  _ viện  mới
+ Đổi  tên
+ Dòng  lệnh
+ Thuộc  tính  % s
+ Phân  loại
+ Phân  l _ oại :
+ Phâ _ n  loại  mới
+ _ Xem  đích
+ _ Thuộc  tính
+ Ngà _ y :
+ _ Chọn  hết
+ Chọn  phông  chữ
+ Xem  thử  kiểu  dáng
+ Ngày  sửa  đổi  cuối  cùng
+ _ Gồm  các  thư  mục  con
+ Không  thể  tạo  phân  loại  «  % s  » :  % s
+ Ảnh  tên  «  % s  »  đã  có .  Bạn  có  muốn  ghi  đè  lên  nó  không ?
+ _ Ghi  đè
+ Không  thể  di  chuyển  mục :
+ Không  thể  sao  chép  ảnh :
+ nguồn  chứa  đích
+ Đang  sao  chép  tập  tin  % d  trên  % d
+ Đổi  n _ gày ...
+ Thay  đổi  ngày  đã  sửa  đổi  cuối  cùng  của  ảnh  đó
+ Đổi  ngày
+   Thay   đổi   những   giá   trị   theo   đây  : 
+ Ngày  _ sửa  đổi  cuối  cùng
+ Ngà _ y  chú  thích
+ theo  thẻ  NgàyGiờ  EXIF
+ Ngày  th _ eo  sau  :
+ Ngày  tạ _ o  ảnh
+ giờ
+ giây
+ Tù _ y  thích ...
+ Chú  thích
+ Đíc _ h :
+ Nơi
+ Ngày
+ Tạo  loại  mới
+ _ Phụ  đề  ảnh ...
+ Tạo  ảnh  chỉ  mục
+ Không  có
+ Đơn  giản
+ Đơn  giản  với  bóng
+ Chỉ  bóng
+ Chiều  ảnh
+   Kiểu   dáng   nền 
+ Mà _ u  đặc
+ _ Dốc
+ _ Ngang :
+ _ Dọc :
+ Chọn  màu
+ _ Kiểu  dáng  khung :
+ _ Chân  trang :
+ Lưu  ảnh  hiện  có
+ Ngày  hiện  thời
+ Chọn  thư  mục  đích
+ Tạo  sơ  đồ  ảnh  _ HTML
+   Lưu 
+ Mở  thư  mục  được  chọn
+ Xoá  các  ảnh  đã  chọn  ra  máy  ảnh
+ _ Sắc  thái :
+ _ Cột :
+ Ảnh  trên  mỗi  trang :
+ Mọi  tr _ ang  mà  có  cùng  một  kích  cỡ
+ Bố  trí
+ Sắ _ p  xếp :
+ _ Cỡ  :
+ Vuông
+ Hình  _ thu  nhỏ
+ Dữ  liệu  ảnh
+ Không  thể  xoá  các  ảnh :
+ Đang  tạo  ảnh :  % s . % s
+ Đang  lưu  hình  thu  nhỏ ...
+ Đầu  trang
+ Chân  trang
+ Tên  mới
+ Ch _ uyển  đổi  định  dạng ...
+ Chuyển  đổi  định  dạng
+ Ảnh  mới
+ Phục  hồi  ảnh  nền  gốc  của  môi  trường
+ Đặt  ảnh  làm  ảnh  nền  môi  trường  ( lát  đều )
+ Gán  loại  cho  thư  mục  đã  chọn
+ Làm  _ mịn :
+ Thông  tin  chung
+ Ngày  _ và  Giờ
+ Lưu  chỉ  trườ _ ng  đã  thay  đổi
+ Không  có  ngày
+ Ngày  theo  đây
+ Ngày  tạo  ảnh
+ Đừng  sửa  đổi
+ Đang  tải  ảnh ...
+ _ Phải :
+ _ Chất  lượng :
+ Điều  kiện  chụp  ảnh
+ Cấu  trúc  ảnh
+ Chú  thích  nhà  tạo
+ Nạp  _ lại
+ Tập  ảnh  Mạng
+ Đổi  cỡ  nếu  _ lớn  hơn :
+ Đặt  _ lại
+ 320  ×  200
+ 1024  ×  1024
+ 1280  ×  1280
+ 800  ×  600
+ 48  ×  48
+ _ Bích  chương  hóa ...
+ Tiếp  tục
+ Không  thể  thay  đổi  tên  ảnh :
+ Không  thể  sao  chép  thư  mục  «  % s  » :  % s
+ Nhập  tên  thư  mục : 
+ Không  thể  chuyển  các  ảnh  vào  Sọt  rác .  Bạn  có  muốn  xoá  hoàn  toàn  chúng  không ?
+ Không  thể  xoá  thư  mục  «  % s  » :  % s
+ Không  thể  di  chuyển  thư  mục  «  % s  » :  % s
+ Chu _ yển
+ _ Chép ...
+ Tạo  thư  mục  mới
+ _ Nhân  đôi
+ Nhân  đôi  các  ảnh  đã  chọn
+ Chuyển  vào  Sọt  _ rác
+ Chuyển  các  ảnh  được  chọn  vào  Sọt  rác
+ _ Xoá  Lược  sử
+ Đổ _ i  tên
+ Đổi  tên  thư  mục  đã  chọn
+ Mở  bằng  bộ  _ quản  lý  tập  tin
+ Di  chuyển  thư  mục  đã  chọn  vào  Sọt  rác
+ Chu _ yển ...
+ Sao  chép  các  ảnh  được  chọn  sang  địa  điểm  khác
+ Không  thể  nhập  các  ảnh
+ Xem  thuộc  tính  của  ảnh
+ Đang  xoá  tập  tin  % ld  trên  % ld
+ _ Xem  thử
+ Độ  _ sáng :
+ Độ  _ tương  phản :
+ Độ  _ bão  hòa :
+ _ Xanh-Đỏ  :
+ Đỏ  tươ _ i-Lục :
+ _ Vàng-Xanh :
+   Cấp   màu 
+ _ Giữa  lại
+ Đảo  tỷ  lệ  hì _ nh  thể
+   Tỷ   lệ   hình   thể 
+ Cao  :
+ Chất  _ lượng  cao
+ Tùy  chọn  PNG
+   Các   chiều   gốc 
+ Tỷ  _ lệ :
+   Các   chiều   mới 
+ điểm  ảnh
+ %
+ _ Giữ  tỷ  lệ  hình  thể
+ _ Cỡ  ảnh :
+ Kiểu  _ trong  suốt :
+ Ảnh
+ Giảm  số  màu
+ % d  ×  % d  ( Ảnh )
+ % d  ×  % d  ( Màn  hình )
+ 5 :
+ 75
+ 4  ×  6  ( Bưu  thiếp )
+ Tự  chọn
+ _ Giữa  lại  trên  trang
+ _ Xén ...
+ Xén
+ _ Giảm  bão  hoà
+ Làm  bằng  tự  động  biểu  đồ  tần  xuất  của  ảnh .
+ Làm  _ bằng
+ _ Lật
+ Xoay  vật  chất  ảnh
+ _ Phản  chiếu
+ Phản  chiếu  ảnh  theo  chiều  ngang  ( trái-phải )
+ Â _ m
+ Làm  lại
+ Đổ _ i  cỡ ...
+ Đổ _ i  tên ...
+ Xoay  t _ rái
+ Xoay  ảnh  90º  theo  ngược  chiều
+ Xoay  _ phải
+ Xoay  ảnh  90º  theo  xuôi  chiều
+ Lưu  _ dạng ...
+ _ Lưu
+ Đang  lưu  ảnh ...
+ _ Tăng  cường
+ Hủy  bước
+ Tìm  bản  sao
+ Nạp  lại  địa  điểm  hiện  thời
+ Thư  _ mục
+ Bản  sao
+ _ Tập  tin
+ _ Xem
+ Không  tìm  thấy  ảnh
+ _ Bắt  đầu  tại :
+ Thư  mục  _ mới ...
+ Tập  tin  chỉ  _ mục :
+ Đang  lấy  danh  sách  thư  mục ...
+ Chú  thích  ảnh
+ _ Nhập
+ Chưa  phát  hiện  máy  ảnh  nào
+ Lưu  ảnh
+ Chụp  màn  hình
+ Rộng
+ Đổi  tên  các  ảnh  đã  chọn
+ _ Hàng :
+ T _ rái :
+ _ Trên :
+ Đơn  _ vị :
+ Mili-mét
+ insơ
+ _ Phông :
+ Trang  % d  trên  % d
+ Xem  thử  ảnh
+ In
+ Đặt  lại  hướng  _ EXIF
+ Phụ  đề  ảnh
+ Xoay  ảnh  mà  không  mất  chất  lượng
+ Gặp  lỗi  khi  chuyển  dạng  ảnh :  % s
+ Việc  chuyển  dạng  này  có  thể  giới  thiệu  một  số  sự  méo  mó  trên  một  hay  nhiều  cạnh  của  ảnh ,  vì  các  chiều  ảnh  không  phải  bội  số  8 .  Tuy  nhiên ,  bước  gây  ra  sự  méo  mó  này  có  thể  được  hủy .  Nếu  ảnh  kết  quả  không  phải  có  cấp  chất  lượng  đủ  cao ,  đơn  giản  áp  dụng  việc  chuyển  dạng  ngược  để  trở  về  ảnh  gốc .  Bạn  cũng  có  khả  năng  hủy  ( hay  tỉa )  bất  cứ  điểm  ảnh  nào  trên  cạnh  mà  không  chuyển  dạng  được .  Để  sử  dụng  trong  trường  hợp  thật ,  chế  độ  này  gây  ra  kết  quả  đẹp  nhất ,  nhưng  mà  việc  chuyển  dạng  này  không  còn  là  kiểu  không  mất  gì  lại .
+ _ Tỉa
+ Đặt  ảnh  thành  kích  cỡ  thật
+ Giữ  độ  thu  phóng  trước
+ Vừa  khít  cửa  sổ  nếu  lớn  hơn
+ Vừa  khít  độ  rộng  nếu  lớn  hơn
+ Đặt  lại  các  vị  trí  thanh  cuộn  sau  khi  nạp  ảnh
+ _ Sau  khi  nạp  ảnh
+   Chất   lượng   thu   phóng 
+ Thấ _ p
+ Trắng
+ Đen
+ Đã  chọn
+ _ Biểu  đồ  tần  xuất
+ Xén  ảnh
+ Sao  chép  ảnh  này  sang  địa  điểm  khác
+ To
+ Nhỏ
+ 1 : 1
+ Vừa  khít
+ Thu  phóng  cho  vừa  khít  cửa  sổ
+ Thu  phóng  cho  vừa  khít  độ  rộng
+ Bộ  xem
+ Tự  động  đặt  cỡ
+ Tê _ n  tập  tinsubfolder _ label
+ Không  hỗ  trợ  kiểu  ảnh :  % s
+ Sửa  đổi  cuối  cùng
+ _ Công  cụ
+ Bỏ  qua
+ Chú  _ thích :
+ Đường  dẫn  _ tập  tin
+ Gồm  tên  tập  tin
+ Di  chuyển  thư  mục  hiện  có
+ Cardinal  point
+ 640  ×  480
+ Sắp  xếp  các  ảnh  theo  kích  cỡ
+ _ Tiếp  tục
+ _ Hiện :
+ _ Xoá  các  ảnh  đã  nhập  khẩu  khỏi  máy  ảnh
+ Tạo  Tập  ảnh  _ Mạng ...
+ Tối  ư _ u  hóa
+ _ Tiến  lên
+ Cấp  _ nén :
+ Nén  _ RLE
+ Không  _ nén
+ Chuẩn  ( làm  _ xẹp )
+ Nén  _ mất  ( JPEG )
+ điểm / insơ
+   Độ   phân   giải 
+ _ JPEG
+ _ PNG
+ T _ GA
+ _ TIFF
+ _ X :
+ _ Y :
+ _ Sửa  mắt  đỏ ...
+ Sửa  mắt  đỏ
+ _ Mẫu  :
+ _ Giữ  tên  tập  tin  gốc
+ _ theo  giờ  sửa  đổi
+ Ngày  số  hoá  ảnh  chụp  ( từ  dữ  liệu  EXIF )
+ Đả _ o  lại  thứ  tự
+ Tên  cũ
+ Đổi  cỡ  ảnh
+ _ Cao  :
+ Kết  quả  tìm  kiếm
+ Tìm
+ Đang  tìm  kiếm  trong : the  search  properties
+ Tìm  kiếm
+ _ Tìm  kiếm ...
+   Vùng   chọn 
+ Ch _ iếu  ảnh
+ Xem  dạng  chiếu  ảnh
+ Chiếu  ảnh
+   Cá   nhân   hoá   sắc   thái 
+ change  automatically ,  every  x  seconds
+ _ Khởi  chạy  lại  khi  hoàn  thành
+ thứ  tự  thủ  công
+ Chọn  thư  mục  đích .
+ Phụ  lục
+ Kế
+ Xem  ảnh
+ Xem  ảnh  kế
+ Xem  ảnh  trước  đó
+ _ Chép  các  ảnh  gốc  sang  đích
+ Phụ  lục  kiểu  dáng  ảnh
+ Phụ  đề  hình  _ thu  nhỏ ...
+ Xem  chú  thích  về  ảnh
+ Lưu  trang  HTML :  Ảnh
+ Lưu  trang  HTML :  Phụ  lục
+ Đang  sao  chép  các  ảnh  gốc
+ Không  thể  tạo  thư  mục  tạm  thời
+ Tất  cả
+ Thời  gian  phơi  nắng
+ _ Phục  hồi
+ Đang  di  chuyển  tập  tin  % ld  trên  % ld
+ Thông  tin  chung9 : 05 : 02 : % Id % dlong  time  format
+ 5 : 02 : % Id % dshort  time  format
+ Bộ  xem  và  duyệt  ảnh  cho  Gnome .
+ Nhóm  Việt  hóa  Gnome   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >
+ _ Sửa
+ _ Tới
+ Trợ  g _ iúp
+ _ Mở  bằng
+ Chế  độ  _ phơi  nắng
+ Cửa  sổ  _ mới
+ Mở
+ Hiệu  chỉnh  tùy  thích  khác  nhau
+ Dừng  nạp  địa  điểm  hiện  thời
+ Khởi  chạy  trong  chế  độ  toàn  màn  hình
+ Trở  về  địa  điểm  đã  thăm  trước
+ Lên  một  cấp
+ Đị _ a  điểm ...
+ Xác  định  địa  điểm  cần  xem
+ Xoá  danh  sách  các  địa  điểm  đã  thăm
+ Hiện  thông  tin  về  gThumb
+ Nội  dung
+ _ Phím  tắt
+ _ Thanh  công  cụ
+ Hiện / ẩn  thanh  công  cụ  của  cửa  sổ  này
+ Thanh  t _ rạng  thái
+ Hiện / ẩn  thanh  trạng  thái  của  cửa  sổ  này
+ Hiện / ẩn  thanh  lọc  của  cửa  sổ  này
+ Xem  hình  thu  nhỏ
+ _ Hiện  tập  tin  bị  ẩn
+ Hiển  thị  các  tập  tin  và  thư  mục  bị  ẩn
+ [ đã  sửa  đổi ]
+ Không  lưu
+ Hệ  thống  tập  tin
+ MB
+ files
+ Giá  trị
+ Đỏ
+ Lục
+ Xanh  dương
+ Anfa
+ Kiểu
+ _ Cỡ  tập  tin
+ theo  giờ  sửa  đổi  tập  tin
+ Ngày  nghỉ
+ Tạm
+ Khoa  học
+ Ưa  thích
+ Quan  trọng
+ GNOME
+ Trò  chơi
+ Tiệc
+ Ngày  sinh
+ Thiên  văn  học
+ Gia  đình
+ là
+ không  là
+ Thay  đổi  tên  của  ảnh  này
+ chứa
+ bắt  đầu  với
+ kết  thúc  với
+ không  chứa
+ ít  hơn
+ lớn  hơn
+ bằng
+ nằm  trước
+ nằm  sau
+ Đóng  cửa  sổ  này
+ Không  thể  hiển  thị  trợ  giúp
+ Tự  động  khởi  chạy  trình  chiều
+ Nhập  tự  động  các  ảnh  từ  máy  ảnh  số
+ Không  thể  nhân  đôi  ảnh  «  % s  » :  % s
+ Byte
+ Chế  độ  phơi  nắng
+ Đèn  nháy
+ Tốc  độ  chập
+ Giá  trị  lỗ  ống  kính
+ Tiêu  cự
+ Mô  hình  máy  ảnh
+   Loại 
+   Thông   tin   về   kênh  : 
+ Ứng  dụng  _ sẵn  sàng :
+ Chọn  phân  loại
+ Mở  ảnh
+ Ghi  đè  lên  ảnh
+ _ Dữ  liệu  ảnh  chụp  ( EXIF )
+ Ứng  dụng  gần  đâ _ y :
+ Ứn _ g  dụng :
+ _ Kế
+ T _ rước
+ ...
+ L _ oại  :
+ Nếu  hộp  chọn  này  được  bật  và  ảnh  chụp  đã  nhập  khẩu  cũng  chứa  một  thẻ  hướng  EXIF ,  dữ  liệu  ảnh  sẽ  được  chuyển  đổi  vật  chất  ( không  mất  mát )  để  ảnh  đã  xem  có  cùng  một  hình  thức  với  ảnh  gốc  nhưng  thẻ  hướng  đã  được  đặt  lại  thành  «  trái  trên  » .  Còn  nếu  hộp  chọn  này  không  được  bật ,  cả  hai  dữ  liệu  ảnh  và  thẻ  hướng  đều  còn  lại  không  được  thay  đổi .  Ảnh  sẽ  được  hiển  thị  trùng  bằng  gthumb  cho  cả  hai  trường  hợp ,  nhưng  mà  để  tương  thích  tối  đa  với  các  ứng  dụng  khác ,  khuyên  bạn  bật  hộp  chọn  này .
+ Chọn  mô  hình  máy  ảnh
+ Cập  nhật  ô  xem  thử
+ _ Phim :
+ _ Mô  hình :
+ _ Cổng :
+ Loại  _ sẵn  có  :

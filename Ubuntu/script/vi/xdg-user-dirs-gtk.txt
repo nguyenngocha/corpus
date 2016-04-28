@@ -1,0 +1,11 @@
+ Cập  nhật  các  thư  mục  cơ  bản  sang  ngôn  ngữ  hiện  tại  chứ ?
+ Bạn  đã  đăng  nhập  với  một  ngôn  ngữ  mới  ( tiếng  Việt ) .  Tên  một  số  thư  mục  chuẩn  trong  thư  mục  cá  nhân  có  thể  được  tự  động  cập  nhật  cho  trùng  khớp  với  ngôn  ngữ  đã  chọn .  Quá  trình  cập  nhật  sẽ  thay  đổi  các  thư  mục  sau :
+ _ Giữ  tên  cũ
+ _ Cập  nhật  tên
+ Tên  thư  mục  hiện  tại
+ Tên  thư  mục  mới
+ Chú  ý  rằng  các  nội  dung  hiện  có  sẽ  không  bị  di  chuyển .
+ _ Không  hỏi  nữa
+ Có  lỗi  xảy  ra  khi  cập  nhật  các  thư  mục
+ Cập  nhật  thư  mục  người  dùng
+ Cập  nhật  tên  các  thư  mục  thông  dụng  cho  khớp  với  ngôn  ngữ  bản  địa

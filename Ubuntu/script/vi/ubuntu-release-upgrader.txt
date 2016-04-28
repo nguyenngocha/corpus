@@ -1,0 +1,160 @@
+ Máy  chủ  cho  % scustom  servers
+ Máy  chủ  chính
+ Máy  chủ  tùy  chọn
+ Không  thể  thống  kê  các  mục  trong  sources.list
+ Không  tìm  thấy  các  gói  phần  mềm ,  có  thể  do  không  đúng  đĩa  cài  Ubuntu  hoặc  sai  hệ  thống ?
+ Lỗi  đọc  dữ  liệu  từ  CD
+ Có  lỗi  khi  đọc  dữ  liệu  từ  CD ,  quá  trình  nâng  cấp  sẽ  được  hủy  bỏ .  Vui  lòng  thông  báo  lại  lỗi  này  nếu  đây  là  đĩa  CD  Ubuntu  hợp  lệ .  Thông  báo  lỗi  là :  ' % s '
+ Máy  chủ  có  thể  bị  quá  tải
+ Gói  lỗi
+ Hệ  thống  của  bạn  chứa  các  gói  tin  bị  lỗi  và  không  thể  sửa  được  bằng  phần  mềm  này .  Hãy  sửa  chúng  bằng  phần  mềm  synaptic  hoặc  apt-get  trước  khi  tiếp  tục .
+ Nhiều  khả  năng  đây  chỉ  là  vấn  đề  tạm  thời ,  vui  lòng  thử  lại  sau .
+ Nếu  không  cái  nào  trong  chúng  được  áp  dụng ,  xin  hãy  báo  cáo  lỗi  này  bằng  cách  sử  dụng  tác  lệnh  ' ubuntu-bug  ubuntu-release-upgrader-core '  ở  trong  trạm .
+ Không  thể  tính  được  dung  lượng  cần  nâng  cấp
+ Gặp  lỗi  khi  đang  xác  thực  một  số  gói
+ Không  thể  xác  thực  một  số  gói ,  có  thể  do  lỗi  tạm  thời  của  hệ  thống  mạng .  Bạn  vui  lòng  thử  lại  sau .  Bên  dưới  là  danh  sách  các  gói  chưa  được  xác  thực  đầy  đủ .
+ Gói  phần  mềm  ' % s '  được  đánh  dấu  đề  gỡ  bỏ  nhưng  nó  nằm  trong  danh  sách  các  phần  mềm  không  thể  gỡ  bỏ .
+ Gói  phần  mềm  quan  trọng  ' % s '  sẽ  bị  gỡ  bỏ .
+ Đang  cố  gắng  để  cài  đặt  phiên  bản  danh  sách  đen  ' % s '
+ Không  thể  cài  đặt  ' % s '
+ Không  thể  cài  đặt  gói  theo  yêu  cầu .  Xin  hãy  báo  cáo  lỗi  này  bằng  cách  sử  dụng  tác  lệnh  ' ubuntu-bug  ubuntu-release-upgrader-core '  ở  trong  trạm .
+ Không  thể  đoán  được  gói  gốc
+ Đang  đọc  bộ  nhớ  đệm
+ Không  thể  tạo  khóa  độc  quyền
+ Điều  này  thường  có  nghĩa  là  một  chương  trình  quản  lý  gói  khác  đang  chạy  ( vd  như  apt-get  hay  aptitude ) .  Xin  hãy  đóng  chương  trình  đó  trước .
+ Nâng  cấp  qua  kết  nối  từ  xa  ( remote  connection )  chưa  được  hỗ  trợ
+ Bạn  đang  chạy  việc  nâng  cấp  qua  kết  nối  ssh  từ  xa  với  một  giao  diện  điều  khiển  không  hỗ  trợ  chuyện  này .  Hãy  thử  chế  độ  văn  bản  và  cập  nhật  với  ' do-release-upgrade ' .  Nâng  cấp  sẽ  bị  huỷ  bỏ  ngay  bây  giờ .  Hãy  thử  lại  mà  không  dùng  ssh .
+ Tiếp  tục  chạy  với  SSH ?
+ Phiên  làm  việc  này  có  vẻ  như  đang  được  thực  hiện  thông  qua  ssh .  Việc  cập  nhật  thông  qua  ssh  hiện  tại  không  được  khuyến  khích  vì  khó  phục  hồi  trong  trường  hợp  gặp  lỗi .  Nếu  bạn  muốn  tiếp  tục ,  một  trình  nền  ssh  bổ  sung  sẽ  được  khởi  động  ở  cổng  ' % s ' .  Bạn  có  muốn  tiếp  tục  không ?
+ Đang  khởi  động  tiến  trình  sshd  dự  phòng
+ Để   dễ  dàng  phục  hồi  trong  trường  hợp  có  sự  cố ,  dịch  vụ  sshd  dự  phòng  sẽ  được  chạy  ở  cổng  ' % s ' .  Nếu  gặp  sự  cố  với  phiên  làm  việc  ssh  hiện  tại ,  bạn  có  thể  kết  nối  lại  thông  qua  dịch  vụ  dự  phòng  nêu  trên .
+ Nếu  bạn  dùng  tường  lửa ,  có  thể  bạn  cần  tạm  thời  mở  cổng  này .  Việc  này  không  được  tiến  hành  tự  động  vì  có  thể  gây  nguy  hiểm .  Bạn  có  thể  mở  cổng  với :  % s
+ Không  thể  nâng  cấp
+ Quá  trình  nâng  cấp  từ  ' % s '  lên  ' % s '  không  được  hỗ  trợ  với  công  cụ  này .
+ Có  lỗi  khi  khởi  tạo  trong  chế  độ  kiểm  tra  lỗi
+ Không  tạo  được  chế  độ  kiểm  tra  lỗi
+ Chế  độ  kiểm  tra  lỗi
+ Bản  nâng  cấp  này  đang  chạy  trong  chế  độ  hộp  cát  ( thử  nghiệm ) .  Tất  cả  các  thay  đổi  sẽ  được  ghi  vào  ' % s '  và  sẽ  bị  mất  khi  khởi  động  lại .  Từ  giờ  đến  lần  khởi  động  lại  tiếp  theo ,  * không *  thay  đổi  nào  được  ghi  vào  thư  mục  hệ  thống  một  cách  vĩnh  viễn .
+ Bản  cài  đặt  python  của  bạn  bị  lỗi .  Vui  lòng  sửa  lại  liên  kết  ' / usr / bin / python ' .
+ Gói  ' debsig-verify '  đã  được  cài  đặt
+ Việc  nâng  cấp  không  thể  thực  hiện  nếu  gói  debsig-verify  đã  được  cài .  Vui  lòng  gỡ  bỏ  nó  bằng  phần  mềm  synaptic  hoặc  bằng  lệnh  ' apt-get  remove  debsig-verify '  rồi  thực  hiện  lại  việc  nâng  cấp .
+ Không  thể  ghi  vào  ' % s '
+ Không  thể  ghi  vào  thư  mục  hệ  thống  ' % s '  trong  hệ  thống  của  bạn .  Không  thể  tiếp  tục  việc  nâng  cấp .  Vui  lòng  kiểm  tra  lại  rằng  thư  mục  hệ  thống  của  bạn  cho  ghi  vào .
+ Bao  gồm  các  cập  nhật  mới  nhất  từ  Internet ?
+ Quá  trình  nâng  cấp  sẽ  tải  và  cài  đặt  các  phần  mềm  mới  nhất  qua  kết  nối  internet .  Đây  là  cách  nâng  cấp  tốt  nhất .  Thời  gian  nâng  cấp  có  thể  lâu  hơn ,  nhưng  hệ  thống  của  bạn  sẽ  được  cập  nhật  hoàn  toàn .  Bây  giờ  bạn  có  thể  bỏ  qua ,  nhưng  sau  khi  nâng  cấp  thành  công ,  bạn  nên  tiến  hành  cài  đặt  các  bản  cập  nhật  mới  nhất .  Nếu  bạn  chọn  " Không " ,  sẽ  không  có  gì  được  tải  từ  trên  mạng .
+ bị  hủy  khi  nâng  cấp  % s
+ Không  tìm  thấy  nguồn  cập  nhật  hợp  lệ
+ Tạo  ra  các  nguồn  cập  nhật  mặc  định ?
+ Sau  khi  quét  ' / etc / apt / sources.list '  của  bạn ,  chương  trình  không  tìm  thấy  mục  hợp  lệ  cho  ' % s ' .  Bạn  có  muốn  thêm  mục  mặc  định  ' % s '  không ?  Nếu  bạn  chọn  ' Không ' ,  việc  nâng  cấp  sẽ  bị  huỷ  bỏ .
+ Thông  tin  về  các  nguồn  cập  nhật  không  hợp  lệ
+ Việc  nâng  cấp  thông  tin  kho  đã  tạo  ra  một  tập  tin  không  hợp  lệ  nên  một  tiến  trình  báo  cáo  lỗi  đang  được  bắt  đầu .
+ Không  cho  phép  sử  dụng  các  nguồn  cập  nhật  bên  ngoài
+ Một  số  nguồn  bên  ngoài  trong  tập  tin  sources.list  của  bạn  đã  bị  cấm .  Bạn  có  thể  cho  phép  sử  dụng  chúng  sau  khi  nâng  cấp  bằng  công  cụ  ' tính-năng-của-phần-mềm '  hay  bằng  trình  quản  lý  gói .
+ Gặp  lỗi  trong  quá  trình  cập  nhật
+ Đã  có  lỗi  xuất  hiện  trong  quá  trình  cập  nhật .  Thông  thường  là  do  các  vấn  đề  về  mạng ,  hãy  kiểm  tra  kết  nối  mạng  và  thử  lại .
+ Không  còn  không  gian  đĩa  trống
+ Quá  trình  nâng  cấp  bị  hủy  ngang .  Cần  tổng  cộng  % s  chỗ  trống  trên  đĩa  cứng  ' % s ' .  Bạn  cần  có  thêm  % s  dung  lượng  trống  trên  đĩa  ' % s ' .  Dọn  sạch  rác  và  các  gói  tạm  hay  các  gói  đã  dùng  để  cài  đặt  chương  trình  mà  bạn  không  cần  nữa  bằng  lệnh  ' sudo  apt-get  clean ' .
+ Tính  toán  các  thay  đổi  cần  thực  hiện
+ Bạn  có  muốn  bắt  đầu  nâng  cấp ?
+ Nâng  cấp  bị  huỷ  bỏ
+ Bây  giờ  việc  nâng  cấp  sẽ  bị  hủy  và  hệ  thống  sẽ  được  trả  về  trạng  thái  ban  đầu .  Sau  này  bạn  có  thể  tiếp  tục  việc  nâng  cấp .
+ Không  thể  tải  các  gói  nâng  cấp  xuống
+ Đã  huỷ  nâng  cấp .  Hãy  kiểm  tra  kết  nối  mạng  của  bạn  hay  thiết  bị  cài  đặt  và  thử  lại .  Tất  cả  tập  tin  đã  tải  đều  được  giữ  lại .
+ Lỗi  trong  quá  trình  thực  hiện
+ Khôi  phục  hệ  thống  về  trạng  thái  ban  đầu
+ Không  thể  cài  đặt  các  gói  nâng  cấp
+ Quá  trình  nâng  cấp  bị  hủy  bỏ .  Trạng  thái  của  hệ  thống  không  thể  sử  dụng  được .  Chạy  hồi  phục  ngay  ( dpkg  --configure  -a ) .
+ Xin  hãy  báo  cáo  lỗi  này  bằng  một  trình  duyệt  nào  đó  với  địa  chỉ  http : / / bugs.launchpad.net / ubuntu / + source / ubuntu-release-upgrader / + filebug  và  đính  kèm  tệp  ở  đường  dẫn  / var / log / dist-upgrade /  cho  trình  báo  cáo  lỗi .  % s
+ Quá  trình  nâng  cấp  bị  hủy  bỏ .  Xin  kiểm  tra  lại  kết  nối  Internet  hay  cài  đặt  các  phương  tiện  và  thử  lại . 
+ Xóa  các  gói  không  còn  dùng  nữa
+ _ Giữ  lại
+ _ Xóa  bỏ
+ Có  lỗi  trong  quá  trình  kết  thúc  nâng  cấp .  Vui  lòng  xem  thông  tin  bên  dưới . 
+ Các  gói  phụ  thuộc  chưa  được  cài  đặt
+ Gói  phụ  thuộc  ' % s '  chưa  được  cài  đặt . 
+ Đang  kiểm  tra  trình  quản  lý  gói
+ Quá  trình  chuẩn  bị  để  nâng  cấp  thất  bại
+ Gặp  lỗi  trong  việc  chuẩn  bị  hệ  thống  cho  việc  nâng  cấp  nên  một  tiến  trình  báo  cáo  lỗi  đang  được  bắt  đầu .
+ Quá  trình  tải  các  gói  phụ  thuộc  cần  thiết  để  nâng  cấp  thất  bại
+ Hệ  thống  không  thể  lấy  các  điều  kiện  tiên  quyết  cho  việc  nâng  cấp .  Việc  nâng  cấp  sẽ  bị  hủy  ngang  và  phục  hội  trạng  thái  hệ  thống  ban  đầu .  Ngoài  ra ,  một  tiến  trình  báo  cáo  lỗi  đang  được  bắt  đầu .
+ Cập  nhật  thông  tin  về  các  nguồn  cập  nhật
+ Không  thể  thêm  cdrom
+ Rất  tiếc ,  việc  thêm  CD / DVD  không  thành  công .
+ Thông  tin  gói  không  hợp  lệ
+ Sau  khi  cập  nhật  thông  tin  phần  mềm ,  không  thể  tìm  thấy  gói  phần  mềm  ' % s ' .  Đó  có  thể  vì  bạn  không  có  các  máy  chủ  chính  thức  trong  danh  sách  nguồn  phần  mềm ,  hoặc  bởi  vì  bạn  đang  dùng  một  máy  chủ  bị  quá  tải .  Hãy  mở  / etc / apt / sources.list  để  xem  danh  sách  các  nguồn  phần  mềm  hiện  được  thiết  lập .  Trong  trường  hợp  máy  chủ  bị  quá  tải ,  bạn  có  thể  thử  nâng  cấp  vào  lúc  khác .
+ Đang  lấy  về
+ Đang  nâng  cấp
+ Nâng  cấp  hoàn  tất
+ Việc  nâng  cấp  đã  hoàn  thành  nhưng  có  vài  lỗi  đã  xảy  ra .
+ Đang  tìm  các  phần  mềm  không  còn  dùng  nữa
+ Quá  trình  nâng  cấp  hệ  thống  đã  hoàn  thành
+ Quá  trình  nâng  cấp  từng  phần  kết  thúc .
+ Không  tìm  thấy  bản  chú  giải  phát  hành
+ Máy  chủ  có  thể  đang  quá  tải . 
+ Không  thể  tải  về  bản  chú  giải  phát  hành
+ Hãy  kiểm  tra  kết  nối  internet  của  bạn .
+ xác  thực  ' % ( file ) s '  với  ' % ( signature ) s ' 
+ giải  nén  ' % s '
+ Không  thể  chạy  công  cụ  nâng  cấp
+ Có  lẽ  đây  là  lỗi  trong  trình  nâng  cấp .  Xin  hãy  báo  cáo  lỗi  bằng  cách  sử  dụng  tác  lệnh  ' ubuntu-bug  ubuntu-release-upgrader-core ' .
+ Chữ  ký  của  công  cụ  nâng  cấp
+ Công  cụ  nâng  cấp
+ Lỗi  tải  xuống
+ Lỗi  tải  xuống  bản  nâng  cấp .  Có  thể  là  do  vấn  đề  về  mạng . 
+ Lỗi  xác  thực
+ Lỗi  xác  thực  bản  nâng  cấp .  Có  thể  có  vấn  đề  về  mạng  hoặc  với  máy  chủ . 
+ Lỗi  giải  nén
+ Lỗi  giải  nén  bản  nâng  cấp .  Có  thể  có  vấn  đề  về  mạng  hoặc  với  máy  chủ . 
+ Việc  xác  nhận  thất  bại
+ Lỗi  xác  minh  gói  nâng  cấp .  Có  thể  có  vấn  đề  về  mạng  hoặc  với  máy  chủ . 
+ Không  thể  thực  hiện  quá  trình  nâng  cấp
+ Điều  này  thường  bị  gây  ra  bởi  một  hệ  thống  có  / tmp  được  gắn  với  tuỳ  chọn  noexec .  Hãy  gắn  lại  mà  không  có  noexec  rồi  chạy  lại  nâng  cấp .
+ Thông  báo  lỗi :  ' % s '
+ Nâng  cấp
+ Ghi  chú  phát  hành
+ Đang  tải  các  gói  bổ  sung ...
+ Tập  tin  % s  /  % s ,  tốc  độ  % sB / s
+ Tập  tin  % s  /  % smediaChange  % s  % s
+ Vui  lòng  đưa  đĩa  ' % s '  vào  ổ  ' % s 'Media  Change
+ Đổi  đĩa
+ Việc  vận  hành  môi  trường  làm  việc  chính  ' unity '  không  được  phần  cứng  về  đồ  họa  của  bạn  hỗ  trợ  đầy  đủ .  Bạn  có  thể  phải  chịu  kết  cục  với  môi  trường  làm  việc  rất  chậm  sau  khi  nâng  cấp .  Lời  khuyên  của  chúng  tôi  là  vẫn  cứ  giữ  phiên  bản  Hỗ  trợ  dài  hạn  ( LTS ) .  Thông  tin  chi  tiết  xem  tại  https : / / wiki.ubuntu.com / X / Bugs / UpdateManagerWarningForUnity3D  Bạn  còn  muốn  tiếp  tục  nâng  cấp  không ?
+ Phần  cứng  đồ  họa  của  bạn  có  thể  không  được  hỗ  trợ  đầy  đủ  trong  Ubuntu  12.04  LTS .
+ Sự  hỗ  trợ  cho  phần  cứng  đồ  họa  của  bạn  rất  hạn  chế  trong  Ubuntu  12.04  LTS  và  bạn  có  thể  gặp  các  vấn  đề  sau  khi  nâng  cấp .  Hãy  xem  thêm  thông  tin  tại  https : / / wiki.ubuntu.com / X / Bugs / UpdateManagerWarningForI8xx  .  Bạn  có  muốn  tiếp  tục  nâng  cấp  không ?
+ Quá  trình  nâng  cấp  có  thể  làm  giảm  hiệu  ứng  đồ  họa ,  hiệu  năng  các  trò  chơi  và  các  chương  trình  khác  yêu  cầu  đồ  họa  cao .
+ Máy  tính  sử  dụng  trình  điều  kiển  đồ  hoạ  AMD   ' fglrx ' .  Không  có  phiên  bản  của  trình  điều  khiển  tương  đương  nào  làm  việc  với  phần  cứng  của  bạn  trong  Ubuntu  10.04  LTS  Bạn  có  muốn  tiếp  tục ?
+ Không  dùng  bộ  xử  lý  i686
+ Hệ  thống  của  bạn  sử  dụng  bộ  xử  lý  i586  hoặc  bộ  xử  lý  không  hỗ  trợ  phần  mở  rọng  ' cmov ' .  Tất  cả  các  gói  được  built  với  dẫn  tối  ưu  hóa  đều  yêu  cầu  phần  cứng  với  bộ  xử  lý  tối  thiểu  là  i686 .  Bạn  không  thể  nâng  cấp  hệ  thống  lên  đến  bản  Ubuntu  tiếp  theo  với  cấu  hình  phần  cứng  này .
+ Không  có  ARMv6  CPU
+ Hệ  thống  của  bạn  sử  dụng  một  CPU  ARM  là  kiến  trúc  cũ  hơn  ARMv6 .  Tất  cả  các  gói  trong  karmic  được  xây  dựng  với  yêu  cầu  tối  ưu  ARMv6  như  kiến  trúc  tối  thiểu .  Không  thể  để  nâng  cấp  hệ  thống  của  bạn  với  một  bản  phát  hành  Ubuntu  mới  với  phần  cứng  này .
+ Không  init  nào  có  sẵn
+ Hệ  thống  của  bạn  dường  như  là  một  môi  trường  mà  không  có  một  virtualised  init  daemon ,  ví  dụ :  Linux-VServer .  Ubuntu  10.04  LTS  không  có  chức  năng  này  trong  vòng  loại  của  môi  trường ,  đòi  hỏi  một  cập  nhật  cho  cấu  hình  máy  ảo  của  bạn  đầu  tiên .  Bạn  có  chắc  chắn  muốn  tiếp  tục  không ?
+ Sanbox  nâng  cấp  sử  dụng  aufs
+ Dùng  đường  dẫn  sau  để  tìm  các  gói  nâng  cấp  trên  CD / DVD
+ Dùng  trình  có  giao  diện  đồ  họa .  Các  trình  có  thể  dùng :   DistUpgradeViewText ,  DistUpgradeViewGtk ,  DistUpgradeViewKDE
+ * TRÁNH  SỬ  DỤNG *  tuỳ  chọn  này  sẽ  bị  bỏ  qua
+ Thực  hiện  nâng  cấp  từng  phần  ( không  ghi  lại  tệp  tin  sources.list )
+ Tắt  hỗ  trợ  màn  hình  GNU
+ Thiết  lập  datadir
+ Quá  trình  tải  cập  nhật  đã  hoàn  thành
+ Đang  tải  file  % li  /  % li  tốc  độ  % sB / s
+ Còn  khoảng  % s
+ Đang  tải  tập  tin  % li  của  % li
+ Đang  áp  dụng  các  thay  đổi
+ có  lỗi  với  các  gói  phụ  thuộc  -  bỏ  qua  không  cấu  hình
+ Việc  nâng  cấp  sẽ  tiếp  tục  nhưng  gói  ' % s '  có  thể  không  hoạt  động .  Xin  vui  lòng  gửi  một  báo  cáo  lỗi  về  việc  này .
+ Thay  thế  tập  tin  cấu  hình  đã  sửa  đổi  ' % s ' ?
+ Bạn  sẽ  mất  tất  cả  các  thay  đổi  đã  chỉnh  sửa  trong  tập  tin  cấu  hình  này  nếu  bạn  chọn  thay  thế  nó  bởi  phiên  bản  mới .
+ Không  tìm  thấy  lệnh  ' diff '
+ Gặp  lỗi  nghiêm  trọng
+ Xin  hãy  báo  cáo  lỗi  này  ( nếu  như  bạn  chưa  làm )  và  bao  gồm  các  tập  tin  / var / log / dist-upgrade / main.log  và  / var / log / dist-upgrade / apt.log  trong  bản  báo  cáo .  Quá  trình  nâng  cấp  bị  hủy  bỏ .
+ Nhắp  Ctrl-c
+ Nó  sẽ  hủy  bỏ  hành  động  này  và  rời  khỏi  hệ  thống  trong  một  trạng  thái  xấu .  Bạn  có  chắc  chắn  muốn  thực  hiện  nó .
+ Để  tránh  mất  mát  dữ  liệu ,  hãy  đóng  các  ứng  dụng  và  tài  liệu  đang  mở .
+ Không  còn  được  hỗ  trợ  bởi  Canonical  ( % s )
+   Hạ   cấp   (  %  s  ) 
+ Loại  bỏ  ( % s )
+ Không  còn  cần  thiết  ( % s )
+ Cài  đặt  ( % s )
+ Nâng  cấp  ( % s )
+ Hiện  khác  biệt   >  >  >
+ 

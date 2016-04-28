@@ -1,0 +1,5 @@
+   n \
+write_c_file - tên kết xuất là %s, tiền tố là %s
+Tuỳ chọn bắt đầu với một của -g, -f, -m, -O, -W, --paramthì được tự động gửi cho những tiến trình con khác nhau được %s gọi.Phải sử dụng tuỳ chọn -Wch\Tuá»³ chá»n báº¯t Äáº§u vá»i má»t cá»§a -g, -f, -m, -O, -W, --paramthÃ¬ ÄÆ°á»£c tá»± Äá»ng gá»­i cho nhá»¯ng tiáº¿n trÃ¬nh con khÃ¡c nhau ÄÆ°á»£c %s gá»i.Pháº£i sá»­ dá»¥ng tuá»³ chá»n -Wch\á\»\¯ Äá» gá»­i thÃªm tuá»³ chá»n cho nhá»¯ng tiáº¿n trÃ¬nh nÃ y.
+Để tìm hướng dẫn về thông báo lỗi, thăm địa chỉ:
+%s\tbiên dịch bằng GNU C phiên bản %s, 

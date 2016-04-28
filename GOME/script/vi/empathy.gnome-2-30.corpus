@@ -1,0 +1,210 @@
+ Empathy
+ Trình  trò  chuyện
+ Trình  trò  chuyện  Empathy
+ Gửi  và  nhận  tin  nhắn  nhanh
+ Hiện  liên  lạc  ngoại  tuyến
+ Bật / tắt  hiện  danh  sách  ngoại  tuyến  trong  danh  sách  liên  lạc .
+ Tiêu  chuẩn  sắp  xếp  danh  sách  liên  hệ
+ Tiêu  chuẩn  nào  cần  dùng  khi  sắp  xếp  danh  sách  liên  lạc .  Mặc  định  là  sắp  theo  " name "  ( tên ) .   Giá  trị  là  " state "  ( trạng  thái )  sắp  thứ  tự  theo  trạng  thái .
+ Hiện  ảnh  riêng
+ Bật / tắt  hiển  thị  ảnh  riêng  cho  liên  lạc  trong  danh  sách  liên  lạc  và  cửa  sổ  trò  chuyện .
+ Hiện  giao  thức
+ Bật / tắt  hiển  thị  giao  thức  trong  danh  sách  liên  lạc .
+ Co  lại  danh  sách  liên  hệ
+ Bật / tắt  danh  sách  liên  lạc  ở  chế  độ  tóm  gọn .
+ Ẩn  cửa  sổ  chính
+ Ẩn  cửa  sổ  chính .
+ Thư  mục  mặc  định  từ  đó  cần  chọn  một  ảnh  riêng
+ Thư  mục  cuối  cùng  từ  đó  đã  chọn  một  ảnh  riêng .
+ Dùng  âm  thanh  thông  báo
+ Có  nên  phát  âm  thanh  báo  khi  sự  kiện  xảy  ra ,  hay  không .
+ Tắt  âm  thanh  khi  vắng  mặt
+ Bật / tắt  phát  âm  thanh  thông  báo  khi  vắng  mặt  hoặc  bận .
+ Phát  âm  thanh  khi  mới  nhận  tin  nhắn
+ Có  nên  phát  âm  thanh  báo  khi  nhận  được  tin  nhắn ,  hay  không .
+ Phát  âm  thanh  khi  mới  gửi  tin  nhắn
+ Có  nên  phát  âm  thanh  báo  khi  gửi  tin  nhắn ,  hay  không .
+ Phát  âm  khi  cuộc  trao  đổi  bắt  đầu
+ Có  nên  phát  âm  thanh  báo  khi  nhận  được  cuộc  đối  thoại  mới ,  hay  không .
+ Phát  âm  thanh  khi  một  liên  lạc  đăng  nhập
+ Có  nên  phát  âm  thanh  báo  khi  liên  lạc  đăng  nhập  vào  mạng ,  hay  không .
+ Phát  âm  khi  liên  lạc  đăng  xuất
+ Có  nên  phát  âm  thanh  báo  khi  liên  lạc  đăng  xuất  ra  mạng ,  hay  không .
+ Phát  âm  thanh  khi  mình  đăng  nhập
+ Có  nên  phát  âm  thanh  báo  khi  đăng  nhập  vào  một  mạng ,  hay  không .
+ Phát  âm  thanh  khi  mình  đăng  xuất
+ Có  nên  phát  âm  thanh  báo  khi  đăng  xuất  ra  một  mạng ,  hay  không .
+ Tự  mở  thông  báo  về  tin  nhắn  mới
+ Có  nên  phát  âm  thanh  báo  khi  nhận  được  một  tin  nhắn  mới ,  hay  không .
+ Không  tự  mở  thông  báo  khi  vắng  mặt
+ Có  nên  phát  âm  thanh  báo  khi  vắng  mặt  hay  bận ,  hay  không .
+ Tự  mở  thông  báo  nếu  cửa  sổ  trò  chuyện  không  có  tiêu  điểm
+ Có  nên  hiển  thị  hay  không  một  thông  báo  tự  mở  khi  nhận  một  tin  nhắn  mới ,  ngay  cả  nếu  cửa  sổ  trò  chuyện  đã  mở  nhưng  không  có  tiêu  điểm .
+ Thông  báo  khi  bạn  bè  đăng  nhập
+ Bật  tắt  thông  báo  khi  một  liên  lạc  trực  tuyến .
+ Thông  báo  khi  bạn  bè  đăng  xuất
+ Bật / tắt  thông  báo  khi  một  liên  lạc  ngoại  tuyén .
+ Mở  mỗi  cuộc  trò  chuyện  mới  trong  cửa  sổ  riêng
+ Luôn  mở  một  cửa  sổ  riêng  cho  mỗi  cuộc  trò  chuyện  mới .
+ Dùng  biểu  tượng  xúc  cảm
+ Bật / tắt  chuyển  đổi  ký  tự  miêu  tả  mặt  cười  thành  biểu  tượng  xúc  cảm  trong  đối  thoại .
+ Hiện  danh  sách  liên  lạc  trong  phòng
+ Bật / tắt  hiển  thị  danh  sách  liên  lạc  trong  phòng  tán  gẫu .
+ Sắc  thái  cửa  sổ  trò  chuyện
+ Sắc  thái  được  dùng  để  hiển  thị  cuộc  đối  thoại  trong  cửa  sổ  trò  chuyện .
+ Đường  dẫn  đến  sắc  thái  Adium  cần  dùng
+ Đường  dẫn  đến  sắc  thái  Adium  cần  dùng  nếu  dùng  sắc  thái  Adium .
+ Bật  bộ  công  cụ  phát  triển  WebKit
+ Bật / tắt  bộ  công  cụ  phát  triển  WebKit ,  như  trình  kiểm  tra  Web .
+ Dùng  sắc  thái  cho  phòng  trò  chuyện
+ Bật / tắt  dùng  sắc  thái  cho  phòng  trò  chuyện .
+ Ngôn  ngữ  kiểm  tra  chính  tả
+ Danh  sách  định  giới  bằng  dấu  phẩy  các  ngôn  ngữ  kiểm  tra  chính  tả  cần  dùng  ( v.d.  en ,  fr ,  ja ,  vi ) .
+ Bật  kiểm  tra  chính  tả
+ Bật / tắt  kiểm  tra  đoạn  gõ  so  với  những  ngôn  ngữ  đã  chọn  hay  không .
+ Ký  tự  điền  nốt  tên  hiệu
+ Ký  tự  cần  thêm  vào  đẳng  sau  tên  hiệu  khi  sử  dụng  chức  năng  ( thẻ )  điền  nốt  tên  hiệu  trong  nhóm  trò  chuyện .
+ Empathy  nên  dùng  ảnh  riêng  của  liên  lạc  làm  biểu  tượng  cửa  sổ  trò  chuyện
+ Dùng  ảnh  riêng  cho  liên  lạc  làm  biểu  tượng  cửa  sổ  trò  chuyện .
+ Gợi  ý  về  đóng  cửa  sổ  chính
+ Bật / tắt  hiển  thị  hộp  thoại  thông  điệp  về  việc  đóng  cửa  sổ  chính  bằng  cái  nút  «  x  »  trên  thanh  tựa  đề  hay  không .
+ Đã  nhập  tài  khoản  MC  4
+ Đã  nhập  tài  khoản  MC  4 .
+ Nên  dùng  trình  quản  lý  mạng
+ Bật / tắt  sử  dụng  trình  quản  lý  kết  nối  để  tự  động  ngắt / tái  kết  nối .
+ Trình  Empathy  nên  tự  động  kết  nối  khi  khởi  chạy
+ Empathy  có  nên  tự  động  đăng  nhập  vào  các  tài  khoản  của  bạn  vào  lúc  khởi  chạy ,  hay  không .
+ Empathy  đã  hỏi  về  nhập  tài  khoản
+ Empathy  đã  hỏi  chưa  về  chức  năng  nhập  tài  khoản  từ  chương  trình  khác .
+ Thư  mục  tải  về  mặc  định  Empathy
+ Thư  mục  mặc  định  vào  đó  cần  lưu  tập  tin  được  truyền  đến .
+ Empathy  được  phép  công  bố  vị  trí  người  dùng
+ Bật / tắt  công  bố  vị  trí  người  dùng  với  những  liên  lạc .
+ Empathy  được  phép  dùng  mạng  để  đoán  vị  trí
+ Bật / tắt  cho  phép  Empathy  dùng  mạng  để  đoán  vị  trí .
+ Empathy  được  phép  dùng  mạng  di  động  để  đoán  vị  trí
+ Bật / tắt  cho  phép  Empathy  dùng  mạng  di  động  để  đoán  vị  trí .
+ Empathy  được  phép  dùng  GPS  để  đoán  vị  trí
+ Bật / tắt  cho  phép  Empathy  dùng  GPS  để  đoán  vị  trí .
+ Empathy  nên  giảm  độ  chính  xác  vị  trí  địa  lý
+ Bật / tắt  buộc  Empathy  giảm  độ  chính  xác  vị  trí  vì  lý  do  riêng  tư .
+ Số  nhận  dạng  của  tập  tin  nhận  được  và  tập  tin  được  gửi  đi  không  khớp
+ Đầu  liên  lạc  bên  kia  không  hỗ  trợ  truyền  tập  tin
+ Tập  tin  được  chọn  không  phải  tập  tin  bình  thường
+ Tập  tin  được  chọn  là  tập  tin  rỗng
+ Người  gần
+ Kiểu  socket  không  hỗ  trợ
+ Không  cung  cấp  lý  do
+ Thay  đổi  về  tình  trạng  đã  được  yêu  cầu
+ Bạn  đã  thôi  tiến  trình  truyền  tập  tin
+ Người  dự  khác  đã  thôi  tiến  trình  truyền  tập  tin
+ Gặp  lỗi  trong  khi  thử  truyền  tập  tin  đó
+ Người  dự  khác  không  thể  truyền  tập  tin  đó
+ Lỗi  không  rõ
+ Có  mặt
+ Bận
+ Vắng  mặt
+ Mời
+ Ngoại  tuyến
+ % s  ngoại  tuyến .
+ Lỗi  mạng
+ Lỗi  xác  thực
+ Lỗi  mật  mã
+ Tên  đang  được  dùng
+ Chứng  nhận  không  được  cung  cấp
+ Chứng  nhận  không  đáng  tin
+ Chứng  nhận  đã  hết  hạn  dùng
+ Chứng  nhận  không  được  kích  hoạt
+ Tên  máy  của  chứng  nhận  không  tương  ứng
+ Vân  tay  của  chứng  nhận  không  tương  ứng
+ Chứng  nhận  tự  ký
+ Lỗi  chứng  nhận
+ Người  chung  quanh
+ Yahoo !  Nhật  Bản
+ Tán  gẫu  Facebook
+ trong  tương  lai
+ Tất  cả
+ % s :
+ Tên  người  _ dùng :
+ Tài  khoản :
+ Đã  bật
+ Tạo  tài  khoản  mới  trên  máy  chủMyUserName  on  chat.freenode.net
+ % 1 $ s  trên  % 2 $ sJabber  Account
+ Tài  khoản  % s
+ Tài  khoản  mới
+ Mật  khẩ _ u :
+ Tê _ n  hiển  thị :
+      Ví    dụ   :     TênHiểnThị 
+ _ Cổng :
+ _ Máy  phục  vụ :
+ Cao  cấp
+ Tên  hiển  thị  AIM  của  bạn  là  gì ?
+ Mật  khẩu  AIM  của  bạn  là  gì ?
+ I _ D  đăng  nhập :
+      Ví    dụ   :     tênngườidùng 
+ ID  GroupWise  của  bạn  là  gì ?
+ Mật  khẩu  GroupWise  của  bạn  là  gì ?
+ ICQ  _ UIN :
+      Ví    dụ   :     123456789 
+ _ Bảng  mã :
+ UIN  ICQ  của  bạn  là  gì ?
+ Mật  khẩu  ICQ  của  bạn  là  gì ?
+ Mạng  mới
+ Đăng  ký
+ Mạng
+ Mạng :
+ Bảng  mã :
+ Máy  phục  vụ
+ Thông  điệp  thoát :
+ Mật  khẩu :
+ Tên  thật :
+ Biệt  hiệu :
+      Ví    dụ   :     user  @  jabber.org 
+      Ví    dụ   :     user  @  gmail.com 
+ _ Bỏ  qua  lỗi  chứng  nhận  SSL
+ Ư _ u  tiên :
+ Tài  ngu _ yên :
+ Yêu  cầu  _ mật  mã  ( TLS / SSL )
+ Dùng  SS _ L  cũ
+ Đè  thiết  lập  máy  chủ
+ ID  Jabber  của  bạn  là  gì ?
+ ID  Jabber  bạn  mong  muốn  là  gì ?
+ Mật  khẩu  Jabber  của  bạn  là  gì ?
+ Mật  khẩu  Jabber  mong  muốn  của  bạn  là  gì ?
+ ID  Google  của  bạn  là  gì ?
+ Mật  khẩu  Google  của  bạn  là  gì ?
+ Tên  người  dùng  Windows  Live  của  bạn  là  gì ?
+ Mật  khẩu  Yahoo !  của  bạn  là  gì ?
+      Ví    dụ   :     user  @  hotmail.com 
+ Mật  khẩu  Windows  Live  của  bạn  là  gì ?
+ Tê _ n  hiệu :
+ _ Họ :
+ _ Tên :
+ Tên  công  _ bố :
+ ID  _ Jabber :
+ Đị _ a  chỉ  thư :
+      Ví    dụ   :     user  @  my.sip.server 
+ Máy  chủ  STUN :
+ Phát  hiện  gắn  kết
+ Máy  phục  vụ :
+ Tên  người  dùng  để  xác  thực :
+ Phương  tiện :
+ Cổng :
+ ID  đăng  nhập  SIP  của  bạn  là  gì ?
+ Mật  khẩu  SIP  của  bạn  là  gì ?
+ I _ D  Yahoo :
+ Lời  đ _ i  các  lời  mời  vào  hội  thảo  hay  phòng  trò  chuyện
+ _ Miền  địa  phương  danh  sách  phòng :
+ Dùng  _ Yahoo  Nhật  bản
+ Yahoo !  ID  của  bạn  là  gì ?
+ Không  thể  chuyển  đổi  ảnh
+ Không  có  định  dạng  ảnh  đã  chấp  nhận  mà  được  hỗ  trợ  trên  hệ  thống  này
+ Chọn  ảnh  riêng
+ Không  ảnh
+ Ảnh
+ Mọi  tập  tin
+ Nhấn  để  phóng  to
+ Lỗi  tái  kết  nối  cuộc  trò  chuyện  này
+ Lỗi  tham  gia  phòng  trò  chuyện
+ Lỗi  mở  trò  chuyện  riêng  tư
+ Thông điệp: %s

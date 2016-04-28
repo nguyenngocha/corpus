@@ -1,0 +1,16 @@
+ không  thể  gắn  kết
+ % s  đã  hoàn  tất
+ Tất  cả  hệ  thống  tập  tin  đã  được  gắn  kết
+ % s  đã  hoàn  tất ! 
+ đang  gắn  lại  % s
+ đang  gắn  kết  % s
+ Hệ  thống  tập  tin  không  thể  được  gắn  kết :  % s
+ đang  kích  hoạt  % s
+ Có  vấn  đề  khi  kích  hoạt  vùng  nhớ  trao  đổi :  % s
+ đang  kiểm  tra  % s
+ Cần  phải  khởi  động  lại  hệ  thống :  % s
+ Hệ  thống  tập  tin  gặp  lỗi :  % s
+ Thôi  kiểm  tra  hệ  thống  tập  tin :  % s
+ Đã  kết  nối  đến  Plymouth
+ Đã  ngắt  kết  nối  từ  Plymouth
+ Không  gắn  kết  % s  khi  Plymouth  chưa  sẵn  sàng

@@ -1,0 +1,35 @@
+ Chưa  biết
+ Chưa  xác  định
+ không  thể  lấy  các  tài  nguyên  màn  hình  ( CRTC ,  ngõ  ra ,  chế  độ )
+ gặp  lỗi  X  ( không  thể  xử  lý )  trong  khi  lấy  phạm  vi  kích  cỡ  màn  hình
+ không  thể  lấy  phạm  vi  kích  cỡ  màn  hình
+ không  có  phần  mở  rộng  RANDR
+ không  thể  lấy  thông  tin  về  kết  xuất  % d
+ Màn  hình  % s
+ Màn  hình  lạposition " ,  " size " ,  and  " maximum
+ vị  trí / kích  cỡ  yêu  cầu  cho  CRTC  % d  nằm  ở  ngoại  giới  hạn  được  phép :  vị  trí = ( % d ,  % d ) ,  kích  cỡ = ( % d ,  % d ) ,  tối  đa = ( % d ,  % d )
+ không  thể  đặt  cấu  hình  cho  CRTC  % d
+ không  thể  lấy  thông  tin  về  CRTC  % d
+ trong  số  các  cấu  hình  hiển  thị  đã  lưu ,  không  có  cái  nào  khớp  với  cấu  hình  đang  bật
+ CRTC  % d  không  thể  xuất  ra  % s
+ Đầu  ra  % s  không  hỗ  trợ  chế  độ  % dx % d @ % dHz
+ CRTC  % d  không  hỗ  trợ  quay = % s
+ đầu  ra  % s  không  chứa  đúng  thông  số  như  đầu  ra  khác  đã  được  nhân  tính :  chế  độ  cũ  =  % d ,  chế  độ  mới  =  % d  tọa  độ  cũ  =  ( % d ,  % d ) ,  tọa  độ  mới  =  ( % d ,  % d )  hướng  quay  cũ  =  % s ,  hướng  quay  mới  =  % s
+ không  thể  sao  đầu  ra  % s
+ Thử  chế  độ  cho  CRTC  % d
+ CRTC  % d :  Thử  chế  độ  % dx % d @ % dHz  với  đầu  ra  % dx % d @ % dHz  ( bước  % d )
+ không  thể  chỉ  định  CRTC  với  đầu  ra :  % s
+ các  chế  độ  đã  chọn  không  tương  thích  với  mọi  chế  độ  có  thể  chọn :  % srequested " ,  " minimummaximum
+ kích  cỡ  ảo  cần  thiết  không  phải  tương  ứng  với  kích  cỡ  sẵn  sàng :  yêu  cầu = ( % d ,  % d ) ,  tối  thiểu = ( % d ,  % d ) ,  tối  đa = ( % d ,  % d )
+ % a  % R ∶ % S ,  % e  % b
+ % a  % R ,  % e  % b
+ % a  % R ∶ % S
+ % a  % R
+ % R ∶ % S
+ % R
+ % a  % e  % b ,  % l ∶ % M ∶ % S  % p
+ % a  % e  % b ,  % l ∶ % M  % p
+ % a  % l ∶ % M ∶ % S  % p
+ % a  % l : % M  % p
+ % l ∶ % M ∶ % S  % p
+ % l ∶ % M  % p

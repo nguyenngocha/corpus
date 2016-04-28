@@ -1,0 +1,857 @@
+ Không  thể  mở  sổ  địa  chỉ  này .
+ Không  thể  tiếp  cận  máy  phục  vụ  sổ  địa  chỉ  này ,  hoặc  tên  máy  phục  vụ  đã  gõ  sai ,  hoặc  bị  ngắt  kết  nối .
+ Việc  xác  thực  với  máy  phục  vụ  LDAP  bị  lỗi .
+ Hãy  kiểm  tra  để  bảo  đảm  mật  khẩu  của  bạn  được  gõ  chính  xác  và  bạn  sử  dụng  phương  thức  đăng  nhập  được  hỗ  trợ .  Lưu  ý  rằng  nhiều  mật  khẩu  phân  biệt  chữ  hoa ,  chữ  thường ;  và  hãy  chắc  đã  tắt  phím  Caps  Lock  của  bạn .
+ Máy  phục  vụ  sổ  địa  chỉ  này  không  đề  xuất  cơ  sở  tìm  kiếm  nào .
+ Máy  phục  vụ  LDAP  này  có  lẽ  dùng  phiên  bản  LDAP  cũ  mà  không  hỗ  trợ  tính  năng  này  hoặc  bị  cấu  hình  sai .  Hãy  hỏi  quản  trị  hệ  thống  về  những  cơ  sở  tìm  kiếm  được  hỗ  trợ .
+ Máy  phục  vụ  này  không  hỗ  trợ  thông  tin  giản  đồ  LDAPv3 .
+ Không  thể  lấy  thông  tin  giản  đồ  cho  máy  phục  vụ  LDAP .
+ Máy  phục  vụ  LDAP  không  trả  lời  với  thông  tin  giản  đồ  hợp  lệ .
+ Không  thể  gỡ  bỏ  sổ  địa  chỉ .
+ Xoá  sổ  địa  chỉ  «  { 0 }  »  không ?
+ Sổ  địa  chỉ  này  sẽ  bị  gỡ  bỏ  hoàn  toàn .
+ Không  có  bộ  sửa  phân  loại.The  backend  for  this  address  book  was  unable  to  parse  this  query .
+ { 0 } E _ BOOK _ ERROR _ NO _ SELF _ CONTACT
+ Không  thể  mở  sổ  địa  chỉ
+ Không  thể  trực  hiện  tìm  kiếm .
+ Bạn  có  muốn  lưu  các  thay  đổi  chứ ?
+ Bạn  đã  chỉnh  sửa  liên  lạc  này ,  thì  có  muốn  lưu  các  thay  đổi  lại  chứ ?
+ _ Hủy
+ Không  thể  di  chuyển  liên  lạc .
+ Bạn  đang  thử  di  chuyển  một  liên  lạc  từ  sổ  địa  chỉ  này  sang  sổ  địa  chỉ  khác  nhưng  mà  không  thể  gỡ  bỏ  nó  khỏi  nguồn .  Bạn  có  muốn  lưu  một  bản  sao  để  thay  thế  không ?
+ Có  ảnh  lớn .  Bạn  có  muốn  thay  đổi  kích  cỡ  nó ,  và  cất  giữ  nó  không ?
+ Đổ _ i  cỡ
+ _ Dùng  như  thế
+ _ Không  lưu
+ Không  thể  lưu  «  { 0 }  » .
+ Gặp  lỗi  khi  lưu  { 0 }  vào  { 1 } :  { 2 }
+ Sổ  địa  chỉ  Evolution  đã  thoát  bất  thường .
+ Các  liên  lạc  của  bạn  cho  «  { 0 }  »  không  thể  sử  dụng  cho  tới  khi  khởi  chạy  lại  Evolution .
+ Địa  chỉ  ' { 0 } '  đã  có .
+ Đã  có  liên  lạc  với  địa  chỉ  này .  Bạn  vẫn  muốn  thêm  một  thẻ  mới  với  cùng  địa  chỉ  chứ ?
+ _ Thêm
+ Có  lẽ  một  số  tính  năng  sẽ  không  hoạt  động  với  máy  phục  vụ  hiện  thời  của  bạn .
+ Bạn  đang  kết  nối  đến  một  máy  phục  vụ  Groupwise  không  được  hỗ  trợ  thì  có  lẽ  sẽ  gặp  khó  khăn  sử  dụng  trình  Evolution .  Để  được  kết  quả  tốt  nhất ,  bạn  nên  nâng  cấp  máy  phục  vụ  lên  một  phiên  bản  được  hỗ  trợ .
+ Tạo  Sổ  địa  chỉ  GroupWise :
+ Hiện  thời  bạn  có  thể  truy  cập  chỉ  Sổ  Địa  Chỉ  Hệ  Thống  GroupWise  từ  Evolution .  Hãy  chạy  một  lần  một  ứng  dụng  khách  thư  GroupWise  khác ,  để  lấy  các  thư  mục  GroupWise  Frequent  Contacts  ( liên  lạc  thường  gặp )  và  GroupWise  Personal  Contacts  ( liên  lạc  cá  nhân ) .
+ Lỗi  xoá  liên  lạc
+ Bạn  không  có  đù  quyền  để  xoá  liên  lạc  khỏi  sổ  địa  chỉ  này .
+ Không  thể  thêm  liên  lạc  mới
+ «  { 0 }  »  là  một  sổ  địa  chỉ  chỉ-đọc  nên  không  sửa  đổi  được .  Hãy  chọn  một  sổ  địa  chỉ  khác  trong  khung  lề  của  ô  Xem  Liên  Lạc .
+ Địa  chỉ  đồng  bộ  mặc  định :
+ Không  thể  nạp  sổ  địa  chỉ
+ Không  thể  đọc  khối  ứng  dụng  Địa  chỉ  của  pilot
+ Bộ  sửa  liên  lạc
+ Tên  _ hiệu :
+ _ Lưu  dưới :
+ _ Nơi :
+ _ Loại ..
+ Họ  tê _ n ...
+ Muốn  nhận  thư  kiểu  _ HTML
+ Thư  điện  tử
+ Điện  thoại
+   Tin   nhắn 
+ Liên  lạc
+ Trang  _ chủ :
+ _ Lịch :
+ _ Rảnh / Bận :
+ Trò  chu _ yện  ảnh  động :
+ _ Nhật  ký  Web :
+   Địa   chỉ   Web 
+ _ Nghề  nghiệp :
+ _ Tựa :
+ _ Công  ty :
+ _ Cơ  quan :
+ _ Quản  lý :
+ _ Phụ  tá :
+ _ Văn  phòng :
+ _ Vợ  chồng :
+ Ngày  _ sinh :
+ _ Kỷ  niệm :
+ Kỷ  niệm
+ Ngày  sinh
+ Linh  tinh
+ Thông  tin  cá  nhân
+ _ Phố :
+ Mã  _ bưu  điện :
+ _ Tỉnh / Bang :
+ _ Quốc  gia :
+ Hộ _ p  bưu  điện :
+ Đị _ a  chỉ :
+ Nhà
+ Chỗ  làm
+ Khác
+ Địa  chỉ  thư  tín
+ Ghi  chú
+ Tên
+ Có  thể  sửa
+ AIM
+ Jabber
+ Yahoo
+ Gadu-Gadu
+ MSN
+ ICQ
+ GroupWise
+ Skype
+ Gặp  lỗi  khi  thêm  liên  lạc
+ Gặp  lỗi  khi  sửa  đổi  liên  lạc
+ Gặp  lỗi  khi  gỡ  bỏ  liên  lạc
+ Sổ  nguồn
+ Sổ  đích
+ Là  Liên  lạc  mới
+ Trường  ghi  được
+ Trường  cần  thiết
+ Đã  đổi
+ Bộ  sửa  liên  lạc  —  % s
+ Hãy  chọn  ảnh  cho  liên  lạc  này
+ Khô _ ng  có  ảnh
+ Dữ  liệu  liên  lạc  không  hợp  lệ :
+ «  % s  »  có  định  dạng  không  hợp  lệ
+ % s «  % s  »  có  định  dạng  không  hợp  lệ
+ % s «  % s  »  là  rỗng
+ Liên  lạc  không  hợp  lệ .
+ Thêm  nhanh  liên  lạc
+ _ Sửa  đầy
+ _ Họ  tên
+ _ Thư
+ Chọn  _ Sổ  địa  chỉ
+ Ông
+ Bà
+ Cô / Bà
+ Cô
+ TS .
+ Con.
+ I
+ II
+ III
+ Esq .
+ Tên  đầy  đủ
+ Tê _ n :
+ Tên  _ lót :
+ _ Họ :
+ _ Hậu  tố :
+ Bộ  sửa  danh  sách  liên  lạc
+ Tên  _ danh  sách :
+ Thành  _ viên
+ Nhập  địa  chỉ  _ thư  hoặc  kéo  liên  lạc  vào  danh  sách  dưới  đây :
+ Ẩn  các  địa  c _ hỉ  khi  gửi  thư  tới  danh  sách  này
+ _ Chọn ...
+ Thành  viên  danh  sách
+ Gặp  lỗi  khi  thêm  danh  sách
+ Gặp  lỗi  khi  sửa  đổi  danh  sách
+ Gặp  lỗi  khi  gỡ  bỏ  danh  sách
+ Là  danh  sách  mới
+ Phát  hiện  liên  lạc  trùng
+ Tên  hay  địa  chỉ  thư  điện  tử  của  liên  lạc  này  đã  tồn  tại  trong  thư  mục  này .  Bạn  vẫn  còn  muốn  thêm  nó  không ?
+ Liên  lạc  xung  đột :
+ Liên  lạc  đã  đổi :
+ T _ rộn
+ Đã  có  tên  hoặc  địa  chỉ  thư  điện  từ  của  liên  lạc  này  trong  thư  mục  này .  Bạn  vẫn  muốn  thêm  nữa  chứ ?
+ Liên  lạc  gốc :
+ Liên  lạc  mới :
+ Trộn  liên  lạc
+ Tên  chứa
+ Địa  chỉ  thư  bắt  đầu  bằng
+ Trường  nào  chứa
+ Không  có  liên  lạc
+ Gập  lỗi  khi  gọi  ô  xem  sổ
+ Truy  vấn
+ Bộ  lọc  tìm  kiếm
+ Mô  hình
+ Gặp  lỗi  khi  sửa  đổi  thẻ
+ Dán  các  tác  vụ  từ  bảng  nháp
+ Xoá  các  liên  lạc  đã  chọn
+ Chọn  mọi  liên  lạc
+ Chọn  ô  xem :  % s
+ Nguồn
+ Bạn  có  chắc  muốn  xoá  những  danh  sách  liên  lạc  này  không ?
+ Bạn  có  chắc  muốn  xoá  danh  sách  liên  lạc  ( % s )  không ?
+ Bạn  có  chắc  muốn  xoá  những  liên  lạc  này  không ?
+ Bạn  có  chắc  muốn  xoá  liên  lạc  ( % s )  không ?
+ Việc  mở  % d  liên  lạc  sẽ  mở  % d  cửa  sổ  mới  cùng  lúc .  Bạn  có  thật  sự  muốn  hiển  thị  các  liên  lạc  này  không ?
+ Đừ _ ng  hiện
+ Hiện  _ mọi  liên  lạc
+ Tập  tin  dạng
+ Tên  hay  gọi
+ Họ
+ Tên  hiệu
+ Thư  điện  từ  2
+ Thư  điện  từ  3
+ Điện  thoại  phụ  tá
+ Điện  thoại  kinh  doanh
+ Điện  thoại  kinh  doanh  2
+ Điện  thư  Kinh  doanh
+ Số  gọi  lại
+ Điện  thoại  xe
+ Điện  thoại  công  ty
+ Điện  thoại  ở  nhà
+ Điện  thoại  ở  nhà  2
+ Điện  thư  ở  Nhà
+ Điện  thoại  ISDN
+ Điện  thoại  di  động
+ Điện  thoại  khác
+ Điện  thư  khác
+ Máy  nhắn  tin
+ Điện  thoại  chính
+ Rađiô
+ Telexteletype
+ TTYTDD
+ Công  ty
+ Đơn  vị
+ Văn  phòng
+ Tựa
+ Vai  trò
+ Quản  lý
+ Phụ  tá
+ Chỗ  Web
+ Nhật  ký
+ Loại
+ Vợ / Chồng
+ Rộng
+ Cao
+ Có  tiêu  điểm
+ Trường
+ Tên  trường
+ Mô  hình  chữ
+ Đang  tìm  kiếm  các  Liên  lạc ...
+ Tìm  kiếm  liên  lạc ,  hay  nhấp  đúp  vào  đây  để  tạo  liên  lạc  mới .
+ Không  có  mục  nào  để  xem  trong  khung  nhìn  này .  Nhấp  đúp  vào  đây  để  tạo  liên  lạc  mới .
+ Tìm  kiếm  liên  lạc .
+ Không  có  mục  nào  để  xem  trong  khung  nhìn  này .
+ Bộ  tiếp  hợp
+ Địa  chỉ  thư  ở  chỗ  làm
+ Địa  chỉ  thư  ở  nhà
+ Địa  chỉ  thư  khác
+ Đã  chọn
+ sổ  địa  chỉ  Evolution
+ Liên  lạc  mới
+ Danh  sách  liên  lạc  mới
+ Mở
+ Danh  sách  liên  lạc : 
+ Liên  lạc : 
+ thẻ  tí  tị  evolution
+ Chép  địa  chỉ  _ thư
+ Chép  các  thư  đã  chọn  vào  bảng  nháp
+ _ Gửi  thư  mới  cho ...
+ Gửi  thư  cho  hộp  thư  chung  không ?
+ ( bản  đồ )
+ bản  đồ
+ Phòng  ban
+ Nghề  nghiệp
+ Vị  trí
+ Trò  chuyện  ảnh  động
+ Lịch
+ Rảnh / Bận
+ Điện  thư
+ Địa  chỉ
+ Trang  chủ
+ Nhật  ký  Web
+ Cá  nhân
+ Tên  nghề
+ Nhấn  để  gửi  thư  cho  % s
+ Thành  công
+ Không  có  Sổ  địa  chỉ  này
+ Chưa  định  nghĩa  Tự  liên  lạc
+ Không  đủ  quyền  truy  cập
+ Không  tìm  thấy  liên  lạc
+ ID  Liên  lạc  đã  có
+ Bị  thôi
+ Không  thể  thôi
+ Việc  xác  thực  bị  lỗi
+ Cần  thiết  xác  thực
+ Không  có  TLS
+ Không  thể  dùng  trong  chế  độ  ngoại  tuyến
+ Lỗi  khác
+ Phiên  bản  máy  phục  vụ  không  hợp  lệ
+ Phương  pháp  xác  thực  không  được  hỗ  trợ
+ Sổ  địa  chỉ  này  không  mở  được .  Có  nghĩa  là  sổ  này  hoặc  không  đánh  dấu  để  sử  dụng  ngoại  tuyến ,  hoặc  chưa  được  tải  về  để  sử  dụng  ngoại  tuyến .  Hãy  nạp  sổ  địa  chỉ  này  một  lần  trong  chế  độ  trực  tuyến  để  tải  về  nội  dung  của  nó .
+ Sổ  địa  chỉ  này  không  mở  được .  Hãy  kiểm  tra  đường  dẫn  % s  vẫn  còn  tồn  tại  và  đặt  quyền  hạn  cho  phép  truy  cập .
+ Phiên  bản  Evolution  này  không  có  hỗ  trợ  LDAP  được  biên  dịch  vào .  Để  sử  dụng  LDAP  trong  Evolution ,  một  gói  Evolution  hiệu  lực  LDAP  phải  được  cài  đặt .
+ Sổ  địa  chỉ  này  không  mở  được .  Có  nghĩa  là  hoặc  địa  chỉ  URI  bị  gõ  sai ,  hoặc  không  thể  tiếp  cận  máy  phục  vụ .
+ Thông  điệp  lỗi  chi  tiết :
+ Nhiều  thẻ  tương  ứng  với  truy  vấn  này  hơn  khả  năng  trả  lại  của  cấu  hình  máy  phục  vụ  hay  khả  năng  hiển  thị  của  cấu  hình  Evolution .  Hãy  tạo  một  việc  tìm  kiếm  chính  xác  hơn ,  hoặc  tăng  giới  hạn  kết  quả  trong  các  tùy  chọn  phục  vụ  sổ  ghi  người  dùng  đối  với  sổ  địa  chỉ  này .
+ Thời  gian  thực  hiện  truy  vấn  này  vượt  quá  giới  hạn  máy  phục  vụ  hay  giới  hạn  được  cấu  hình  cho  sổ  địa  chỉ  này .  Hãy  tạo  một  việc  tìm  kiếm  chính  xác  hơn ,  hoặc  tăng  giới  hạn  thời  gian  trong  các  tùy  chọn  phục  vụ  sổ  ghi  người  dùng  đối  với  sổ  địa  chỉ  này .
+ Hậu  phương  cho  sổ  địa  chỉ  này  không  thể  phân  tích  cú  pháp  của  truy  vấn  này .
+ Hậu  phương  cho  sổ  địa  chỉ  này  đã  từ  chối  thực  hiện  truy  vấn  này .
+ Truy  vấn  không  hoàn  tất .
+ card.vcf
+ Chọn  Sổ  địa  chỉ
+ danh  sách
+ Chuyển  liên  lạc  sang
+ Chép  liên  lạc  sang
+ Chuyển  các  liên  lạc  sang
+ Chép  các  liên  lạc  sang
+ Xem  thẻ
+ Đang  nhập ...
+ CSV  hay  Tab  kiểu  Outlook  ( .csv ,  .tab )
+ Bộ  nhập  CSV  vả  Tab  Outlook
+ CSV  hay  Tab  kiểu  Mozilla  ( .csv ,  .tab )
+ Bộ  Nhập  CSV  và  Tab  Mozilla
+ CSV  hay  Tab  kiểu  Evolution  ( .csv ,  .tab )
+ Bộ  nhập  CSV  vả  Tab  Evolution
+ Định  dạng  chuyển  đổi  lẫn  nhau  dữ  liệu  LDAP  ( .ldif )
+ Bộ  nhập  LDIF  Evolution
+ vCard  ( .vcf ,  .gcrd )
+ Bộ  nhập  vCard  Evolution
+ Không  thể  mở  tập  tin
+ Không  thể  lấy  danh  sách  các  sổ  địa  chỉ
+ việc  mở  sổ  bị  lỗi
+ Ghi  rõ  tập  tin  xuất  thay  vào  thiết  bị  xuất  chuẩn
+ TẬP _ TIN _ XUẤT
+ Liệt  kê  các  thư  mục  sổ  địa  chỉ  cục  bộ
+ Hiển  thị  mọi  thẻ  kiểu  tập  tin  vCard  ( thẻ  ảo )  hoặc  .csv  ( định  giới  bằng  dấu  phẩy )
+ [ vcard | csv ]
+ Xuất  theo  chế  độ  không  đồng  bộ
+ Số  thẻ  trong  một  tập  tin  kết  xuất  riêng  lẻ  ở  chế  độ  không  đồng  bộ :  kích  cỡ  mặc  định  là  100 .
+ SỐ
+ Lỗi  đối  số  dòng  lệnh ,  hãy  dùng  tùy  chọn  «  --help  »  ( trợ  giúp )  để  xem  cách  sử  dụng  đúng .
+ Chỉ  hỗ  trợ  định  dạng  .csv  hoặc  vCard  ( thẻ  ảo ) .
+ Trong  chế  độ  không  đồng  bộ ,  kết  xuất  phải  là  tập  tin .
+ Trong  chế  độ  thường ,  không  cần  tùy  chọn  về  kích  thước .
+ Lỗi  không  được  quản  lý
+ Truy  cập  vô  danh  tới  máy  phục  vụ  LDAP
+ Việc  xác  thực  bị  lỗi .
+ Hãy  gõ  mật  khẩu  cho  % s  ( người  dùng  % s )
+ Gõ  mật  khẩu
+ Bạn  có  muốn  gửi  cho  mọi  người  dự  một  thông  báo  hủy  bỏ  không ?
+ Nếu  bạn  không  gửi  thông  báo  hủy  bỏ ,  những  người  dự  khác  có  thể  sẽ  không  biết  cuộc  họp  đã  được  hủy  bỏ .
+ Đừ _ ng  gửi
+ _ Gửi  thông  báo
+ Bạn  có  chắc  muốn  xoá  cuộc  họp  này  không ?
+ Mọi  thông  tin  của  cuộc  họp  này  sẽ  bị  xoá  hoàn  toàn .
+ Nếu  bạn  không  gửi  thông  báo  hủy  bỏ ,  những  người  dự  khác  có  thể  sẽ  không  biết  tác  vụ  đã  được  xoá .
+ Bạn  có  chắc  muốn  xoá  tác  vụ  này  không ?
+ Mọi  thông  tin  của  tác  vụ  này  sẽ  bị  xoá  hoàn  toàn .
+ Bạn  có  muốn  gửi  thông  báo  hủy  bỏ  về  bản  ghi  nhớ  này  không ?
+ Nếu  bạn  không  gửi  thông  báo  hủy  bỏ ,  những  người  dự  khác  có  thể  sẽ  không  biết  bản  ghi  nhớ  đã  được  xoá .
+ Bạn  có  chắc  muốn  xoá  bản  ghi  nhớ  này  không ?
+ Mọi  thông  tin  của  bản  ghi  nhớ  này  sẽ  bị  xoá  hoàn  toàn .
+ Bạn  có  chắc  muốn  xoá  cuộc  hẹn  tên  «  { 0 }  »  không ?
+ Mọi  thông  tin  của  cuộc  hẹn  này  sẽ  bị  xoá  hoàn  toàn .
+ Bạn  có  chắc  muốn  xoá  cuộc  hẹn  này  không ?
+ Bạn  có  chắc  muốn  xoá  tác  vụ  «  { 0 }  »  không ?
+ Bạn  có  chắc  muốn  xoá  bản  ghi  nhớ  «  { 0 }  »  không ?
+ Bạn  có  chắc  muốn  xoá  các  { 0 }  cuộc  hẹn  này  không ?
+ Mọi  thông  tin  của  những  cuộc  hẹn  này  sẽ  bị  xoá  hoàn  toàn .
+ Bạn  có  chắc  muốn  xoá  các  { 0 }  tác  vụ  này  không ?
+ Mọi  thông  tin  của  những  tác  vụ  này  sẽ  bị  xoá  hoàn  toàn .
+ Bạn  có  chắc  muốn  xoá  các  { 0 }  bản  ghi  nhớ  này  không ?
+ Mọi  thông  tin  của  những  bản  ghi  nhớ  này  sẽ  bị  xoá  hoàn  toàn .
+ Bạn  có  muốn  lưu  các  thay  đổi  của  ghi  nhớ  này  không ?
+ Bạn  đã  sửa  đổi  tác  vụ  này ,  nhưng  chưa  lưu  lại .
+ _ Hủy  thay  đổi
+ _ Lưu  thay  đổi
+ Bạn  có  muốn  lưu  các  thay  đổi  của  cuộc  hẹn  này  không ?
+ Bạn  đã  sửa  đổi  cuộc  hẹn  này ,  nhưng  chưa  lưu  lại .
+ Bạn  có  muốn  lưu  các  thay  đổi  của  tác  vụ  này  không ?
+ Bạn  đã  sửa  đổi  ghi  nhớ  này ,  nhưng  chưa  lưu  lại .
+ Bạn  có  muốn  gửi  lời  mời  họp  đến  những  người  dự  không ?
+ Lời  mời  thư  điện  tử  sẽ  được  gửi  cho  mọi  người  dự  và  cho  phép  họ  trả  lời .
+ _ Gửi
+ Bạn  có  muốn  gửi  thông  tin  cuộc  họp  đã  cập  nhật  cho  những  người  dự  không ?
+ Gửi  thông  tin  cập  nhật  cho  phép  những  người  dự  khác  cập  nhật  lại  lịch  của  họ .
+ Bạn  có  muốn  gửi  tác  vụ  này  cho  những  người  dự  không ?
+ Lời  mời  thư  điện  từ  sẽ  được  gửi  cho  mọi  người  dự  và  cho  phép  họ  chấp  nhận  tác  vụ .
+ Đang  tải  về .  Bạn  có  muốn  lưu  tác  vụ  không ?
+ Hiện  thời  đang  tải  về  một  số  đính  kèm .  Khi  lưu  tác  vụ  này ,  sẽ  cũng  mất  các  đính  kèm  này .
+ _ Lưu
+ Đang  tải  về .  Bạn  có  muốn  lưu  cuộc  hẹn  không ?
+ Hiện  thời  đang  tải  về  một  số  đính  kèm .  Khi  lưu  cuộc  hẹn  này ,  sẽ  cũng  mất  các  đính  kèm  này .
+ Bạn  có  muốn  gửi  thông  tin  tác  vụ  cập  nhật  cho  những  người  dự  không ?
+ Gửi  thông  tin  cập  nhật  cho  phép  những  người  dự  khác  cập  nhật  danh  sách  tác  vụ  của  họ .
+ Tác  vụ  Evolution  đã  thoát  bất  ngờ .
+ Các  tác  vụ  của  bạn  sẽ  không  sẵn  sàng  cho  đến  khi  bạn  khởi  động  lại  Evolution .
+ Lịch  Evolution  đã  thoát  bất  ngờ .
+ Các  lịch  của  bạn  sẽ  không  sẵn  sàng  cho  đến  khi  bạn  khởi  động  lại  Evolution .
+ Ghi  nhớ  Evolution  đã  thoát  bất  ngờ .
+ Các  bản  ghi  nhớ  của  bạn  sẽ  không  sẵn  sàng  cho  đến  khi  bạn  khởi  chạy  lại  Evolution .
+ Các  lịch  Evolution  đã  thoát  bất  thường .
+ Không  thể  nạp  lịch
+ Gặp  lỗi  khi  «  { 0 }  »
+ Không  thể  nạp  bộ  sửa .
+ Xoá  lịch  «  { 0 }  »  không ?
+ Lịch  này  sẽ  bị  xoá  hoàn  toàn .
+ Xoá  danh  sách  tác  vụ  «  { 0 }  »  không ?
+ Danh  sách  tác  vụ  này  sẽ  bị  xoá  hoàn  toàn .
+ Xoá  danh  sách  ghi  nhớ  «  { 0 }  »  không ?
+ Danh  sách  ghi  nhớ  này  sẽ  bị  xoá  hoàn  toàn .
+ Bạn  có  chắc  muốn  gửi  thư  không  có  tóm  tắt  không ?  ( Không  đề  nghị . )
+ Việc  thêm  một  Tóm  tắt  có  nghĩa  vào  cuộc  hẹn  bạn  sẽ  cho  người  nhận  biết  ý  kiến  về  lý  do  của  cuộc  hẹn  này .
+ Việc  thêm  một  Tóm  tắt  có  nghĩa  vào  tác  vụ  bạn  sẽ  cho  người  nhận  biết  ý  kiến  về  lý  do  của  tác  vụ  này .
+ Bạn  có  chắc  muốn  lưu  bản  ghi  nhớ  không  có  tóm  tắt  không ?
+ Gặp  lỗi  khi  nạp  lịch
+ Chưa  đánh  dấu  lịch  này  để  sử  dụng  khi  ngoại  tuyến .
+ Không  thể  tạo  sự  kiện  mới
+ «  { 0 }  »  là  một  lịch  chỉ-đọc  nên  không  sửa  đổi  được .  Hãy  chọn  một  lịch  khác  trong  khung  lề  của  ô  xem  Lịch .
+ Không  thể  lưu  sự  kiện
+ «  { 0 }  »  là  một  lịch  chỉ-đọc  thì  không  sửa  đổi  được .  Hãy  chọn  một  lịch  khác  mà  có  khả  năng  chấp  nhận  cuộc  hẹn .
+ Gặp  lỗi  khi  nạp  danh  sách  tác  vụ
+ Chưa  đánh  dấu  danh  sách  tác  vụ  này  để  sử  dụng  khi  ngoại  tuyến .
+ Gặp  lỗi  khi  nạp  danh  sách  ghi  nhớ
+ Danh  sách  các  ghi  nhớ  không  phải  đánh  dấu  để  sử  dụng  ngoại  tuyến .
+ Bạn  đang  kết  nối  đến  một  máy  phục  vụ  Groupwise  không  được  hỗ  trợ  thì  có  lẽ  sẽ  gặp  khó  khăn  sử  dụng  trình  Evolution .  Để  được  kết  quả  tốt  nhất ,  bạn  nên  nâng  cấp  trình  phục  vụ  lên  một  phiên  bản  được  hỗ  trợ .
+ Không  thể  khởi  động  evolution-data-server  ( máy  phục  vụ  dữ  liệu ) .
+ Độ  ưu  tiên  mặc  định :
+ Thời  điểm  đầu :
+ Cuộc  hẹn
+ Hủy  tất  _ cả
+ _ Thời  gian  ngủ :
+ giờ
+ phút
+ địa  điểm  cuộc  hẹn
+ Địa  điểm :
+ _ Ngủ
+ _ Sửa
+ Không  có  tóm  tắt
+ Không  có  mô  tả .
+ Không  có  thông  tin  về  địa  điểm .
+ Bạn  có  % d  bảo  động
+ Cảnh  báo
+ Evolution  chưa  hỗ  trợ  bộ  nhắc  nhở  lịch  thông  qua  thư  điện  tử ,  nhưng  mà  bộ  nhắc  nhở  này  đã  được  cấu  hình  để  gửi  thư .  Thay  vào  đó ,  Evolution  sẽ  hiển  thị  một  hộp  thoại  nhắc  nhở  thông  thường .
+ Lịch  Evolution  sắp  nhắc  nhở  bạn .  Bộ  nhắc  nhở  này  được  cấu  hình  để  chạy  những  chương  trình  sau :          % s  Bạn  có  chắc  muốn  chạy  chương  trình  này  không ?
+ Đừng  hỏi  tôi  về  chương  trình  này  lần  nữa .
+ Thời  gian  không  hợp  lệPop  up  an  alert  % d  hours  before  start  of  appointment
+ In  lịch  này
+ Múi  giờ
+ Múi  giờ  mặc  định  cần  dùng  cho  ngày  và  giờ  trong  lịch ,  là  ví  trị  cơ  sở  dữ  liệu  kiểu  Olsen  chưa  dịch  như  «  Asia / Hanoi  »  ( Châu  Á / Hà  nội ) .
+ _ Dùng  giá  trị  mặc  định  của  hệ  thống
+ Múi  giờ  thứ  hai  cho  một  ô  Xem  Ngày
+ Bật  tùy  chọn  này  thì  hiển  thị  múi  giờ  thứ  hai  trong  một  ô  Xem  Ngày .  Giá  trị  này  tương  tự  với  giá  trị  dùng  trong  một  khoá  «  timezone  »  ( múi  giờ ) .
+ Múi  giờ  thứ  hai  vừa  dùng  trong  một  ô  Xem  Ngày
+ Danh  sách  các  múi  giờ  vừa  dùng  trong  một  ô  Xem  Ngày .
+ Số  tối  đa  các  múi  giờ  vừa  dùng  cần  nhớ .
+ Số  tối  đa  các  múi  giờ  vừa  dùng  cần  giữ  lại  trong  một  danh  sách  «  day _ second _ zones  » .
+ Định  dạng  thời  gian  24  giờ
+ Có  nên  hiển  thị  giờ  dạng  24-giờ  thay  vào  dùng  am / pm  ( buổi  sáng / buổi  chiều-tối )  hay  không .
+ Hiện  trường  Vai  trò  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện
+ Có  nên  hiển  thị  trường  Vai  trò  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện  hay  không
+ Hiện  trường  Trạng  thái  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện
+ Có  nên  hiển  thị  trường  trạng  thái  trong  bộ  sửa  cuộc  họp / tác  vụ / dữ  kiện  hay  không
+ Hiện  trường  Kiểu  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện
+ Có  nên  hiển  thị  trường  kiểu  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện  hay  không
+ Hiện  trường  RSVP  ( Vui  lòng  hồi  âm )  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện
+ Có  nên  hiển  thị  trường  RSVP  ( Vui  lòng  hồi  âm )  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện  hay  không
+ Hiện  trường  Múi  giờ  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện
+ Có  nên  hiển  thị  trường  múi  giờ  trong  bộ  sửa  cuộc  họp / sự  kiện  hay  không
+ Hiện  trường  Hạng  trong  bộ  sửa  cuộc  họp / tác  vụ / sự  kiện
+ Có  nên  hiển  thị  trường  loại  trong  bộ  sửa  cuộc  họp / sự  kiện  hay  không
+ Tuần  bắt  đầu
+ Hôm  bắt  đầu  tuần ,  từ  Chủ  Nhật  ( 0 )  đến  Thứ  Bảy  ( 6 ) .
+ Giờ  bắt  đầu  ngày  làm  việc
+ Giờ  bắt  đầu  ngày  làm  việc ,  có  dạng  24  giờ  ( 0-23 ) .
+ Phút  bắt  đầu  ngày  làm  việc
+ Phút  bắt  đầu  ngày  làm  việc ,  0-59 .
+ Giờ  kết  thúc  ngày  làm  việc
+ Giờ  kết  thúc  ngày  làm  việc ,  có  dạng  24  giờ  ( 0-23 ) .
+ Phút  kết  thúc  ngày  làm  việc
+ Phút  kết  thúc  ngày  làm  việc ,  0-59 .
+ Chia  thời  gian
+ Hộp  thời  gian  được  hiển  thị  trong  ô  xem  Ngày / Tuần  làm  việc ,  theo  phút
+ Ví  trị  ô  cửa  sổ  ngang
+ Ví  trị  của  ô  cửa  sổ  ngang ,  giữa  lịch  duyệt  ngày  và  danh  sách  tác  vụ  khi  không  phải  trong  ô  xem  tháng ,  theo  điểm  ảnh .
+ Vị  trí  ô  cửa  sổ  dọc
+ Vị  trí  của  ô  cửa  sổ  ngang  trong  ô  xem  tháng
+ Ví  trị  của  ô  cửa  sổ  ngang ,  giữa  ô  xem  và  lịch  duyệt  ngày  và  danh  sách  tác  vụ  khi  trong  ô  xem  tháng ,  theo  điểm  ảnh .
+ Vị  trí  của  ô  cửa  sổ  dọc  trong  ô  xem  tháng
+ Ví  trị  của  ô  cửa  sổ  dọc ,  giữa  ô  xem  và  lịch  duyệt  ngày  và  danh  sách  công  việc  khi  trong  ô  xem  tháng ,  theo  điểm  ảnh .
+ Vị  trí  của  ô  cửa  sổ  dọc ,  giữa  các  danh  sách  lịch  và  lịch  duyệt  ngày .
+ Kiểu  dáng  t _ rả  lời :
+ Hiện  ô  «  Xem  thử  »
+ Ví  trị  ô  cửa  sổ  dọc  tác  vụ
+ Nén  các  ngày  cuối  tuần  trong  ô  xem  tháng
+ Có  nên  nén  những  ngày  cuối  tuần  trong  ô  xem  tháng ,  mà  hiển  thị  hai  ngày  Thứ  Bảy  và  Chủ  Nhật  đều  là  cùng  cách  của  một  ngày  tuần .
+ Hiện  thời  điểm  kết  thúc  cuộc  hẹn  trong  ô  xem  tuần  và  tháng  đều
+ Có  nên  hiển  thị  thời  điểm  kết  thúc  sự  kiện  trong  ô  xem  tuần  và  tháng  đều  hay  không .
+ Ngày  làm  việc
+ Ngày  cần  ngụ  ý  giờ  bắt  đầu  và  kết  thúc  đều  làm  việc .
+ Dòng  Marcus  Bains
+ Có  nên  vẽ  Dòng  Marcus  Bains  ( dòng  tại  giờ  hiện  có )  trong  lịch  hay  không .
+ Màu  Dòng  Marcus  Bains  —  Xem  ngày
+ Màu  cần  vẽ  Dòng  Marcus  Bains  trong  ô  xem  Ngày
+ Màu  Dòng  Marcus  Bains  —  Thanh  thời  gian
+ Màu  cần  vẽ  Dòng  Marcus  Bains  trong  thanh  Thời  gian  ( bỏ  rỗng  để  chọn  mặc  định )
+ Độ  trong  suốt  sự  kiện
+ Độ  trong  suốt  của  sự  kiện  trong  ô  xem  lịch  ( giá  trị  giữa  0  ( trong  suốt )  và  1  ( đục ) .
+ Dốc  sự  kiện
+ Dốc  của  các  sự  kiện  trong  ô  xem  lịch .
+ Danh  sách  ghi  nhớ  mới
+ Danh  sách  tác  vụ  mới
+ Ẩn  mọi  tác  vụ  hoàn  tất
+ Có  nên  ẩn  mọi  tác  vụ  đã  hoàn  tất  trong  ô  xem  tác  vụ  hay  không .
+ Ẩn  đơn  vị  tác  vụ
+ Đơn  vị  để  quyết  định  lúc  nào  ẩn  cộng  việc ,  " minutes "  ( phút ) ,  " hours "  ( giờ )  hoặc  " days "  ( ngày ) .
+ Ẩn  giá  trị  tác  vụ
+ Tổng  số  đơn  vị  để  quyết  định  lúc  nào  nên  ẩn  cộng  việc .
+ Màu  của  tác  vụ  hết  hạn  vào  hôm  nay
+ Màu  nền  của  mọi  tác  vụ  hết  hạn  hôm  nay ,  có  dạng  «  # rrggbb  »
+ Màu  của  tác  vụ  quá  hạn
+ Màu  nền  của  mọi  tác  vụ  quá  hạn ,  có  dạng  «  # rrggbb  »
+ Hỏi  xác  nhận  trước  khi  xoá  mục
+ Có  nên  hỏi  xác  nhận  khi  xoá  cuộc  hẹn  hay  tác  vụ  hay  không .
+ Xác  nhận  khi  xoá  hẳn
+ Có  nên  hỏi  xác  nhận  khi  xoá  hắn  cuộc  hẹn  và  tác  vụ  hay  không .
+ Bộ  nhắc  nhở  cuộc  hẹn  mặc  định
+ Có  nên  lập  bộ  nhắc  nhở  mặc  định  cho  mọi  cuộc  hẹn  hay  không .
+ Giá  trị  nhắc  nhở  mặc  định
+ Tổng  số  đơn  vị  để  quyết  định  lúc  nào  nhắc  nhở  mặc  định .
+ Đơn  vị  nhắc  nhở  mặc  định
+ Đơn  vị  cho  bộ  nhắc  nhở  mặc  định ,  " minutes "  ( phút ) ,  " hours "  ( giờ )  hoặc  " days "  ( ngày ) .
+ Hiện  số  thứ  tự  tuần  trong  ô  Xem  Ngày  và  Tuần  Làm
+ Có  nên  hiển  thị  số  thứ  tự  tuần  trong  ô  Xem  Ngày  và  Tuần  Làm  Việc ,  hay  không .
+ Hiện  số  thứ  tự  tuần  trong  bộ  duyệt  ngày
+ Có  nên  hiển  thị  số  thứ  tự  tuần  trong  bộ  duyệt  ngày  hay  không .
+ Giờ  báo  động  cuối  cùng
+ Giờ  đã  bảo  động  cuối  cùng ,  theo  time _ t
+ Lịch  cần  chạy  báo  động  cho  chúng
+ Chương  trình  báo  động
+ Chương  trình  mà  bảo  động  có  thể  chạy .
+ Hiển  thị  báo  động  trong  khay  thông  báo
+ Có  nên  dùng  khay  thông  báo  để  hiển  thị  báo  động  hay  không .
+ Địa  chỉ  mạng  của  máy  phục  vụ  Rảnh / Bận
+ Danh  sách  các  địa  chỉ  mạng  máy  phục  vụ  để  xuất  bản  thông  tin  Rảnh / Bận .
+ Địa  chỉ  mạng  mẫu  Rảnh / Bận
+ Mẫu  địa  chỉ  mạng  cần  dùng  là  dữ  liệu  Rảnh / Bận  phục  hồi :  «  % u  »  được  thay  thế  bằng  phần  người  dùng  của  địa  chỉ  thư ,  và  «  % d  »  được  thay  thế  bằng  miền  của  địa  chỉ .
+ Thư  mục  lưu  âm  thanh  báo  động
+ Thư  mục  vào  đó  cần  lưu  các  tập  tin  âm  thanh  báo  động
+ Thời  lượng  theo  giây  trong  đó  cần  hiển  thị  lỗi  trên  thanh  trạng  thái .
+ Mức  quá  đó  thư  nên  được  ghi  lưu .
+ Có  ba  giá  trị  có  thể :   •  0 \ t \ tlỗi   •  1 \ t \ tcảnh  báo   •  2 \ t \ tthông  điệp  gỡ  lỗi .
+ Xem  ngày
+ Xem  tuần  làm  việc
+ Xem  tuần
+ Xem  tháng
+ Tóm  tắt
+ chứa
+ không  chứa
+ Mô  tả
+ Bất  kỳ  trường
+ Phân  loại
+ bằng
+ không  phải
+ Công  cộng
+ Riêng  tư
+ Tin  tưởng
+ Bộ  tổ  chức :
+ Người  dự
+ Đính  kèm
+ Tồn  tại
+ Không  tồn  tại
+ Định  kỳ
+ Tóm  tắt  chứa
+ Mô  tả  chứa
+ Sửa  Báo  động
+ Bật  lên  báo  động
+ Phát  âm  thanh
+ Chạy  chương  trình
+ Gửi  thư
+ ngày
+ trước
+ sau
+ bắt  đầu  cuộc  hẹn
+ kết  thúc  cuộc  hẹnPurge  events  older  than   <  <  spin \ -button  >  >   days
+ Thêm  Báo  động
+ Báo  động
+   Lặp   lại 
+ _ Lặp  lại  báo  động
+ lần  thêm  nữa  mỗi
+ Tùy  chọn
+ Thư  tự  _ chọn
+ _ Thư  :
+ Âm  thanh  báo  động  tự  chọn
+ Â _ m  thanh :
+ Chọn  tập  tin
+ _ Chương  trình :
+ Đối  _ số :
+ Gửi  cho :
+ Hành  động / Gây  ra
+ _ ThêmNone
+ Không
+ Chọn ...
+ Các  Lịch  đã  chọn  cho  Báo  động
+ Múi  giờ  :
+ Ngày :
+ Thứ  Hai
+ Thứ  Ba
+ Thứ  Tư
+ Thứ  Năm
+ Thứ  Sáu
+ Thứ  Bảy
+ Chủ  Nhật
+ Giờ
+ Múi  thứ  _ hai :
+ ( Hiện  trong  một  ô  Xem  Ngày )
+ Định  dạng  giờ  :
+ _ 12  giờ  ( AM / PM :  sáng / chiều )
+ _ 24  giờ
+ Múi  _ giờ  :
+ Hiện  múi  giờ  thứ  hai
+ Tuần  làm  việc
+ Tuần  _ bắt  đầu  :
+ Ngày  làm  việc :
+ _ Ngày  bắt  đầu  :
+ Ngày  _ kết  thúc :
+ T _ 2
+ T _ 3
+ T _ 4
+ T _ 5
+ T _ 6
+ T _ 7
+ _ CN
+ Hỏi  xác  thực  khi  xó _ a  bỏ  mục
+ _ Hiện  bộ  nhắc  nhở
+ trước  mỗi  cuộc  hẹn
+ Hiện  lời  _ nhắc  nhở
+ trước  mỗi  ngày  kỷ  niệm / ngày  sinh
+ Chung
+ _ Chia  thời  gian :
+ _ Hiện  thời  điểm  kết  thúc  cuộc  hẹn  trong  ô  xem  tuần  và  tháng  đều
+ Nén  các  ngày  _ cuối  tuần  trong  ô  xem  tháng
+ Hiệ _ n  số  thứ  tự  tuần  trong  bộ  duyệt  ngày
+ Hiện  số  thứ  tự  t _ uần  trong  ô  Xem  Ngày  và  Tuần  Làm
+ Danh  sách  tác  vụ
+ Tác  vụ  hết  hạn  vào  hôm  n _ ay :
+ Tác  vụ  _ quá  hạn :
+ Chọn  màu
+ Ẩn  tác  vụ  _ hoàn  thành  sau  ( khi )
+ Ngày / Giờ
+ Hiển  thị
+ Chọn  những  lịch  cần  dùng  tính  năng  báo  động
+   Máy   phục   vụ   Rảnh  /  Bận   Mặc   định 
+ Mẫu  :
+   «   %  u   »   và   «   %  d   »   sẽ   được   thay   thế   bằng   người   dùng   và   miền   riêng   từng   từ   địa   chỉ   thư  . 
+ Kiểu  :
+ _ Kiểu  :
+ Chép  nội  dung  lịch  cục  bộ  để  hoạt  động  ngoại  tu _ yến
+ Chép  nội  dung  danh  sách  tác  vụ  cục  bộ  để  hoạt  động  ngoại  tu _ yến
+ Chép  nội  dung  danh  sách  ghi  nhớ  cục  bộ  để  hoạt  động  ngoại  tu _ yến
+ Mà _ u  :
+ Danh  sách  Ghi  nhớ
+ Thuộc  tính  Lịch
+ Lịch  mới
+ Thuộc  tính  Danh  sách  Tác  vụ
+ Danh  sách  Tác  vụ  mới
+ Thuộc  tính  Danh  sách  Ghi  nhớ
+ Danh  sách  Ghi  nhớ  Mới
+ Sự  kiện  này  bị  xoá .
+ Tác  vụ  này  bị  xoá .
+ Bản  ghi  nhớ  này  đã  bị  xoá .
+ % s   Bạn  đã  tạo  ra  một  vài  thay  đổi .  Bỏ  qua  những  thay  đổi  này  và  đóng  bộ  biên  soạn  sao  không ?
+ % s   Bạn  chưa  thay  đổi  gì ,  đóng  bộ  sửa  không ?
+ Sự  kiện  này  đã  được  thay  đổi .
+ Tác  vụ  này  đã  được  thay  đổi .
+ Bản  ghi  nhớ  này  đã  bị  sửa  đổi .
+ % s   Bạn  đã  tạo  ra  vài  thay  đổi .  Bỏ  qua  những  thay  đổi  này  và  cập  nhật  bộ  biên  soạn  không ?
+ % s   Bạn  chưa  thay  đổi  gì ,  còn  cập  nhật  bộ  sửa  không ?
+ Lỗi  hợp  lệ  hoá :  % s
+ tới 
+ ( Hoàn  tất 
+ Hoàn  tất 
+ ( Đến  hạn 
+ Đến  hạn 
+ Lưu  đính  kèm
+ Không  thể  cập  nhật  đối  tượng
+ Sửa  cuộc  hẹn
+ Cuộc  họp  -  % s
+ Cuộc  hẹn  -  % s
+ Tác  vụ  đã  gán  -  % s
+ Tác  vụ  -  % s
+ Ghi  nhớ  —  % s
+ Không  có  bản  tóm  tắt
+ Giữ  mục  gốc  ?
+ Nhấn  đây  để  đóng  cửa  sổ  hiện  thời
+ Chép  vùng  chọn
+ Cắt  vùng  chọn
+ Nhấn  đây  để  xem  trợ  giúp  có  sẵn
+ Dán  bảng  nháp
+ Nhấn  đây  để  lưu  cửa  sổ  hiện  thời
+ Chọn  toàn  bộ  văn  bản
+ _ Phân  loại
+ _ Tập  tin
+ Trợ  g _ iúp
+ C _ hèn
+ Tù _ y  chọn
+ _ Xem
+ Đồ  đính  _ kèm ..
+ Nhấn  đây  để  đính  kèm  tập  tin
+ _ Loại
+ Bật  tắt  hiển  thị  các  loại
+ _ Múi  giờ
+ Bật  tắt  hiển  thị  Múi  giờ
+ _ Công
+ Phân  loại  là  Công
+ _ Riêng
+ Phân  loại  là  Riêng
+ _ Tin  tưởng
+ Phân  loại  là  Tin  tưởng
+ Trường  _ Vai  trò
+ Bật  tắt  hiển  thị  trường  Vai  trò
+ _ Vui  lòng  hồi  âm
+ Bật  tắt  hiển  thị  trường  RSVP  ( Vui  lòng  hồi  âm )
+ Trường  T _ rạng  thái
+ Bật  tắt  hiển  thị  trường  Trạng  thái
+ _ Trường  Kiểu
+ Bật  tắt  hiển  thị  trường  Kiểu  người  dự
+ Tài  liệu  _ vừa  mở
+ Lưu
+ Thay  đổi  trên  mục  này  có  thể  bị  hủy  nếu  bản  cập  nhật  đến  vào .
+ đính  kèm
+ Không  thể  dùng  phiên  bản  hiện  thời .
+ Không  thể  mở  nguồn .
+ Không  thể  mở  đích .
+ Đích  chỉ  cho  phép  đọc  thôi .
+ _ Xoá  mục  này  ra  hộp  thư  của  mọi  người  nhận  khác  không ?
+ Không  thể  xoá  sự  kiện  này  vi  gặp  lỗi  kiểu  CORBA .
+ Không  thể  xoá  cộng  việc  này  vi  gặp  lỗi  kiểu  CORBA .
+ Không  thể  xoá  bản  ghi  nhớ  này  vi  gặp  lỗi  kiểu  CORBA .
+ Không  thể  xoá  mục  này  vi  gặp  lỗi  kiểu  CORBA .
+ Không  thể  xoá  sự  kiện  vì  không  đủ  quyền .
+ Không  thể  xoá  tác  vụ  vì  không  đủ  quyền .
+ Không  thể  xoá  bản  ghi  nhớ  vì  không  đủ  quyền .
+ Không  thể  xoá  mục  vì  không  đủ  quyền .
+ Không  thể  xoá  sự  kiện  vì  gặp  lỗi .
+ Không  thể  xoá  tác  vụ  vì  gặp  lỗi .
+ Không  thể  xoá  bản  ghi  nhớ  vì  gặp  lỗi .
+ Không  thể  xoá  mục  vì  gặp  lỗi .
+ Nhập  người  ủy  nhiệm
+ Ủy  nhiệm  cho :
+ Liên  lạc ...
+ _ Báo  động
+ Nhấn  đây  để  lập  hay  bỏ  lập  báo  động  cho  sự  kiện  này
+ Hiện  giờ  là  _ Bận
+ Bật  tắt  hiển  thị  giờ  là  bận
+ Định  _ kỳ
+ Đặt  là  sự  kiện  lặp
+ Tùy  chọn  Gửi
+ Chèn  tùy  chọn  gửi  cấp  cao
+ Sự  kiện  ng _ uyên  ngày
+ Bật  tắt  có  dự  kiện  nguyên  ngày
+ Rảnh / _ Bận
+ Truy  vấn  thông  tin  Rảnh / Bận  cho  các  người  dự
+ Cuộc  _ hẹn
+ Nó  có  bảo  động .
+ _ Bộ  tổ  chức :
+ Người  ủ _ y  nhiệm
+ Người  _ dự
+ Sự  kiện  không  có  ngày  bắt  đầu
+ Sự  kiện  không  có  ngày  kết  thúc
+ Ngày  bắt  đầu  sai
+ Ngày  kết  thúc  sai
+ Thời  điểm  đầu  sai
+ Thời  điểm  kết  thúc  sai
+ Bộ  tổ  chức  đã  chọn  không  còn  có  tài  khoản  lại .
+ Cần  một  bộ  tổ  chức .
+ Cần  ít  nhất  một  người  dự .
+ Không  thể  mở  lịch  «  % s  » .
+ Bạn  đang  hoạt  động  thay  mặt  cho  % s
+ Tùy  chỉnhNone "  for  " No  alarm  set
+ trong
+ tới  khi
+ 15  phút  trước  cuộc  hẹn
+ 1  giờ  trước  cuộc  hẹn
+ 1  ngày  trước  cuộc  hẹn
+ Địa  điể _ m :
+ _ Mô  tả :
+ _ Giờ  :
+ Tó _ m  tắt :
+ Mô  tả  sự  kiện
+ Người  _ dự ...
+ Báo  động  tự  chọn :
+ Ghi  nhớ
+ Không  thể  mở  ghi  nhớ  trong  «  % s  » .
+ Cho
+ _ Nhóm :
+ Ch _ o  :
+ Ngày  _ bắt  đầu :
+ Bạn  đang  sửa  đổi  sự  kiện  lặp ,  bạn  muốn  sửa  đổi  cái  nào ?
+ Bạn  đang  ủy  nhiệm  sự  kiện  lặp ,  bạn  muốn  ủy  nhiệm  cái  nào ?
+ Bạn  đang  sửa  đổi  tác  vụ  lặp ,  bạn  muốn  sửa  đổi  cái  nào ?
+ Bạn  đang  sửa  đổi  bản  ghi  nhớ  lặp :  bạn  muốn  sửa  đổi  cái  nào ?
+ Chỉ  lần  này
+ Lần  này  và  những  lần  trước
+ Lần  này  và  những  lần  sau  này
+ Mọi  lần
+ Cuộc  hẹn  chứa  nhiều  lần  lặp  lại  mà  Evolution  không  thể  hiệu  chỉnh .
+ Ngày  lặp  không  hợp  lệ
+ Giờ  cuối  của  sự  kiện  lặp  lại  nằm  trước  giờ  đầu
+ vào
+ thứ  nhắtsecond "  is  the  ordinal  number  ( like  " third " ) ,  not  the  time  division  ( like  " minute
+ giây
+ thứ  ba
+ thứ  tư
+ cuối  cùng
+ Ngày  khác
+ ngày  mồng  1  đến  10
+ ngày  11  đến  20
+ ngày  21  đến  31
+ lần
+ Thêm  ngoại  lệ
+ Không  thể  lấy  vùng  chọn  cần  sửa  đổi .
+ Sửa  đổi  ngoại  lệ
+ Không  thể  lấy  vùng  chọn  cần  xoá .
+ tuần
+ tháng
+ năm
+ mãi  mãi
+ C _ uộc  hẹn  này  lặp  lại
+ Mỗi
+   Ngoại   lệ 
+ Xem  thử  :
+ Gửi  các  báo  động  mình  cùng  với  sự  kiện  này
+ Thông  báo  về  thư  mớ _ i  chỉ  trong  hộp  Thư  Đến
+ Ngày  hoàn  tất  sai
+ Trang  Web
+ Chuẩn
+ Thấp
+ Chưa  định  nghĩa
+ Chưa  bắt  đầu
+ Đang  tiến  hành
+ Trạng  thái
+ T _ rạng  thái :
+ _ Phần  trăm  hoàn  tất :
+ Độ  ư _ u  tiên :
+ _ Ngày  hoàn  tất :
+ Trang  _ Web :
+ Chi  tiết  t _ rạng  thái
+ Nhấn  để  thay  đổi  hay  xem  chi  tiết  trạng  thái  về  tác  vụ
+ Tùy  chọn  _ Gửi
+ _ Tác  vụNew
+ Chi  tiết  tác  vụ
+ Không  thể  gửi  thư  này  vì  bạn  chưa  ghi  rõ  người  nhận  nào .
+ _ Tổ  chức :
+ Ngày  đến  hạn  sai
+ Không  thể  mở  tác  vụ  trong  «  % s  » .
+ N _ gày  đến  hạn :
+ Loạ _ i ..
+ Người  _ dự ... Pop  up  an  alert  % d  days  before  start  of  appointment
+ Không  biết  hành  động  cần  thực  hiện.Play  a  Sound " .  Second  % s  refers  to  the  duration  string  e.g : " 15  minutes
+ % s  % s  trước  khi  bắt  đầu  cuộc  hẹnPlay  a  Sound " .  Second  % s  refers  to  the  duration  string  e.g : " 15  minutes
+ % s  % s  sau  khi  bắt  đầu  cuộc  hẹnPlay  a  sound
+ % s  lúc  bắt  đầu  cuộc  hẹnPlay  a  Sound " .  Second  % s  refers  to  the  duration  string  e.g : " 15  minutes
+ % s  % s  trước  khi  kết  thúc  cuộc  hẹnPlay  a  Sound " .  Second  % s  refers  to  the  duration  string  e.g : " 15  minutes
+ % s  % s  sau  khi  kết  thúc  cuộc  hẹnPlay  a  sound
+ % s  lúc  kết  thúc  cuộc  hẹnPlay  a  Sound " .  Second  % s  is  an  absolute  time ,  e.g.  " 10 : 00AM
+ % s  lúc  % sPlay  a  sound " .  " Trigger  types
+ % s  cho  kiểu  gây  ra  lạ
+ Không  tên
+ Tóm  tắt :
+ Ngày  bắt  đầu :
+ Ngày  đến  hạn :
+ Trạng  thái :
+ Độ  ưu  tiên :
+ Mô  tả :
+ Trang  Web :
+ Ngày  kết  thúc
+ Đã  tạo
+ Đã  sửa  đổi
+ Rảnh
+ Bận
+ Vị  trí  địa  lý  phải  được  nhập  theo  định  dạng :  10.783114,106.699804  ( Sài  Gòn ) None
+ Có
+ Ứng  dụng  khách  thư  mặc  định 
+ Thiết  lập  Exchange
+ Không  biết
+ Lặp  lại
+ Đã  gán
+ Đang  mở  % s ...
+ Nhấn  để  thêm  tác  vụ
+Vui lòng đọc cẩn thận điều kiện bản quyềnvề %s được hiển thị bên dưới, và đánh dấutrong hộp chọn để chấp nhận các điều kiện này.None" as an option for a default signature of an account, part of "Signature: None

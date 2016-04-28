@@ -1,0 +1,14 @@
+ Quá  trình  xác  thực  hoàn  thành .  Bạn  có  thể  đóng  hộp  thoại  này  đi  và  trở  về  ứng  dụng .
+ Xong
+ Xác  thực  web  cho  % 1
+ Xác  thực  web
+ Nhập  khóa  danh  tính  của  bạn  để  đăng  nhập
+ Lần  thử  xác  thực  trước  đó  bị  thất  bại .  Xin  vui  lòng  thử  lại .
+ Nhập  khóa  danh  tính  của  bạn
+ Tên  người  dùng :
+ Mật  khẩu :
+ Một  phương  thức  đảm  bảo  tăng  cường ,  xin  vui  lòng  điền  kí  tự  từ  bức  hình  bên  dưới :
+ Kí  tự  từ  bức  hình :
+ Các  ứng  dụng  không  thể  truy  cập  đến  một  số  tài  khoản  Web  của  bạn  được  nữa
+ Ứng  dụng  không  thể  truy  cập  đến  tài  khoản  % 1  Web  của  bạn  được  nữa
+ Chọn    Tài   khoản   Web   từ  thanh  thực  đơn  người  dùng  nhằm  khôi  phục  lại  quyền  truy  cập  đến  tài  khoản  này .

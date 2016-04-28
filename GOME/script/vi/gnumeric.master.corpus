@@ -1,0 +1,1061 @@
+ Gnumeric
+ Bảng  tính
+ Bảng  tính  Gnumeric
+ Lỗi  phân  tách  khi  đọc  tập  tin  Applix .
+ Thiếu  ký  tự  cho  mã  hóa  ký  tự
+ Ký  tự  không  hợp  lệ  trong  bảng  mã  «  % c % c  » .
+ Biểu  thức  không  bắt  đầu  bằng  dấu  «  =  »  không ?  «  % s  »
+ % s ! % s  :  không  thể  phân  tách  «  % s  »       % s
+ Applix
+ Nhập  bảng  tính  phiên  bản  4 . [ 234 ]
+ Applix  ( * .as )
+ Đang  đọc  tập  tin ...
+ Lỗi  cú  pháp  tại  dòng  % d .  Bỏ  qua .
+ Gặp  kiểu  dữ  liệu  lạ  «  % s  »  tại  dòng  % d  nên  bỏ  qua .
+ Giá  trị  dữ  liệu  lạ  «  % s  » :  tại  dòng  % d .  Bỏ  qua .
+ Kiểu  dữ  liệu  lạ  «  % d  »  tại  dòng  % d .  Bỏ  qua .
+ Tập  tin  DIF  có  nhiều  hơn  số  hàng  tối  đa  % d .  Bỏ  qua  những  hàng  còn  lại .
+ Tập  tin  DIF  có  nhiều  hơn  số  cột  tối  đa  % d .  Bỏ  qua  những  cột  còn  lại .
+ Gặp  kết  thúc  tập  tin  bất  ngờ  tại  dòng  % d  trong  khi  đang  đọc  phần  đầu .
+ Gặp  kết  thúc  tập  tin  bất  ngờ  tại  dòng  % d  trong  khi  đang  đọc  dữ  liệu .
+ Gặp  lỗi  khi  đọc  tập  tin  DIF .
+ Không  thể  lấy  bảng  mặc  định .
+ Gặp  lỗi  khi  lưu  tập  tin  DIF .
+ Mô  đun  khuôn  dạng  chuyển  đổi  dữ  liệu :  Data  Interchange  Format  ( DIF )
+ Đọc  và  ghi  thông  tin  được  lưu  vào  Khuôn  dạng  chuyển  đổi  dữ  liệu :  Data  Interchange  Format  ( * .dif )
+ Khuôn  dạng  chuyển  đổi  dữ  liệu :  Data  Interchange  Format  ( * .dif )
+ Không  tìm  thấy  dòng  Sách  hoặc  Sổ  làm  việc .
+ Đang  chuẩn  bị  để  lưu ...
+ Đang  lưu  tập  tin ...
+ Gặp  thuộc  tính  bất  ngờ  % s : : % s  = =  «  % s  » .
+ Tập  tin  XML  sai  dạng  thức .
+ # KHÔNG  RÕ !
+ Bảng % d
+ Vĩ _ lệnh % d
+ Sơ _ đồ % d
+ Môđun % d
+ Gặp  lỗi  phân  tách  tên  «  % s  » .
+ Không  hỗ  trợ  liên  kết  DDE .  Vậy  tên  «  % s  »  sẽ  bị  mất .
+ Không  hỗ  trợ  liên  kết  OLE .  Vậy  tên  «  % s  »  sẽ  bị  mất .
+ tham  chiếu  ngoại
+ Chưa  nhập  mật  khẩu
+ &  [ TAB ]
+ &  [ NGÀY ]
+ TẬP  TIN
+ Không  mở  được  dòng  «  Book  »  ( sách )  để  ghi .
+ Không  mở  được  dòng  «  Workbook  »  ( sổ  làm  việc )  để  ghi .
+ Hàm  bị  hỏng .
+ Quá  nhiều  đối  số  cho  hàm  «  % s  » ,  MS  Excel ™  chỉ  có  thể  quản  lý  % d  đối  số ,  không  phải  % d .
+ MS  Excel ™
+ Nhập / Xuất  tập  tin  MS  Excel ™
+ MS  Excel ™  ( * .xls )
+ MS  Excel ™  97 / 2000 / XP
+ MS  Excel ™  5.0 / 95
+ MS  Excel ™  97 / 2000 / XP   &   5.0 / 95
+ MS  Excel ™  2003  SpreadsheetML
+ Đang  thay  đổi  thuộc  tính  của  sổ  làm  việc ...
+ Đang  đổi  thuộc  tính  tờ
+ Thuộc  tính
+ Số  không  hợp  lệ  «  % s  »  cho  thuộc  tính  % s
+ Sổ  làm  việc  lạ  «  % s  » .
+ «  % s  »  bị  hỏng  !
+ Số  nguyên  không  hợp  lệ  «  % s  »  cho  thuộc  tính  % s
+ Dạng  thức  số  «  % s  »  chưa  được  xác  định
+ Tham  chiếu  sst  không  hợp  lệ  «  % s  »
+ Ô  không  hợp  lệ  % s
+ Siêu  liên  kết  kiểu  không  rõ
+ Không  thể  dán  vào  vùng  chọn
+ Quản  lý  tờ ...
+ _ Bảo  vệ  sổ  làm  việc
+ Không  tìm  thấy  luồng  Sổ  làm  việc .
+ Kiểu  Python  chưa  hỗ  trợ :  % s
+ % s  ( % s )
+ Không  thể  mở  tập  tin  «  % s  » .
+ Hàm  cơ  sở  dữ  liệu
+ Hàm  xử  lý  ngày  giờ
+ Ngày / Giờ
+ Hàm  phức
+ Hàm  xử  lý  số  phức
+ Phức
+ Hàm  tra  cứu  giá  trị  trong  cơ  sở  dữ  liệu
+ Cơ  sở  dữ  liệu
+ Hàm  ngày / giờ
+ Đạo  hàm  tài  chính
+ Các  hàm  liên  quan  đến  đạo  hàm  tài  chính
+ Tài  chính
+ Hàm  kỹ  thuật
+ Hàm  xử  lý  số  phức ,  chuyển  đổi  cơ  số  v.v.
+ Kỹ  thuật
+ Hàm  Erlang
+ Hàm  giúp  đỡ  phân  tích  loại  Erlang .
+ Erlang
+ Hàm  tài  chính
+ Tính  toán  lãi  xuất .
+ Tập  tin
+ Chữ
+ Chữ  chân
+ Bằng
+ Hàm  xử  lý  ngày  giờ $ A :
+ Chưa  làm
+ Phiên  bản  lạ
+ % s  phiên  bản  % s
+ Tự  động
+ Thủ  công
+ Hệ  thống  lạ
+ kiểu _ thông _ tin  lạ
+ Số  đối  số  không  hợp  lệ
+ Hàm  thông  tin
+ Hàm  theo  dõi  giá  trị ,  ô ,  và  nhiều  nữa
+ Thông  tin
+ Kiểu  không  khớp
+ Hàm  hợp  lý
+ Hàm  xử  lý  giá  trị  sự  thật
+ Hợp  lý
+ Hàm  tra  cứu
+ Hàm  tra  cứu  giá  trị  trong  phạm  vi
+ Tra _ cứu
+ Hàm  toán  học
+ Toán  học
+ Lý  thuyết  số
+ Một  vài  tiện  ích  cơ  bản  cho  số  nguyên  tố ,  π ,  φ ,  Σ .  Ngoài  ra  còn  có  các  thao  tác  cách  một  ví  trị  bit  đơn  giản .
+ Thao  tác  cách  một  ví  trị  bit
+ Hàm  thống  kê
+ Thống  kê
+ Hàm  số  ngẫu  nhiên
+ Hàm  phát  sinh  số  ngẫu  nhiên
+ Số  ngẫu  nhiên
+ Hàm  chuỗi
+ Hàm  xử  lý  chuỗi
+ Chuỗi
+ Phân  tích  Fourier
+ Kết  nối  đến  cơ  sở  dữ  liệu
+ Lỗi :  không  thể  tạo  kết  nối  tới  % s
+ Dạng  thức :  execSQL ( dsn , người  dùng , mật  khẩu , sql )
+ Dạng  thức :  readDBTable ( dsn , người  dùng , mật  khẩu , bảng )
+ Các  hàm  cơ  sở  dữ  liệu  cho  phép  nhận  dữ  liệu  từ  cơ  sở  dữ  liệu
+ Bộ  lưu  tập  tin  mặc  định  không  sẵn  sàng .
+ Không  tạo  được  tập  tin  tạm  để  gởi .
+ Thuật  ngữ  Gnome
+ Hỗ  trợ  lưu  Thuật  ngữ  Gnome  trong  các  tập  tin  dạng  .po
+ Thuật  ngữ  Gnome  dạng  thức  PO
+ Không  thể  phân  tách  mã  HTML .
+ HTML   &   TeX
+ Nhập / Xuất  HTML ,  TeX ,  DVI ,  roff
+ HTML  ( * .html ,  * .htm )
+ HTML  3.2  ( * .html )
+ HTML  4.0  ( * .html )
+ Đoạn  HTML  ( * .html )
+ XHTML  ( * .html )
+ LaTeX  2e  ( * .tex )
+ Đoạn  bảng  LaTeX  2e  ( * .tex )
+ TROFF  ( * .me )
+ Gặp  lỗi  khi  đọc  sổ  làm  việc  Lotus
+ Lotus  123
+ Nhập  tập  tin  Lotus  123
+ Lotus  123  ( * .wk1 ,  * .wks ,  * .123 )
+ LP  Solve
+ Tên  chương  trình
+ Phần  HÀNG  không  hợp  lệ  trong  tập  tin .
+ Cập  nhật  tên  % s
+ Tạo  bản  sao  đối  tượng
+ Tên  không  hợp  lệ
+ Ràng  buộc
+ Kiểu
+ Giới  hạn
+ Biến
+ Hàm  mục  tiêu :
+ Gặp  lỗi  khi  đọc  tập  tin  MPS .
+ Môđun  khuôn  dạng  biểu  thức  chương  trình  số  nguyên  và  tuyến  tính  ( MPS )
+ Đọc  các  chương  trình  LP  được  lưu  bằng  dạng  MPS  ( * .mps )
+ Khuôn  dạng  tập  tin  chương  trình  số  nguyên  và  tuyến  tính  ( * .mps )
+ Tập  tin  Psion  này  không  phải  là  một  tập  tin  Sheet .
+ GNU  Oleo
+ Nhập  tài  liệu  GNU  Oleo
+ GNU  Oleo  ( * .oleo )
+ Lỗi  kiểu  nội  bộ
+ Không  thể  mở  «  % s  » .
+ Không  thể  phân  tách  \ t «  % s  »  vì  «  % s  »
+ Biểu  thức  «  % s  »  không  bắt  đầu  bằng  một  trong  những  ký  tự  được  công  nhận
+ Thiếu  biểu  thức
+ Không  thể  kích  hoạt  địa  chỉ  Mạng  «  % s  » .
+ Phạm  vi  cơ  sở  dữ  liệu  không  hợp  lệ  «  % s  »
+ Không  thấy  có  dòng  tên  «  content.xml  »  ( nội  dung ) .
+ Không  thấy  có  dòng  tên  «  styles.xml  »  ( kiểu  dạng ) .
+ Siêu  dữ  liệu  không  hợp  lệ  «  % s  »
+ tab
+ trang
+ ngày
+ giờ
+ tập  tin
+ đường  dẫn
+ _ Quản  lý  tờ ...
+ Open / Star  Calc  ( * .sxc ,  * .ods )
+ Gặp  lỗi  khi  mở  tập  tin  Paradox .
+ Không  thể  cấp  bộ  nhớ  cho  mục  ghi .
+ Không  hỗ  trợ  kiểu  trường  % d .
+ Không  tạo  được  hộp  thoại  Đi  đến .
+ Không  tạo  được  Thủ  thuật  Công  thức .
+ Paradox
+ Nhập  tập  tin  Paradox
+ Cơ  sở  dữ  liệu  Paradox  hoặc  tập  tin  chỉ  mục  chính
+ Hàm  Perl
+ Bổ  sung  Perl  mẫu ,  cung  cấp  một  vài  hàm  ( vô  ích ) .
+ Perl
+ Lỗi  Perl : 
+ Chưa  cho  biết  tên  tập  tin  mô  đun .
+ Không  có  tập  lệnh  «  perl _ func.pl  » .
+ Bộ  tải  bổ  sung  Perl
+ Bổ  sung  hỗ  trợ  bổ  sung  Perl
+ PLN :  Bảng  tính  đã  được  mã  hóa  bằng  mật  khẩu
+ Plan  Perfect
+ Nhập  tài  liệu  định  dạng  Plan  Perfect
+ Nhập  dạng  thức  Plan  Perfect  ( PLN )
+ Psiconv
+ Nhập  tập  tin  Sheet  dãy  Psion  5
+ Psion  ( * .psisheet )
+ Gặp  lỗi  khi  đọc  tập  tin  pisconv .
+ Gặp  lỗi  khi  phân  tách  tập  tin  Psion .
+ Hàm  Python
+ Bổ  sung  Python  mẫu ,  cung  cấp  một  vài  hàm  ( vô  ích ) .
+ Python
+ Bộ  thông  dịch  mặc  định
+ Bộ  tải  bổ  sung  Python
+ Bổ  sung  này  hỗ  trợ  bổ  sung  Python
+ Bàn  giao  tiếp  Python  Gnumeric
+ * * *  Bộ  thông  dịch :  % s
+ _ Thực  hiện  trong :
+ _ Lệnh :
+ Danh  sách  Python  không  phải  là  mảng
+ Lỗi  lạ
+ Lỗi  ngoại  lệ  Python  ( % s :  % s )
+ Lỗi  ngoại  lệ  Python  ( % s )
+ Chưa  có  tên  mô  đun  Python .
+ Gặp  lỗi  khi  mở  tập  tin  «  % s  »  để  ghi .
+ Gặp  lỗi  khi  mở  tập  tin  «  % s  »  để  đọc .
+ Không  tạo  được  bộ  thông  dịch  Python  mới .
+ Mô  đun  «  % s  » k  hông  tồn  tại .
+ Thất  bại  thực  hiện  mô  đun  «  % s  » .
+ Tên  nào
+ Tập  tin  Python  «  % s  »  dùng  dạng  thức  không  hợp  lệ .
+ Tập  tin  không  chứa  hàm  «  % s  » .
+ Tập  tin  không  chứa  từ  điển  «  % s  » .
+ Đối  tượng  «  % s  »  không  phải  là  từ  điển .
+ Hành  động  lạ :  % s
+ Quattro  Pro ™
+ Nhập  tập  tin  Quattro  Pro ™
+ Quattro  Pro ™  ( * .wb1 ,  * .wb2 ,  * .wb3 )
+ Độ  phóng  không  hợp  lệ  «  % hd  % %  » .
+ Nguồn  dữ  liệu  mẫu
+ Nguồn  dữ  liệu  bên  ngoài  sự  chứng  minh  ý  niệm
+ SC / XSpread
+ Nhập  tập  tin  SC / XSpread
+ SC / xspread
+ Bảng  làm  việc :
+ Bảng  nơi  cần  tìm  kiếm .
+ Gặp  lỗi  khi  phân  tách  dòng
+ MultiPlan  ( SYLK )
+ Nhập / xuất  khẩu  cho  tập  tin  kiểu  MultiPlan  ( SYLK )
+ Ô  chứa  nhiều  biểu  thức
+ Chào  của  giao  diện  người  dùng
+ Bổ  sung  Chào  Thế  giới  dùng  dịch  vụ  giao  diện  người  dùng
+ Đây  là  thông  điệp  từ  bổ  sung  «  % s  » .
+ Gặp  lỗi  khi  mở  tập  tin  XBase .
+ XBase
+ Nhập  tập  tin  XBase
+ Tập  tin  Xbase  ( * .dbf )
+ Danh  sách  các  hàm  được  dùng  gần  đây .
+ Bộ  lựa  chọn  hàm  bảo  quản  một  danh  sách  các  hàm  đã  dùng  gần  đầy .  Ở  đây  thì  có  danh  sách  này .
+ Độ  dài  tối  đa  của  danh  sách  các  hàm  được  dùng  gần  đây
+ Bộ  lựa  chọn  hàm  bảo  quản  một  danh  sách  các  hàm  đã  dùng  gần  đầy .  Ở  đây  thì  có  độ  dài  tối  đa  của  danh  sách  này .
+ Biến  này  xác  định  có  bật  chức  năng  tự  động  hoàn  thành  không .
+ Danh  sách  các  ngoại  lệ  chữ  hoa  đầu
+ Cư  chế  tự  động  sửa  không  sửa  chữ  đầu  hoa  đầu  của  từ  trong  danh  sách  này .
+ Cư  chế  tự  động  sửa  không  sửa  chữ  đầu  của  từ  trong  danh  sách  này .
+ Tự  động  sửa  tên  ngày
+ Tự  động  sửa  thay  thế
+ Kích  hoạt  các  bổ  sung  mới
+ Danh  sách  các  bổ  sung  hoạt  động .
+ Danh  sách  các  bổ  sung  đã  biết .
+ Danh  sách  tính  trạng  tập  tin  bổ  sung .
+ Danh  sách  này  chứa  mọi  tập  tin  tính  trạng  bổ  sung .
+ Thư  mục  hệ  thống  cho  Tự  động  Định  dạng
+ Thư  mục  này  chứa  các  mẫu  tự  động  định  dạng  được  cài  sẵn .
+ Thư  mục  chính  cho  mẫu  tự  động  định  dạng  đặc  trưng  cho  người  dùng .
+ GTKPrintSetting
+ Cấu  hình  của  GTKPrintSetting .  Đừng  sửa  biến  này .
+ Phần  đầu  trang
+ Phần  đầu  trang  mặc  định  cho  mọi  tài  liệu  mới ,  mà  có  thể  được  sửa  đổi  dùng  hộp  thoại  thiết  lập  trang .
+ Phần  chân  trang
+ Phần  chân  trang  mặc  định  cho  mọi  tài  liệu  mới ,  mà  có  thể  được  sửa  đổi  dùng  hộp  thoại  thiết  lập  trang .
+ Cỡ  phông  chữ  phần  đầu / chân  trang  mặc  định
+ Cỡ  phông  chữ  mặc  định  cho  phần  đầu / chân  trang .
+ Tên  phông  chữ  phần  đầu / chân  mặc  định
+ Tên  phông  chữ  mặc  định  cho  phần  đầu / chân  trang .
+ Phông  chữ  mặc  định  phần  đầu / chân  trang  là  đậm .
+ Giá  trị  này  xác  định  có  nên  phông  chữ  mặc  định  cho  phần  đầu / chân  có  đậm  hay  không .
+ Phông  chữ  mặc  định  phần  đầu / chân  trang  là  nghiêng .
+ Canh  giữa  theo  chiều  ngang  mặc  định
+ Giá  trị  này  xác  định  có  nên  thiết  lập  mặc  định  trong  hộp  thoại  «  Thiết  lập  in  »  có  canh  giữa  trang  theo  chiều  ngang  hay  không .  Hãy  dùng  hộp  thoại  «  Thiết  lập  in  »  để  hiệu  chỉnh  giá  trị  này .
+ Canh  giữa  dọc  mặc  định
+ In  tiêu  đề  mặc  định
+ Chiều  in  mặc  định
+ Kiểu  tỷ  lệ  mặc  định
+ Phần  trăm  tỷ  lệ  mặc  định
+ Độ  rộng  tỷ  lệ  mặc  định
+ Độ  cao  tỷ  lệ  mặc  định
+ Đơn  vị  hiển  thị  ưa  thích
+ Chuỗi  này  đưa  ra  đơn  vị  mặc  định  cần  dùng  trong  hộp  thoại  thiết  lập  trang .
+ Lề  trên  mặc  định
+ Lề  dưới  mặc  định
+ Lề  dưới  bên  ngoài  mặc  định
+ Lề  trên  bên  ngoài  mặc  định
+ Lề  trái  mặc  định
+ Giấy
+ Đây  là  đặc  tả  giấy  mặc  định .  Hãy  dùng  hộp  thoại  «  Thiết  lập  in  »  để  hiệu  chỉnh  giá  trị  này .
+ Tương  quan  Pearson
+ Đây  là  hướng  giấy  mặc  định .  Hãy  dùng  hộp  thoại  «  Thiết  lập  in  »  để  hiệu  chỉnh  giá  trị  này .
+ Hãy  dùng  hộp  thoại  «  Thiết  lập  In  »  để  hiệu  chỉnh  giá  trị  này .
+ Xuất  chữ  ( có  thể  cấu  hình )
+ Tìm  và  Thay  thế
+ Chỉ  tìm  và  thay  thế  bảng  hiện  thời
+ Truy  vấn  Tìm  và  Thay  thế
+ Biểu  thức  tìm  kiếm
+ Tìm  kiếm  giá  trị  khác
+ Việc  thay  thế  nên  giữ  chuỗi  dạng  chuỗi  không ?
+ Kiểu  dạng  thanh  công  cụ
+ Kiểu  dạng  thanh  công  cụ .  Giá  trị  hợp  lệ  là  «  cả  hai  » ,  «  cả  hai  ngang  » ,  «  ảnh  »  và  «  chữ  » .
+ Hiện  tên  bảng  trong  danh  sách  hoàn  lại
+ Cỡ  hoàn  lại  tối  đa
+ Số  mục  hoàn  lại
+ Giá  trị  này  xác  định  số  mục  hoàn  lại / làm  lại  tối  đa .
+ Độ  dài  mô  tả  hoàn  lại
+ Cỡ  phông  chữ  mặc  định
+ Cỡ  phông  chữ  mặc  định  cho  sổ  làm  việc  mới .
+ Tên  phông  chữ  mặc  định
+ Tên  phông  chữ  mặc  định  cho  sổ  làm  việc  mới .
+ Phông  chữ  mặc  định  là  đậm .
+ Phông  chữ  mặc  định  là  nghiêng .
+ Số  bảng  mặc  định
+ Số  bảng  được  tạo  ban  đầu  khi  tạo  sổ  làm  việc  mới .
+ Điểm  trong  mỗi  insơ  bình  phương  theo  chiều  ngang
+ Độ  phân  giải  màn  hình  theo  chiều  ngang .
+ Điểm  trong  mỗi  insơ  bình  phương  dọc
+ Độ  phân  giải  màn  hình  theo  chiều  dọc .
+ Hiện  thanh  công  cụ  chuẩn
+ Biến  này  xác  định  có  hiển  thị  thanh  công  cụ  chuẩn  ban  đầu  không .
+ Ví  trị  thanh  công  cụ  chuẩn
+ Biến  này  xác  định  nơi  cần  hiển  thị  thanh  công  cụ  chuẩn :   •  0 \ t \ tbên  trái   •  1 \ t \ tbên  phải   •  2 \ t \ tbên  trên .
+ Hiện  thanh  định  dạng
+ Biến  này  xác  định  có  hiển  thị  thanh  công  cụ  định  dạng  ban  đầu  không .
+ Biến  này  xác  định  nơi  cần  hiển  thị  thanh  công  cụ  định  dạng :   •  0 \ t \ tbên  trái   •  1 \ t \ tbên  phải   •  2 \ t \ tbên  trên .
+ Hiện  thanh  công  cụ  đối  tượng
+ Biến  này  xác  định  có  hiển  thị  thanh  công  cụ  đối  tượng  ban  đầu  không .
+ Biến  này  xác  định  nơi  cần  hiển  thị  thanh  công  cụ  đối  tượng :   •  0 \ t \ tbên  trái   •  1 \ t \ tbên  phải   •  2 \ t \ tbên  trên .
+ Bộ  chọn  hàm
+ Phạm  vi  ô
+ Tự  động  hoàn  chỉnh
+ Hàm / Đối  số
+ Hướng
+ Phím  chuyển  đổi
+ Chiều  rộng  cửa  sổ  mặc  định
+ Chiều  cao  cửa  sổ  mặc  định
+ Hệ  số  phóng  mặc  định
+ Hệ  số  phóng  ban  đầu  của  sổ  làm  việc  mới .
+ Độ  nén  mặc  định  cho  tập  tin  Gnumeric
+ Cảnh  báo  khi  xuất  ra  dạng  thức  bảng  đơn
+ Mặc  định  là  ghi  đè  lên  tập  tin
+ Trước  khi  ghi  đè  lên  tập  tin  đã  có ,  trình  gnumeric  sẽ  mở  hộp  thoại  cảnh  báo .  Lập  tùy  chọn  này  sẽ  làm  cho  cái  nút  ghi  đè  trong  hộp  thoại  này  là  cái  nút  mặc  định .
+ Sắp  xếp  phân  biệt  hoa / thường
+ Lập  tùy  chọn  này  sẽ  gây  ra  các  cái  nút  sắp  xếp  trên  thanh  công  cụ  thì  thực  hiện  việc  sắp  xếp  phân  biệt  chữ  hoa / thường ,  và  xác  định  tính  trạng  đầu  tiên  của  hộp  chọn  phân  biệt  chữ  hoa / thường  trong  hộp  thoại  sắp  xếp .
+ Sắp  xếp  bảo  quản  dạng  thức
+ Lập  tùy  chọn  này  sẽ  gây  ra  các  cái  nút  sắp  xếp  trên  thanh  công  cụ  thì  bảo  quản  dạng  thức  ô  trong  khi  sắp  xếp  và  xác  định  tính  trạng  ban  đầu  của  hộp  chọn  bảo  quản  dạng  thức  trong  hộp  thoại  sắp  xếp .
+ Sắp  tăng  dần
+ Tùy  chọn  này  xác  định  tính  trạng  ban  đầu  của  cái  nút  Thứ  tự  Sắp  xếp  trong  hộp  thoại  Sắp  xếp .
+ Thích  KHAY  hơn  lựa  chọn  CHÍNH
+ Khi  ĐÚNG  ( true )  thì  trình  Gnumeric  sẽ  thích  lựa  chọn  BẢNG  TẠM  mới  hơn  lựa  chọn  CHÍNH  thừa  tự .  Lập  là  SAI  ( false )  nếu  bạn  cần  quản  lý  ứng  dụng  cũ  hơn ,  như  Xterm  hay  Emacs ,  mà  lập  chỉ  lựa  chọn  CHÍNH  thôi .
+ Dùng  UTF-8  trong  LaTeX  Export  ( xuất )
+ Thiết  lập  này  xác  định  có  nên  tập  tin  LaTeX  đã  tạo  thì  dùng  UTF-8  ( Unicode )  hoặc  ISO-     -Ă  ( Latin1 )  hay  không .  Để  sử  dụng  tập  tin  UTF-8 ,  bạn  cần  phải  cài  đặt  gói  «  ucs  LaTeX  » .
+ Thanh  công  cụ  chuẩn
+ Thanh  công  cụ  định  dạng
+ Thanh  công  cụ  đối  tượng
+ Cắt  đối  tượng
+ Không  thể  dán
+ Nội  dung  có  thể  được  dán  chỉ  theo  giá  trị  hoặc  bằng  liên  kết  thôi .
+ số  lượng  cột  nguồn  ở  đích  không  phải  là  một  số  chẵn  ( % d  so  với  % d )  Hãy  thử  chọn  một  ô  đơn  hoặc  một  vùng  có  cùng  hình  dạng  và  kích  thước .
+ số  lượng  hàng  nguồn  ở  đích  không  phải  là  một  số  chẵn  ( % d  so  với  % d )  Hãy  thử  chọn  ô  đơn  hoặc  vùng  có  cùng  hình  dạng  và  kích  thước .
+ kết  quả  vượt  ngoài  phạm  vi  bảng
+ Dán
+ đích  có  hình  dạng  khác  ( % dRx % dC )  so  với  điều  gốc  ( % dRx % dC )  Hãy  thử  chọn  một  ô  đơn  hoặc  một  vùng  có  cùng  hình  dạng  và  kích  thước .
+ Dịch  hàng  % s
+ Dịch  cột  % s
+ Tách  mảng  % s
+ Tách  dãy
+ % s  bị  khóa .  Bỏ  bảo  vệ  sổ  làm  việc  để  cho  phép  hiệu  chỉnh .
+ % s  bị  khóa .  Bỏ  bảo  vệ  bảng  để  cho  phép  hiệu  chỉnh .
+ Đang  hiếu  chỉnh  kiểu  dạng  trong  % s
+ Đang  gõ  «  % s % s  »  vào  % s
+ Nhập  chữ
+ Đang  chèn  % d  hàng  sau  % s
+ Tạo  một  lát  dữ  liệu
+ Chèn / Xóa / Cột / Hàng
+ Đang  xóa  bỏ  cột  % s
+ Đang  xóa  bỏ  hàng  % s
+ Xóa
+ nội  dung
+ dạng  thức
+ ghi  chú
+ tất  cả
+ Đang  xóa  % s  trong  % s
+ Đang  đổi  định  dạng
+ Đang  đổi  định  dạng  của  % s
+ Đang  lập  ghi  chú  của  % s
+ Tự  động  làm  khít  cột  % s
+ Tự  động  làm  khít  dòng  % s
+ Đang  chỉnh  chỉnh  độ  rộng  của  cột  % s  về  mặc  định
+ Đang  chỉnh  độ  cao  của  hàng  % s  về  mặc  định
+ Tự  động  làm  khít  hàng  % s
+ Đang  chỉnh  độ  rộng  của  cột  % s  về  mặc  định
+ Sắp  xếp
+ Đang  sắp  xếp  % s
+ Hiện  cột
+ Ẩn  cột
+ Hiện  hàng
+ Ẩn  hàng
+ Bung  cột
+ Co  cột
+ Bung  hàng
+ Co  hàng
+ Hiện  phác  thảo  cột  % d
+ Hiện  phác  thảo  hàng  % d
+ Những  cột  này  đã  được  nhóm  rồi
+ Những  hàng  này  đã  được  nhóm  rồi
+ Những  cột  này  chưa  được  nhóm ,  nên  không  thể  tách  nhóm
+ Những  hàng  này  chưa  được  nhóm ,  nên  không  thể  tách  nhóm
+ Nhóm  cột  % s
+ Tách  nhóm  cột  % s
+ Nhóm  hàng  % d : % d
+ Tách  nhóm  hàng  % d : % d
+ Đang  di  chuyển  % s
+ ở  ngoại  giới  hạn  tờ
+ Dán  điều  đã  chép
+ Đang  dán  vào  % s
+ Bạn  có  muốn  lưu  sổ  làm  việc  «  % s  »  không ?
+ Tự  điền  đầy
+ Đang  tự  động  điền  đầy  % s
+ Đang  tự  động  định  dạng  % s
+ Đang  bỏ  trộn  % s
+ Trộn  và  Canh  giữa  % s
+ Đang  trộn  % s
+ Đang  chỉnh  độ  rộng  cột  mặc  định  là  % .2f  điểm
+ Đang  chỉnh  độ  cao  hàng  mặc  định  là  % .2f  điểm
+ Phóng  % s  tới  % .0f % %
+ Xoá  bỏ  đối  tượng
+ Định  dạng  đối  tượng
+ Tên
+ Tên  bảng  không  thể  rỗng .
+ Đang  đổi  tên  tờ
+ Đang  xóa  ghi  chú  của  % s
+ Đang  trộn  dữ  liệu  vào  % s
+ Kéo  đối  tượng  đến  trước
+ Kéo  đối  tượng  phía  trước
+ Đẩy  đối  tượng  phía  sau
+ Đẩy  đối  tượng  vào  sau
+ Thiết  lập  trang  in  cho  % s
+ Thiết  lập  trang  in  cho  mọi  tờ
+ «  % s  »  đã  định  nghĩa  trong  tờ
+ có  tham  chiếu  vòng
+ Định  nghĩa  tên  % s
+ Gỡ  bỏ  tên  % s
+ Thêm  kịch  bản
+ Xáo  trộn  dữ  liệu
+ Chữ  ( % s )  sang  Cột  ( % s )
+ Tìm  đích  ( % s )
+ Đang  xếp  lệ  thuộc  thành  bảng
+ Cấu  hình  lại  đồ  thị
+ Đổi  cỡ  đối  tượng
+ Trái  qua  phải
+ Sửa  siêu  liên  kết
+ Lõi
+ Tạo  nhãn
+ Tạo  nút  xoay
+ Thêm  bộ  lọc
+ Thêm  bộ  _ lọc  tự  động
+ Bộ  lọc  Tự  động
+ Cần  thiết  nhiều  hàng
+ Bỏ  bộ  _ lọc  tự  động
+ Đang  củng  cố  đến  ( % s )
+ Củng  cố  dữ  liệu
+ Tính  năng
+ Môn  phân  tích
+ Nhập  xuất
+ Tạo  tập  lệnh
+ Giao  diện  người  dùng
+ Khả  năng  sử  dụng
+ Thông  dịch
+ Tin  chắc  chất  lượng
+ Nghệ  thuật
+ Đóng  gói
+ Harald  Ashburner
+ Người  lập  giá  tùy  chọn
+ Sean  Atkinson
+ Hàm  và  nhập  X-Base
+ Michel  Berkelaar
+ Thuật  toán  đơn  hình  cho  Solver  ( LP  Solve ) .
+ Jean  Brefort
+ Cơ  chế  tạo  đồ  thị  lõi .
+ Bà  Chema  Celorio
+ Tin  chắc  chất  lượng  và  sao  chép  tờ .
+ Frank  Chiulli
+ Hỗ  trợ  OLE2 .
+ Kenneth  Christiansen
+ Địa  phương  hóa ,
+ Zbigniew  Chyla
+ Hệ  thống  bổ  sung ,  địa  phương  hóa .
+ J.H.M.  Dassen  ( Ray )
+ Đóng  gói  Debian  ( .deb ) .
+ Jeroen  Dirks
+ Tom  Dyas
+ Cơ  chế  bổ  sung  gốc
+ Gergo  Erdi
+ Công  cụ  giao  diện  người  dùng  tủy  chỉnh
+ John  Gotts
+ Đóng  gói  RPM :
+ Andreas  J.  Gülzow
+ Thống  kê  và  giao  diện  người  dùng  đồ  họa  chính
+ Jon  Kåre  Hellan
+ Điều  hưởng  tinh  giao  diện  người  dùng  và  người  sửa  lỗi  các  loại
+ Ross  Ihaka
+ Hàm  đặc  biệt
+ Jukka-Pekka  Iivonen
+ Người  giải  phương  trình ,  nhiều  hàm  của  bảng  làm  việc ,  và  người  tiên  phong  chung
+ Jakub  Jelínek
+ Một  của  những  người  đóng  góp  lõi  gốc
+ Chris  Lahey
+ Cơ  chế  định  dạng  giá  trị  gốc  và  làm  việc  libgoffice .
+ Takashi  Matsuda
+ Bổ  sung  văn  bản  gốc
+ Michael  Meeks
+ Bắt  đầu  cơ  chế  nhập / xuất  MS  Excel ™ ,  và  «  GnmStyle  »  ( Kiểu  Gnm )
+ Lutz  Muller
+ Cải  tiến  SheetObject
+ Yukihiro  Nakai
+ Hỗ  trợ  ngôn  ngữ  không  La-tinh
+ Emmanuel  Pacaud
+ Nhiều  kiểu  sơ  đồ  cho  cơ  chế  đồ  thị
+ Federico  M.  Quintero
+ hỗ  trợ  canvas
+ Mark  Probst
+ Hỗ  trợ  Guile .
+ Rasca
+ Bộ  xuất  HTML ,  troff ,  LaTeX
+ Vincent  Renardias
+ hỗ  trợ  CSV  gốc ,  bản  địa  hoá  tiếng  Pháp .
+ Ariel  Rios
+ Jakub  Steiner
+ Biểu  tượng  và  ảnh
+ Uwe  Steinmann
+ Bộ  nhập  Paradox
+ Arturo  Tena
+ Việc  đồ  gốc  về  OLE2  cho  libgsf
+ Almer  S.  Tigelaar
+ Củng  cố  và  bộ  nhập  văn  bản  có  cấu  trúc
+ Bruno  Unna
+ Phần  bộ  nhập  MS  Excel ™
+ Hàm  viễn  thông
+ Daniel  Veillard
+ Hỗ  trợ  XML  ban  đầu
+ Vladimir  Vuksan
+ Một  số  hàm  tài  chính
+ Morten  Welinder
+ Người  rất  mạnh  giúp  nhau
+ Kevin  Breit
+ Thomas  Canty
+ Adrian  Custer
+ Adrian  Likins
+ Aaron  Weber
+ Alexander  Kirillov
+ Giới  thiệu  Gnumeric
+ Duyệt  tới  trang  chủ  Mạng  Gnumeric .
+ Phạm  vi  danh  sách  không  hợp  lệ .
+ Phạm  vi  tiêu  chuẩn  không  hợp  lệ .
+ Phạm  vi  xuất  không  hợp  lệ .
+ Tiêu  chuẩn  được  cho  không  hợp  lệ .
+ Không  tìm  thấy  bản  ghi  nào  trùng  khớp .
+ Gặp  lỗi  bất  ngờ :  % d
+ Không  tạo  được  hộp  thoại  Bộ  lọc  Nâng  cao .
+ Bộ  lọc  tạ _ i  chỗ
+ Phạm  vi  gõ  không  hợp  lệ .
+ Giá  trị  α  ( anfa )  cần  phải  là  số  giữa  0  và  1 .
+ Đặc  tả  xuất  không  hợp  lệ .
+ Không  tạo  được  hộp  thoại  Công  cụ  kiểm  tra  kỳ  vọng .
+ Không  tạo  được  hộp  thoại  Công  cụ  FTest
+ Giá  trị  được  cho  trong  «  Đến  giá  trị :  »  không  hợp  lệ .
+ Nhóm
+ từ  :
+ Trên
+ Không  tạo  được  hộp  thoại  Công  cụ  Lấy  Mẫu .
+ Chữ  tìm  kiếm  có  nghĩa  chữ .
+ Không  tạo  được  hộp  thoại  Công  cụ  Phân  tích  Fourier .
+ Phạm  vi  biến  gõ  không  hợp  lệ .
+ Các  hàng  gõ  được  chọn  phải  cùng  kích  thước !
+ Các  cột  gõ  được  chọn  phải  cùng  kích  thước !
+ Các  vùng  gõ  được  chọn  phải  có  cùng  kích  thước !
+ Không  tạo  được  hộp  thoại  Công  cụ  Tương  quan .
+ Không  tạo  được  hộp  thoại  Công  cụ  hiệp  phương  sai .
+ Không  tạo  được  hộp  thoại  Công  cụ  Hạng  và  Tỷ  lệ  Phần  trăm .
+ Chưa  chọn  thống  kê  nào .
+ Cấp  tin  cậy  nên  giữa  0  và  1 .
+ K  phải  là  số  nguyên  dương .
+ Không  tạo  được  hộp  thoại  Công  cụ  Thống  kê  Mô  tả .
+ Vui  lòng  nhập  số  phương  sai  dân  số  hợp  lệ  cho  biến  1 .
+ Vui  lòng  nhập  số  phương  sai  dân  số  hợp  lệ  cho  biến  2 .
+ Cỡ  mẫu  yêu  cầu  quá  lớn  so  với  mẫu  tuần  hoàn .
+ Biến  _ Y :
+ Biến  _ X :
+ Không  tạo  được  hộp  thoại  Công  cụ  Hồi  quy .
+ Không  tạo  được  hộp  thoại  Công  cụ  Làm  mịn  Lũy  thừa .
+ Không  tạo  được  hộp  thoại  Công  cụ  Trung  bình  Động .
+ Không  tạo  được  hộp  thoại  Công  cụ  Biểu  đồ  tần  xuất .
+ Không  tạo  được  hộp  thoại  Công  cụ  ANOVA  ( hệ  số  đơn ) .
+ Phạm  vi  gõ  cho  trước  thì  nên  chứa  ít  nhất  hai  cột  và  hai  hàng  dữ  liệu  và  nhãn .
+ Phạm  vi  gõ  cho  trước  thì  nên  chứa  ít  nhất  hai  cột  và  hai  hàng  dữ  liệu .
+ Phạm  vi  gõ  cho  trước  thì  nên  chứa  ít  nhất  hai  cột  dữ  liệu  và  nhãn .
+ Phạm  vi  gõ  cho  trước  thì  nên  chứa  ít  nhất  hai  cột  dữ  liệu .
+ Phạm  vi  gõ  cho  trước  thì  nên  chứa  ít  nhất  hai  hàng  dữ  liệu  và  nhãn .
+ Phạm  vi  gõ  cho  trước  thì  nên  chứa  ít  nhất  hai  hàng  dữ  liệu .
+ Số  lượng  hàng  dữ  liệu  phải  là  bội  của  số  sao  chép .
+ Số  lượng  hàng  trong  mỗi  mẫu  nên  là  số  dương
+ Không  tạo  được  hộp  thoại  Công  cụ  ANOVA  ( hệ  số  đôi ) .
+ Phần  trăm
+ Đếm
+ Cột  % s
+ Một
+ Hai
+ * Ba
+ Tổng  cộng
+ Bắc
+ 6
+ 13
+ 20
+ 39
+ Nam
+ 12
+ 4
+ 17
+ 33
+ Tây
+ 8
+ 2
+ 10
+ 26
+ 19
+ 37
+ 81
+ Gặp  lỗi  khi  đọc  danh  sách  phân  loại .
+ Không  tạo  được  hộp  thoại  Tự  động  Lưu .
+ Ghi  chú  ô
+ Ghi  chú  ônone  underline
+ Không  có
+ Đơn
+ Đôi
+ Đơndouble  low  underlineunderline
+ Số
+ Nguồn
+ Tiêu  chuẩn
+ Tối  thiểu :
+ Tối  đa :
+ Giá  trị  :
+ Không         ( chấp  nhận  giá  trị  không  hợp  lệ  một  cách  im  lặng )
+ Dừng           ( không  bao  giờ  chấp  nhận  giá  trị  không  hợp  lệ )
+ Cảnh  báo     ( chấp  nhận / hủy  bỏ  đầu  vào  không  hợp  lệ )
+ Thông  tin  ( cho  phép  đầu  vào  không  hợp  lệ )
+ Định  dạng  ô
+ Viền
+ Xóa  nền
+ Nền
+ Mẫu
+ Chưa  xác  định
+ Không  cho  phép  ô  % s  chứa  giá  trị  lỗi
+ % s  không  chứa  giá  trị  mới .
+ Giá  trị  ô
+ Định  dạng  mỗi  cột
+ Sửa  thông  tin  mô  tả
+ Bảo  vệ :  cho  phép  định  dạng  ô
+ Hàng  % s
+ % s  đến  % s
+ không  có  cột  sẵn  sàng
+ không  có  hàng  sẵn  sàng
+ Tiêu  đề
+ Hàng / Cột
+ Phân  biệt  hoa / thường
+ Theo  giá  trị
+ Đặt  độ  rộng  cột  chuẩn / mặc  định
+ Đặt  độ  rộng  cột  của  vùng  chọn  trên    %  s 
+ Vùng  nguồn  % s  đè  lên  vùng  đích .
+ Phạm  vi  xuất  đè  lên  những  phạm  vi  gõ .
+ Không  tạo  được  hộp  thoại  Củng  cố .
+ Bộ  _ lọc
+ Cột
+ Dữ  liệu
+ Hoàn  lại
+ Không  tạo  được  hộp  thoại  Xáo  trộn  Dữ  liệu .
+ Sổ  làm  việc
+ Tên  mới
+ Tại  sao  bạn  muốn  định  nghĩa  một  tên  là  # NAME  không ?
+ Tên  kịch  bản  đang  dùng .
+ Có  sắp  xếp  việc  tìm  kiếm  theo  hàng  không ?
+ Không  tạo  được  Thủ  thuật  Tên .
+ Xoá  bỏ
+ Không  tạo  được  hộp  thoại  Xóa  bỏ  Ô .
+ Không  biết
+ Từ  khóa :
+ Số  nguyên  đồng  dạng
+ Liên  kết  đến
+ Mô  tả
+ Tính  toán
+ Không  tạo  được  hộp  thoại  Bộ  giải .
+ Không  tạo  được  hộp  thoại  Điền  đầy  Cấp  số .
+ [ % s ]
+ Hàm
+ Dùng  gần  đây
+ Bên  trong
+ Đối  số  :
+ Thông  tin  hệ  thống
+ Gnumeric :  hợp  lệ  hóa
+ Bạn  nên  giới  thiệu  một  tên  ô  hợp  lệ  trong  «  Lập  ô :  » .
+ Ô  nhận  tên  trong  «  Lập  ô :  »  phải  chứa  công  thức .
+ Bạn  nên  giới  thiệu  một  tên  ô  hợp  lệ  trong  «  Bằng  cách  thay  đổi  ô :  » .
+ Ô  nhận  tên  trong  «  Bằng  cách  thay  đổi  ô :  »  phải  không  chứa  công  thức .
+ Tìm  đích  với  ô  % s  đã  tìm  một  cách  giải  quyết .
+ Tìm  đích  với  ô  % s  đã  không  tìm  một  cách  giải  quyết .
+ Không  tạo  được  hộp  thoại  Tìm  Đích .
+ Cấp  sổ  làm  việc
+ Ô
+ Không  phải  phạm  vi  hoặc  tên .
+ Liên  kết  nội  bộ
+ Nhảy  đến  ô  dứt  khoát  hoặc  phạm  vi  tên  đặc  biệt  trong  sổ  làm  việc  hiện  có .
+ Liên  kết  bên  ngoài
+ Mở  tập  tin  bên  ngoài  với  tên  xác  định
+ Liên  kết  thư
+ Chuẩn  bị  thư
+ Liên  kết  Mạng
+ Duyệt  đến  địa  chỉ  Mạng  xác  định
+ Thêm  siêu  liên  kết
+ Bỏ  siêu  liên  kết
+ Không  tạo  được  hộp  thoại  Siêu  liên  kết .
+ Chèn
+ Không  tạo  được  hộp  thoại  Chèn  Ô .
+ Một  trường  hợp  không  là  phần  khu  vực  trộn .
+ % i  trường  hợp  không  là  phần  khu  vực  trộn .
+ Những  cột  dữ  liệu  có  độ  dài  từ  % i  đến  % i .  Bạn  có  muốn  cắt  xén  các  độ  dài  xuống  % i  rồi  tiếp  tục  không ?
+ Gõ  dữ  liệu
+ Trộn  trường
+ % s  bị  mật  mã  hóa .
+ Tập  tin  mật  mã  cần  thiết  mật  khẩu  trước  khi  có  thể  mở  nó .
+ Mật  khẩu :
+ Chọn  thư  mục
+ Bổ  sung  phụ  thuộc
+ Bổ  sung  lạ
+ Dịch  vụ  bổ  sung
+ Gặp  lỗi  khi  kích  hoạt  bổ  sung
+ Cần  phải  kích  hoạt  những  bổ  sung  thêm  theo  sau ,  để  kích  hoạt  bộ  này :
+ Bổ  sung  lạ  với  ID = «  % s  »
+ Bạn  có  muốn  kích  hoạt  bổ  sung  này ,  cũng  với  cách  phụ  thuộc  của  nó  không ?
+ Gặp  lỗi  khi  hủy  kích  hoạt  bổ  sung  «  % s  » .
+ Gặp  lỗi  khi  kích  hoạt  bổ  sung  «  % s  » .
+ Hoạt  động
+ Tên  bổ  sung
+ ID
+ Thư  mục
+ Độ  dài  Mô  tả  Hoàn  lại
+ Chọn  mọi  ô  trong  bảng  tính
+ Gõ  các  việc  di  chu _ yển  đã  chọn
+ Viết  hoa  tê _ n  hôm
+ NHững  KÝ  TỰ  HOa  ĐẦu
+ Khô _ ng  sửa :
+ Viết  h _ oa  chữ  đầu  câu
+ Khô _ ng  viết  hoa  sau  :
+ Tự  động  sửa
+ Phông  chữ
+ Công  cụ
+ Cửa  sổ
+ Phần  đầu / chân
+ Màn  hình
+ Ký  tự  đầu  tiên
+ điểm
+ insơ
+ Tùy  biến  phần  chân
+ Cấu  hình  tùy  biến  phần  đầu
+ Cấu  hình  tùy  biến  phần  chân
+ Khít  tự  động  _ vùng  chọn
+ _ Vùng  in :
+   Tùy   chọn 
+ Thời  gian  tối  đa :
+ Đồng  dạng
+ Giới  hạn  _ dưới :
+ Giới  hạn  _ trên :
+ Bình  thường
+ Trung  _ bình :
+ Độ  _ lệch  chuẩn :
+ Rời  rạc
+ Phạm  vi  gõ  _ giá  trị  và  xác  suất :
+ Bernoulli
+ Giá  trị  _ p :
+ β
+ Giá  trị  _ a :
+ Giá  trị  _ b :
+ Nhị  thức
+ _ Số  phép  thử  :
+ Cauchy
+ Chisq
+ Giá  trị  ν  ( _ nu ) :
+ Mũ
+ Lũy  thừa  số  mũ
+ F
+ Giá  trị  ν _ 1 :
+ Giá  trị  ν _ 2 :
+ γ
+ Đuôi  Gauss
+ Σ  ( _ Sigma )
+ Hình  học
+ Gumbel  ( Kiểu  1 )
+ Gumbel  ( Kiểu  2 )
+ Laplace
+ Giá  trị  _ c :
+ α  ( _ alpha ) :
+ Logarit
+ Lôgistic
+ Loga  thường
+ Giá  trị  ζ  ( _ Zeta ) :
+ Nhị  thức  âm
+ _ Số  phép  thử  thất  bại
+ Pareto
+ Poisson
+ λ  ( _ Lambda ) :
+ Rayleigh
+ Σ  ( _ Sigma ) :
+ Đuôi  Rayleigh
+ Sinh  viên  t
+ Weibull
+ Không  tạo  được  hộp  thoại  Công  cụ  Ngẫu  nhiên.09 : 5021 : 50
+ 9 : 50  am "  and  "  9 : 50  pm
+ Đặt  độ  cao  hàng  chuẩn / mặc  định
+ Đặt  độ  cao  hàng  của  vùng  chọn  trên    %  s 
+ Tóm  tắt  kịch  bản
+ Giá  trị  hiện  thời
+ Đang  đổi  ô :
+ Đổi  ô  không  hợp  lệ
+ Ô  đổi  nên  trên  chỉ  bảng  hiện  thời  thôi .
+ Tên  kịch  bản  không  hợp  lệ .
+ Không  tạo  được  hộp  thoại  Thêm  Kịch  bản .
+ Tạo  vào 
+ Không  tạo  được  hộp  thoại  Kịch  bản .
+ Bạn  phải  chọn  vài  loại  ô  để  tìm  kiếm .
+ Ghi  chú
+ Kết  quả
+ Bị  xoá  bỏ
+ Biểu  thức
+ Giá  trị  khác
+ Nội  dung
+ Phải  hiển  thị  ít  nhất  một  tờ.Lock
+ KhóaViz
+ HiệnDir
+ PhíaRowssheetlist
+ Phí  tổn
+ Tên  hiện  thời
+ Có  nhiều  bảng  có  tên  «  % s  » .
+ Mặc  định
+ Di  chuyển  đối  tượng
+ Thuộc  tính  đối  tượng  đã  điền  đầy
+ Phạm  vi  biến  xuất  không  hợp  lệ .
+ Mô  phỏng
+ Lần  lặp
+ #  Biến  gõ
+ Giờ  chạy
+ Chạy  vào
+ Tối  thiểu
+ Trung  bình
+ Tối  đa
+ Không  tạo  được  hộp  thoại  Mô  phỏng
+ Thật
+ Đang  thay  thế ...
+ Mũi  tên
+ Hủ _ y  bỏ
+ Có  thể  thực  hiện  được
+ Vấn  đề  vô  hạn
+ Bộ  giải
+ Bước
+ Giá  trị  mục  tiêu
+ Bộ  giải  đã  tạo  lời  giải  pháp  tối  ưu .
+ Với  ràng  buộc :
+ Xuất
+ Tính  năng  tự  động  phát  hiện  không  tìm  cột  nào  trong  văn  bản .  Hãy  tự  xem .
+ Trộn  với  cột  bên  t _ rái
+ Trộn  với  cột  bên  _ phải
+ _ Chia  cột  này  ra
+ Mở  _ rộng  cột  này
+ Thu  _ hẹp  cột  này
+ Đang  nhập  % i  cột ,  không  bỏ  qua  cột  nào .
+ Đang  nhập  % i  cột ,  bỏ  qua  % i  cột .
+ Bỏ  qua  mọi  cột  bên  phải .
+ Bỏ  qua  mọi  cột  bên  trái .
+ Nhập  mọi  cột  bên  phải .
+ Nhập  mọi  cột  bên  trái .
+ Chép  định  dạng  phía  phải .
+ Có  thể  nhập  % d  cột  tối  đa .
+ Nếu  chọn  hộp  thì  sẽ  nhập  cột  này  vào  Gnumeric .
+ Cột  % d
+ Dữ  liệu  này  không  hợp  lệ  bằng  bộ  ký  tứ  % s  nên  hãy  chọn  mã  hóa  khác .
+ Đường
+ Dữ  liệu  ( từ  % s )
+ Bạn  nên  giới  thiệu  một  ô  hợp  lệ  đơn  là  ô  phụ  thuộc .
+ Ô  phụ  thuộc  không  nên  chứa  biểu  thức .
+ Bạn  nên  giới  thiệu  một  số  hợp  lệ  là  số  tối  thiểu .
+ Bạn  nên  giới  thiệu  một  số  hợp  lệ  là  số  tối  đa .
+ Giá  trị  tối  đa  phải  lớn  hơn  giá  trị  tối  thiểu .
+ Bạn  nên  giới  thiệu  một  số  hợp  lệ  là  cỡ  bước .
+ Cỡ  bước  phải  là  số  dương .
+ Bạn  nên  giới  thiệu  một  hoặc  nhiều  ô  phụ  thuộc .
+ Bạn  nên  giới  thiệu  một  số  hợp  lệ  đơn  là  ô  kết  quả .
+ Ô  đích  nên  chứa  biểu  thức .
+ Không  mở  được  bộ  trình  bày  «  % s  » .
+ Màn  hình  này
+ Màn  hình  % d  [ Màn  hình  này ]
+ Màn  hình  % d
+ _ Cạnh
+ Bảo  vệ
+ Bộ  lọc  nâng  cao
+ Phạm  vi  _ danh  sách :
+ Phạm  vi  tiêu  _ chuẩn :
+ Chỉ  các  bản  ghi  d _ uy  nhất
+ Gõ
+ ANOVA  —  Hệ  số  đơn
+ Phạm  vi  _ gõ  :
+ Được  nhóm  bởi :
+ _ Cột
+ _ Vùng
+ _ Nhãn
+ α  ( _ Anfa ) :
+ Tùy  chọn
+ ANOVA  —  Hệ  số  đôi
+ Phạm  vi  _ gõ :
+ Số  hàng  _ mỗi  mẫu :
+ 1
+ α  ( _ Anfa ) : 
+ Gnumeric  :  bộ  lọc  tự  động
+ _ và
+ _ hoặc
+ Lớn  hơn
+ Đáy
+ Tự  động  định  dạng
+ _ Phân  loại :
+ Thiết  _ lập
+ Áp  dụ _ ng  định  dạng  số
+ Áp  dụng  _ viền
+ Áp  dụng  _ phông
+ Áp  dụng  _ mẫu
+ Áp  dụng  c _ anh  hàng
+ T _ rái
+ _ Phải
+ _ Trên
+ _ Dưới
+ _ Hiện  lưới  hàng
+ Xem  thử
+ Tên :
+ Phân  loại :
+ Mô  tả :
+ Tên  mẫu
+ Nhóm / người  tạo  mẫu  này
+ Phân  loại  của  mẫu  này
+ Mô  tả  ngắn  về  mẫu
+ Chi  tiết  mẫu
+ Tự  động  lưu
+ _ Lưu  tự  động  mỗi
+ _ phút
+ _ Nhắc  trước  khi  lưu
+ Điề _ u  kiện :
+ Canh  hàng
+ Hợp  lệ  hóa
+   Đặt   canh   hàng   ngang 
+ Chun _ g
+ Giữa  _ qua  vùng  chọn
+ Canh  _ lề :
+   Canh   dọc 
+ G _ iữa
+ Điền  đầ _ y
+ C _ anh  đều
+ Đã  phân  phố _ i
+ _ Giữa
+ Canh  đề _ u
+ Đã  _ phân  phối
+   Điều   khiển 
+ _ Cuộn  đoạn
+ Co  để  _ vừa
+ Đường  chéo  ngược
+ Chéo
+ Trái
+ Phải
+ Phác  thảo
+ Chiều  dọc  bên  trong
+ Chiều  ngang  bên  trong
+   Dòng   > 
+ _ Màu  :
+   Nền 
+   Phần   mẫu 
+   Mẫu 
+ Đặc
+ 75 %  Xám
+ 50 %  Xám
+ 25 %  Xám
+ 12.5 %  Xám
+ 6.25 %  Xám
+ Sọc  ngang
+ Sọc  dọc
+ Sọc  chéo  ngược
+ Sọc  chéo
+ Lưới  đan  chéo
+ Lưới  đan  chéo  dày
+ Đường  ngang  mảnh
+ Đường  dọc  mảnh
+ Đường  chéo  ngược  mảnh
+ Đường  chéo  mảnh
+ Lưới  vuông  thưa
+ Lưới  đan  chéo  thưa
+ Tiền  cảnh  đặc
+ Vòng  tròn  nhỏ
+ Nửa  đường  tròn
+ Mật  độ  dày
+ Vòng  tròn  lớn
+ Gạch
+ _ Khóa
+ Ẩ _ n
+ Việc  khóa  ô  hoặc  ẩn  công  thức  chỉ  tác  động  lên  các  từ  làm  việc  được  bảo  vệ .
+ _ Bảo  vệ  bảng  làm  việc
+   Tiêu   chuẩn 
+ Cho  _ phép :
+ Bỏ  qua  ô  t _ rắng
+ Thả  tro _ ng  ô
+   Báo   động   lỗi 
+ _ Hành  động :
+ Tự _ a :
+ _ Tin  nhẳn :
+ _ Hiện  tin  nhẳn  nhập  khi  ô  được  chọn
+ Nhập  tin  nhẳn
+ số
+ Danh  sách  cơ  bản
+ Ngày
+ Thời  gian
+   Đặc   tả   sắp   xếp 
+   Phương   pháp   xóa   bỏ 
+ "
+   Tên  : 
+   Tạo   : 
+   Người   sử   hữu   : 
+   Quyền   hạn 
+   Ghi 
+Phép _thử
+   Lần   
+Quá lớn
+from" and "above
+OpenDocument/OpenOffice _CHƯA XONG_ (*.ods)
+   Lần

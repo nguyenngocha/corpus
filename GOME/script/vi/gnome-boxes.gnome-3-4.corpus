@@ -1,0 +1,93 @@
+ Máy
+ Trình  truy  cập / quản  lý  máy  ảo  đơn  giản
+ Truy  cập  máy  ảo
+ Nhóm
+ Danh  sách  nhóm  máy  ảo
+ Quảng  nghỉ  chụp  hình
+ Khoảng  nghỉ  theo  giây  giữa  hai  lần  cập  nhật  hình  chụp
+ Khoảng  thời  gian  hoạt  cản
+ Thời  gian  dùng  cho  chuyển  đổi  và  hoạt  cảnh ,  theo  mili  giây .
+ Kích  thước  cửa  sổ
+ Kích  thước  cửa  sổ  ( rộng  và  cao )
+ Vị  trí  cửa  sổ
+ Vị  trí  cửa  sổ  ( x  và  y )
+ Cửa  sổ  phóng  to
+ Trạng  thái  cửa  sổ  phóng  to
+ Nhóm  Việt  hoá  GNOME
+ Ứng  dụng  GNOME  3  đơn  giản  để  truy  cập  hệ  thống  ảo  hoặc  từ  xa
+ Mới
+ Thuộc  tính
+ Toàn  màn  hình
+ Giới  thiệu  Máy
+ Thoát
+ Đã  xoá  máy  ' % s '
+ Trình  ảo  hoá
+ URI
+ RAM
+ Cần  khởi  động  lại  cho  ' % s ' .  Khởi  động  lại  nhé ?
+ Kho  lưu  trữ
+ Mật  mã
+ Số  phiên  bản  hiển  thị
+ URI  đến  display ,  broker  hoặc  installer  media
+ -  Ứng  dụng  đơn  giản  để  truy  cập  máy  ảo  hoặc  máy  ở  xa
+ Đăng  nhập
+ Hệ  thống
+ Hiển  thị
+ Thiết  bị
+ CPU :
+ I / O :
+ Mạng :
+ Tên
+ Mới  và  gần  đây
+ Yêu  thích
+ Riêng  tư
+ Chia  sẻ  với  bạn
+ Tạo
+ Chia  sẻ  bảng  tạm
+ Đổi  kích  thước  máy  khách
+ Chuyển  hướng  USB
+ Nhấn  vào  mục  để  chọn
+ Chưa  cung  cấp  tên  người  dùng
+ Chọn  cài  đặt  nhanh  để  tự  động  cấu  hình  máy  với  thiết  lập  tối  ưu .
+ Cài  đặt  nhanh
+ Tên  người  dùng
+ _ Thêm  mật  mã
+ Chỉ  đọc
+ Khoá  sản  phẩm
+ _ Thêm  khoá  sản  phẩm
+ Nhập  URL
+ Chọn  tập  tin
+   Truy   cập   môi   trường   làm   việc  Sẽ  tạo  máy  cho  mọi  hệ  thống  hỗ  trợ  từ  tài  khoản  này .
+ Hệ  thống  x86  32  bit
+ Hệ  thống  x86  64  bit
+ từ  % s
+ chọn  thiết  bị  hoặc  tập  tin  ISO
+ Lỗi  tạo  máy !
+ _ Tiếp  tục
+ _ Tạo
+ Vui  lòng  chọn  URI  desktop  hoặc  nhóm
+ Sẽ  thêm  máy  cho  mọi  hệ  thống  hỗ  trợ  từ  tài  khoản  này .
+ Sẽ  thêm  một  máy .
+ Truy  cập  môi  trường  làm  việc
+ URI  không  hợp  lệ
+ Phiên  bản  ' % s '  không  hỗ  trợ
+ Sẽ  tạo  máy  với  các  thuộc  tính  sau  đây :
+ Loại
+ Máy  chứa
+ Cổng
+ Cổng  TLS
+ Sẽ  thêm  máy  cho  mọi  hệ  thống  hỗ  trợ  từ  tài  khoản  này :
+ Bộ  nhớ
+ Đĩa
+ % s  tối  đa
+ Giới  thiệu
+ Tạo  máy  là  cho  phép  bạn  dùng  một  hệ  điều  hành  khác  trực  tiếp  từ  đăng  nhập  đang  dùng .  Bạn  có  thể  kết  nối  đến  máy  đã  có       qua    mạng     hoặc  tạo       máy    ảo     chạy  nội  bộ  trên  chính  máy  của  bạn .
+ Chọn  nguồn
+ Cài  đĩa  cài  đặt  hệ  điều  hành  hoặc  chọn  nguồn  bên  dưới
+ Bất  kỳ  thương  hiệu  nào  dưới  đây  chỉ  đơn  thuần  để  định  dan  sản  phẩm  phần  mềm  bạn  đã  có  và  là  tài  sản  của  chủ  sở  hữu  tương  ứng .
+ Chuẩn  bị
+ Chuẩn  bị  tạo  máy  mới
+ Phân  tích  đĩa  cài  đặt .
+ Thiết  lập
+ Kiểm  tra
+ Tạo  máy

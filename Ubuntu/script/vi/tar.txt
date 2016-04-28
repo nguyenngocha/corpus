@@ -1,0 +1,61 @@
+ Đối  số  không  hợp  lệ  % s  cho  % s
+ tham  số  không  rõ  ràng  % s  cho  % s
+ Những  đối  số  hợp  lệ  là :
+ ARGP _ HELP _ FMT :  giá  trị  % s  nhỏ  hơn  hay  bằng  % s
+ % . * s :  tham  số  ARGP _ HELP _ FMT  yêu  cầu  một  giá  trị
+ % . * s :  tham  số  ARGP _ HELP _ FMT  phải  là  số  dương
+ % . * s :  Tham  số  không  rõ  ARGP _ HELP _ FMT
+ Có  rác  trong  ARGP _ HELP _ FMT :  % s
+ Các  tham  số  là  bắt  buộc  hay  không  bắt  buộc  cho  các  tùy  chọn  dài  thì  cũng  yêu  cầu  như  thế  khi  dùng  tùy  chọn  ngắn  tương  ứng .
+ Cách  dùng :
+ hoặc : 
+ [ TÙY  CHỌN ... ]
+ Hãy  chạy  “ % s  --help ”  hoặc  “ % s  --usage ”  để  biết  thêm  thông  tin .
+ Thông  báo  lỗi  cho  % s .  Báo  cáo  lỗi  dịch  cho  nhóm  dịch  tiếng  Việt :   <  translation \ -team \ -vi \ @ lists \ .sourceforge \ .net  >
+ Lỗi  hệ  thống  chưa  xác  định  được
+ hiển  thị  trợ  giúp  này
+ hiển  thị  cách  sử  dụng  dạng  ngắn  gọn
+ TÊN
+ đặt  tên  chương  trình
+ GIÂY
+ treo  trong  vòng  GIÂY  giây  ( mặc  định  3600 )
+ In  ra  phiên  bản  chương  trình
+ ( LỖI  CHƯƠNG  TRÌNH )  Không  rõ  phiên  bản ! ?
+ % s :  Quá  nhiều  đối  số
+ ( LỖI  CHƯƠNG  TRÌNH )  Tùy  chọn  nên  được  nhận  ra ! ?
+ lỗi  ghi
+ % s :  tùy  chọn  “ % s ”  chưa  rõ  ràng ;  khả  năng  là :
+ % s :  tùy  chọn  “ -- % s ”  không  cho  phép  đối  số
+ % s :  tùy  chọn  “ % c % s ”  không  cho  phép  đối  số
+ % s :  tùy  chọn  “ -- % s ”  yêu  cầu  một  đối  số
+ % s :  không  nhận  ra  tuỳ  chọn  “ -- % s ”
+ % s :  không  nhận  ra  tuỳ  chọn  “ % c % s ”
+ % s :  tùy  chọn  sai  --  “ % c ”
+ % s :  tùy  chọn  yêu  cầu  một  đối  số  --  “ % c ”
+ % s :  tùy  chọn  “ -W  % s ”  vẫn  chưa  rõ  ràng
+ % s :  tùy  chọn  “ -W  % s ”  không  cho  phép  đối  số
+ % s :  tùy  chọn  “ -W  % s ”  yêu  cầu  một  đối  số
+ cạn  bộ  nhớ
+ Không  thể  thu  thư  mục  làm  việc  hiện  thời
+ không  trở  được  về  thư  mục  làm  việc  đầu  tiên`'like this` " and "'
+ ” yes
+ ^ [ cCyY ] no
+ ^ [ kKnN ]
+ Đóng  gói  bởi  % s  ( % s )
+ Đóng  gói  bởi  % s  ( C ) ( C )
+ ©
+ Giấy  phép  GPLv3 + :  Giấy  phép  Công  cộng  GNU  phiên  bản  3  hay  mới  hơn :  <  http \ : \ / \ / gnu \ .org \ / licenses \ / gpl \ .html  >  Đây  là  phần  mềm  tự  do :  bạn  có  quyền  thay  đổi  và  phát  hành  lại  nó .  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  với  điều  kiện  được  pháp  luật  cho  phép .
+ Viết  bởi  % s .
+ Viết  bởi  % s  và  % s .
+ Viết  bởi  % s ,  % s  và  % s .
+ Viết  bởi  % s ,  % s ,  % s  và  % s .
+ Tác  giả :  % s ,  % s ,  % s ,  % s  và  % s .
+ Tác  giả :  % s ,  % s ,  % s ,  % s ,  % s  và  % s .
+ Tác  giả :  % s ,  % s ,  % s ,  % s ,  % s ,  % s  và  % s .
+ Viết  bởi  % s ,  % s ,  % s ,  % s ,  % s ,  % s ,  % s  và  % s .
+ Viết  bởi  % s ,  % s ,  % s ,  % s ,  % s ,  % s ,  % s ,  % s  và  % s .
+ Viết  bởi  % s ,  % s ,  % s ,  % s ,  % s ,  % s ,  % s ,  % s ,  % s  và  các  người  khác .  Report  translation  bugs  to   <  \ . \ . \ .  >
+ Báo  cáo  lỗi  cho :  % s  Báo  cáo  lỗi  dịch  cho  nhóm  dịch  tiếng  Việt :   <  translation \ -team \ -vi \ @ lists \ .sourceforge \ .net  >
+ Báo  cáo  lỗi  liên  quan  đến  % s  cho :  % s  Báo  cáo  lỗi  dịch  cho  nhóm  dịch  tiếng  Việt :   <  translation \ -team \ -vi \ @ lists \ .sourceforge \ .net  >
+ Trang  chủ  % s : 
+tar *này* mặc định dùng:

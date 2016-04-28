@@ -1,0 +1,77 @@
+ Nhả  CD  khi  trích  xong  hay  không .
+ Có  nên  mở  thư  mục  đích  khi  trích  xong  hay  không .
+ Cấu  trúc  thư  mục  cho  tập  tin
+ Không  ghi  rõ  phần  mở  rộng .   % at \ t \ ttên  tập  nhạc   % aT \ t \ ttên  tập  nhạc  ( chữ  thường )   % aa \ t \ tchủ  tập  nhạc   % aA \ t \ tchủ  tập  nhạc  ( chữ  thường )   % as \ t \ tchủ  tập  nhạc  ( sắp  xếp  được )   % aS \ t \ tchủ  tập  nhạc  ( chữ  thường  sẵp  xếp  được )   % tn \ t \ tsố  thứ  tự  rãnh  ( v.d.  8 )   % tN \ t \ tsố  thứ  tự  rãnh  ( đệm  số  không ,  v.d.  08 )   % tt \ t \ ttên  rãnh   % tT \ t \ ttên  rãnh  ( chữ  thường )   % ta \ t \ tnghệ  sĩ  rãnh   % tA \ t \ tnghệ  sĩ  rãnh  ( chữ  thường )   % ts \ t \ t  nghệ  sĩ  rãnh  ( sẵp  xếp  được )   % tS \ t \ tnghệ  sĩ  rãnh  ( chữ  thường  sẵp  xếp  được ) % dn \ t \ tsố  thứ  tự  đĩa  và  rãnh  ( v.d.  Đĩa  2  -  6 ,  hay  6 )  % dN \ t \ tsố  thứ  tự  đĩa  và  rãnh  ( đếm  số  không ,  v.d.  d02t06  hay  06 )
+ Mẫu  tên  cho  tập  tin
+ Chế  độ  an  toàn  cần  dùng
+ Chế  độ  an  toàn :  0 )  tắt  2 )  phân  mảnh  4 )  xếp  chồng  8 )  tạm  16 )  sửa  chữa  255 )  đầy  đủ
+ Để  gỡ  bỏ  kí  tự  đặc  biệt  ra  khỏi  tên  tập  tin
+ Khi  cho  phép ,  sẽ  loại  bỏ  mọi  kí  tự  đặc  biệt  ( như  dấu  cách ,  kí  tự  đại  diện  và  dấu  số  ngược )  ra  khỏi  tên  tập  tin  đầu  ra .
+ Âm  lượng
+ Sound  Juicer
+ Bộ  trích  đĩa  CD  Âm  thanh
+ Trích  âm  nhạc  ra  các  CD  của  bạn
+   _  Năm  : 
+ Đĩ _ a
+ Tên
+ Nghệ  sĩ
+   _  Thể   loại  : 
+ Thời  gian
+ Phát
+ Lấ _ y
+ Tiến  độ  rãnh
+ Tìm  thấy  nhiều  album
+ Có  lẽ  đĩa  CD  này  chứa  nhiều  album .  Hãy  chọn  album  rồi  nhấn    Tiếp   tục  .
+ _ Tiếp  tục
+ Cấu  hình
+ thiết  bị
+ Ổ  đĩa  C _ D
+ Đẩy  _ ra  sau  khi  trích  các  rãnh
+ _ Mở  thư  mục  nhạc  khi  hoàn  tất
+   Thư   mục   nhạc 
+ _ Thư  mục :
+   Đặt   tên 
+ Cấu  trúc  _ thư  mục :
+ _ Tên  tập  tin :
+ _ Loại  bỏ  kí  tự  đặc  biệt
+   Định   dạng 
+ Định  dạng  đầu  _ ra :
+ Trợ  _ giúp
+ Đọc  _ lại  đĩa
+ Nhân  đôi  đĩ _ a
+ Nhả  _ ra
+ Nhập  tên  _ rãnh ...
+ Hồ  sơ  Âm  thanh
+ Hồ  sơ  Âm  thanh  GNOME  dùng  để  mã  hoá  âm  thanh
+ Cấp  cẩn  thận
+ Cấp  cẩn  thận  để  bảo  vệ  máy  tính  này .
+ Thiết  bị
+ Không  thể  tạo  bộ  đọc  đĩa  CD  kiểu  GStreamer .
+ Không  thể  tạo  bộ  mã  hoá  kiểu  GStreamer  cho  % s .
+ Không  thể  tạo  tập  tin  đầu  ra  kiểu  GStreamer
+ Không  thể  liên  kết  ống  dẫn
+ Không  thể  lấy  vị  trí  rãnh  hiện  có
+ Đối  tượng  trích  không  hợp  lệ .  Đây  vấn  đề  cần  kiểm  tra  bằng  dòng  lệnh .
+ Không  thấy  trình  bổ  sung  cho  phép  truy  cập  đĩa  CD
+ Không  thấy  trình  bổ  sung  cho  phép  truy  cập  tập  tincdrom
+ Không  thể  đọc  đĩa  CD :  % s
+ Thiết  bị  ' % s '  không  có  vật  chứa  nào
+ Không  thể  mở  thiết  bị  ' % s ' .  Hãy  kiểm  tra  quyền  truy  cập  thiết  bị  này .
+ Không  thể  truy  cập  đến  đĩa  CD
+ Nghệ  sĩ  chưa  biết
+ Rãnh  % d
+ Không  thể  truy  cập  đến  đĩa  CD :  % s
+ URI
+ Địa  chỉ  URI  của  tập  tin  âm  thanh
+ Tên  của  luồng  đang  chạy .
+ Nghệ  sĩ  của  luồng  đang  chạy .
+ Tập  nhạc  của  luồng  đang  chạy .
+ Vị  trí
+ Vị  trí  ( theo  giây )  trong  luồng  đang  chạy .
+ Thời  gian  hoàn  toàn  ( theo  giây )  của  luồng  đang  chạy .
+ Tập  nhạc  lạ
+ Sound  Juicer  là  phần  mềm  tự  do ;  bạn  có  thể  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  theo  các  điều  khoản  của  Giấy  phép  Công  cộng  GNU  như  được  xuất  bản  bởi  Tổ  chức  Phần  mềm  Tự  do ;  hoặc  phiên  bản  2  của  Giấy  phép  này ,  hoặc  bất  kì  phiên  bản  sau  nào  ( tuỳ  ý ) .
+ Sound  Juicer  được  phân  phối  với  mong  muốn  nó  sẽ  là  một  phần  mềm  có  ích ,  nhưng  KHÔNG  PHẢI  CHỊU  BẤT  KÌ  TRÁCH  NHIỆM  NÀO ;  thậm  chí  cả  về  KHẢ  NĂNG  BÁN  LẠI  hoặc  PHÙ  HỢP  VỚI  TỪNG  MỤC  ĐÍCH  CỤ  THỂ .  Xem  Giấy  phép  Công  cộng  GNU  để  biết  thêm  chi  tiết .
+ Bạn  đã  nhận  một  bản  sao  của  Giấy  Phép  Công  Cộng  GNU  cùng  với  chương  trình  này ;  nếu  không ,  hãy  viết  thư  cho  Tổ  Chức  Phần  Mềm  Tự  Do ,  Free  Software  Foundation ,  Inc . ,  51  Franklin  Street ,  Fifth  Floor ,  Boston ,  MA   02110-1301 ,  USA  ( Mỹ ) .
+ Bộ  trích  đĩa  CD  Âm  thanhabout
+ Nhóm  Việt  hoá  Gnome   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >

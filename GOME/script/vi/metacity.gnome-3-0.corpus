@@ -1,0 +1,88 @@
+ Di  chuyển
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  1
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  2
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  3
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  4
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  bên  trái
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  bên  phải
+ Chuyển  cửa  sổ  lên  vùng  làm  việc  trên
+ Chuyển  cửa  sổ  xuống  vùng  làm  việc  dưới
+ Chuyển  ứng  dụng
+ Chuyển  cửa  sổ  cùng  ứng  dụng
+ Chuyển  điều  khiển  hệ  thống
+ Chuyển  cửa  sổ  trực  tiếp
+ Chuyển  trực  tiếp  cửa  sổ  cùng  ứng  dụng
+ Chuyển  điều  khiển  hệ  thống  trực  tiếp
+ Ẩn  mọi  cửa  sổ  thông  thường
+ Chuyển  sang  vùng  làm  việc  1
+ Chuyển  sang  vùng  làm  việc  2
+ Chuyển  sang  vùng  làm  việc  3
+ Chuyển  sang  vùng  làm  việc  4
+ Chuyển  sang  vùng  làm  việc  bên  trái
+ Chuyển  sang  vùng  làm  việc  bên  phải
+ Chuyển  sang  vùng  làm  việc  bên  trên
+ Chuyển  sang  vùng  làm  việc  bên  dưới
+ Hệ  thống
+ Hiện  trình  đơn  chính  của  bảng
+ Hiện  tổng  quan  hoạt  động
+ Cửa  sổ
+ Kích  hoạt  trình  đơn  cửa  sổ
+ Bật / Tắt  Chế  độ  Toàn  màn  hình
+ Bật  tắt  trạng  thái  phóng  to
+ Phóng  to  cửa  sổ
+ Phục  hồi  cửa  sổ
+ Bật  tắt  trạng  thái  đánh  bóng
+ Đóng  cửa  sổ
+ Thu  nhỏ  cửa  sổ
+ Di  chuyển  cửa  sổ
+ Đổi  cỡ  cửa  sổ
+ Bật / Tắt  cửa  sổ  trên  mọi  vùng  làm  việc
+ Nâng  cửa  sổ  bị  cửa  sổ  khác  che  khuất ,  không  thì  hạ  nó  xuống
+ Nâng  cửa  sổ  lên  trên  các  cửa  sổ  khác
+ Hạ  thấp  cửa  sổ  xuống  dưới  các  cửa  sổ  khác
+ Phóng  to  cửa  sổ  theo  chiều  dọc
+ Phóng  to  cửa  sổ  theo  chiều  ngang
+ Sự  kiện  kêu  bíp
+ Yêu  cầu  thông  tin  cửa  sổ  không  rõ  :  % d
+   %  s   không  trả  lời .
+ Bạn  có  thể  chọn  chờ  một  lúc  trước  khi  buộc  chấm  dứt  ứng  dụng .
+ _ Chờ
+ _ Buộc  thoát
+ Lỗi  lấy  tên  máy :  % s
+ Thiếu  phần  mở  rộng  % s  cần  thiết  để  sắp  thành  phần
+ Lỗi  mở  bộ  trình  bày  Hệ  thống  Cửa  sổ  X  " % s " .
+ Mất  liên  kết  với  bộ  trình  bày  " % s " ;  thường  là  do  trình  phục  vụ  X  bị  ngừng  hoạt  động  hoặc   bạn  đã  buộc  chấm  dứt  hoạt  động  bộ  quản  lý  cửa  sổ .
+ Lỗi  nhập / xuất  nghiêm  trọng  % d  ( % s )  trên  bộ  trình  bày  " % s " .
+ Một  chương  trình  khác  đã  dùng  phím  " % s "  với  phím  bổ  trợ  " % x "  làm  tổ  hợp .
+ metacity  % s  Tác  quyền  ©  2001- % s  của  Havoc  Pennington ,  Red  Hat ,  Inc . ,  và  người  khác .  Chương  trình  này  là  phần  mềm  tự  do ;  xem  mã  nguồn  để  tìm  điều  kiện  sao  chép .  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .
+ Vô  hiệu  hóa  kết  nối  với  bộ  quản  lý  phiên  làm  việc
+ Thay  thế  bộ  quản  lý  cửa  sổ  đang  chạy  bằng  Metacity
+ Ghi  rõ  ID  quản  lý  phiên  làm  việc
+ Bộ  trình  bày  X  cần  dùng
+ Khởi  động  phiên  làm  việc  từ  tập  tin  lưu
+ In  phiên  bản
+ Khiến  các  lời  gọi  X  đồng  bộ  với  nhau
+ Bật  sắp  thành  phần
+ Tắt  sắp  thành  phần
+ Không  tạo  cửa  sổ  toàn  màn  hình  ( lớn  tối  đa  và  không  có  đường  viền )
+ Lỗi  quét  thư  mục  sắc  thái :  % s
+ Không  tìm  thấy  sắc  thái .  Hãy  bảo  đảm  % s  tồn  tại  và  chứa  những  sắc  thái  bình  thường .
+ Lỗi  khởi  động  lại :  % s
+ Khả  năng  chỉnh  sửa  cho  các  ứng  dụng  không  theo  chuẩn  đã  đã  tắt .  Vài  ứng  dụng  có  thể  sẽ  xử  sự  không  đúng .
+ Không  thể  phân  tách  mô  tả  phông  chữ  «  % s  »  từ  khóa  GConf  «  % s  » .
+ Tìm  thấy  «  % s  »  trong  cơ  sở  dữ  liệu  cấu  hình  không  phải  giá  trị  hợp  lệ  cho  bộ  biến  đổi  nút  chuột .
+ Tìm  thấy  «  % s  »  trong  cơ  sở  dữ  liệu  cấu  hình  không  phải  giá  trị  hợp  lệ  cho  tổ  hợp  phím  «  % s  » .
+ Vùng  làm  việc  % d
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  không  hợp  lệ .
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  đã  có  bộ  quản  lý  cửa  sổ  rồi ;  hãy  thử  dùng  tùy  chọn  « --replace »  để  _ thay  thế _  bộ  quản  lý  cửa  sổ  đang  dùng .
+ Không  thể  lấy  vùng  chọn  bộ  quản  lý  cửa  sổ  trên  Màn  hình  % d  trên  bộ  trình  bày  «  % s  » .
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  đã  có  bộ  quản  lý  cửa  sổ .
+ Không  thể  giải  phóng  Màn  hình  % d  trên  bộ  trình  bày  «  % s  » .
+ Không  thể  tạo  thư  mục  «  % s  » :  % s
+ Không  thể  mở  tập  tin  phiên  làm  việc  «  % s  »  để  ghi :  % s
+ Gặp  lỗi  khi  ghi  tập  tin  phiên  làm  việc  «  % s  » :  % s
+ Gặp  lỗi  khi  đóng  tập  tin  phiên  làm  việc  «  % s  » :  % s
+ Lỗi  phân  tích  tập  tin  phiên  làm  việc  đã  lưu :  % s
+ Thấy  thuộc  tính   <  metacity _ session  >  ,  nhưng  đã  có  session  ID .
+ Không  nhận  ra  thuộc  tính  % s  trên  phần  tử 
+ s:

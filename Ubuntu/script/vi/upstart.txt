@@ -1,0 +1,91 @@
+ Không  thể  nạp  cấu  hình
+ Đang  nạp  cấu  hình  từ  % s
+ Không  thể  theo  dõi  tập  tin  cấu  hình
+ Không  thể  theo  dõi  thư  mục  cấu  hình
+ Lỗi  nạp  tập  tin  cấu  hình
+ Thư  mục  cấu  hình  đã  xoá
+ Đang  nạp  lại  cấu  hình
+ Tên  không  thể  là  chuỗi  rỗng
+ Công  việc  không  rõ :  % s
+ Quyền  ưu  tiên  ghi  ký  đã  cho  không  được  nhận  ra
+ Đang  xử  lý  sự  kiện  % s
+ Mục  đích  % s  thay  đổi  từ  % s  sang  % s
+ Trạng  thái  % s  thay  đổi  từ  % s  sang  % s
+ dừng
+ bắt  đầu
+ đang  đợi
+ đang  khởi  động
+ trước  khởi  động
+ sau  khởi  động
+ đang  chạy
+ trước  dừng
+ đang  dừng
+ đã  giết
+ sau  dừng
+ Bạn  không  có  quyền  để  thay  đổi  công  việc :  % s
+ Công  việc  đã  đang  chạy :  % s
+ Công  việc  đã  bị  dừng :  % s
+ không  thể  đặt  độ  ưu  tiên :  % s
+ không  thể  thay  đổi  thư  mục  gốc :  % s
+ tiến  trình  % s  % s  ( % d )  đã  kết  thúc  với  trạng  thái  % d
+ tiến  trình  % s  % s  ( % d )  đã  thoát  một  cách  bình  thường
+ tiến  trình  % s  % s  ( % d )  bị  giết  bởi  tín  hiệu  % s
+ tiến  trình  % s  % s  ( % d )  bị  giết  bởi  tín  hiệu  % d
+ tiến  trình  % s  % s  ( % d )  bị  dừng  bởi  tín  hiệu  % s
+ tiến  trình  % s  % s  ( % d )  bị  dừng  bởi  tín  hiệu  % d
+ tạo  lại  % s  quá  nhanh ,  đã  dừng
+ tiến  trình  % s  % s  đã  kết  thúc ,  đang  tạo  lại
+ Trình  nền  quản  lý  tiến  trình .
+ Tình  nền  này  thông  thường  được  thực  thi  bởi  nhân  và  được  trao  id  tiến  trình  là  1  để  biểu  thị  trạng  thái  đặc  biệt  của  nó .  Khi  được  thực  thi  bởi  một  tiến  trình  người  dùng ,  nó  sẽ  thực  sự  chạy  / sbin / telinit .
+ Cần  phải  là  root
+ Không  được  thực  thi  như  init
+ Đã  bắt  % s ,  lõi  đã  xả
+ Đã  bắt  % s ,  không  thể  xả  lõi
+ chính
+ % s :  thiếu  tên  công  việc
+ % s :  thiếu  tên  sự  kiện
+ không  đợi  công  việc  bắt  đầu  trước  khi  thoát
+ không  đợi  công  việc  dừng  lại  trước  khi  thoát
+ không  đợi  sự  kiện  kết  thúc  trước  khi  thoát
+ Công  việc
+ Sự  kiện
+ Liệt  kê  công  việc  đã  biết .
+ Phát  một  sự  kiện .
+ Yêu  cầu  phiên  bản  của  trình  nền  init .
+ không  đồng  bộ  trước  khi  khởi  động  lại  hay  tạm  nghỉ
+ buộc  khởi  động  lại  hay  tạm  ngưng ,  đừng  tắt ( 8 )
+ tắt  nguồn  điện  khi  được  gọi  tạm  ngừng
+ Ngưng  hệ  thống .
+ Tắt  hệ  thống .
+ Khởi  động  lại  hệ  thống .
+ Đang  yêu  cầu  tắt
+ Không  thể  thực  thi  lệnh  tắt :  % s
+ Đang  khởi  động  lại
+ Đang  ngưng
+ Đang  tắt
+ [ UTMP ]
+ Kết  xuất  cấp  chạy  trước  và  hiện  tại .
+ khởi  động  lại  sau  khi  tắt
+ ngưng  hay  ngắt  điện  sau  khi  tắt
+ ngưng  sau  khi  tắt  ( ngầm  định  -h )
+ ngắt  điện  sau  khi  tắt  ( ngầm  định  -h )
+ hủy  một  lệnh  tắt  đang  chạy
+ chỉ  gửi  cảnh  báo ,  đừng  tắt
+ THỜI _ GIAN  [ TIN _ NHẮN ]
+ Tắt  hệ  thống  đi .
+ THỜI _ GIAN  có  thể  có  các  định  dạng  khác  nhau ,  thông  thường  nhất  là  một  chữ  ' now '  đơn  giản  -  chữ  mà  sẽ  tắt  hệ  thống  đi  ngay  lập  tức .  Các  định  dạng  hợp  lệ  khác  là  + m ,  với  m  là  số  phút  chờ  cho  tới  khi  tắt  và  hh : mm  chỉ  định  thời  điểm  tính  theo  24h  đồng  hồ .  Những  người  dùng  đã  đăng  nhập  sẽ  được  cảnh  báo  bởi  một  tin  nhắn  gửi  tới  trình  dòng  lệnh  của  họ ,  bạn  có  thể  thêm  một  TIN _ NHẮN  tùy  ý  theo  nó .  Các  tin  nhắn  có  thể  được  gửi  mà  không  thực  sự  tắt  hệ  thống  đi  bằng  cách  dùng  tùy  chọn  -k .  Nếu  được  định  THỜI _ GIAN ,  lệnh  sẽ  chờ  trên  nền  cho  đến  khi  việc  tắt  xảy  ra .  Nó  có  thể  được  hủy  bằng  cách  nhấn  Ctrl + C  hay  một  người  dùng  khác  sử  dụng  tùy  chọn  -c .  Hệ  thống  sẽ  được  đưa  xuống  chế  độ  bảo  trì  ( một  người  dùng )  theo  mặc  định ,  bạn  có  thể  thay  đổi  điều  này  với  tùy  chọn  -r  hoặc  -h  để  chỉ  định  hệ  thống  khởi  động  lại  hay  ngưng  ( tương  ứng ) .  Tùy  chọn  -h  có  thể  được  bổ  trợ  thêm  với  -H  hay  -P  để  chỉ  định  ngưng  hệ  thống  hay  ngắt  điện  đi  sau  đó .  Mặc  định  là  mặc  theo  các  lệnh  tắt .
+ % s :  cần  thời  gian
+ % s :  giá  trị  giờ  không  hợp  lệ
+ % s :  giá  trị  phút  không  hợp  lệ
+ Lệnh  tắt  không  đang  chạy
+ Một  lệnh  tắt  khác  đã  đang  chạy
+ Không  thể  tìm  thấy  pid  của  lệnh  tắt  đang  chạy
+ Không  thể  ghi  tập  tin  pid
+ Lệnh  tắt  đã  hủy
+ Không  thể  phân  tiến  trình  con  để  cảnh  báo  người  dùng :  % s
+ Tin  nhắn  truyền  phát  từ  % s @ % s
+ ( % s )  tại  % d : % 02d  ...
+ Thay  đổi  cấp  chạy .
+ % s :  cấp  chạy  không  hợp  lệ :  % s
+ Tách  và  chạy  dưới  nền
+ Không  thể  trở  thành  trình  nền

@@ -1,0 +1,6 @@
+ Lỗi  lấy  đường  dẫn  cấu  hình  từ  «  % s  » .
+ Đã  tạo  nguồn  Evolution / LDAP  dùng  tập  tin  cấu  hình  «  % s  » .
+ Không  thể  phân  tách  tập  tin  XML  «  % s  » .
+ Tập  tin  cấu  hình  «  % s  »  là  rỗng .
+ Nút  gốc  của  «  % s  »  phải  là     evoldap    ,  không  phải 
+%s

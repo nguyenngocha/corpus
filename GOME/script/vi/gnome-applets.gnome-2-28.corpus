@@ -1,0 +1,773 @@
+ Tùy  thích  _ khả  năng  truy  cập  bàn  phím
+ Trợ  _ giúp
+ _ Giới  thiệu
+ Bộ  tạo  tiểu  dụng  trạng  thái  AccessX
+ Bộ  tạo  tiểu  dụng  trạng  thái  khả  năng  truy  cập  bàn  phím
+ Trạng  thái  khả  năng  truy  cập  bàn  phím
+ Hiện  trạng  thái  tính  năng  khả  năng  truy  cập  bàn  phím
+ Hiện  trạng  thái  tính  năng  AccessX  như  phím  bổ  trợ  đã  chốt.documenters
+ Nhóm  Việt  hoá  GNOME  ( http : / / gnomevi.sourceforge.net )
+ Gặp  lỗi  khi  khởi  chạy  bộ  xem  trợ  giúp :  % s
+ Gặp  lỗi  khi  khởi  chạy  hội  thoại  tùy  thích  bàn  phím :  % s
+ a
+ Trạng  thái  AccessX
+ Hiện  trạng  thái  bàn  phím  khi  tính  năng  khả  năng  truy  cập  được  dùng .
+ Chưa  bật  chạy  phần  mở  rộng  XKB
+ Lỗi  không  rõ
+ Lỗi :  % s
+ Hiển  thị  trạng  thái  hiện  thời  của  các  tính  năng  khả  năng  truy  cập  bàn  phím .
+ Bộ  tạo  thống  kê  nạp  pin
+ Bộ  theo  dõi  nạp  pin
+ Theo  dõi  điện  năng  còn  lại  của  máy  tính  xách  tay
+ Tù _ y  thích
+ Hệ  thống  đang  chạy  bằng  điện  xoay  chiều  ( AC )
+ Hệ  thống  đang  chạy  bằng  pin
+ Pin  đã  được  sạc  đầy   ( % d % % )
+ Thời  gian  còn  lại  ( % d % % )  chưa  rõ
+ Thời  gian  còn  lại  ( % d % % )  chưa  rõ  đến  khi  được  sạc  đầy
+ % d  % s  % d  % s  ( % d % % )  còn  lại
+ % d  % s  % d  % s  đến  khi  được  sạc  đầy  ( % d % % )
+ Pin  đã  được  tái  sạc  đầy .
+ Thông  báo  pin
+ Pin  hiện  thời  có  % d % %  khả  năng  còn  lại .
+ Để  tránh  mất  dữ  liệu ,  bạn  hãy :   •  cầm  phít  máy  tính  xách  tay  vào  năng  lượng  bên  ngoài ,  hoặc   •  lưu  các  tài  liệu  đang  mở ,  rồi  tắt  máy .
+ Để  tránh  mất  dữ  liệu ,  bạn  hãy :   •  ngưng  máy  tính  xách  tay ,  để  tiết  kiệm  năng  lượng ,   •  cầm  phít  máy  tính  xách  tay  vào  năng  lượng  bên  ngoài ,  hay   •  lưu  các  tài  liệu  đang  mở ,  rồi  tắt  máy .
+ Pin  trở  thành  yếu
+ Không  có  pin
+ Chưa  biết  trạng  thái  pin
+ ⌀  có
+ Gặp  lỗi  khi  hiển  thị  trợ  giúp :  % s
+ Tiện  ích  này  hiển  thị  trạng  thái  pin  trên  máy  tính  xách  tay  bạn .
+ Hậu  phương  HAL  đã  bật .
+ Hậu  phương  thừa  tự  ( không  HAL )  đã  bật .
+ Tuỳ  thích  bộ  Theo  dõi  Sạc  Pin
+ _ Diện  mạo  :
+ Ô  xem  _ gọn
+   (  hiển   thị   một   ảnh   riêng   lẻ   đại   diện   trạng   thái   và   lượng   sạc  ) 
+ Ô  x _ em  mở  rộng
+   (  hai   ảnh  :   một   ảnh   đại   diện   trạng   thái  ,   và   ảnh   khác   đại   diện   lượng   sạc  ) 
+ _ Hiện  thời  gian / phần  trăm :
+ Hiện  _ thời  gian  còn  lại
+ Hiện  _ phần  trăm  còn  lại
+   Thông   báo 
+ Cảnh  báo  khi  lượng  sạc  pin  giảm  _ xuống :
+ Báo  khi  pi _ n  được  tái  sạc  đầy
+ Lỗi  HAL
+ Không  thể  tạo  «  libhal _ ctx  »
+ Không  thể  sơ  khởi  HAL :  % s :  % s
+ Cấp  giá  trị  Đỏ
+ Cấp  pin  dưới  đó  pin  hiển  thị  màu  đỏ .  Cũng  là  giá  trị  tại  đó  hiển  thị  cảnh  báo  pin  thấp .
+ Cảnh  báo  về  thời  gian  ít ,  hơn  là  phần  trăm  thấp .
+ Dùng  giá  trị  được  định  nghĩa  trong  «  red _ value  »  ( giá  trị  màu  đỏ )  làm  thời  gian  còn  lại  cần  hiển  thị  trong  hộp  thoại  cảnh  báo  hơn  là  phần  trăm .
+ Thông  báo  pin  yếu
+ Báo  cho  người  dùng  khi  pin  yếu .
+ Thông  báo  pin  đầy
+ Báo  cho  người  dùng  khi  pin  đầy .
+ Kêu  bíp  khi  cảnh  báo
+ Kêu  bíp  khi  hiển  thị  cảnh  báo .
+ Rút  từ  đỉnh
+ Hiện  đồng  hồ  đo  pin  rút  từ  đỉnh  pin .  Thực  hiện  chỉ  trong  ô  xem  pin  truyền  thống .
+ Pin  nằm  dọc  ( nhỏ )
+ Hiện  pin  nằm  dọc  nhỏ  hơn  trên  bảng  điều  khiển .
+ Hiện  pin  nằm  ngang
+ Hiện  pin  nằm  ngang  truyền  thống  trên  bảng  điều  khiển .
+ Hiện  nhãn  thời  gian / phần  trăm  đầy
+ 0  —  không  có  nhãn  1  —  phần  trăm  2  —  thời  gian  còn  lạiWarn  when  battery  charge  drops  to :  [ XX ]  percent
+ phần  trămWarn  when  battery  charge  drops  to :  [ XX ]  minutes  remaining
+ phút  còn  lại
+ Tiện  ích  xem  trạng  thái  pin
+ Pin  thấp
+ Pin  đã  được  sạc  đầy .
+ Bộ  tạo  tiểu  dụng  chọn  ký  tự
+ Bảng  chọn  ký  tự
+ Chèn  ký  tự
+ Bảng  chọn  hiện  cóPILCROW  SIGN
+ Chèn  " % s "
+ Chèn  ký  tự  đặc  biệt
+ Chèn  ký  tự  đặc  biệt  % s
+ Tiểu  dụng  Bảng  điều  khiển  GNOME  dùng  để  chọn  ký  tự  lạ  không  có  trên  bàn  phím  thường  của  bạn .  Được  phát  hành  dưới  Bản  quyền  Công  Chung  GNU  ( GPL ) .
+ BỊ  PHẢN  ĐỐI  -  Ký  tự  hiện  lúc  khởi  động  tiểu  dụng
+ Ký  tự  hiện  lúc  khởi  động  tiểu  dụng
+ Chuỗi  người  dùng  đã  chọn  khi  tiểu  dụng  được  dùng  lần  cuối .  Chuỗi  này  sẽ  được  hiển  thị  khi  người  dùng  khởi  động  tiểu  dụng  ấy .
+ Danh  sách  bảng  chọn  hiện  có
+ Danh  sách  chuỗi  chứa  các  bảng  chọn  sẵn  sàng .
+ _ Sửa
+ _ Bảng  chọn :
+ Mục  nhập  bảng  chọn
+ Sửa  đổi  bảng  chọn  bằng  cách  thêm  hoặc  bỏ  ký  tự
+ Thêm  bảng  chọn
+ Sửa  bảng  chọn
+ Danh  sách  bảng  chọn
+ Thêm  nút
+ Nhấn  để  thêm  bảng  chọn  mới
+ Sửa  nút
+ Nhấn  để  sửa  đổi  bảng  chọn  được  chọn .
+ Xóa  nút
+ Nhấn  để  xóa  bỏ  bảng  chọn  được  chọn .
+ Tùy  thích  bảng  chọn  ký  tự
+ Bộ  theo  dõi  cách  quản  lý  tỷ  lệ  tần  số  CPU
+ Theo  dõi  cách  quản  lý  tỷ  lệ  tần  số  CPU
+ CPU  cần  theo  dõi
+ Lập  CPU  cần  theo  dõi .  Trong  hệ  thống  chỉ  có  một  bộ  xử  lý  thì  không  cần  thay  đổi  điều  này .
+ Chế  độ  cần  hiển  thị  cách  dùng  CPU
+ Giá  trị :   •  0  —  hiển  thi  tiểu  dụng  trong  chế  độ  đồ  họa  ( chỉ  ảnh  bằng  điểm )   •  1  —  hiển  thị  tiểu  dung  trong  chế  độ  chữ  ( không  hiển  thị  ảnh  bằng  điểm )   •  2  —  hiển  thị  tiểu  dụng  trong  cả  hai  chế  độ  đồ  họa  và  chữ  đều .
+ Kiểu  chữ  cần  hiển  thị  ( nếu  chữ  được  bật ) .
+ Giá  trị :   •  0  —  hiển  thị  tần  số  CPU   •  1  —  hiển  thị  tần  số  và  đơn  vi  đều   •  2  —  hiển  thị  phần  trăm  thay  thế  tần  số .
+ Tuỳ  thích  bộ  Theo  dõi  Tần  số  CPU
+   Thiết   lập   Màn   hình 
+ CPU  đã  th _ eo  dõi :
+   Thiết   lập   Hiển   thị 
+ Hiện  tần  số  CPU  dạng  _ tần  số
+ Hiện  đơn  _ vị  tần  số
+ Hiện  tần  số  CPU  dạng  _ phần  trăm
+ Không  mở  được  tài  liệu  trợ  giúp .
+ Tiện  ích  này  hiển  thị  cách  quản  lý  tỷ  lệ  tần  số  CPU  hiện  có .
+ Tiện  ích  này  hiển  thị  tần  số  CPU  hiện  có .
+ Đồ  họa
+ Chữ
+ Đồ  họa  và  chữ
+ Không  hỗ  trợ  cách  quản  lý  tỷ  lệ  tần  số
+ Không  hỗ  trợ  cách  quản  lý  tỷ  lệ  tần  số  CPU
+ Bạn  sẽ  không  thể  sửa  đổi  tần  số  của  máy  bạn .  Có  lẽ  máy  bạn  có  cấu  hình  sai  hoặc  chưa  có  phần  cứng  hỗ  trợ  tiến  trình  quản  lý  tỷ  lệ  tần  số  CPU .
+ Thay  đổi  tỷ  lệ  tần  số  CPU
+ Cần  quyền  đặc  biệt  để  thay  đổi  tỷ  lệ  tần  số  CPU .
+ Bộ  tạo  tiểu  dụng  lắp  đĩa
+ Bộ  lắp  đĩa
+ Lắp  đĩa  và  thiết  bị  nội  bộ
+ ( đã  lắp )
+ ( chưa  lắp )
+ Không  thực  hiện  được  «  % s  »
+ _ Phát  đĩa  DVD
+ _ Phát  đĩa  CD
+ _ Mở  % s
+ _ Tháo  lắp  % s
+ _ Lắp  % s
+ Đẩy  _ ra  % s
+ Tiểu  dụng  dùng  để  lắp / tháo  lắp  các  ổ  đĩa  khối .
+ Thời  hạn  kiểm  tra  trạng  thái  điểm  lắp
+ Thời  khoảng  ( giây )  giữa  hai  lần  cập  nhật
+ Bộ  tạo  tiểu  dụng  con  mắt  G
+ Mắt
+ Một  đôi  con  mắt  cho  bảng  điều  khiển  của  bạn
+ Một  cặp  con  mắt  hay  cho  bảng  điều  khiển  GNOME  của  bạn .  Con  mắt  này  theo  vị  trí  của  con  chuột .
+ Hai  con  mắt  nhìn  theo  hướng  con  chuột .  : )
+ Thư  mục  chứa  sắc  thái
+ Không  khởi  động  được  tiểu  dụng  con  mắt .
+ Gặp  lỗi  nghiêm  trọng  khi  thử  tải  sắc  thái .
+ Tùy  thích  con  mắt  G
+ Sắc  thái
+ Chọn  _ sắc  thái :
+ Bàn  phím  chung
+ Ảnh  xạ  phím  Ả-rập
+ Ác-mê-ni
+ Bax-quợ
+ Bỉ
+ Ảnh  xạ  phím  Bảo-gia-lơi
+ Ảnh  xạ  phím  Bồ-đào-nha  tại  Bra-xin
+ Ki-rin  Bảo-gia-lơi
+ Ảnh  xạ  phím  Thụy-sĩ
+ Ảnh  xạ  phím  Séc
+ Ảnh  xạ  phím  Đức
+ Ảnh  xạ  phím  Đan-mạch
+ Ảnh  xạ  phím  E-x-tô-ni-a
+ Ảnh  xạ  phím  Tây-ban-nha
+ Ảnh  xạ  phím  Phần-lan
+ Pháp  ( Thụy-sĩ )
+ Bố  trí  có  105  phím  Phap-Ca-na-đa
+ Ảnh  xạ  phím  Pháp  ( Thụy-sĩ )
+ Ảnh  xạ  phím  Pháp
+ Bố  trí  có  102  phím  quốc  Anh
+ Ảnh  xạ  phím  Anh
+ Bố  trí  có  105  phím  quốc  Anh
+ Ảnh  xạ  phím  Gi-oa-gi-a
+ Bố  trí  La-tinh  của  Gi-oa-gi-a
+ Bố  trí  Nga  Gi-oa-gi-a
+ Đức
+ Bố  trí  Đức  ( Thụy-sĩ )  có  dấu  €
+ Ảnh  xạ  phím  Hy-lạp
+ Bố  trí  có  101  phím  loại  latin-1  Hung-gia-lợi
+ Bố  trí  latin-1  Hung-gia-lợi
+ Bố  trí  có  101  phím  loại  latin-2  Hung-gia-lợi
+ Bố  trí  có  105  phím  loại  latin-2  Hung-gia-lợi
+ Bố  trí  có  105  phím  loại  latin-1  Hung-gia-lợi
+ Bố  trí  phím  latin-2  kiểu-5  Sun  ( không  phải  PC )
+ Bàn  phím  có  101  phím  loại  PC-AT  Hung-gia-lợi
+ Ảnh  xạ  phím  Do-thái
+ Ảnh  xạ  phim  Băng-đảo
+ Ảnh  xạ  phim  Ý
+ Ảnh  xạ  phim  Nhật
+ Ảnh  xạ  phím  Lào
+ Ảnh  xạ  phím  Li-tu-a-ni
+ Ma-xê-đô-ni
+ Ảnh  xạ  phím  Hoà-lan
+ Na  Uy
+ Bố  trí  có  phím  chết  Ba  Lan
+ Ba  Lan
+ Bố  trí  có  phím  chết  Bồ  Đào  Nha
+ Bồ  Đào  Nha
+ Ảnh  xạ  phím  Bồ  Đào  Nha
+ Ảnh  xạ  phím  Nga
+ Ảnh  xạ  phím  Nga  chuẩn
+ Bố  trí  ki-rin  Nga
+ Ảnh  xạ  phím  Thụy-điển
+ Ảnh  xạ  phím  Xlô-ven
+ Ảnh  xạ  phím  Xlô-vak
+ Xlô-ven
+ Thụy-điển
+ Thái
+ Bố  trí  Keđ-ma-ni  Thái
+ Ảnh  xạ  phím  Thái
+ Bàn  phím  F  Thô-nhĩ-kỳ
+ Bàn  phím  Q  Thô-nhĩ-kỳ
+ Ảnh  xạ  phím  Thô-nhĩ-kỳ
+ Bàn  phím  PC / AT  quốc  Anh
+ Bàn  phím  có  101  phím  PC / AT  Mỹ
+ Bàn  phím  có  101  phím  Mỹ
+ Bố  trí  có  84  phím  Mỹ
+ Bố  trí  DEC  450  Mỹ
+ Bố  trí  IBM  RS / 6000  Mỹ
+ Bố  trí  quốc  tế  Mỹ
+ Bàn  phím  có  105  phím  Mỹ  ( có  phím  Windows )
+ Bố  trí  Macintosh  Mỹ
+ Bố  trí  có  101  phím  Silicon  Graphics  Mỹ
+ Bố  trí  kiểu-5  Sun  Mỹ
+ Ảnh  xạ  phím  Xéc-bi
+ Ảnh  xạ  phím  thay  thế  Mông  Cổ
+ Ảnh  xạ  phím  ngữ  âm  Mông  Cổ
+ Ảnh  xạ  phím  Mông  Cổ
+ Hành  vi  chuyển  đổi  bố  trí
+ Khi  bấm  phím  Alt  bên  phải  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  phím  Alt  bên  trái  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  cả  hai  phím  CapsLock  đồng  thời  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  hai  phím  Shift  và  CapsLock  đồng  thời  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  cả  hai  phím  Shift  đồng  thời  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  cả  hai  phím  Alt  đồng  thời  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  cả  hai  phím  Ctrl  đồng  thời  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  hai  phím  Control  và  Shift  đồng  thời  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  tổ  hợp  phím  Alt  và  Ctrl  đồng  thời  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  tổ  hợp  phím  Alt  và  Shift  đồng  thời  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  phím  Menu  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  phím  Windows  bên  trái  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  phím  Windows  bên  phải  thì  chuyển  đổi  bố  trí .
+ Khi  bấm  phím  Shift  bên  trái  thì  chuyển  đổi  nhóm .
+ Khi  bấm  phím  Shift  bên  phải  thì  chuyển  đổi  nhóm .
+ Khi  bấm  phím  Ctrl  bên  trái  thì  chuyển  đổi  nhóm .
+ Khi  bấm  phím  Ctrl  bên  phải  thì  chuyển  đổi  nhóm .
+ Ảnh  xạ  phím  Sun  Ac-mê-ni
+ Ảnh  xạ  phím  Sun  Thổ-nhĩ-kỳ  loại  A-dợ-bai-sanh
+ Ảnh  xạ  phím  Sun  Hoà-lan
+ Ảnh  xạ  phím  Sun  Bảo-gai-lơi
+ Ảnh  xạ  phím  USB  Sun  Bồ-đào-nha  ( tại  Bra-xin )
+ Ảnh  xạ  phím  Sun  Bồ-đào-nha  ( tại  Bra-xin )
+ Ảnh  xạ  phím  Sun  Be-la-ru-xợ
+ Ảnh  xạ  phím  Sun  Ca-na-đa
+ Ảnh  xạ  phím  Sun  Đức  ( Thụy-sĩ )
+ Ảnh  xạ  phím  Sun  Séc
+ Ảnh  xạ  phím  Sun  Kiểu-4  Đức
+ Ảnh  xạ  phím  USB  Sun  Đức
+ Ảnh  xạ  phím  Sun  Đức
+ Ảnh  xạ  phím  Sun  Kiểu-4  Đan-mạch
+ Ảnh  xạ  phím  USB  Sun  Đan-mạch
+ Ảnh  xạ  phím  Sun  Đan-mạch
+ Ảnh  xạ  phím  Sun  Et-tô-ni-a
+ Ảnh  xạ  phím  Sun  Kiểu-4  Tây-ban-nha
+ Ảnh  xạ  phím  USB  Sun  Tây-ban-nha
+ Ảnh  xạ  phím  Sun  Tây-ban-nha
+ Ảnh  xạ  phím  Sun  Phần-lan
+ Ảnh  xạ  phím  USB  Sun  Pháp
+ Ảnh  xạ  phím  Sun  Pháp
+ Ảnh  xạ  phím  Sun  Kiểu-4  quốc  Anh
+ Ảnh  xạ  phím  USB  Sun  quốc  Anh
+ Ảnh  xạ  phím  Sun  quốc  Anh
+ Ảnh  xạ  phím  Sun  latin2  Hung-gia-lợi
+ Ảnh  xạ  phím  latin-1  kiểu-5  Hung-gia-lợi
+ Ảnh  xạ  phím  Sun  Do-thái
+ Ảnh  xạ  phím  Sun  Băng-đảo
+ Ảnh  xạ  phím  Sun  Kiểu-4  Ý
+ Ảnh  xạ  phím  USB  Sun  Ý
+ Ảnh  xạ  phím  Sun  Ý
+ Ảnh  xạ  phím  Sun  Kiểu-4  Nhật  Bản
+ Ảnh  xạ  phím  Sun  Nhật  Bản
+ Ảnh  xa  phím  Sun  Li-tu-a-ni
+ Ảnh  xạ  phím  Lát-vi-a
+ Ảnh  xạ  phím  Sun  Ma-xê-đô-ni
+ Ảnh  xạ  phím  Sun  Na-uy
+ Ảnh  xạ  phím  Sun  Ba-lan
+ Ảnh  xạ  phím  Sun  Kiểu-4  Bồ-đào-nha
+ Ảnh  xạ  phím  Sun  Bồ-đào-nha
+ Ảnh  xạ  phím  Sun  Lỗ-má-ni
+ Ảnh  xạ  phím  Sun  Nga
+ Ảnh  xạ  phím  Sun  Kiểu-4  Thụy-điển
+ Ảnh  xạ  phím  USB  Sun  Thụy-điển
+ Ảnh  xạ  phím  Sun  Thụy-điển
+ Ảnh  xạ  phím  Sun  Xlô-ven
+ Ảnh  xạ  phím  Sun  Xlô-vác
+ Ảnh  xạ  phím  chuẩn  Sun  Xéc-bi
+ Ảnh  xạ  phím  Sun  Thái
+ Ảnh  xạ  phím  Sun  Thổ-nhĩ-kỳ
+ Ảnh  xạ  phím  Sun  U-cợ-rainh
+ Ảnh  xạ  phím  Sun  kiểu-5  Mỹ
+ Ảnh  xạ  phím  Sun  Kiểu-4  Mỹ
+ Ảnh  xạ  phím  USB  Sun  Mỹ
+ Ảnh  xạ  phím  Sun  Việt-nam
+ _ Nhóm
+ Tùy  thích  bàn  _ phím
+ Hiện  _ bố  trí  hiện  có
+ Phần  _ bổ  sung
+ Bộ  tạo  tiểu  dụng  bàn  phím
+ Bộ  chỉ  thị  bàn  phím
+ Bộ  chỉ  thị  bố  trí  bàn  phím  GNOME
+ Chưa  biết
+ Bố  trị  bàn  phím  «  % s  »
+ Bản  quyền  ©  1999-2004  Sergey  V.  Udaltsov
+ Tiểu  dụng  chỉ  thị  bố  trí  bàn  phím  cho  GNOME
+ Bộ  chỉ  thị  bàn  phím  ( % s )
+ Bố  trị  Bàn  phím
+ Ch _ i  tiết
+ _ Cập  nhật
+ Bộ  tạo  tiểu  dụng  Gweather .
+ Bộ  tạo  tiểu  dụng  thời  tiết .
+ Báo  cáo  thời  tiết
+ Theo  dõi  thời  tiết  hiện  thời  và  hiển  thị  dự  đoán  thời  tiết .
+ Bản  quyền  ©  1999-2005  của  S.  Papadimitriou  ( Σ .  Πάπαδιμίτριου )  và  người  khác
+ Tiểu  dụng  bảng  điều  khiển ,  dùng  để  theo  dõi  thời  tiết  địa  phương .
+ Thời  tiết  GNOME
+ Thành  phố :  % s  Bầu  trời :  % s  Nhiệt  độ :  % s
+ Đang  cập  nhật ...
+ Chi  tiết
+ Thành  phố :
+ Lần  cập  nhật  cuối :
+ Hoàn  cảnh :
+ Bầu  trời :
+ Nhiệt  độ :
+ Cảm  giác  như :
+ Điểm  sương :
+ Độ  ẩm  tương  đối
+ Gió :
+ Áp  suất :
+ Tầm  nhìn :
+ Rạng  đông :
+ Hoàng  hôn :
+ Hoàn  cảnh  hiện  thời
+ Báo  cáo  dự  báo  thời  tiết
+ Xem  dự  báo  chi  tiết
+ Dự  báo
+ Bản  đồ  ra  đa
+ Xem  _ Weather.com
+ Xem  Weather.com
+ Nhấn  để  vào  chỗ  Mạng  Weather.com
+ Hiện  thời  không  có  thông  tin  dự  báo  cho  địa  điểm  này .
+ Ô  xem  địa  điểm
+ Chọn  địa  điểm  từ  danh  sách
+ Nút  chiều  cập  nhật
+ Nút  xoay  tròn  để  cập  nhật
+ Mục  nhập  địa  chỉ
+ Nhập  địa  chỉ  Mạng
+ Lỗi  tải  cơ  sở  dữ  liệu  XML  địa  điểm .  Vui  lòng  thông  báo  lỗi  này .
+ Tùy  thích  cho  thời  tiết
+ Cậ _ p  nhật  tự  động  mỗi :
+ Đơn  vị  nhiệ _ t  độ  :
+ Mặc  định
+ Thang  nhiệt  kenvin
+ Chia  trăm  độ
+ Cái  đo  nhiệt  Fa-ren-hét
+ Đơn  vị  tốc  độ  _ gió  : meters  per  second
+ mét / giâykilometers  per  hour
+ cây  số / giờmiles  per  hour
+ lý / giờknots
+ hải  lý
+ Tỷ  lệ  Beaufort
+ Đơn  vị  á _ p  suất : kiloPascals
+ kPahectoPascals
+ hPamillibars
+ mbmillibars  of  mercury
+ mmHginches  of  mercury
+ inHgatmospheres
+ atm
+ Đơn  _ vị  tầm  nhìn : meters
+ métkilometers
+ cây  sốmiles
+ lý
+ Bật  bản  đồ  _ ra  đa
+ Dùng  địa  _ chỉ  tự  chọn  cho  bản  đồ  ra-đa
+ Đị _ a  chỉ :
+ Cập  nhật
+ phút
+ Hiển  thị
+ Chung
+ _ Chọn  địa  điểm :
+ _ Tìm :
+ Tìm  _ kế
+ Địa  điểm
+ Đầu  tư
+ Theo  dõi  tiền  đã  đầu  tư  của  bạn .
+ Sơ  đồ  tài  chính
+ Ký  hiệu  bộ  _ theo  dõi : 
+ Tự  động  cậ _ p  nhật
+ _ Kiểu  đồ  thị : 
+ Trung  bình  động : 
+ Trung  bình  động  số  mũ  : 
+ 5
+ 10
+ 20
+ 50
+ 100
+ 200
+ Phủ  : 
+ Bollinger
+ SAR
+ Xẻ
+ Khối  tin
+ Chỉ  báo  : 
+ RSI
+ Âm
+ MFI
+ Stoch  chậm
+ Âm + MA
+ ROC
+ Stoch  nhanh
+ W % R
+ MACD
+ Tù _ y  chọn
+ Đang  tải  về  sơ  đồ  từ    Yahoo 
+ Tùy  thích  Đầu  tư
+ nhãn
+   Chứng   khoán 
+          Ghi     chú     :       bảng    giá    chứng    khoán    bị    chậm    ít    nhất    15    phút   .       Nguồn    :        Yahoo   !   
+   Bạn   chưa   điền   thông   tin   chứng   khoán 
+   Không   có   chỉ   số   chứng   khoán   nào   sẵn   sàng 
+ Không  thể  liên  lạc  đến  máy  chủ .  Máy  tính  hoặc  ngoại  tuyến ,  hoặc  máy  chủ  không  hoạt  động .  Vui  lòng  thử  lại  sau .
+ Sơ  đồ  tài  chính  —  % s
+ Đang  mở  sơ  đồ ...
+ Đã  tải  biểu  đồ  về
+ Không  thể  tải  biểu  đồ  về
+ Tiểu  dụng  Đầu  tư
+ Ký  hiệu
+ Số  tiền
+ Giá
+ Tiền  hoa  hồng
+ Không  thể  kết  nối  đến  Yahoo !  Finance
+ Cập  nhật  lúc  % s
+ Mức  thay  đổi  chỉ  số  trung  bình  % % :  % + .2f % %
+ Điểm  cân  bằng :  % + .2flast  price
+ Trình  điểm  chứng  khoán
+ Cuối
+ Đổi  %
+ Sơ  đồ
+ Lợi
+ Lợi  %
+ Deskbar  ( trước  là  Mini-Commander )
+ Deskbar  ( cập  nhật  trong  suốt  từ  Mini-Commander )
+ Bộ  tạo  tiểu  dụng  Bộ  lệnh  tí  ti
+ Dòng  lệnh
+ Bộ  lệnh  tí  ti
+ Tiểu  dung  GNOME  này  thêm  dòng  lệnh  vào  bảng  điều  khiển .  Tính  năng  nó  bao  gồm  gõ  xong  lệnh ,  nhật  ký  lệnh  và  bộ  lệnh  có  thể  sửa  đổi .
+ Không  có  gì  trong  nhật  ký  lệnh
+ Khởi  chạy  chương  trình
+ Gõ  một  lệnh  vào  đây  và  Gnome  sẽ  thực  hiện  nó  cho  bạn .
+ Không  thể  lấy  giản  đồ  cho  % s :  % s
+ Không  thể  đặt  giản  đồ  cho  % s :  % s
+ Lập  giá  trị  danh  sách  mặc  định  cho  % s
+ Chưa  đặt  biến  môi  trường  GCONF _ DISABLE _ MAKEFILE _ SCHEMA _ INSTALL  ( Gconf :  vô  hiệu  hóa  tập  tin  tạo  giản  đồ  cài )  nên  sẽ  không  cài  đặt  những  giản  đồ .
+ Phải  đặt  biến  môi  trường  GCONF _ CONFIG _ SOURCE  ( nguồn  cấu  hình  GConf ) .
+ Không  truy  cập  được  nguồn  cấu  hình :  % s
+ Lỗi  đồng  bộ  dữ  liệu  cấu  hình :  % s
+ Danh  sách  mẫu  bộ  lệnh
+ Danh  sách  mục  nhập  GConfValue  ( giá  trị  cấu  hình  G )  chứa  chuỗi  cho  mẫu  bộ  lệnh .
+ Danh  sách  bộ  lệnh
+ Danh  sách  mục  nhập  GConfValue  ( giá  trị  cấu  hình  G )  chứa  chuỗi  cho  bộ  lệnh .
+ Tùy  thích  Dòng  Lệnh
+   Tự   động   Điền   nốt 
+ Bật  tự  độ _ ng  điền  nốt  dựa  vào  lịch  sử
+ _ Rộng :
+ điểm  ảnh
+ Màu  sắc
+ Dùng  mà _ u  sắc  thái  mặc  định
+ Cảnh  _ gần  dòng  lệnh :
+ _ Nền  dòng  lệnh :
+ Kén  màu
+ _ Vĩ  lệnh :
+ Thê _ m  vĩ  lệnh ...
+ _ Xoá  vĩ  lệnh
+ Vĩ  lệnh
+ Thêm  vĩ  lệnh  mới
+ _ Mẫu  :
+ _ Lệnh :
+ Hiện  móc
+ Hiện  móc  để  có  thể  gỡ  tiểu  dụng  khỏi  bảng .
+ Hiện  khung
+ Hiện  khung  quanh  tiểu  dụng .
+ Tự  động  hoàn  thành  nhờ  nhật  ký
+ Thử  tự  động  hoàn  chỉnh  lệnh  từ  nhật  ký  lệnh  đã  gõ .
+ Rộng
+ Độ  rộng  tiểu  dụng
+ Không  còn  dùng  nữa
+ Dùng  màu  của  sắc  thái  mặc  định
+ Dùng  màu  sắc  thái  mặc  định  thay  vì  điều  tự  chọn .
+ Màu  chữ ,  phần  đỏ
+ Thành  phần  đỏ  trong  màu  nổi .
+ Màu  chữ ,  phần  xanh  lá  cây
+ Thành  phần  xanh  lá  cây  trong  màu  nổi .
+ Màu  chữ ,  phần  xanh  nước  biểu
+ Thành  phần  xanh  nước  biển  trong  màu  nổi .
+ Màu  nền ,  phần  đỏ
+ Thành  phần  đỏ  trong  màu  nền .
+ Màu  nền ,  phần  xanh  lá  cây
+ Thành  phần  xanh  lá  cây  trong  màu  nền .
+ Màu  nền ,  phần  xanh  nước  biển
+ Thành  phần  xanh  nước  biển  trong  màu  nền .
+ Danh  sách  nhật  ký  lệnh
+ Danh  sách  mục  nhập  GConfValue  ( giá  trị  cấu  hình  G )  chứa  chuỗi  cho  mục  nhật  ký .
+ Phản  đối  phím  dành  cho  tiểu  dung ,  hãy  sử  dụng  phím  toàn  cục  thay  vào  đó :  / schemas / apps / mini-commander-global / macro _ patterns .
+ Bộ  duyệt
+ Nhấn  vào  nút  này  để  khởi  chạy  trình  duyệt
+ Nhật  ký  lệnh
+ Nhấn  vào  nút  này  để  hiện  danh  sách  các  lệnh  đã  thực  hiện .
+ Quản  trị  hệ  thống  đã  vô  hiệu  hóa  dòng  lệnh .
+ Tiểu  dụng  Bộ  lệnh  tí  ti
+ Tiểu  dụng  này  thêm  một  dòng  lệnh  vào  bảng  điều  khiển .
+ Cần  phải  chỉ  định  mẫu .
+ Bạn  cần  chỉ  định  mẫu  và  lệnh .
+ Cần  phải  chỉ  định  lệnh .
+ Có  thể  không  chỉ  định  các  mẫu  đúp .
+ Mẫu
+ Lệnh
+ Điều  khiển  âm  lượng
+ Điều  chỉnh  âm  lượng .
+ _ Câm
+ _ Mở  điều  khiển  âm  lượng
+ Tiểu  dụng  âm  lượng
+ Điều  khiển  âm  lượng  chưa  tìm  phần  tử  và / hay  thiết  bị  cần  điều  khiển .  Có  nghĩa  là  hoặc  bạn  chưa  cài  đặt  những  bổ  sung  GStreamer  cần  thiết ,  hoặc  bạn  chưa  cấu  hình  một  thẻ  âm  thanh .
+ Bạn  có  thể  loại  bỏ  điều  khiển  âm  lượng  ra  bảng  điều  khiển ,  bằng  cách  nhắp-phải  vào  biểu  tượng  loa  trên  bảng  rồi  chọn  «  Gỡ  bỏ  ra  bảng  điều  khiển  »  trong  trình  đơn .
+ Lỗi  khởi  động  bộ  điều  khiển  âm  lượng :  % s
+ % s :  câm
+ % s :  % d % %
+ Không  hiển  thi  trợ  giúp  được :  % s
+ Bộ  điều  khiển  âm  lượng  cho  bảng  Gnome  của  bạn .
+ Đang  dùng  GStreamer  0.10 .
+ Câm
+ Điều  khiển  Âm ...
+ Không  biết  điều  khiển  âm  lượng  % d
+ Kênh  điều  khiển  bởi  tiểu  dụng .  Chỉ  cho  thiết  lập  OSS  ( phần  mềm  nguồn  mở ) .
+ Trạng  thái  câm  được  lưu
+ Âm  lượng  được  lưu  để  phục  hồi  khi  khởi  động
+ Tùy  thích  điều  khiển  âm  lượng
+ Chọn  thiết  bị  và  rãnh  cần  điều  khiển .
+ Bộ  theo  dõi  bô  điều  giải
+ Hoạt  hóa  và  theo  dõi  kết  nối  mạng  quay  số
+ _ Bật
+ _ Tắt
+ Th _ uộc  tính
+ Kết  nối  có  hoạt  động ,  còn  chưa  gọi  được  thời  gian  kết  nối
+ Thời  gian  kết  nối :  % .1d : % .2d
+ Chưa  kết  nối
+ Để  kết  nối  đến  nhà  cung  cấp  dịch  vụ  Mạng  ( ISP )  thì  bạn  cần  phải  có  quyền  truy  cập  quản  trị .
+ Để  ngắt  kết  nối  ra  nhà  cung  cấp  dịch  vụ  Mạng  ( ISP )  thì  bạn  cần  phải  có  quyền  truy  cập  quản  trị .
+ Đã  gõ  mật  khẩu  không  hợp  lệ .
+ Hãy  kiểm  tra  đã  gõ  mật  khẩu  đúng  và  xem  phím  CapsLock  ( chữ  hoa  luôn )  không  bật .
+ Bạn  có  muốn  kết  nối  chứ ?
+ Bạn  có  muốn  ngắt  kết  nối  chứ ?
+ _ Kết  nối
+ N _ gắt  kết  nối
+ Không  thể  khởi  chạy  công  cụ  cấu  hình  mạng
+ Hãy  kiểm  tra  đã  cài  đặt  nó  vào  đường  dẫn  đúng ,  với  quyền  truy  cập  đúng .
+ Tiểu  dụng  hoạt  hóa  và  theo  dõi  kết  nối  mạng  quay  số .
+ Nhập  mật  khẩu
+ Mật  khẩu  :
+   Đang   kết   nối   tới   Nhà   Cung   cấp   Dịch   vụ   Internet   (  ISP  ) 
+ Bộ  theo  dõi  hệ  thống
+ Bộ  chỉ  thị  trọng  tải  hệ  thống
+ Mở  bộ  the _ o  dõi  hệ  thống
+ Bộ  theo  dõi  trọng  tải  hệ  thống ,  có  khả  năng  hiển  thị  đồ  thị  của  cách  sử  dụng  CPU  ( đơn  vị  xử  lý  trung  tâm ) ,  RAM  ( bộ  nhớ  truy  cập  ngẫu  nhiên )  và  bộ  nhớ  trao  đổi ,  và  cũng  lưu  tải  cho  mạng .
+ Gặp  lỗi  khi  thực  thi  «  % s  »  :  % s
+ Bộ  xử  lý
+ Bộ  nhớ
+ Mạng
+ Bộ  nhớ  trao  đổi
+ Trọng  tải  trung  bình
+ Đĩa
+ % s :  % u % %  đang  dùng  bởi  chương  trình  % u % %  là  bộ  nhớ  tạm  đang  dùng
+ Số  trung  bình  tải  trọng  hệ  thống  là  % 0.02f
+ % s :  Đang  nhận  % s  Đang  gửi  % s
+ Trọng  tải  CPU
+ Trọng  tải  của  bộ  nhớ
+ Trọng  tải  cho  mạng
+ Trọng  tải  tráo  đổi
+ Trọng  tải  đĩa
+ Bật  đồ  thị  trọng  tải  CPU
+ Bật  đồ  thị  trọng  tải  bộ  nhớ
+ Bật  đồ  thị  trọng  tải  mạng
+ Bật  đồ  thị  trọng  tải  trao  đổi
+ Bật  đồ  thị  trung  bình  trọng  tải
+ Bật  đồ  thị  trọng  tải  đĩa
+ Tần  số  cập  nhật  tiểu  dụng  ( theo  mili  giây )
+ Cỡ  đồ  thị
+ Với  bảng  ngang  thì  có  độ  rộng  của  đồ  thị  theo  điểm  ảnh .  Còn  với  bảng  dọc  thì  có  chiều  cao  đồ  thị .
+ Màu  đồ  thị  cho  hoạt  động  CPU  liên  quan  đến  người  dùng
+ Màu  đồ  thị  cho  hoạt  động  CPU  liên  quan  đến  hệ  thống
+ Màu  đồ  thị  cho  hoạt  động  CPU  liên  quan  đến  " nice "  ( ưu  tiên  CPU  cho  ứng  dụng ) 
+ Màu  đồ  thị  cho  hoạt  động  CPU  liên  quan  đến  thời  gian  đời  khi  dữ  liệu  gõ / xuất  ( iowait ) 
+ Màu  nền  cho  đồ  thị  CPU
+ Màu  đồ  thị  cho  việc  sử  dụng  bộ  nhớ  liên  quan  đến  người  dùng
+ Màu  đồ  thị  cho  bộ  nhớ  dùng  chung
+ Màu  đồ  thị  cho  bộ  nhớ  vùng  đệm
+ Màu  đồ  thị  cho  bộ  nhớ  tạm
+ Màu  nền  đồ  thị  bộ  nhớ
+ Màu  đồ  thị  cho  hoạt  động  mạng  vào
+ Màu  đồ  thị  cho  hoạt  động  mạng  ra
+ Màu  đồ  thị  cho  sử  dụng  mạng  mạch  nội  bộ
+ Màu  nền  đồ  thị  mạng
+ Màu  đồ  thị  cho  việc  sử  dụng  bộ  nhớ  trao  đổi  liên  quan  đến  người  dùng
+ Màu  nền  đồ  thị  bộ  nhớ  trao  đổi
+ Màu  đồ  thị  cho  trung  bình  trọng  tải
+ Màu  nền  đồ  thị  trọng  tải
+ Màu  đồ  thị  cho  hoạt  động  đọc  đĩa
+ Màu  đồ  thị  cho  hoạt  động  ghi  vào  đĩa
+ Màu  nền  cho  đồ  thị  trọng  tải  đĩa
+ Tập  tin  mô  tả  màn  hình  nền  cần  thực  hiện  làm  bộ  theo  dõi  hệ  thống
+ % s / s
+ Tài  nguyên  được  theo  dõi
+ Bộ  _ xử  lý
+ _ Bộ  nhớ
+ Mạ _ ng
+ Bộ  nhớ  t _ ráo  đổi
+ _ Trọng  tải
+ Đĩa  _ cứng
+ Tùy  chọn
+ Độ  rộng  bộ  the _ o  dõi  hệ  thống : 
+ Độ  cao  bộ  the _ o  dõi  hệ  thống : 
+ Khoảng  cập  nhậ _ t  theo  dõi  hệ  thống : 
+ mili  giây
+ N _ gười  dùng
+ _ Hệ  thống
+ Cấp  N _ ice
+ Chờ  _ V / R
+ N _ ghỉ
+ Chi _ a  sẻ
+ _ Bộ  nhớ  đệm
+ Nhớ  tạ _ m
+ Còn  _ rảnh
+ _ Vào
+ _ Ra
+ _ Cục  bộ
+ _ Nền
+ Đã  _ dùng
+ _ Còn  rảnh
+ Trọng  tải
+ Trung  _ bình
+ Đĩa  cứng
+ Đọ _ c
+ _ Ghi
+ Tùy  thích  cho  bộ  theo  dõi  hệ  thống
+ Bộ  phát  đĩa  CD  ( bị  phản  đối )
+ Tiểu  dụng  bảng  điều  khiển ,  dùng  để  phát  đĩa  CD  âm  thanh .
+ Bộ  theo  dõi  hộp  Thư  Đến  ( bị  phản  đối )
+ Báo  động  khi  nhận  thư  mới
+ Điều  khiển  Âm  ( bị  phản  đối )
+ Bộ  tạo  tiểu  dụng  rỗng
+ Bộ  làm  cho  tiểu  dụng  bị  phản  đối
+ Bộ  theo  dõi  liên  kết  không  dây
+ Theo  dõi  chất  lượng  của  liên  kết  mạng  không  dây
+ Một  số  mục  bảng  điều  khiển  thì  không  còn  công  bố  lại .
+ Một  hay  nhiều  mục  bảng  điều  khiển  ( cũng  được  gọi  như  là  tiểu  dụng )  không  còn  công  bố  lại  trong  hê  thống  GNOME .
+ Như  thế  thì  sẽ  loại  bỏ  các  mục  ấy  ra  cấu  hình  bạn .
+ Bạn  sẽ  không  nhận  thông  điệp  này  lần  nữa .
+ Tomboy  ( tên  trước  là  Stickynotes )
+ Tomboy  ( cập  nhật  trong  suốt  từ  stickynotes )
+ Bộ  tạo  tiểu  dụng  ghi  chép  đính
+ Ghi  chép  dính
+ Tạo ,  xem ,  và  quản  lý  ghi  chép  dính  trên  màn  hình  nền
+ _ Tạo  ghi  chép
+ Ẩ _ n  ghi  chép
+ _ Khóa  ghi  chép
+ _ Xóa  bỏ  ghi  chép
+ Ghi  chép  này  bị  khóa .
+ Ghi  chép  này  đã  bỏ  khóa .
+ Tùy  thích  Ghi  chép  dính
+   Thuộc   tính   Ghi   chép   Mặc   định 
+ Chọn  phông  chữ  cần  dùng  cho  mọi  ghi  chép  dính
+ Chọn  một  phông  chữ  ghi  chép  dính  mặc  định
+ _ Phông :
+ Dù _ ng  phông  chữ  từ  sắc  thái  mặc  định
+ Mà _ u  ghi  chép :
+ Màu  p _ hông :
+ Chọn  màu  cơ  bản  cần  dùng  cho  mọi  ghi  chép  dính
+ Chọn  một  màu  ghi  chép  dính  mặc  định
+ Dùng  màu  từ  _ sắc  thái  hệ  thống
+ Xác  định  chiều  cao  mặc  định  ( theo  điểm  ảnh )  cùa  mọi  ghi  chép  mới
+ Xác  định  chiều  rộng  mặc  định  ( theo  điểm  ảnh )  cùa  mọi  ghi  chép  mới
+ C _ ao  :
+   Ứng   xử 
+ _ Buộc  màu  và  phông  mặc  định  trên  ghi  chép
+ Chọn  nếu  kiểu  dáng  mặc  định  bị  ép  buộc  trên  mọi  ghi  chép  hay  không
+ Để  ghi  chép  trên  mọi  _ vùng  làm  việc
+ Chọn  nếu  ghi  chép  hiện  rõ  trên  mọi  vùng  làm  việc  hay  không
+ Hiện  ghi  chép  dính
+ _ Xoá  tất  cả
+ ( Mở )  khoá  ghi  chép
+ Đóng  ghi  chép
+ Đổi  cỡ  ghi  chép
+ Thuộc  tính  Ghi  chép  dính
+ Chọn  phông  chữ  cho  ghi  chép
+ Chọn  một  phông  chữ  cho  ghi  chép  dính
+ Dù _ ng  phông  chữ  mặc  định
+ Chọn  màu  cho  ghi  chép
+ Chọn  màu  cho  ghi  chép  dính
+ Màu  ghi  _ chép :
+ Mà _ u  phông :
+ Dùng  mà _ u  mặc  định
+ Xác  định  một  tựa  đề  cho  ghi  chép  này
+ _ Tựa  đề :
+ Chiều  rộng  mặc  định  cho  mọi  ghi  chép  mới
+ Chiều  rộng  mặc  định  của  mọi  ghi  chép  dính  mới ,  tính  theo  điểm  ảnh .
+ Chiều  cao  mặc  định  cho  mọi  ghi  chép  mới
+ Chiều  cao  mặc  định  của  mọi  ghi  chép  dính  mới ,  tính  theo  điểm  ảnh .
+ Màu  mặc  định  cho  mọi  ghi  chép  mới
+ Màu  mặc  định  cho  mọi  ghi  chép  dính  mới .  Nên  dùng  đặc  tả  thập  lục  phân ,  ví  dụ  " # 30FF50 " .
+ Màu  mặc  định  cho  phông  chữ
+ Màu  mặc  định  phông  chữ  cho  mọi  ghi  chép  dính  mới .  Nên  dùng  đặc  tả  thập  lục  phân ,  ví  dụ  " # 000000 " .
+ Phông  chữ  mặc  định  cho  mọi  ghi  chép  mới
+ Phông  chữ  mặc  định  cho  ghi  chép  dính  mới .  Nên  là  Tên  Phông  dạng  Pango ,  ví  dụ  " Sans  Italic  10 "
+ Độ  dính  vùng  làm  việc  của  ghi  chép  dính
+ Xác  định  ghi  chép  dính  có  hiển  thị  trên  MỌI  vùng  làm  việc  trên  màn  hình  nền  hay  không .
+ Trạng  thái  khóa  của  ghi  chép  dính
+ Xác  định  ghi  chép  dính  có  bị  khóa  ( không  thể  sửa  chữa )  hay  không .
+ Dạng  thức  ngày  của  tựa  đề  ghi  chép
+ Theo  mặc  định  thì  ghi  chép  dính  được  gán  tên  là  ngày  tạo  nó .  Dạng  thức  này  được  dùng ;  bất  cứ  cái  gì  có  thể  được  phân  tích  bằng  strftime ( )  ( thử  lệnh  ' man  strftime ' )  đều  hợp  lệ .
+ Có  dùng  màu  hệ  thống  mặc  định  hay  không
+ Nếu  tắt  tùy  chọn  này ,  màu  tự  chọn  có  thể  được  dùng  làm  màu  mặc  định  cho  mọi  ghi  chép  dính .
+ Có  dùng  phông  chữ  mặc  định  hay  không
+ Nếu  tắt  tùy  chọn  này ,  phông  tự  chọn  có  thể  được  dùng  làm  phông  mặc  định  cho  mọi  ghi  chép  dính .
+ Có  buộc  dùng  màu  và  phông  chữ  mặc  định  cho  mọi  ghi  chép
+ Nếu  bật  tùy  chọn  này ,  màu  và  phông  tự  chọn  được  gán  cho  ghi  chép  cá  nhân  sẽ  bị  bỏ  qua .
+ Có  hỏi  xác  nhận  xóa  bỏ  ghi  chép  hay  không
+ Các  ghi  chép  rỗng  lúc  nào  cũng  bị  xóa  mà  không  cần  hỏi  xác  nhận .
+ Ghi  chép  dính  cho  môi  trường  GNOME
+ Sọt  Rác
+ Tới  Sọt  Rác
+ _ Mở  Sọt  Rác
+ Đổ  _ Rác
+ Không  có  gì  trong  Sọt  Rác
+ Gặp  lỗi  khi  tạo  tiến  trình  con  nautilus :  % s
+ Sọt  Rác  GNOME  ở  bảng  điều  khiển  của  bạn .  Có  thể  sử  dụng  nó  để  xem  nội  dung  Sọt  Rác  hoặc  kéo  và  thả  mục  vào  Sọt  Rác .
+ Xóa  bỏ  ngay  bây  giờ  chứ ?
+ Không  thể  di  chuyển  các  mục  này  vào  Sọt  Rác :  bạn  có  muốn  xóa  bỏ  chúng  ngay  bây  giờ  không ?
+ Không  thể  di  chuyển  một  số  mục  vào  Sọt  Rác :  bạn  có  muốn  xóa  bỏ  chúng  ngay  bây  giờ  không ?
+ Tiểu  dụng  Sọt  Rác
+ Đang  gỡ  bỏ  mục  % s  trên  % s
+   Đang   gỡ   bỏ   :   %  s 
+ Đổ  mọi  mục  khỏi  Sọt  Rác  chứ ?
+ Nếu  bạn  chọn  đổ  Sọt  Rác  thì  mọi  mục  trong  nó  sẽ  bị  mất  hoàn  toàn .  Ghi  chú  là  cũng  có  thể  xóa  bỏ  mỗi  mục  riêng .
+ Đang  đổ  Sọt  Rác
+   Diện   mạo 
+
+ *
+   Màu   sắc 
+   Cỡ 
+   Yêu   cầu   mật   khẩu   chủ   (  root  ) 
+   Xoá   mọi   ghi   chép   dính   ?  Không  thể  hủy  bước  này .
+   Xoá   ghi   chép   dính   này   ?  Không  thể  hủy  bước  này .
+   Thuộc   tính 
+ _ Xoá  ghi  chép ...
+   Từ   : 
+      Đang    đổ    Sọt    Rác   /   b       

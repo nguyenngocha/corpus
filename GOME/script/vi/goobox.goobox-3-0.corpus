@@ -1,0 +1,128 @@
+ Bộ  phát  đĩa  CD
+ Phát  và  trích  đĩã  CD
+ Cấp  âm  lượng :   % 3.0f % %
+ Chọn  một  bìa  đĩa  CD  từ  đĩa  cục  bộ
+ Dừng  phát
+ _ Thanh  công  cụ
+ Thanh  trạng  thá _ i
+ Phát  mọi  rãnh
+ _ Lưu  danh  mục  nhạc
+ Phát  lại  khi  tới  cuối
+ Đang  trích  rãnh
+   Kiểu   tập   tin 
+ Giá  trị  có  thể :  ogg ,  flac ,  mp3 ,  wave .
+ _ Xem  thư  mục  đích
+ Chất  lượng  cao  hơn
+ Chọn  một  ảnh  bìa  đĩa  CD
+ Ảnh  đã  tìm :
+ Trích  rãnh
+   Trích 
+
+ _ Mọi  rãnh
+ _ Các  rãnh  được  chọn
+ Thuộc  tính  đĩa  _ CD
+ Tùy  thích
+   Ổ   đĩa   CD 
+ Chung
+   Thư   mục   đích 
+ Hãy  chọn  thư  mục  đích
+ _ Trích
+ Tên
+ Nghệ  sĩ
+ Hiện  cửa  sổ  chính
+ Không  tìm  thấy  ảnh
+ Nhóm  Việt  hóa  Gnome   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >
+ Lưu  các  rãnh  vào  đĩa  dạng  tập  tin
+ Không  thể  thưc  hiện  lệnh .
+ % u ,  đang  nạp  ảnh :  % u
+ Không  thể  tìm  kiếm  bìa  trên  Mạng
+ Để  trích  rãnh  ra  đĩa  CD ,  bạn  cần  ít  nhất  một  của  những  phần  bổ  sung  GStreamer  này :  •  % s  →  Ogg  Vorbis  •  % s  →  FLAC  •  % s  →  Mp3  •  % s  →  Wave
+ Không  có  sẵn  bộ  mã  hóa .
+ _ Ogg / Vorbis
+ _ FLAC
+ Nén  nhanh  hơn
+ Nén  mạnh  hơn
+ Cỡ  nhỏ  hơn
+ Chất  lượng :  % d
+ Cấp  nén :  % d
+ Đang  tìm  kiếm  ảnh ...
+ #
+ Đang  trích  rãnh  % d  trên  % d :  % s
+ Không  thể  đẩy  đĩa  CD  ra .
+ Không  thể  hiển  thị  thư  mục  đích
+ Trích  thành  công  các  rãnh
+ Do  Goobox  trích  ra
+ Đang  trích  rãnh9 : 05 : 02 : % Id % dlong  time  format
+ 5 : 02 : % Id % dshort  time  format
+ Phát  đĩa  CD
+ % s  /  % s
+ Nhấn  vào  đây  để  chọn  ảnh  bìa  cho  đĩa  CD  này .
+ Không  có  đĩa
+ Bị  tạm  dừng
+ Đang  đẩy  đĩa  CD  ra
+ Đang  kiểm  tra  ổ  đĩa  CD
+ Đang  đọc  đĩa  CD
+ Đĩa  CD  âm  thanh
+ Đặt  _ lại
+ Â _ m  lượng
+ +
+ -
+ Điều  chỉnh  cấp  âm  lượng
+ Âm  lượng
+ Ẩn  _ rãnh
+ Hiện  _ rãnh
+ Độ  dài
+ _ Tạm  dừng
+ Tạm  dừng
+ Đĩa  CD  dữ  liệu
+ _ Phát
+ Phát
+ Không  thể  lưu  ảnh  bìa
+ Không  thể  nạp  ảnh
+ Chọn  ảnh  bìa  đĩa  CD
+ Ảnh
+ Mọi  tập  tin
+ Bạn  cần  phải  nhập  tên  của  nghệ  sĩ  và  tên  tập  nhạc  để  tìm  bìa  tập .
+ _ Hiện  cửa  sổ
+ Ẩ _ n  cửa  sổH
+ Ẩn  cửa  sổ  chính
+ Xem  thử
+ điểm  ảnh
+ Không  thể  hiển  thị  trợ  giúp .
+ Thoát  khỏi  ứng  dụng
+ Thiết  bị  CD  cần  dùng
+ ĐƯỜNG _ DẪN _ THIẾT _ BỊ
+ Phát  đĩa  CD  lúc  khởi  chạy
+ Phát  rãnh  kế
+ Phát  rãnh  lùi
+ Đẩy  đĩa  CD  ra
+ Tăng  âm
+ Giảm  âm
+ Không  thể  khởi  chạy  bộ  phát  đĩa  CD
+ Để  đọc  được  đĩa  CD ,  bạn  cần  phải  cài  đặt  phần  bổ  sung  GStreamer  tên  cdparanoia .
+ _ Kế
+ Rãnh  % u
+ _ Sửa
+ _ Xem
+ Trợ  g _ iúp
+ _ Bìa  đĩa  CD
+ Thông  tin  về  chương  trình  này
+ Hiển  thị  sổ  tay
+ _ Phím  tắt
+ Phát / Tạm  dừng
+ Phát  rãnh  này
+ _ Dừng
+ _ Lùi
+ Đẩy  _ ra
+ Hiệu  chỉnh  tùy  thích  khác  nhau
+ T _ rích  rãnh
+ Hiệu  chỉnh  nghệ  sĩ ,  tên  tập  nhạc  và  tên  các  rãnh  của  đĩa  CD .
+ Tìm  _ kiếm  trên  Mạng
+ Tìm  kiếm  bìa  đĩa  CD  trên  Mạng
+ Gỡ  bỏ  bìa  đĩa  CD  hiện  có
+ Xem  thanh  công  cụ  chính
+ Xem  thanh  trạng  thái
+ Phát  tất  _ cả
+ _ Lặp  lại
+ _ Xáo  trộn
+ Phát  các  rãnh  theo  thứ  tự  ngẫu  nhiên .

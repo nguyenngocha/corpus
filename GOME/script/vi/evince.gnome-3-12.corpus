@@ -1,0 +1,242 @@
+ Gặp  lỗi  với  lệnh  " % s "  khi  muốn  giải  nén  truyện  tranh :  % s
+ Lệnh  " % s "  đã  thất  bại  khi  muốn  giải  nén  truyện  tranh .
+ Lệnh  " % s "  không  kết  thúc  bình  thường .
+ Đây  không  phải  là  truyện  tranh  kiểu  MIME :  % s
+ Không  tìm  được  một  cú  lệnh  thích  hợp  để  giải  nén  loại  truyện  tranh  này
+ Tập  tin  bị  hỏng
+ Không  có  tập  tin  trong  kho  lưu
+ Không  tìm  thấy  ảnh  trong  kho  % s
+ Đã  gặp  lỗi  khi  muốn  xoá  " % s " .
+ Lỗi  % s
+ Truyện  tranh  vui
+ Tài  liệu  DjVu  có  định  dạng  sai
+ Tài  liệu  bao  gồm  nhiều  tập  tin .  Một  hoặc  nhiều  trong  những  tập  tin  đó  không  truy  cập  được .
+ Tài  liệu  dạng  DjVu
+ Tài  liệu  DVI  có  định  dạng  không  đúng
+ Tài  liệu  DVI
+ Công  trình  này  đã  thuộc  lĩnh  vực  công  cộng .
+ Có
+ Không
+ Type  1
+ Type  1C
+ Type  3
+ TrueType
+ Type  1  ( CID )
+ Type  1C  ( CID )
+ TrueType  ( CID )
+ Kiểu  phông  chữ  lạ
+ Tài  liệu  chứa  phông  không  nhúng  không  phải  PDF  chuẩn  14 .  Nếu  phông  thay  thế  chọn  bởi  fontconfig  không  giống  phông  dùng  để  tạo  PDF ,  hiển  thị  có  thể  không  chính  xác .
+ Mọi  phông  hoặc  chuẩn  hoặc  nhúng .
+ Không  tên
+ Không  có
+ Tập  con  nhúng
+ Nhúng
+ Không  nhúngType  1  ( One  of  the  Standard  14  Fonts )
+ ( Một  trong  những  phông  chuẩn  14 ) TrueType  ( Not  one  of  the  Standard  14  Fonts )
+ ( Không  phải  một  trong  những  phông  chuẩn  14 )
+ Mã  hoá
+ Thay  bằng
+ Tài  liệu  PDF
+ Gặp  lỗi  khi  tải  tài  liệu  “ % s ”
+ Gặp  lỗi  khi  lưu  tài  liệu  “ % s ”
+ Tài  liệu  Postscript
+ Tài  liệu  không  hợp  lệ
+ Tài  liệu  TIFF
+ Tài  liệu  XPS
+ Bộ  xem  tài  liệu
+ Xem  tài  liệu  nhiều  trang
+ pdf ; ps ; postscript ; dvi ; xps ; djvu ; tiff ; document ; tài ; liệu ; tai ; lieu ; presentation ; trình ; diễn ; trinh ; dien ;
+ Xem  trước
+ Xem  trước  khi  in
+ Bỏ  hạn  chế  tài  liệu
+ Bỏ  qua  những  hạn  chế  của  tài  liệu ,  như  hạn  chế  sao  chép  hay  in .
+ Cập  nhật  tài  liệu  tự  động
+ Tài  liệu  được  tự  động  tải  lại  nếu  có  thay  đổi .
+ URI  của  thư  mục  dùng  lần  cuối  để  mở  hoặc  lưu  tài  liệu
+ URI  của  thư  mục  dùng  lần  cuối  để  lưu  hình
+ Kích  thước  bộ  nhớ  tạm  trang  tính  bằng  Mb
+ Kích  thước  bộ  nhớ  đệm  tối  đa  sẽ  được  dùng  để  hiển  thị  trên  màn  hình ,  nó  sẽ  giới  hạn  mức  phóng  to  tối  đa .
+ Không  thể  lưu  phần  đính  kèm  “ % s ” :  % s
+ Không  thể  mở  phần  đính  kèm  “ % s ” :  % s
+ Không  thể  mở  tập  tin  đính  kèm  “ % s ”
+ Không  hỗ  trợ  dạng  tập  tin  % s  ( % s )
+ Không  biết  kiểu  MIME
+ Mọi  tài  liệu
+ Mọi  tập  tin
+ Lỗi  tạo  tập  tin  tạm  thời :  % s
+ Thất  bại  khi  muốn  tạo  ra  thư  mục  tạm  thời :  % s
+ ( % d  trên  % d )
+ trên  % d
+ Trang  % s
+ Không  in  được  trang  % d :  % s
+ Chuẩn  bị  in …
+ Đang  hoàn  tất …
+ Đang  in  trang  % d  trên  % d …
+ PostScript  không  được  hỗ  trợ  bởi  máy  in  này .
+ Cách  chọn  các  trang  không  hợp  lý
+ Cảnh  báo
+ Khoảng  trang  đã  chọn  để  in  không  có  trang  nào
+ In
+ Co  giãn  lại  trang :
+ Co  lại  chỉ  giữ  những  Vùng  in  được
+ Xếp  cho  vừa  Vùng  in
+ Co  giãn  lại  các  trang  tài  liệu  cho  vừa  máy  in  đã  chọn .  Hãy  chọn  sau  đây :  •  " Không  chọn " :  Sẽ  không  thực  hiện  co  giãn  trang .  •  " Co  lại  chỉ  giữ  những  Vùng  in  được " :  Những  trang  tài  liệu  rộng  hơn  vùng  in  sẽ  được  co  lại  cho  vừa  vùng  in  của  máy  in .  •  " Xếp  cho  vừa  Vùng  in " :  Những  trang  tài  liệu  sẽ  được  co  hoặc  giãn  lại  cho  vừa  vùng  in  của  máy  in .
+ Tự  xoay  và  Đặt  ở  giữa
+ Xoay  hướng  của  trang  máy  in  để  khớp  lại  với  hướng  xếp  từng  trang  tài  liệu .  Những  trang  tài  liệu  sẽ  đặt  ở  giữa  của  trang  máy  in .
+ Chọn  khổ  giấy  thông  qua  khô  trang  tài  liệu
+ Khi  bật ,  mỗi  trang  sẽ  được  in  trên  giấy  cùng  khổ  trang  tài  liệu .
+ Thao  tác  trên  trang
+ Cuộn  lên
+ Cuộn  xuống
+ Cuộn  khung  xem  lên
+ Cuộn  khung  xem  xuống
+ Khung  xem  tài  liệu
+ Về  trang  đầu
+ Quay  về  trang  kế  trước
+ Chuyển  đến  trang  tiếp  theo
+ Tới  trang
+ Tìm
+ Đi  tới  trang  % s
+ Tới  % s  trên  tập  tin  “ % s ”
+ Tới  tập  tin  “ % s ”
+ Khởi  chạy  % s
+ Nhảy  đến  trang :
+ Trình  diễn  đã  hết .  Bấm  chuột  để  thoát .
+ Xoá  tập  tin  tạm  thời
+ Tập  tin  cài  đặt  việc  in
+ TẬP  TIN
+ Trình  Xem  trước  Tài  liệu  trong  GNOME
+ Lỗi  khi  in  tài  liệu
+ Không  tìm  được  máy  in  đã  chọn  là  “ % s ”
+ Trang  _ trước
+ Di  chuyển  đến  trang  trước
+ Trang  _ kế
+ Di  chuyển  sang  trang  kế  tiếp
+ Phóng  to  tài  liệu
+ Thu  nhỏ  tài  liệu
+ In  tài  liệu  này
+ Vừa  khít  _ trang
+ Hiển  thị  toàn  bộ  trang  trong  cửa  sổ
+ Vừa  _ bề  ngang
+ Hiển  thị  trang  bằng  bề  rộng  cửa  sổ
+ Trang
+ Chọn  trang
+ Tài  liệu
+ Tựa  đề :
+ Vị  trí :
+ Chủ  đề :
+ Tác  giả  :
+ Từ  khoá :
+ Người  sản  xuất :
+ Người  tạo :
+ Tạo :
+ Sửa  đổi :
+ Số  trang :
+ Tối  ưu  hoá :
+ Định  dạng :
+ Bảo  mật :
+ Khổ  giấy : predefinito : mm
+ default : mm
+ % .0f  ×  % .0f  mm
+ % .2f  ×  % .2f  inch
+ % s ,  Dọc  ( % s )
+ % s ,  Ngang  ( % s )
+ _ Toàn  bộ  từ
+ _ Phân  biệt  HOA / thường
+ Tuỳ  chọn  tìm
+ Tìm  tiếp  theo  chiều  từ  dưới  lên
+ Tìm  tiếp  theo  chiều  từ  trên  xuống
+ Biểu  tượng :
+ Ghi  chú
+ Bình  luận
+ Khoá
+ Trợ  giúp
+ Đoạn  mới
+ Đoạn
+ Chèn
+ Chéo
+ Vòng  tròn
+ Không  rõ
+ Thông  tin  chú  giải
+ Màu :
+ Kiểu :
+ Trong  suốt
+ Đục
+ Trạng  thái  cửa  sổ  ban  đầu :
+ Mở
+ Đóng
+ Về  mục  lịch  sử  trước
+ Về  mục  lịch  sử  kế
+ Mật  khẩu  cho  tài  liệu  % s
+ Đang  tải …
+ Mở  một  tài  liệu  mới  vừa  xem  gần  đây
+ Tài  liệu  này  bị  khoá  và  phải  nhập  mật  khẩu  để  có  thể  đọc .
+ _ Mở  khóa  tài  liệu
+ Nhập  mật  khẩu
+ Tài  liệu  “ % s ”  bị  khoá  và  bạn  cần  nhập  mật  khẩu  để  mở .
+ Yêu  cầu  nhập  mật  khẩu
+ _ Mật  khẩu :
+ _ Quên  ngay  mật  khẩu
+ Nhớ  mật  khẩu  cho  đến  khhi  đăng  _ xuất
+ Nhớ  _ mãi
+ Thuộc  tính
+ Chung
+ Phông  chữ
+ Bản  quyền  của  Tài  liệu
+ Đang  thu  tập  thông  tin  vè  phông  chữ …  % 3d % %
+ Điều  kiện  sử  dụng
+ Văn  bản  Giấy  phép  bản  quyền
+ Thêm  thông  tin
+ Danh  sách
+ Chú  giải
+ Văn  bản
+ Thêm  chú  giải
+ Thêm
+ Tài  liệu  không  có  chú  giải
+ Trang  % d
+ Đính  kèm
+ _ Mở  đánh  dấu
+ Đổ _ i  tên  đánh  dấu
+ _ Bỏ  đánh  dấu
+ Đánh  dấu
+ Lớp
+ In …
+ Mục  lục
+ Hình  thu  nhỏ
+ Các  tập  tin  ảnh  được  hỗ  trợ
+ Tài  liệu  không  có  trang  nào
+ Tài  liệu  chỉ  có  trang  khống
+ Không  thể  mở  tài  liệu  “ % s ” .
+ Tải  tài  liệu  từ  “ % s ”
+ Đang  tải  về  tài  liệu  ( % d % % )
+ Gặp  lỗi  khi  tải  tập  tin  từ  máy  chủ .
+ Đang  tải  lại  tài  liệu  từ  % s
+ Gặp  lỗi  khi  tải  lại  tài  liệu .
+ Đang  lưu  tài  liệu  vào  % s
+ Đang  lưu  tập  tin  đính  kèm  vào  % s
+ Đang  lưu  ảnh  vào  % s
+ Không  thể  lưu  tập  tin  này  thành  “ % s ” .
+ Đang  tải  lên  tài  liệu  ( % d % % )
+ Đang  tải  lên  tập  tin  đính  kèm  ( % d % % )
+ Đang  tải  lên  ảnh  ( % d % % )
+ Lưu  một  bản  sao
+ Không  thể  gửi  tài  liệu  hiện  tại
+ Không  thể  mở  thư  mục  chứa  nó
+ Đang  in  công  việc  " % s "
+ Tại  liệu  chứ  mẫu  cần  phải  điền .  Nếu  bạn  không  lưu  bản  sao ,  các  thay  đổi  sẽ  bị  mất  vĩnh  viễn .
+ Tại  liệu  chứ  chú  giải  mới  hoặc  được  thay  đổi .  Nếu  bạn  không  lưu  bản  sao ,  các  thay  đổi  sẽ  bị  mất  vĩnh  viễn .
+ Lưu  bản  sao  tài  liệu  " % s "  trước  khi  đóng ?
+ Đóng  _ không  lưu
+ _ Lưu  bản  sao
+ Đợi  đến  khi  hoàn  tất  công  việc  in  " % s "  trước  khi  đóng  ?
+ Nếu  bạn  đóng  cửa  sổ  này  thì  công  việc  in  nào  bị  hoãn  sẽ  không  được  in .
+ Thô _ i  in  và  Đóng
+ Đóng  s _ au  khi  In
+ Đang  chạy  trong  chế  độ  trình  diễn
+ Trình  xem  Tài  liệu  Dùng  % s  ( % s )
+ Evince  là  phần  mềm  tự  do ;  bạn  có  thể  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  theo  các  điều  khoản  của  Giấy  phép  Công  cộng  GNU  như  được  xuất  bản  bởi  Tổ  chức  Phần  mềm  Tự  do ;  hoặc  phiên  bản  2  của  Giấy  phép  này ,  hoặc  bất  kì  phiên  bản  sau  nào  ( tuỳ  ý ) .
+ Evince  được  phân  phối  với  mong  muốn  nó  sẽ  là  một  phần  mềm  có  ích ,  nhưng  KHÔNG  PHẢI  CHỊU  BẤT  KÌ  TRÁCH  NHIỆM  NÀO .  Xem  Giấy  phép  Công  cộng  GNU  để  biết  thêm  chi  tiết .
+ Bạn  đã  nhận  một  bản  sao  của  Giấy  phép  Công  cộng  GNU  cùng  với  chương  trình  này ;  nếu  không ,  hãy  liên  hệ  Tổ  chức  Phần  mềm  Tự  do ,  Free  Software  Foundation ,  Inc . ,   51  Franklin  Street ,  Fifth  Floor ,  Boston ,  MA   02110-1301 ,  USA
+ Evince
+ ©  1996 – 2012  Các  tác  giả  của  Evince
+ Nhóm  Việt  hoá  Gnome   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >  Launchpad  Contributions :    Clytie  Siddall  https : / / launchpad.net / ~ clytie    Lê  Quốc  Thái  https : / / launchpad.net / ~ lquocthai % d  hit ( s )  on  this  page

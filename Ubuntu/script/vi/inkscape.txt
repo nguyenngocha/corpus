@@ -1,0 +1,581 @@
+ Inkscape
+ Tri ̀ nh  xu ̛ ̉  ly ́  đo ̂ ̀  ho ̣ a  ve ́ c-to ̛
+4
+ Tạo  và  sửa  ảnh  véc-tơ  co  giãn  được
+6
+ Thạch  màu ,  ít  sáng
+8
+ Phủ  bề  mặt  đối  tượng  bằng  một  lớp  thạch  rau  câu  mỏng ,  ít  phản  chiếu
+10
+ Vát  cạnh
+ Giống  Thạch  màu ,  ít  sáng ,  nhưng  có  nhiều  thiết  lập  hơn
+ Kim  loại  mới  đúc
+ Nét  vát  mềm ,  có  dạng  giọt ,  trông  giống  kim  loại  vừa  bỏ  khuôn
+ Nhòe  do  chuyển  động  ngang
+ Làm  nhòe
+ Làm  nhòe  như  khi  vật  thể  dịch  chuyển  theo  phương  ngang ;  điều  chỉnh  Độ  lệch  chuẩn  để  thay  đổi  mức  độ
+ Nhòe  do  chuyển  động  thẳng  đứng
+ Làm  nhòe  như  khi  vật  thể  dịch  chuyển  theo  phương  thẳng  đứng ;  điều  chỉnh  Độ  lệch  chuẩn  để  thay  đổi  mức  độ
+ Làm  nhòe  bên  ngoài
+ Đường  viền  bo  quanh  bị  làm  nhòe  một  chút ,  giống  khi  đối  tượng  đột  nhiên  xuất  hiện
+ Cắt  rời  hình
+ Chiếu  sáng  và  đổ  bóng
+ Đổ  bóng  mạnh  ở  góc  trên  bên  trái  và  nhẹ  ở  góc  đối  diện ,  như  khi  hình  bị  cắt  rời  khỏi  trang  giấy
+ Mẩu  tranh  xếp  hình
+ Vát  nghiêng  thấp ,  sắc  cạnh ,  giống  một  mẩu  trong  trò  ghép  tranh
+ Làm  gồ  ghề
+ Các  nét  nhỏ ,  mảnh  khiến  nét  viền  và  phần  bên  trong  của  đối  tượng  trở  nên  lồi  lõm ,  gồ  ghề
+ Đóng  bằng  con  dấu  cao  su
+ Che  phủ  bề  mặt
+ Thêm  các  mảng  trắng  ngẫu  nhiên  lên  trên  bề  mặt  đối  tượng
+ Loang  mực
+ Biến  đổi  cạnh
+ Khiến  đối  tượng  trông  như  bị  nhòe  mực  lúc  vẽ
+ Bốc  lửa
+ Lửa  cháy  rực  trên  các  cạnh  của  đối  tượng
+ Thép  cán
+ Vát  nghiêng  mềm ,  phản  chiếu  vừa  phải ,  giống  thép  cán
+ Vết  lằn  bo  quanh
+ Đường  viền  của  đối  tượng  được  vát  vào  giữa ,  tạo  nên  một  vết  lằn  bao  quanh
+ Gợn  sóng
+ Làm  biến  dạng
+ Tạo  những  gợn  sóng  theo  chiều  ngang
+ Vết  lốm  đốm
+ Phủ  lên  những  hạt  nhỏ  rải  rác  bên  trong  đối  tượng
+ Dầu  trơn
+ Phủ  một  lớp  dầu  nửa  trong  suốt ,  có  bảy  màu  cầu  vồng
+ Sương  tuyết
+ Rải  những  bông  tuyết  trắng  lên  bề  mặt  đối  tượng
+ Da  báo
+ Chất  liệu
+ Các  đốm  đen  trên  da  báo  ( che  kín  màu  gốc )
+ Sọc  của  ngựa  vằn
+ Những  sọc  dọc  có  hình  dạng  bất  thường  ( làm  mất  màu  gốc  của  đối  tượng )
+ Mây
+ Những  khoảng  nhẹ ,  trải  rộng  màu  trắng ,  giống  như  mây
+ Làm  sắc
+ Hiệu  ứng  cho  ảnh  bitmap
+ Làm  sắc  các  cạnh  và  đường  bo  bên  trong  đối  tượng ,  với  cường  độ  là  0.15
+ Làm  sắc  hơn  nữa
+ Làm  sắc  các  cạnh  và  đường  bo  bên  trong  đối  tượng ,  với  cường  độ  là  0.3
+ Tranh  sơn  dầu
+ Thể  hiện  ảnh  theo  phong  cách  sơn  dầu
+ Phát  hiện  cạnh
+ Phát  hiện  các  cạnh  màu  bên  trong  đối  tượng
+ Phát  hiện  cạnh  ngang
+ Phát  hiện  các  cạnh  màu  nằm  ngang  bên  trong  đối  tượng
+ Phát  hiện  cạnh  dọc
+ Vẽ  chì
+ Phát  hiện  các  cạnh  màu  rồi  đồ  lại  bằng  thang  màu  xám
+ Bản  thiết  kế  chi  tiết
+ Phát  hiện  các  cạnh  rồi  đồ  lại  bằng  màu  xanh  lam
+ Giảm  bão  hoà
+ Màu
+ Dựng  lại  hình  dáng  ở  thang  màu  xám  bằng  cách  giảm  độ  bão  hòa  về  không
+ Đảo
+ Đảo  giá  trị  màu
+ Sepia
+ Đổi  màu  ảnh  thành  màu  sepia
+ Ảnh  cũ
+ Làm  ảnh  trông  giống  như  một  bức  ảnh  cũ
+ Tế  bào
+ Hoa  văn
+ Những  khối  tròn  nhỏ ,  nổi ,  phủ  trên  màu  gốc
+ Dây  thép  gai
+ Đặt  các  dây  mảnh ,  được  vát  cạnh  và  đổ  bóng ,  phủ  lên  bề  mặt  đối  tượng
+ Pho  mát  Thụy  Sĩ
+ Phủ  bề  mặt  bằng  các  lỗ  tròn  được  vát  vào  trong
+ Pho  mát  xanh
+ Các  vệt  màu  xanh ,  giống  như  hoa  văn  trên  đá  cẩm  thạch
+ Nút  bấm
+ Nét  vát  nông ,  sâu  dần  vào  giữa
+ Đổ  bóng  xung  quanh
+ Đổ  bóng  ra  xung  quanh  đối  tượng
+ Nhỏ  giọt
+ Những  giọt  sơn  nhỏ  giọt  xuống ,  tạo  thành  các  sọc  ngẫu  nhiên
+ Khăn  lụa  nhàu
+ Hoa  văn  bóng ,  ráp ,  giống  như  khăn  lụa  bị  vò  nhàu
+ Rê  điểm  ảnh
+ Thay  điểm  ảnh  bằng  một  vệt  dài ,  mỏng ,  bất  đối  xứng ;  mô  phỏng  những  nét  cọ  của  Van  Gogh
+ Làm  nổi ,  sáng  mạnh
+ Tạo  bọt  và  Làm  nổi
+ Hiệu  ứng  làm  nổi  kết  hợp  giữa  ánh  sáng  tàn  và  ánh  sáng  tập  trung
+ Kính  nứt
+ Đối  tượng  nằm  dưới  một  mảng  kính  bị  nứt
+ Làm  nổi ,  tạo  bọt
+ Hiệu  ứng  tạo  bọt  kết  hợp  với  chuyển  vị
+ Bọt  sáng
+ Lằn
+ Các  bọt  bóng  có  được  chiếu  sáng  và  khúc  xạ
+ Neon
+ Hiệu  ứng  ánh  sáng  giống  đèn  nê-ông
+ Kim  loại  nóng  chảy
+ Hòa  lẫn  các  mảng  màu  của  đối  tượng ,  thêm  vát  bóng  và  ánh  sáng
+ Thép  ép
+ Kim  loại  được  nén  chặt ,  với  nét  viền  bị  cuộn  lại
+ Nét  vát  mềm ,  mờ ,  hơi  nhòe ,  giống  như  màu  phấn
+ Mảnh  mỏng
+ Mỏng  như  màng  xà  phòng
+ Lằn  nhẹ
+ Lằn  nhẹ  màu  phấn
+ Kim  loại  sáng  bóng
+ Va ̂ n  kim  loa ̣ i  sa ́ ng  bo ́ ng
+ Lá  cây
+ Phát  tán
+ Lá  cây  rụng  dưới  đất  trong  mùa  thu ,  hoặc  tán  lá
+ Sáng  trắng
+ Sáng  trắng  chiếu  lên  đối  tượng ,  khiến  bề  mặt  giống  bề  mặt  nhựa  cứng
+ Nhòe  phần  giao
+ Làm  nhòe  vùng  bên  trong  đường  viền  và  phần  các  nét  giữa  hai  vùng  khác  màu
+ Sáp  ong
+ Sáp  ong  có  nhiều  mảng  óng  ánh ,  phủ  lên  màu  ban  đầu
+ Kim  loại  han  gỉ
+ Bề  mặt  kim  loại  bị  ăn  mòn ,  có  nhiều  lằn ,  vết  rạn ,  thô  ráp
+ Dung  nham  khô  cằn
+ Mô  phỏng  bề  mặt  đá  dung  nham  khi  đã  khô ,  với  nhiều  vết  rạn  nứt  ngẫu  nhiên
+ Vỏ  cây
+ Văn  hoa  trông  như  vỏ  cây ,  nhiều  vết  trải  theo  chiều  dọc ;  dùng  với  các  màu  sẫm
+ Da  thằn  lằn
+ Mô  phỏng  các  lằn ,  rãnh  giống  như  da  của  loài  bò  sát
+ Bức  tường  đá
+ Va ̂ n  tu ̛ o ̛ ̀ ng  đa ́  đe ̂ ̉  du ̀ ng  vo ̛ ́ i  kho ̂ ng  nhie ̂ ̀ u  ma ̀ u  ba ̃ o  ho ̀ a
+ Thảm  lụa
+ Văn  hoa  giống  tấm  thảm  lụa ,  có  sọc  ngang
+ Kem  khúc  xạ  dạng  A
+ Hiệu  ứng  khúc  xạ  ánh  sáng ,  nhẹ
+ Hiệu  ứng  khúc  xạ  ánh  sáng ,  mạnh
+ Hiệu  ứng  ánh  sáng  khúc  xạ  mạnh
+ Kim  loại
+ Bề  mặt  được  phủ  kim  loại ,  phản  quang  nhẹ ,  một  chút  trong  suốt  ở  ngoài  viền
+ Kẹo  dẻo
+ Lằn  trong  dạng  keo ,  có  màu  ngọc  trai
+ Viền  nhô  cao
+ Viền  nhô  cao ,  bo  xung  quanh  bề  mặt  phẳng  ở  bên  trong
+ Lằn  dạng  keo ,  có  ánh  kim  loại  phủ  lên
+ Giọt  dầu
+ Nét  vát  giống  khi  dùng  dầu  trơn ,  bao  bọc  toàn  bộ  hình
+ Tô  màu
+ Thay  đổi  ảnh  hay  đối  tượng  bằng  màu  tô  rồi  đặt  lại  độ  sáng  và  độ  tương  phản
+ Viền  song  song ,  trong  đặc
+ Hình  thái  học
+ Một  rãnh  trống  không  chạy  song  song  bên  trong ,  dọc  theo  viền  của  đối  tượng
+ Hố
+ Đào  một  hố  bên  trong  đối  tượng
+ Lỗ  Đen
+ Tạo  quầng  màu  đen  ở  trong  và  bên  ngoài  đối  tượng
+ Nét  ngoài  mượt
+ Tô  viền  các  đường  nét  và  làm  mượt  những  vị  trí  giao  cắt
+ Khối  vuông
+ Các  khối  vuông  sắp  xếp  lẫn  lộn ;  điều  chỉnh  tham  số  Chuyển  dạng  để  thay  đổi  kích  thước
+ Phoi  bào
+ Những  sợi  mảnh  với  nhiều  hình  thù ,  sắp  xếp  ngẫu  nhiên
+ Vàng  thô
+ Bề  mặt  khối  vàng  khi  chưa  được  tinh  chế
+ Bột  vàng
+ Phủ  lên  đối  tượng  một  lớp  bột  vàng  không  đều
+ Chất  dẻo  bị  ép  vỡ
+ Chất  dẻo  màu  xỉn ,  bị  ép  vỡ ,  với  các  cạnh  tan  chảy
+ Tráng  men
+ Lớp  men  thủy  tinh  với  nhiều  nét  rạn  tự  nhiên
+ Giấy  ráp
+ Văn  hoa  giống  như  bề  mặt  giấy  nhám ,  ít  phản  chiếu ,  thường  dùng  trên  đối  tượng  ảnh
+ Giấy  ráp ,  sáng  bóng
+ Văn  hoa  giống  như  tờ  giấy  nhám ,  sáng  bóng ,  thường  dùng  trên  đối  tượng  ảnh
+ Trong  màu ,  ngoài  đen
+ Phía  trong  viền  giữ  màu  gốc ,  phía  ngoài  viền  thêm  bóng  màu  đen ,  ở  giữa  trong  suốt
+ Sơn  phun
+ Chuyển  thành  các  mảng  màu  rải  rác ,  có  độ  dày  mỏng  ngẫu  nhiên
+ Đang  để  % s  bên  trong  % s
+ Làm  nổi ,  đổi  màu  và  mờ  phần  viền  ngoài ,  giữ  màu  phần  giữa
+ Chữ  bên  ngoài
+ Lằn  nổi ,  nhòe ,  đảo  màu  đường  viền ,  nhưng  bên  trong  lại  trong  suốt
+ Kính  hiển  vi  điện  tử
+ Làm  bạc  màu  gốc ,  ánh  sáng  mờ ,  giống  như  hình  ảnh  trong  kính  hiển  vi  điện  tử
+ Vải  sọc
+ Vải  kẻ  ô  với  các  đường  ngang  và  dọc
+ Đảo  độ  màu
+ Đảo  độ  màu ,  làm  chuyển  tông  màu  của  đối  tượng
+ Viền  bo  trong
+ Vẽ  một  nét  bao  quanh  phần  trong  đường  viền  đối  tượng
+ Đường  viền  kép
+ Vẽ  một  đường  mượt  ở  phía  trong  viền ,  ở  giữa  đổi  màu
+ Nhòe  trang  trí
+ Làm  nhòe  dựa  trên  các  đường  đồng  mức ,  cho  phép  giảm  độ  bão  hòa  và  thay  đổi  độ  màu  các  vùng  thuộc  đối  tượng
+ Quầng  sáng
+ Làm  nhòe  đường  viền  ra  phía  ngoài ,  tạo  cảm  giác  như  khi  đối  tượng  đang  phát  sáng
+ Đường  viền  ngoài
+ Thêm  một  quầng  sáng  mờ  và  xóa  bỏ  đường  viền  gốc
+ Chạm  nổi ,  đổi  màu
+ Hiệu  ứng  chạm  nổi ,  làm  nhạt  bớt  màu  gốc  của  ảnh
+ Tạo  ảnh  bán  âm
+ Hòa  trộn  dương  bản  và  âm  bản ;  các  mảng  sáng  sẽ  bị  nghịch  đảo  thành  đen
+ Tạo  ảnh  bán  âm ,  đảo  màu
+ Hiệu  ứng  kết  hợp  giữa  Hỏng  do  phơi  lâu  với  Đảo  màu ,  thường  giữ  lại  màu  da  trời  và  màu  mặt  nước
+ Ống  kính  hội  tụ ,  nhẹ
+ Tăng  sáng  ở  giữa ,  làm  nổi  ảnh  nhưng  không  làm  nó  bị  nhòe
+ Kính  đổi  màu
+ Giống  như  khi  đối  tượng  nằm  dưới  một  lớp  kính  sẫm  màu
+ Kính  sẫm  màu
+ Tạo  hiệu  quả  như  khi  ánh  sáng  từ  mặt  dưới  chiếu  qua  lớp  kính  đen
+ Hiệu  ứng  ảnh ,  trong  suốt
+ Giống  như  Làm  nổi  HSL  nhưng  có  thêm  các  đốm  trong  suốt
+ Giống  như  Làm  nổi  tạo  bọt ,  nhưng  có  các  đốm  sáng  trong  suốt
+ Cạnh  mịn
+ Làm  mịn  phần  bên  ngoài  của  hình  dạng  hoặc  ảnh ,  không  thay  đổi  phần  giữa
+ Làm  rách  viền
+ Chuyển  vị  trí  phần  bên  ngoài  của  hình  dạng  hoặc  ảnh ,  giữ  nguyên  phần  bên  trong
+ Làm  mờ  viền
+ Làm  mờ  dần  dần  các  nét  viền  của  đối  tượng ,  không  thay  đổi  vùng  bên  trong
+ Nhòe  bên  trong
+ Giữ  nguyên  vùng  xung  quanh  đường  viền ,  và  làm  nhòe  toàn  bộ  phần  bên  trong
+ Sáng  long  lanh
+ Nét  vát  có  độ  phản  chiếu  mạnh ,  dùng  khi  tạo  hoa  văn
+ Gồ  ghề  bên  trong
+ Làm  gồ  ghề  phần  bên  trong  của  đối  tượng
+ Nhòe  dần  ra  ngoài
+ Giảm  dần  độ  nhòe  từ  trong  ra  ngoài ,  nên  chỉ  làm  nhòe  phần  giữa  và  giữ  nguyên  đường  viền  bên  ngoài
+ Vỡ  vụn
+ Khiến  đối  tượng  bị  vỡ  vụn  thành  các  hạt  nhỏ ,  lộn  xộn
+ Đám  đông
+ Các  vệt  màu  giống  như  một  đám  người
+ Núi  cao  và  mây  mù
+ Các  đỉnh  núi  cao  ở  phía  trên  mây  mù
+ Nhiễu  trong  suốt
+ Văn  hoa  bằng  các  khoảng  loang  lổ ,  các  khoang  nhiễu  trong  suốt
+ Phủ  nhiễu
+ Văn  hoa  gồm  các  khoảng  loang  lổ ,  các  khoang  nhiễu  có  màu  đặc
+ Vườn  địa  đàng
+ Những  vệt  nhỏ  hỗn  loạn  mờ  ảo ,  tạo  cảm  giác  nhẹ  nhàng
+ Ánh  sáng  khuếch  tán
+ Nét  vát  phản  chiếu  nhẹ ,  cho  ánh  sáng  khuếch  tán ,  dùng  để  tạo  các  mẫu  văn  hoa
+ Cắt  rời  hình ,  quầng  sáng
+ Phát  sáng  vào  trong  và  ra  ngoài ,  tạo  cảm  giác  như  đối  tượng  bị  cắt  rời  khỏi  trang  giấy
+ Chạm  nổi ,  tối  màu
+ Chạm  nổi ,  thay  các  mảng  trắng  bằng  màu  đen
+ Làm  nhòe  đơn  giản
+ Làm  nhòe  bằng  thuật  toán  Gaussian ,  giống  như  trong  hộp  thoại  Tô  và  Nét
+ Làm  nổi  tạo  bọt  ít  sáng
+ Chạm  nổi
+ Hiệu  ứng  chạm  nổi  :  Màu  của  ảnh  gốc  được  bảo  tồn  và  sửa  đổi  bởi  hiệu  ứng  hòa  trộn  màu
+ Giấy  thấm
+ Vết  mực  loang  trên  giấy  thấm
+ Phủ  sáp
+ Văn  hoa  giống  khi  phủ  một  lớp  sáp  lên  trên  giấy  lụa
+ Vết  mực  loang
+ Vết  mực  loang  trên  giấy  lụa  hoặc  giấy  nhám
+ Tô  viền  màu ,  bên  trong
+ Tạo  một  nét  nhòe  bao  quanh  phía  trong  viền  của  đối  tượng
+ Nước
+ Văn  hoa  giống  các  gợn  sóng  trong  suốt  trên  mặt  nước
+ Gợn  mây
+ Văn  hoa  giống  như  những  gợn  mây  nhỏ ,  lưa  thưa
+ Bọc  nỉ
+ Văn  hoa  giống  như  bọc  nỉ ,  các  màu  xáo  trộn  và  cạnh  hơi  sậm  lại
+ Mực  loang
+ Hoa  văn  giống  như  nhiều  giọt  mực  màu  nhỏ  rơi  lung  tung  trên  giấy
+ Cầu  vồng ,  phớt
+ Những  sắc  cầu  vồng  hòa  trộn  dọc  theo  đường  viền ,  phủ  lên  màu  gốc
+ Cầu  vồng
+ Những  sắc  cầu  vồng  hòa  trộn  dọc  theo  đường  viền
+ Kim  loại  dẻo
+ Bề  mặt  kim  loại  sáng  bóng ,  gồm  nhiều  mảng  màu
+ Phong  cách  truyện  tranh
+ Đổ  bóng  ảo
+ Đổ  bóng  theo  phong  cách  truyện  tranh
+ Truyện  tranh ,  viền  mờ
+ Đổ  bóng  theo  phong  cách  truyện  tranh ;  phần  viền  bị  làm  mờ  nhẹ
+ Đo ̂ ̉  bo ́ ng  mi ̣ n
+ Đổ  bóng  uyển  chuyển ,  nhịp  nhàng ,  với  bút  chì  than  màu  xám
+ Đo ̂ ̉  bo ́ ng  no ̂ ̉ i
+ Kết  hợp  giữa  những  nét  được  chạm  nổi  với  phong  cách  đổ  bóng  uyển  chuyển
+ Đo ̂ ̉  bo ́ ng  mi ̣ n  đa ̣ ̂ m
+ Đổ  bóng  uyển  chuyển ,  nhịp  nhàng ;  màu  đậm  hơn
+ Mô  phỏng  cách  tô  bóng  đen  trắng  trong  truyện  tranh
+ Vải  Satin
+ Đổ  bóng  giống  như  trên  mặt  tấm  vải  satin ,  mềm  và  nhiều  uốn  lượn
+ Mặt  kính  mờ  sương
+ Mô  phỏng  bề  mặt  tấm  kính  lúc  trời  ẩm ,  bị  lớp  sương  mờ  che  phủ
+ Đo ̂ ̉  bo ́ ng  mi ̣ n  ne ́ t
+ Đổ  bóng  uyển  chuyển ,  nhưng  chỉ  tập  trung  ở  lớp  viền  bao  quanh  đối  tượng
+ Nhôm
+ Giả  lập  bề  mặt  nhôm  được  đánh  bóng
+ Truyện  tranh ,  màu  nước
+ Đổ  bóng  theo  phong  cách  truyện  tranh ,  với  bút  nước
+ Crôm
+ Bề  mặt  crôm ,  có  bóng  và  ánh  sáng  phản  chiếu  mạnh
+ Crôm  tối  màu
+ Đổ  bóng  lên  bề  mặt  crôm ,  màu  sậm  lại ,  có  ánh  phản  chiếu  từ  phía  dưới
+ Vải  sọc ,  uốn  lượn
+ Vải  sọc ,  với  các  đường  lượn  ngang  và  dọc ,  nổi  bật  với  nét  viền  được  vát  nghiêng
+ Đá  cẩm  thạch
+ Mô  phỏng  vân  đá  cẩm  thạch
+ Vân  gỗ
+ Mô  phỏng  vân  gỗ
+ Khảm  trai
+ Hoa  văn  sáng  óng  ánh ,  nhiều  màu  nhẹ ,  mô  phỏng  khảm  trai
+ Da  hổ
+ Mô  phỏng  các  vằn  vện  có  trên  da  hổ ,  đồng  thời  vát  viền  để  làm  nổi  đối  tượng
+ Nước ,  khi  rung  mạnh
+ Văn  hoa  giống  như  các  gợn  sóng  trên  mặt  nước  bị  rung  mạnh ,  phủ  lên  màu  gốc
+ Truyện  tranh ,  trong  suốt
+ Tạo  bóng  theo  phong  cách  truyện  tranh ,  với  các  mảng  trong  suốt  uốn  lượn
+ Tô  đen  vùng  sáng
+ Những  vùng  càng  sáng  càng  bị  sẫm  đen  lại  nhiều  hơn .
+ Xóa  ánh  sáng
+ Tiện  ích  sửa  độ  trong  suốt
+ Những  mảng  màu  càng  sáng ,  độ  trong  suốt  càng  cao
+ Nhòe  rung
+ Làm  đối  tượng  gồ  ghề  rồi  mới  làm  mờ  toàn  bộ  đối  tượng ,  khiến  nó  vừa  bị  nhòe ,  vừa  bị  rung
+ Phim  xước
+ Tạo  một  bề  mặt  với  nhiều  vết  xước  nhỏ
+ Làm  nổi ,  trong  suốt
+ Làm  nổi  dựa  vào  các  giá  trị  độ  màu ,  độ  bão  hòa  và  độ  sáng ;  trong  suốt
+ Bản  vẽ
+ Tạo  bản  vẽ  bút  chì  cho  ảnh  hoặc  đối  tượng  có  màu  tô
+ Làm  nổi ,  vải  nhung
+ Bề  mặt  được  làm  nổi  nhẹ ,  giống  như  bề  mặt  nhung
+ Nét  vẽ  trong  suốt
+ Tạo  nét  vẽ  trong  suốt ,  làm  trong  suốt  những  mảng  màu  và  ảnh
+ Nét  màu ,  trong  suốt
+ Tạo  nét  vẽ  trong  suốt ,  giữ  màu  nét  vẽ ,  làm  trong  suốt  những  mảng  màu  và  ảnh
+ Kẹo  cao  su
+ Ta ̣ o  ca ́ c  đo ̂ ́ m  đo ̂ ̉ i  ma ̀ u  đu ̛ o ̛ ̣ c  cha ̉ y  mu ̛ o ̛ ̣ t  tre ̂ n  ca ́ c  ca ̣ nh  cu ̉ a  ca ́ c  do ̀ ng  no ̛ i  chu ́ ng  đi  qua
+ Viền  đen
+ Thêm  một  nét  viền  đen  bao  quanh  đối  tượng
+ Tô  viền  màu
+ Vẽ  một  nét  màu  quanh  viền  của  đối  tượng
+ Bo ́ ng  be ̂ n  trong
+ Đổ  bóng  màu  đen  vào  phía  trong  của  viền
+ Bo ́ ng  to ̂ ́ i  va ̀  A ́ nh  sa ́ ng
+ Làm  nhòe  các  cạnh  vào  trong ,  khiến  màu  sẫm  hơn ,  và  thêm  quầng  sáng  xung  quanh
+ Làm  sẫm  màu  cạnh
+ Làm  nhòe  các  cạnh  vào  trong ,  khiến  màu  sẫm  hơn
+ Cầu  vồng ,  bẻ  cong
+ Những  mảng  màu  cầu  vồng ,  uốn  lượn  theo  các  cạnh  và  phủ  lên  trên  màu  gốc
+ Tạo  viền  mờ
+ Tạo  thêm  một  đường  viền  mờ ,  bo  quanh  đối  tượng
+ Thay  the ̂ ́  ma ̀ u  sa ̆ ́ c  bo ̛ ̉ i  hai  ma ̀ u
+ Bưu  ảnh  cũ
+ Giới  hạn  số  màu  và  tô  đậm  các  cạnh ,  giống  như  trên  tấm  bưu  ảnh  cũ
+ To ̉ a  sa ́ ng  lo ̛ ̀  mo ̛ ̀
+ Che  phủ  một  bản  sao  nửa  trong  suốt  lên  trên  một  bản  sao  mờ
+ Chấm  tròn  trong  suốt
+ Tạo  các  chấm  tròn  nhỏ ,  trong  suốt ,  phụ  thuộc  vào  giá  trị  màu
+ Vải  bạt  trong  suốt
+ Tạo  một  tấm  bạt  trong  suốt ,  phụ  thuộc  vào  giá  trị  màu
+ Vết  trong  suốt
+ Ve ̃  đo ̂ ́ i  tu ̛ o ̛ ̣ ng  vo ̛ ́ i  mo ̣ ̂ t  su ̛ ̣  nhie ̂ ̃ u  loa ̣ n  trong  suo ̂ ́ t  ma ̀  chuye ̂ ̉ n  ma ̀ u  ca ̣ nh
+ Sơn  dày
+ Lớp  sơn  dày  với  nhiều  mảng  hỗn  độn
+ Vỡ  tung
+ Bóng  bay  vỡ  tung  thành  nhiều  mảnh  với  nhiều  lỗ  thủng
+ Làm  nổi ,  bề  mặt  da
+ Kết  hợp  giữa  hiệu  ứng  phát  hiện  cạnh  HSL  trên  bề  mặt  da  hoặc  vân  gỗ
+ Mặt  nạ  Carnaval
+ Các  đốm  trắng  giống  như  trên  chiếc  mặt  nạ  Carnaval
+ Bề  mặt  nhựa
+ Thạch  cao
+ Kết  hợp  giữa  hiệu  ứng  phát  hiện  cạnh  HSL  trên  bề  mặt  mờ  xỉn  có  nhiều  lằn
+ Trong  suốt ,  nhám
+ The ̂ m  mo ̣ ̂ t  trong  suo ̂ ́ t  nhie ̂ ̃ u  loa ̣ n  đo ̂ ̀ ng  tho ̛ ̀ i  di  chuye ̂ ̉ n  ca ́ c  đie ̂ ̉ m  a ̉ nh
+ Màu  bột
+ Màu  nước ,  hơi  trong ,  với  những  chỗ  chảy  xuống
+ Trạm  trổ ,  trong  suốt
+ Tạo  nét  trạm  trổ  trong  suốt ,  có  thêm  đường  nét  thô  và  mảng  tô
+ Vẽ  nét  trong  suốt ,  lỏng
+ Tạo  nét  vẽ  trong  suốt ,  làm  trong  suốt ,  có  các  đường  thô  và  mảng  tô
+ Chất  lỏng
+ Tạo  hiệu  ứng  chất  lỏng ,  hơi  uốn  lượn  cho  ảnh
+ Acrylic  dày
+ Va ̂ n  so ̛ n  acrylic  da ̀ y  vo ̛ ́ i  đo ̣ ̂  sa ̂ u  va ̂ n  cao
+ Trạm  trổ  trong  suốt ,  B
+ Vỗ  nhẹ
+ Giống  các  gợn  trên  mặt  nước
+ Trong  suo ̂ ́ t  đo ̛ n  sa ̆ ́ c
+ Chuye ̂ ̉ n  đo ̂ ̉ i  sang  trong  suo ̂ ́ t  ma ̀ u  ho ́ a  đu ̛ o ̛ ̣ c  du ̛ o ̛ ng  ba ̉ n  hoa ̣ ̆ c  a ̂ m  ba ̉ n
+ Hai  ma ̀ u
+ Đo ̂ ̉ i  ma ̀ u  sang  ba ̉ ng  ma ̀ u  hai  ma ̀ u
+ Xóa  ánh  sáng ,  âm
+ Gio ̂ ́ ng  xo ́ a  a ́ nh  sa ́ ng  nhu ̛ ng  chuye ̂ ̉ n  đo ̂ ̉ i  sang  a ̂ m  ba ̉ n
+ Vẽ  lại  kênh  trong  suốt
+ Vẽ  lại  dưới  thang  màu  đơn  sắc
+ Ánh  xạ  từ  độ  bão  hòa
+ Tạo  một  ảnh  nửa  trong  suốt ,  có  màu  tự  chọn  dựa  trên  độ  bão  hòa  của  ảnh  ban  đầu
+ Đu ̣ c  lo ̂ ̃
+ Đu ̣ c  be ̂ ̀  ma ̣ ̆ t  va ̀  the ̂ m  ca ́ c  lo ̂ ̃  ho ̂ ̉ ng  va ̀ o  a ̉ nh
+ Độ  sáng  và  độ  tương  phản
+ Tăng  hoặc  giảm  độ  sáng  và  độ  tương  phản
+ Sửa  lại  các  cạnh
+ Xóa  hoặc  giảm  bớt  các  quầng  màu  và  vết  thô  được  tạo  ra  xung  quanh  các  cạnh  sau  khi  áp  dụng  hiệu  ứng  lên  một  đối  tượng
+ Kim  loại  sáng
+ Hiệu  ứng  bề  mặt  kim  loại  sáng ,  áp  dụng  được  cho  màu  bất  kỳ
+ Nhựa  dầy
+ Bề  mặt  khối  nhựa  trong  suốt ,  dầy ,  sẫm  màu
+ Ca ̣ nh  nghie ̂ ng  bo ́ ng  loa ́ ng  vo ̛ ́ i  ca ́ c  vie ̂ ̀ n  mo ̛ ̀
+ La ̀ m  đo ̂ ng  tho ̂ ng  minh
+ Đồng  và  sôcôla
+ Lằn  nổi  chuyển  từ  ánh  kim  sang  bề  mặt  chất  dẻo
+ To ̉ a  sa ́ ng  trong
+ The ̂ m  mo ̣ ̂ t  vie ̂ ̀ n  sa ́ ng  đo ̂ ̉ i  ma ̀ u  đu ̛ o ̛ ̣ c  o ̛ ̉  be ̂ n  trong
+ Ma ̀ u  nhe ̣
+ The ̂ m  mo ̣ ̂ t  vie ̂ ̀ n  sa ́ ng  đo ̂ ̉ i  ma ̀ u  đu ̛ o ̛ ̣ c  be ̂ n  trong  đo ̂ ́ i  tu ̛ o ̛ ̣ ng  va ̀  bu ̛ ́ c  a ̉ nh
+ Mẫu  tô  có  dạng  các  tế  bào  tròn  lớn  nhỏ  ngẫu  nhiên
+ Huy ̀ nh  quang
+ Ba ̃ o  ho ̀ a  ma ̣ nh  ma ̀ u  sa ̆ ́ c  đe ̂ ̉  co ́  the ̂ ̉  tha ̀ nh  huy ̀ nh  quang  trong  the ̂ ́  gio ̛ ́ i  thu ̛ ̣ c
+ Ba  ma ̀ u
+ Sọc  thẳng  1 : 1
+ Sọc  thẳng  1 : 1 ,  trắng
+ Sọc  thẳng  1 : 1.5
+ Sọc  thẳng  1 : 1.5 ,  trắng
+ Sọc  thẳng  1 : 2
+ Sọc  thẳng  1 : 2 ,  trắng
+ Sọc  thẳng  1 : 3
+ Sọc  thẳng  1 : 3 ,  trắng
+ Sọc  thẳng  1 : 4
+ Sọc  thẳng  1 : 4 ,  trắng
+ Sọc  thẳng  1 : 5
+ Sọc  thẳng  1 : 5 ,  trắng
+ Sọc  thẳng  1 : 8
+ Sọc  thẳng  1 : 8 ,  trắng
+ Sọc  thẳng  1 : 10
+ Sọc  thẳng  1 : 10 ,  trắng
+ Sọc  thẳng  1 : 16
+ Sọc  thẳng  1 : 16 ,  trắng
+ Sọc  thẳng  1 : 32
+ Sọc  thẳng  1 : 32 ,  trắng
+ Sọc  thẳng  1 : 64
+ Sọc  thẳng  2 : 1
+ Sọc  thẳng  2 : 1 ,  trắng
+ Sọc  thẳng  4 : 1
+ Sọc  thẳng  4 : 1 ,  trắng
+ Kẻ  ô  bàn  cờ
+ Kẻ  ô  bàn  cờ ,  trắng
+ Hình  tròn  kề  nhau
+ Chấm  tròn  nhỏ
+ Chấm  tròn  nhỏ ,  trắng
+ Chấm  tròn  vừa
+ Chấm  tròn  vừa ,  trắng
+ Chấm  tròn  lớn
+ Chấm  tròn  lớn ,  trắng
+ Sọc  uốn  lượn
+ Sọc  uốn  lượn ,  trắng
+ Vải  ngụy  trang
+ Chân  chồn
+ Cát  ( ảnh  bitmap )
+ Vải  ( ảnh  bitmap )
+ Nước  sơn  cũ  ( ảnh  bitmap )
+   Ctrl  :  tạo  hình  tròn  hay  hình  elip  hữu  tỷ ,  đính  hình  cung / góc  hình  viên  phân
+   Shift  :  vẽ  từ  tâm  ra  ngoài
+   Elip  :  % s   &  # 215 ;  % s  ( giữ  tỷ  lệ  % d : % d ) ;  giữ    Shift   vẽ  từ  tâm  ra  ngoài
+   Elip  :  % s   &  # 215 ;  % s ;  giữ    Ctrl   tạo  hình  tròn  hoặc  hình  elip  có  tỷ  số  trục  hữu  tỷ ;  giữ    Shift   vẽ  từ  tâm  ra  ngoài
+ Tạo  hình  elip
+ Đổi  hình  phối  ( góc  của  các  đường  chiếu  phối  cảnh )
+   Lập   phương  ;  giữ    Shift   để  thu  phóng  theo  trục  Z
+ Tạo  khối  lập  phương
+   Hình   lập   phương 
+ Không  sử  dụng  được  Thư  mục  hồ  sơ  màu  ( % s ) .
+ ( chuỗi  UTF-8  không  hợp  lệ )
+ Không  có
+ The ̂ m  mo ̣ ̂ t  đie ̂ ̉ m  ke ̂ ́ t  no ̂ ́ i
+ Di  chuye ̂ ̉ n  mo ̣ ̂ t  đie ̂ ̉ m  ke ̂ ́ t  no ̂ ́ i
+ Bo ̉  mo ̣ ̂ t  đie ̂ ̉ m  ke ̂ ́ t  no ̂ ́ i
+   Điểm   kết   nối  :  nhấn  hay  kéo  để  tạo  một  đường  nối  mới
+   Đie  ̂  ̉  m   ke  ̂  ́  t   no  ̂  ́  i  :  nha ̂ ́ n  đe ̂ ̉  cho ̣ n ,  ke ́ o  đe ̂ ̉  di  chuye ̂ ̉ n
+ Đang  tạo  đường  nối  mới
+ Hành  động  kéo  điểm  cuối  của  đường  nối  bị  thôi .
+ Đa ̃  hu ̉ y  ke ́ o  đie ̂ ̉ m  ke ̂ ́ t  no ̂ ́ i .
+ Cập  nhật  đường  nối
+ Tạo  đường  nối
+ Đang  tạo  xong  đường  nối
+   Điểm   cuối   đường   nối  :  kéo  để  cập  nhật  hoặc  kết  nối  đến  hình  mới
+ Chọn    ít   nhất   một   đối   tượng   khác   đường   nối 
+ Làm  cho  đường  nối  tránh  các  đối  tượng  đã  chọn
+ Làm  cho  đường  nối  bỏ  qua  các  đối  tượng  đã  chọn
+   Lớp   hiện   thời   bị   ẩn  .  Hãy  bỏ  chế  độ  ẩn  trước  khi  vẽ  trên  nó .
+   Lớp   hiện   thời   bị   khoá  .  Hãy  gỡ  khoá  trước  khi  vẽ  trên  nó .
+ Không  có  hệ  số  thu  phóng  trước .
+ Không  có  hệ  số  thu  phóng  kế  tiếp .
+ Tạo  đường  gióng
+ Chuyển  đường  gióng
+ Xoá  đường  gióng
+   Đường   gióng  :  % s
+   Chưa   chọn   gì  . 
+   Nhiều   đối   tượng   đã   được   chọn  . 
+   Đối   tượng   có      %   d     bản   sao   liên   kết   lát   đều  . 
+   Đối   tượng   không   có   bản   sao   liên   kết   lát   đều  . 
+ Chọn    một   đối   tượng   có  bản  sao  liên  kết  lát  đều  để  tháo  cục .
+ Tháo  cục  các  bản  sao  liên  kết  lát  đều
+ Chọn    một   đối   tượng   có  bản  sao  liên  kết  lát  đều  để  xoá  bỏ .
+ Xoá  các  bản  sao  liên  kết  lát  đều
+ Chọn    một   đối   tượng   tạo  bản  sao  liên  kết .
+ Nếu  bạn  muốn  tạo  bản  sao  liên  kết  cho  nhiều  đối  tượng ,  hãy    nhóm   chúng   lại   rồi    sao   chép   liên   kết   nhóm   đó .
+   Đang   tạo   các   bản   sao   liên   kết   lát   đều  ... 
+ Tạo  các  bản  sao  liên  kết  lát  đều
+   Mỗi   hàng  : 
+   Mỗi   cột  : 
+   Ngẫu   nhiên   hoá  : 
+ Đối  _ xứng
+ Chọn  một  trong  17  phép  đối  xứng  để  lát  đềutranslation "  means  " shift "  /  " displacement
+   P1  :  di  chuyển  đơn  giản
+   P2  :  xoay  180 # 176 ;
+   PM  :  phản  ảnhglide  reflection
+   PG  :  tổ  hợp  phản  ảnh  và  dời  chỗ
+   CM  :  phản  ảnh  +  tổ  hợp  phản  ảnh  và  dời  chỗ
+   PMM  :  phản  ảnh  +  phản  ảnh
+   PMG  :  phản  ảnh  +  xoay  180 # 176 ;
+   PGG  :  tổ  hợp  phản  ảnh  và  dời  chỗ  +  xoay  180 # 176 ;
+   CMM  :  phản  ảnh  +  phản  ảnh  +  xoay  180 # 176 ;
+   P4  :  xoay  90 # 176 ;
+   P4M  :  xoay  90 # 176 ;  +  phản  ảnh  45 # 176 ;
+   P4G  :  xoay  90 # 176 ;  +  phản  ảnh  90 # 176 ;
+   P3  :  xoay  120 # 176 ;
+   P31M  :  phản  ảnh  +  xoay  120 # 176 ; ,  dày  đặc
+   P3M1  :  phản  ảnh  +  xoay  120 # 176 ;  thưa  thớt
+   P6  :  xoay  60 # 176 ;
+   P6M  :  phản  ảnh  +  xoay  60 # 176 ;
+ Dời  c _ hỗshift
+   Dời   chỗ   X  : 
+ Khoảng  dời  chỗ  theo  chiều  ngang  trên  mỗi  hàng  ( theo  %  chiều  rộng  đá  lát )
+ Khoảng  dời  chỗ  theo  chiều  ngang  trên  mỗi  cột  ( theo  %  chiều  rộng  đá  lát )
+ Ngẫu  nhiên  hoá  khoảng  dời  chỗ  theo  chiều  ngang  ( theo  phần  trăm  này ) shift
+   Dời   chỗ   Y  : 
+ Khoảng  dời  chỗ  theo  chiều  dọc  trên  mỗi  hàng  ( theo  %  chiều  cao  đá  lát )
+ Khoảng  dời  chỗ  theo  chiều  dọc  trên  mỗi  cột  ( theo  %  chiều  cao  đá  lát )
+ Ngẫu  nhiên  hoá  khoảng  dời  chỗ  theo  chiều  dọc  ( theo  phần  trăm  này )
+   Luỹ   thừa  : 
+ Chỉ  định  các  hàng  sẽ  cách  đều  ( 1 ) ,  hội  tụ  (
+ s.
+ điều chỉnh độ bão hoà, không có phím bổ trợ để điều chỉnh độ sáng
+KhÃ´ng thá» táº¡o táº­p tin ghi lÆ°u lá»i pháº§n má» rá»ng Â« %s Â»Tên:
+Tình trạng
+Tập tin PostScript
+EPS+LaTeX: Bỏ đi văn bản trong EPS, và tạo tập tin LaTeX
+Tập tin Encapsulated PostScript
+ trong %s
+: khắc các nútPath node tip
+: co giãn từ trung tâm quayTransform handle tip
+ để bắt đầu dòng mới.
+ để xóa
+Clytie Siddall (clytie@riverland.net.au)
+  Clytie Siddall https://launchpad.net/~clytie  Lê Hoàng Phương https://launchpad.net/~herophuong93  Nguyen Dinh Trung https://launchpad.net/~dinhtrung
+Làm trơn
+Nếu chọn phép toán số học, mỗi điểm ảnh đầu ra thu được bằng công thức k1*i1*i2 + k2*i1 + k3*i2 + k4 trong đó i1 và i2 là giá trị điểm ảnh của đầu vào 1 và 2.
+K3:
+Kích cỡ :
+ chuyển đổi màu sắc của tất cả các điểm ảnh trên đối tượng được chọn dựa trên một bảng giá trị, định nghĩa phép biến đổi màu. Hiệu ứng này có thể chuyển đổi đối tượng sang thang màu xám, hoặc sửa lại mức bão hòa hay mức độ màu của nó.
+ kết hợp 2 ảnh bằng các chế độ hòa trộn Porter-Duff hoặc các chế độ số học theo chuẩn SVG. Chế độ hòa trộn Porter-Duff là phép hòa trộn dựa trên các phép toán logic giữa các điểm ảnh tương đương có trên hai bức ảnh.
+ và feSpecularLighting tạo ra hiệu ứng đổ bóng "nổi".  Kênh alpha đầu vào quy định chiều sâu của đầu ra: người xem sẽ thấy các vùng càng trong càng được nâng lên cao, còn các vùng đục hơn thì bị đưa xuống thấp.
+ tô màu và độ trong suốt cho các vùng. Nó được dùng để làm đầu vào cho các bộ lọc khác để đổi màu ảnh.
+ tô màu các vùng của một ảnh bên ngoài hoặc một phần của bản vẽ.
+ tạo hiệu ứng thu nhỏ và mở rộng. Đối với các đối tượng đơn sắc, thu nhỏ khiến đối tượng mỏng đi, và mở rộng làm nó dày lên.
+ tạo ra hiệu ứng đổ bóng "nổi".  Kênh alpha đầu vào quy định chiều sâu của đầu ra: người xem sẽ thấy các vùng càng trong càng được nâng lên cao, còn các vùng đục hơn thì bị đưa xuống thấp.
+ tạo ra các nhiễu Perlin. Loại nhiễu này cho phép mô phỏng các hiện tượng thiên nhiên như mây, lửa và khói, tạo ra các văn hoa phức tạp như đá granite hay cẩm thạch.
+Áp dụng hiệu ứng mới
+Đen
+O:.%d
+HSL
+Ở chế độ màu, tác động lên độ bão hoà của đối tượngS
+Ở chế độ màu, thao tác độ sáng của đối tượngL
+Ở chế độ màu, thao tác độ đục của đối tượngO
+(gồ ghề, đơn giản)
+modf(x); exp(x); log(x [, base]); log10(x); pow(x,y); sqrt(x); acos(x); asin(x); atan(x); atan2(y,x); hypot(x,y); cos(x); sin(x); tan(x); degrees(x); radians(x); cosh(x); sinh(x); tanh(x).

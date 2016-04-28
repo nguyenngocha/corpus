@@ -1,0 +1,9 @@
+ Sử  dụng  tập  tin  cấu  hình
+ In  ra  thông  báo  gỡ  lỗi
+ Chạy  dưới  quyền  người  dùng  bình  thường ,  bỏ  qua  những  việc  yêu  cầu  quyền  quản  trị
+ Tập  tin  để  lưu  PID
+ Thư  mục  để  lưu  nhật  ký
+ Thư  mục  để  lưu  trạng  thái  hoạt  động
+ Hiện  phiên  bản  phát  hành
+ -  Display  Manager
+ Chạy  lệnh  ' % s  --help '  để  xem  danh  sách  tất  cả  các  tùy  chọn  dòng  lệnh .

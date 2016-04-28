@@ -1,0 +1,164 @@
+ --gdk-debug  オプションの解析エラーです
+ --gdk-no-debug  オプションの解析エラーです
+ ウィンドウマネージャーで利用するプログラムのクラスを指定する
+ CLASS
+ ウィンドウマネージャーで利用するプログラムの名前を指定する
+ NAME
+ 使用するXのディスプレイを指定する
+ DISPLAY
+ 有効にする  GDK  のデバッグフラグを指定する
+ FLAGS
+ 無効にする  GDK  のデバッグフラグを指定するkeyboard  label
+ BackSpacekeyboard  label
+ Tabkeyboard  label
+ Returnkeyboard  label
+ Pausekeyboard  label
+ Scroll _ Lockkeyboard  label
+ Sys _ Reqkeyboard  label
+ Esckeyboard  label
+ Multi _ keykeyboard  label
+ Homekeyboard  label
+ Leftkeyboard  label
+ Upkeyboard  label
+ Rightkeyboard  label
+ Downkeyboard  label
+ Page _ Upkeyboard  label
+ Page _ Downkeyboard  label
+ Endkeyboard  label
+ Beginkeyboard  label
+ 印刷
+ Insertkeyboard  label
+ Num _ Lockkeyboard  label
+ KP _ Spacekeyboard  label
+ KP _ Tabkeyboard  label
+ KP _ Enterkeyboard  label
+ KP _ Homekeyboard  label
+ KP _ Leftkeyboard  label
+ KP _ Upkeyboard  label
+ KP _ Rightkeyboard  label
+ KP _ Downkeyboard  label
+ KP _ Page _ Upkeyboard  label
+ KP _ Priorkeyboard  label
+ KP _ Page _ Downkeyboard  label
+ KP _ Nextkeyboard  label
+ KP _ Endkeyboard  label
+ KP _ Beginkeyboard  label
+ KP _ Insertkeyboard  label
+ KP _ Deletekeyboard  label
+ Deletekeyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ 進む ( _ F ) keyboard  label
+ 戻る ( _ B ) keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ keyboard  label
+ GDI  のリクエストをまとめない
+ タブレットのサポートで  Wintab  API  を使用しない
+ オプション  --no-wintab  と同じ
+ Wintab  API  を使用する  [ デフォルト ]
+ 8-ビットモードでのパレットサイズを指定する
+ COLORS
+ % s  の起動中です
+ % s  を開いています
+ Action  name
+ Action  description
+ Stock  label
+ 編集 ( _ E ) Action  name
+ 選択 ( _ S )
+ 色の作成 ( _ C )
+ 色の選択
+ 色の明るさです
+ 作成した色  % d :  % sAction  name
+ 音量を下げますAction  description
+ throbbing  progress  animation  widget
+ スピナー
+ 進行している様子を視覚的に表しますAction  description
+ 外側の輪から希望する色を 、 内側の三角で色の暗さ ・ 明るさをそれぞれ選択してください
+ スポイトをクリックして 、 画面上の好きな場所をクリックして色を選択してください
+ 色相 ( _ H ) :
+ 色の輪における位置です
+ 彩度 ( _ A ) :
+ 色の鮮やかさです
+ 明度 ( _ V ) :
+ 赤 ( _ R ) :
+ 選択した色の赤成分の量です
+ 緑 ( _ G ) :
+ 選択した色の緑成分の量です
+ 青 ( _ B ) :
+ 選択した色の青成分の量です
+ 不透明度 ( _ A ) :
+ 色の透明度です
+ 色の名称 ( _ N ) :
+ このエントリに  HTML  形式で  16進数の値 、 または色の名前  ( 例 :  ' orange ' )  を入力できます
+ パレット ( _ P ) :
+ 色ホイール
+ 既に選択している色で 、 現在選択している色と比較するために表示しています 。 この色をパレットのエントリにドラッグしたり 、 他の見本の横にドラッグして現在の色として選択できます
+ 選択した色で 、 この色を将来使用する色として保存するためパレットのエントリにドラッグできます
+ 前に選択した色です 。 今選択している色との比較です 。
+ 選択した色です 。
+ ここに色を保存する ( _ S )
+ 現在の色に指定する場合はこのパレットのエントリをクリックしてください 。 このエントリを変更する場合は 、 色の見本をここにドラッグするか 、 右クリックして  " 色をここに保存 "  を選択してください
+ abcdefghijk  ABCDEFGHIJK  これはテストです
+ ファミリ ( _ F ) :
+ スタイル ( _ S ) :
+ サイズ ( _ Z ) :
+ プレビュー ( _ P ) :
+ フォントの選択
+ This  program  comes  with  ABSOLUTELY  NO  WARRANTY ;  for  details ,  visit    %  s 
+ ライセンス
+ プログラムのライセンス
+ クレジット ( _ R )
+ ライセンス ( _ L )
+ リンクを表示できませんでした
+ ウェブサイト
+ % s  について
+ 作成者
+ ドキュメント担当
+ 翻訳担当
+ アートワーク担当keyboard  label
+ Shiftkeyboard  label
+ Ctrlkeyboard  label
+ Altkeyboard  label
+ Superkeyboard  label
+ Hyperkeyboard  label
+ Metakeyboard  label
+ Spacekeyboard  label
+ \ \
+ 別のアプリケーション …
+ オンラインでのアプリケーション検索に失敗しました
+ オンラインでアプリケーションを探す ( _ F )
+ " % s "  を開くアプリケーションを選択してください
+ " % s "  を開くアプリケーションが見つかりません
+ " % s "  ファイルを開くアプリケーションを選択してください
+ " % s "  ファイルを開くアプリケーションが見つかりません
+ " 別のアプリケーションを表示する " をクリックして利用可能なアプリケーションを選択するか 、 あるいは " オンラインでアプリケーションを探す " をクリックしてアプリケーションを新規にインストールしてください 。
+ 関連づけを取り消す
+ 別のアプリケーションを表示する
+ 既定のアプリケーション
+ 推奨アプリケーション
+ 関連するアプリケーション
+ 別のアプリケーション
+ アプリケーション
+ 続行 ( _ O )
+ 戻る ( _ B )
+ 完了 ( _ F )
+ 要素 

@@ -1,0 +1,29 @@
+ số  hiệu  lỗi  không  rõ
+ kiểu  tùy  chọn  ( % u )  chưa  được  thực  hiện  trong  popt
+ thiếu  đối  số
+ tùy  chọn  không  rõ
+ các  thao  tác  hợp  lý  loại  từ  lẫn  nhau  được  yêu  cầu
+ «  tùy  chọn-  >  đối  số  »  không  thể  vô  giá  trị
+ các  bí  danh  lồng  nhau  quá  sâu
+ gặp  lỗi  trong  lời  trích  dẫn  tham  số
+ giá  trị  thuộc  số  không  hợp  lệ
+ con  số  quá  lớn  hay  quá  nhỏ
+ lỗi  cấp  phát  bộ  nhớ
+ lỗi  không  rõ
+ Xem  thông  điệp  trợ  giúp  này
+ Hiển  thị  thông  điệp  cách  sử  dụng  ngắn
+ Hiển  thị  các  giá  trị  mặc  định  của  tùy  chọn  trong  thông  điệp
+ Tùy  chọn  chấm  dứt
+ Tùy  chọn  trợ  giúp :
+ Các  tùy  chọn  được  thực  hiện  thông  qua  popt  alias / exec :
+ KHÔNG  CÓ
+ GIÁ  TRỊ
+ SỐ  NGUYÊN
+ DÀI
+ DÀIDÀI
+ CHUỖI
+ NỔI
+ ĐÔI
+ ĐỐI  SỐ
+ Sử  dụng :
+ [ TÙY _ CHỌN ... ]

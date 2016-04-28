@@ -1,0 +1,16 @@
+ % s  ( con ) :  lỗi  thực  hiện  «  / bin / sh  » :  % s
+ % s :  lệnh  ( % s )  bị  lỗi  ( trạng  thái  thoát  % d )
+ % s :  lệnh  ( % s )  bị  chấm  dứt  bằng  tín  hiệu  % d
+ % s :  % s :  không  thể  lấy  các  thông  tin :  % s
+ là  thư  mục  nên  bỏ  qua
+ là  thiết  bị  khối  nên  bỏ  qua
+ lỗi  nội  bộ
+ là  ổ  cắm  nên  bỏ  qua
+ kiểu  tập  tin  lạ  nên  bỏ  qua
+ % s : dùng  «  % s  »  là  bộ  dàn  trang
+ % s :  popen  bị  lỗi  cho  % s :  % s
+ cảnh  báo :  trông  đợi  dấu  hai  chấm
+ trông  đợi  dấu  hai  chấm
+ Gặp  lỗi  phân  tách  trong  trường .
+ grep-dctrl  --  grep  tập  tin  điều  khiển  Debian
+ CẤP

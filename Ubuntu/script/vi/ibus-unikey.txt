@@ -1,0 +1,6 @@
+ Bật  kiểm  tra  chính  tả
+ Bật  gõ  tắt
+ Chọn  kiểu  gõ
+ Bật  kiểm  tra  _ chính  tả
+ _ Sửa  bảng  gõ  tắt
+ Xóa  _ hết

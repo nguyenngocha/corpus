@@ -1,0 +1,843 @@
+ Mặc  địnhEvenTone
+ EvenTone
+ EvenTone  Lai
+ EvenBetter
+ EvenBetter  Lai
+ UniTone
+ UniTone  Lai
+ Được  sắp  xếp
+ Nhanh
+ Rất  nhanh
+ Mật  độ
+ Điều  chỉnh  mật  độ  ( lượng  mực )  của  việc  in .  Giảm  mật  độ  khi  mực  nhòe  trên  tờ  giấy  hay  có  đốm  bẩn ;  tăng  mật  độ  nếu  các  vùng  màu  đen  không  đặc .
+ Thuật  toán  hòa  sắc
+ Tùy  chọn  linh  tinh
+ Môđun  chuyển  đổi  màu  sắc
+ Thuật  toán  pha  màu
+ Cỡ  của  giấy  được  in  ra
+ Kiểu  đa  phương  tiện
+ Kiểu  đa  phương  tiện  ( giấy  thường ,  giấy  ảnh , ... )
+ Nguồn  Đa  phương  tiện
+ Cỡ  Hub  CD
+ Cỡ  CD  ( Tự  chọn )
+ Cỡ  CD  Hub  ( Tự  chọn )
+ Tinh  chỉnh  CD  theo  chiều  ngang
+ Tinh  chỉnh  theo  chiều  ngang  để  in  đĩa  CD
+ Tinh  chỉnh  CD  theo  chiều  dọc
+ Độ  phân  giải
+ Độ  phân  giải  và  chất  lượng  in
+ Kiểu  mực
+ Kiểu  của  mực  máy  in
+ Chế  độ  In
+ Chế  độ  xuất  khi  in
+ Không  có  viền
+ Không  in  viền
+ In  hai  mặt
+ Chất  lượng  in
+ Mật  độ  Xanh  nhạt
+ Tùy  chỉnh  mật  độ  màu  lục  lam
+ Mật  độ  đỏ  thẫm
+ Tùy  chỉnh  mật  độ  màu  đỏ  tươi
+ Mật  độ  Vàng
+ Tùy  chỉnh  mật  độ  màu  vàng
+ Mật  độ  Đen
+ Tùy  chỉnh  mật  độ  màu  đen
+ Tắt
+ Cạnh  dài  ( Tiêu  chuẩn )
+ Cạnh  ngắn  ( Lật )
+ CD  -  5  inch
+ CD  -  3  inch
+ Thường
+ Màu
+ Đen  và  Trắng
+ Cả  hai
+ Đen
+ Ảnh  chụp
+ Không  có  gì
+ Chuẩn
+ Độ  chính  xác  Cao
+ Chưa  được  sửa
+ Ngưỡng
+ Thô
+ Trắng  đen
+ RGB
+ CMY
+ CMYK
+ KCMY
+ Sửa  màu
+ Sửa  chữa  màu  sắc  được  áp  dụng
+ Độ  sâu  bít  kênh
+ Lượng  bít  cho  mỗi  kênh
+ Kiểu  ảnh  đầu  vào
+ Kiểu  của  ảnh  đầu  vào
+ Kiểu  ảnh  đầu  ra
+ Kiểu  của  ảnh  đầu  ra
+ Kênh  thô
+ Không  đúng  cho  gamma  màn  hình
+ Độ  sáng
+ Độ  tương  phản  khi  in
+ Độ  tương  phản
+ Độ  tương  phản  khi  in  ( 0  là  hoàn  toàn  xám )
+ Chỉnh  Tương  phản  tuyến  tính
+ Xanh  ngọc
+ Đỏ  tươi
+ Vàng
+ Đỏ
+ Xanh  lá  cây
+ Xanh  dương
+ Cân  bằng  Vàng
+ Độ  bão  hoà
+ Giới  hạn  mực
+ Đường  cong  Xanh  nhạt
+ Đường  cong  Đỏ  tươi
+ Đường  cong  Đỏ  sẫm
+ Đường  cong  Vàng
+ Cong  Đen
+ Cong  Đỏ
+ đường  cong  màu  đỏ
+ Đường  cong  Xanh  lá
+ Đường  cong  Xanh  lam
+ Đường  cong  Trắng
+ Cong  trắng
+ Bản  đồ  Hue
+ Đường  cong  điều  chỉnh  mức  bão  hòa
+ Cần  đặt  giá-trị  cho  % s
+ “ % s ”  không  phải  là  một  giá  trị  hợp  lệ  % s
+ % s  cần  được  đặt  giữa  % f  và  % f  ( là  % f )
+ % s  cần  được  đặt  giữa  % d  và  % d  ( là  % d )
+ không  ngắt  dòng
+ Cỡ  giấy  không  hợp  lệ
+ Lề  trên  không  được  nhỏ  hơn  % d
+ Lề  trái  không  được  nhỏ  hơn  % d
+ Chiều  cao  phải  lớn  hơn  0
+ Chiều  rộng  phải  lớn  hơn  0
+ Chế  độ  in  tự  động
+ CD  Cho  phép  Kích  cớ  Giấy  khác
+ Độ  phân  giải  của  máy  in
+ Hướng  in
+ Hướng  in  ( in  theo  một  hướng  cho  chất  lượng  cao  hơn  nhưng  sẽ  chậm  hơn )
+ Thứ  tự  xuất
+ Mật  độ  Xanh  dương
+ Mật  độ  Đỏ
+ Mức
+ Giá  trị  Xám
+ Đặt  độ  dày  của  giấy  cho  máy  in
+ Phương  pháp  in
+ Tự  động
+ 300  DPI  x  600  DPI
+ 600  DPI
+ 00  DPI  chất  lượng  cao
+ 600  DPI  Đơn
+ 1200  DPI
+ 1200  DPI  chất  lượng  cao
+ 1200  DPI   Đơn
+ 2400  DPI  x  1200  DPI
+ 2400  DPI  x  1200  DPI  chất  lượng  cao  nhất
+ in  thử
+ Chuẩn  bốn  màu
+ Tổng  hợp  ba  màu
+ Ảnh  sáu  màu
+ Giấy  thường
+ Phim  bóng
+ Giấy  bóng  kính
+ Phong  bì
+ Giấy  mờ
+ Giấy  in  mực
+ Giấy  ảnh
+ Khác
+ Bằng  tay  với  phím  “ Pause ”
+ Bằng  tay  không  bằng  phím  “ Pause ”
+ Điều  chỉnh  mức  xuất
+ Chỉnh  mức  cân  bằng  xanh  nhạt
+ Chỉnh  mức  cân  bằng  đỏ  sẫm
+ Chỉnh  mức  cân  bằng  vàng
+ Cân  bằng  đen
+ Chỉnh  mức  cân  bằng  đen
+ Premium
+ Glossy  Photo
+ Thủ  công
+ Khay  1
+ Khay  2
+ Khay  3
+ Khay  4
+ Khay
+ Nguồn  Tùy  chọn
+ Tự  động  chọn
+ 150x150  DPI
+ 300x300  DPI
+ 600x300  DPI
+ 600x600  DPI  đơn  sắc
+ 600x600  DPI
+ 1200x600  DPI
+ 2400x600  DPI
+ Nháp
+ Thư  tín
+ A4
+ Tự  chọn
+ Lỗi  nghiêm  trọng !
+ Hãy  thông  báo  thông  tin  trên  cho  gimp-print-devel @ lists.sourceforge.net
+ Kinh  kế  Nhanh
+ Tiết  kiệm
+ Siêu  Ảnh
+ Tốt  nhất
+ Chữ
+ Đồ  họa
+ Công  việc
+ Giá  trị  _ Gamma
+ Inch
+ Đặt  đơn  vị  đo  lường  thành  inch
+ cm
+ Đặt  đơn  vị  đo  lường  thành  cen-ti-mét
+ Màu  xuất
+ Lệnh  chuẩn
+ Dùng  lệnh  in  tiêu  chuẩn
+ Dùng  lệnh  in  tự  chọn
+ Tập  tin
+ In  ra  tập  tin
+ Sửa  đường  cong ...
+ Đồng  ý
+ Thôi
+ % s  --  In  v % s
+ Giới  thiệu
+ Hiển  thị  và  Ghi  lại  các  cài  đặt
+ Ghi  Lại  Các  cài  đặt
+ In
+ Xem  trước
+ Hiển  thị  tất  cả  các  cỡ  giấy
+ Kích  cỡ :
+ Rộng :
+ Độ  rộng  của  giấy  bạn  muốn  in
+ Cao :
+ Chiều  cao  của  giấy  bạn  muốn  in
+ Chọn  số  lượng  bản  sao  bạn  muốn  in ;  giá  trị  nằm  trong  khoảng  từ  1  đến  100
+ Thẳng  đứng
+ Nằm  ngang
+ Cạnh  trên  xuống
+ Cảnh  biển
+ Hướng :
+ Trái :
+ Phải :
+ Trên :
+ Dưới :
+ Giữa
+ Đặt  ảnh  ở  giữa  giấy
+ Cài  đặt  Máy  in
+ Mẫu  máy  in :
+ Chọn  mô  hình  máy  in  của  bạn
+ Tập  tin  PPD :
+ Nhập  vào  tên  tập  tin  PPD  cho  máy  in  của  bạn
+ Duyệt
+ Chọn  tập  tin  PPD  cho  máy  in  của  bạn
+ Hàng  đợi  In :
+ Định  nghĩa  máy  in  mới
+ Tên  máy  in :
+ Nhập  vào  tên  mà  bạn  muốn  đặt  cho  máy  in  lô-gíc
+ Giới  thiệu  về  Gutenprint 
+ Cài  đặt  máy  in
+ Cài  đặt  máy  in ...
+ Máy  in  mới ...
+ Co  giãn :
+ Phần  trăm
+ PPI
+ Đặt  thành  mặc  định
+ Đóng
+ Xem  thử  ảnh
+ Kiểu  xuất :
+ Chọn  kiểu  xuất  mong  muốn
+ Đơn  vị :
+ System  V  lp
+ CUPS
+ Berkeley  lpd  ( / etc / lpc )
+ Berkeley  lpd  ( / usr / bsd / lpc )
+ Berkeley  lpd  ( / usr / etc / lpc
+ Berkeley  lpd  ( / usr / libexec / lpc )
+ Berkeley  lpd  ( / usr / sbin / lpc )
+ ( Máy  in  mặc  định )
+ Mở  rộng  5SwedishSvenska
+ Vietnamese
+ Màu  CMY
+ Có
+ Không
+ Co  giãn  ( in  toàn  bộ  trang )
+ Xén  ( in  cỡ  riêng )
+ Phiên  bản  Escputil 
+ Bạn  chỉ  có  thể  chỉ  ra  một  máy  in  hay  một  thiết  bị  thô .
+ Không  hiểu  tùy  chọn  % c
+ Cách  dùng :  % s  [ CÁC-TÙY-CHỌN ]  lệnh
+ Hãy  gõ  lệnh  “ % s  --help ”  để  tìm  thấy  thông  tin  thêm .
+ Hãy  gõ  lệnh  “ % s  -h ”  để  tìm  thấy  thông  tin  thêm .
+ Không  thể  mở  thiết  bị  % s :  % s
+ Không  thể  in  ra  máy  in  % s  với  % s
+ Không  thể  đọc  từ  % s :  % s
+ không  thể  mở  % s  để  đọc / ghi :  % s
+ Không  biết  máy  in  % s !
+ Không  thể  ghi  vào  % s :  % s
+ Không  hiểu
+ Trạng  thái :  Lỗi
+ Trạng  thái :  Tự  in
+ Trạng  thái :  Bận
+ Trạng  thái :  Đang  đợi
+ Trạng  thái :  Nghỉ
+ Trạng  thái :  Đã  dừng
+ Trạng  thái :  Đang  quét  dọn
+ Trạng  thái :  Tắt  máy
+ Trạng  thái :  Không  hiểu  ( % d )
+ Lỗi :  LỖI  NGHIÊM  TRỌNG
+ Lỗi :  Giao  diện  khác  đã  được  chọn
+ Lỗi :  Máy  đang  mở
+ Lỗi :  Kẹt  giấy
+ Lỗi :  Hết  mực
+ Lỗi :  Hết  giấy
+ Lỗi :  Lỗi  giấy  hỗn  tạp
+ Lỗi :  Lỗi  phản  hồi  kép
+ Lỗi :  Phần  hậu  đang  mở
+ Lỗi :  Hết  đĩa  CD
+ Lỗi :  Nắp  khay  đang  mở
+ Lỗi :  Trống  mực  đang  mở
+ Lỗi :  Nắp  trước  đang  mở
+ Lỗi :  Yêu  cầu  bảo  trì
+ Lỗi :  Không  hiểu  ( % d )
+ Trạng  thái :  % s  Ít  mực
+ Cảnh  báo :  Không  hiểu  ( % d )
+ Đang  in  tự  kiểm  tra
+ Tên  máy  in :  % s
+ Mức  mực :
+ Màu  mực
+ Phần  trăm  còn  lại
+ Tên  việc  in : 
+ Trống  mực
+ Lau  đầu ...
+ Không  thể  gửi  lệnh  in  đến  máy  in ,  nên  thoát  ra .
+ Đang  thoát
+ >
+ Lặp  quá  trình  căn  chỉnh .
+ Bị  lỗi !
+ đã  thành  công !
+ Lệnh  không  được  chấp  nhận .
+ Lệnh  cuối  không  được  xác  nhận .
+ Nhấn  phím  enter  để  tiếp  tục   >
+ Lần  # % d
+ Hãy  thêm  tấm  giấy  mới .
+ Số  nằm  ngoài  phạm  vi !
+ Tôi  chẳng  hiểu  bạn  gõ  gì !
+ đã  thành  công .
+ Lỗi  trong  đầu  vào
+ Đang  in ...
+ Mực  EPSON  tiêu  chuẩn
+ Bưu  thiếp
+ Phim  Sáng  tối
+ Bốn  tông
+ 360  DPI
+ 720  x  360  DPI
+ 720  DPI
+ 360  x  120  DPI  Kinh  tế
+ Giấy  nháp  360  x  240
+ 720  DPI  chất  lượng  cao
+ 1440  x  720  DPI
+ 1440  DPI  x  720  DPI  chất  lượng  cao  nhất
+ 720  DPI  chất  lượng  cao  nhất
+ 2880  x  720  DPI
+ 2880  x  720  DPI  chất  lượng  cao  nhất
+ 1440  x  1440  DPI
+ 2880  x  1440  DPI
+ 2880  x  2880  DPI
+ 5760  x  1440  DPI
+ 5760  x  2880  DPI
+ 720  x  360  DPI  Tăng
+ 360  DPI  Tăng  cường
+ 1440  x  720  DPI  chất  lượng  cao  nhất
+ Khay  chính
+ Khay  ảnh
+ In  ra  đĩa  CD
+ Khay  hậu
+ Khay  trước
+ Văn  bản  luật
+ Báo  lá  cải
+ Executive
+ 3x5
+ 4x6
+ 5x7
+ 5x8
+ 6x8
+ 8x10
+ 12x18
+ Siêu  B  13x19
+ 8x12
+ 11x14
+ 16x20
+ 16x24
+ 20x24
+ 20x30
+ 22x30
+ 24x30
+ 30x40
+ 4A
+ 2A
+ A0
+ A1
+ A2
+ A3
+ A5
+ A6
+ A7
+ A8
+ A9
+ A10
+ RA0
+ RA1
+ RA2
+ RA3
+ RA4
+ SRA0
+ SRA1
+ SRA2
+ SRA3
+ SRA4
+ 4B  ISO
+ 2B  ISO
+ B0  ISO
+ B1  ISO
+ B2  ISO
+ B3  ISO
+ B4  ISO
+ B5  ISO
+ B6  ISO
+ B7  ISO
+ B8  ISO
+ B9  ISO
+ B10  ISO
+ B0  JIS
+ B1  JIS
+ B2  JIS
+ B3  JIS
+ B4  JIS
+ B5  JIS
+ B6  JIS
+ B7  JIS
+ B8  JIS
+ B9  JIS
+ B10  JIS
+ C0
+ Phong  cảnh  C0
+ C1
+ Phong  cảnh  C1
+ C2
+ Phong  cảnh  C2
+ C3
+ Phong  cảnh  C3
+ C4
+ Phong  cảnh  C4
+ C5
+ Phong  cảnh  C5
+ B6-C4
+ Phong  cảnh  B6-C4
+ C6
+ Phong  cảnh  C6
+ DL
+ Phong  cảnh  DL
+ C7-6
+ Phong  cảnh  C7-6
+ C7
+ Phong  cảnh  C7
+ C8
+ Phong  cảnh  C8
+ C9
+ Phong  cảnh  C9
+ C10
+ Phong  cảnh  C10
+ Phong  cảnh  EA5
+ ArchA
+ ArchB
+ ArchC
+ ArchD
+ ArchE
+ Giấy  khổ  rộng  Mỹ
+ Giấy  khổ  rộng  châu  Âu
+ Crown  Octavo
+ Demy  Octavo
+ Giấy  đen  nhỏ
+ 10cm  x  15cm
+ Thẻ  Hagaki
+ Thẻ  Oufuku
+ Thương  mại  10
+ Thiếp  mời  A2
+ Giấy  cuộn  89mm
+ Giấy  cuộn  4  Inch
+ Giấy  cuộn  5  Inch
+ Giấy  cuộn  210  mm
+ Giấy  cuộn  13  Inch
+ Giấy  cuộn  17  Inch
+ Giấy  cuộn  22  Inch
+ Giấy  cuộn  24  Inch
+ Giấy  cuộn  36  Inch
+ Giấy  cuộn  44  Inch
+ Giấy  cuộn  60  Inch
+ Giấy  cuộn  64  Inch
+ PostScript  Mức  1
+ PostScript  Mức  2
+ Canon  BJ-30
+ Canon  BJC-50
+ Canon  BJC-55
+ Canon  BJC-80
+ Canon  BJC-85
+ Canon  BJC-210
+ Canon  BJC-240
+ Canon  BJC-250
+ Canon  BJC-1000
+ Canon  BJC-2000
+ Canon  BJC-2010
+ Canon  BJC-2100
+ Canon  BJC-2110
+ Canon  BJC-3000
+ Canon  BJC-4000
+ Canon  BJC-4300
+ Canon  BJC-4400
+ Canon  BJC-5100
+ Canon  BJC-5500
+ Canon  BJC-6000
+ Canon  BJC-6100
+ Canon  BJC-6200
+ Canon  BJC-6500
+ Canon  BJC-7000
+ Canon  BJC-7100
+ Canon  BJC-8200
+ Canon  BJC-8500
+ Canon  S100
+ Canon  S200
+ Canon  S300
+ Canon  S400
+ Canon  S450
+ Canon  S500
+ Canon  S600
+ Canon  S630
+ Canon  S800
+ Canon  S4500
+ Canon  PIXMA  iP2000
+ Canon  PIXUS  iP2700
+ Canon  PIXMA  iP3000
+ Canon  PIXMA  iP3100
+ Canon  PIXUS  iP3100
+ Canon  PIXMA  iP4000
+ Canon  PIXMA  iP4100
+ Canon  PIXUS  iP4100
+ Canon  PIXMA  iP4200
+ Canon  PIXMA  iP4300
+ Canon  PIXMA  iP4500
+ Canon  PIXMA  iP4600
+ Canon  PIXMA  iP4700
+ Canon  PIXMA  iP5000
+ Canon  PIXMA  iP5200
+ Canon  PIXMA  iP5300
+ Canon  PIXMA  iP6000D
+ Canon  PIXMA  iP8500
+ Canon  PIXMA  iX4000
+ Canon  PIXMA  iX5000
+ Canon  PIXMA  Pro9500
+ Canon  PIXMA  MP150
+ Canon  PIXMA  MP160
+ Canon  PIXMA  MP170
+ Canon  PIXMA  MP180
+ Canon  PIXMA  MP220
+ Canon  PIXMA  MP250
+ Canon  PIXMA  MP270
+ Canon  PIXMA  MP280
+ Canon  PIXMA  MP360
+ Canon  PIXMA  MP370
+ Canon  PIXMA  MP390
+ Canon  PIXMA  MP450
+ Canon  PIXMA  MP460
+ Canon  PIXMA  MP480
+ Canon  PIXMA  MP495
+ Canon  PIXMA  MP500
+ Canon  PIXMA  MP510
+ Canon  PIXMA  MP520
+ Canon  PIXMA  MP540
+ Canon  PIXMA  MP550
+ Canon  PIXMA  MP600
+ Canon  PIXMA  MP610
+ Canon  PIXMA  MP700
+ Canon  PIXMA  MP710
+ Canon  PIXMA  MP730
+ Canon  PIXMA  MP740
+ Canon  PIXMA  MP750
+ Canon  PIXMA  MP760
+ Canon  PIXMA  MP770
+ Canon  PIXMA  MP780
+ Canon  PIXMA  MP790
+ Canon  PIXMA  MP830
+ Canon  PIXMA  MP950
+ Canon  PIXMA  MP960
+ Canon  PIXMA  MP970
+ Canon  PIXMA  MP990
+ Canon  PIXMA  MG5100
+ Canon  PIXMA  MG5200
+ Canon  PIXMA  MG6100
+ Canon  PIXMA  MG8100
+ Canon  PIXMA  MX300
+ Canon  PIXMA  MX310
+ Canon  PIXMA  MX330
+ Canon  PIXMA  MX340
+ Canon  PIXMA  MX350
+ Canon  PIXMA  MX700
+ Canon  PIXMA  MX850
+ Canon  PIXMA  MX860
+ Canon  PIXMA  MX870
+ Canon  PIXMA  MX7600
+ Canon  i80
+ Canon  i560
+ Canon  i850
+ Canon  i860
+ Epson  EM  930C
+ Epson  MC  2000
+ Epson  MC  5000
+ Epson  MC  7000
+ Epson  MC  9000
+ Epson  MC  10000
+ Epson  MJ  930C
+ Epson  MJ  5100C
+ Epson  MJ  6000C
+ Epson  MJ  8000C
+ Epson  PM  870C
+ Epson  PM  880C
+ Epson  PM  930C
+ Epson  PM  940C
+ Epson  PM  950C
+ Epson  PM  970C
+ Epson  PM  980C
+ Epson  PM  2000C
+ Epson  PM  2200C
+ Epson  PM  3000C
+ Epson  PM  A950
+ Epson  PM  D600
+ Epson  PM  D800
+ Epson  PM  G730
+ Epson  PX  V630
+ Epson  PX  7000
+ Epson  PX  9000
+ Apollo  P-2100
+ Apollo  P-2150
+ Apollo  P-2200
+ Brother  HL-1040
+ Brother  HL-1050
+ Brother  HL-1060
+ Brother  HL-10V
+ Brother  HL-10h
+ Brother  HL-4Ve
+ Brother  HL-630
+ Brother  HL-660
+ Brother  HL-760
+ Brother  HL-960
+ Brother  MFC-9500
+ Brother  MFC-9600
+ Canon  GP  335
+ Canon  LBP-4sx
+ Canon  LBP-430
+ Canon  LBP-1000
+ Canon  LBP-1260
+ Canon  LBP-1760
+ Canon  imageRunner  330s
+ Citizen  ProJet  II
+ Epson  EPL-5200
+ Epson  EPL-5200 +
+ Epson  EPL-5700
+ Epson  EPL-5700PS
+ Epson  EPL-5800
+ Epson  EPL-5800PS
+ Epson  EPL-5900
+ Epson  EPL-6100
+ HP  Business  Inkjet  2280
+ HP  Color  Inkjet  Printer  CP1160
+ HP  Color  Inkjet  Printer  CP1700
+ HP  Color  LaserJet  2500
+ HP  Color  LaserJet  4500
+ HP  Color  LaserJet  4550
+ HP  Color  LaserJet  4600
+ HP  Color  LaserJet  5
+ HP  Color  LaserJet  5000
+ HP  Color  LaserJet  5500
+ HP  DesignJet  2500CP
+ HP  DesignJet  3500CP
+ HP  DesignJet  ColorPro  CAD
+ HP  DeskJet  400
+ HP  DeskJet  420C
+ HP  DeskJet  450
+ HP  DeskJet  500
+ HP  DeskJet  500C
+ HP  DeskJet  505J  Plus
+ HP  DeskJet  510
+ HP  DeskJet  6122
+ HP  DeskJet  6127
+ HP  DeskJet  612C
+ HP  DeskJet  640C
+ HP  DeskJet  648C
+ HP  DeskJet  660C
+ HP  DeskJet  670C
+ HP  DeskJet  670TV
+ HP  DeskJet  672C
+ HP  DeskJet  680C
+ HP  DeskJet  816C
+ HP  DeskJet  825C
+ HP  DeskJet  830C
+ HP  DeskJet  832C
+ HP  DeskJet  840C
+ HP  DeskJet  841C
+ HP  DeskJet  842C
+ HP  DeskJet  843C
+ HP  DeskJet  845C
+ HP  DeskJet  850C
+ HP  DeskJet  932C
+ HP  DeskJet  933C
+ HP  DeskJet  934C
+ HP  DeskJet  935C
+ HP  DeskJet  940C
+ HP  DeskJet  948C
+ HP  DeskJet  950C
+ HP  DeskJet  952C
+ HP  DeskJet  955C
+ HP  DeskJet  957C
+ HP  DeskJet  1200C
+ HP  DeskJet  1220C
+ HP  DeskJet  1600C
+ HP  DeskJet  1600CM
+ HP  DeskJet  2000
+ HP  DeskJet  2500
+ HP  DeskJet  2500CM
+ HP  DeskJet  340C
+ HP  DeskJet  3810
+ HP  DeskJet  3816
+ HP  LaserJet  4  Plus
+ HP  LaserJet  4
+ HP  LaserJet  4L
+ HP  LaserJet  4M
+ HP  LaserJet  4ML
+ HP  LaserJet  4P
+ HP  LaserJet  4Si
+ HP  LaserJet  4V
+ HP  LaserJet  5
+ HP  LaserJet  5L
+ HP  LaserJet  1015
+ HP  LaserJet  1100
+ HP  LaserJet  1100A
+ HP  LaserJet  1150
+ HP  LaserJet  1200
+ HP  LaserJet  1220
+ HP  LaserJet  1300
+ HP  LaserJet  2100
+ HP  LaserJet  2100M
+ HP  LaserJet  2200
+ HP  LaserJet  4050
+ HP  LaserJet  4100
+ HP  LaserJet  4200
+ HP  LaserJet  4300
+ HP  LaserJet  5000
+ HP  LaserJet  5100
+ HP  LaserJet  8000
+ HP  LaserJet  8100
+ HP  LaserJet  8150
+ HP  LaserJet  9000
+ HP  OfficeJet  600
+ HP  OfficeJet  610
+ HP  OfficeJet  625
+ HP  OfficeJet  630
+ HP  OfficeJet  635
+ HP  OfficeJet  700
+ HP  OfficeJet  710
+ HP  OfficeJet  720
+ HP  OfficeJet  725
+ HP  OfficeJet  5105
+ HP  OfficeJet  D155
+ HP  OfficeJet  G55
+ HP  OfficeJet  G85
+ HP  OfficeJet  G95
+ HP  OfficeJet  K60
+ HP  OfficeJet  K60xi
+ HP  OfficeJet  K80
+ HP  OfficeJet  K80xi
+ HP  OfficeJet  LX
+ HP  OfficeJet  Pro  1150C
+ HP  OfficeJet  V40xi
+ HP  OfficeJet
+ HP  PSC  370
+ HP  PSC  380
+ HP  PSC  500
+ HP  PSC  750
+ HP  PSC  950
+ HP  PSC  950xi
+ HP  PSC  2110
+ HP  PSC  2150
+ HP  PhotoSmart  P1115
+ HP  PhotoSmart  P1215
+ HP  PhotoSmart  P1218
+ HP  PhotoSmart  P1315
+ IBM  4019
+ IBM  4029  030  LaserPrinter  10
+ IBM  4312
+ IBM  Infoprint  12
+ IBM  Page  Printer  3112
+ Infotec  4651  MF
+ Kyocera  FS-1600
+ Kyocera  FS-1600 +
+ Kyocera  FS-1700
+ Kyocera  FS-1700 +
+ Kyocera  FS-1750
+ Kyocera  FS-1800
+ Kyocera  FS-1800 +
+ Kyocera  FS-1900
+ Kyocera  FS-3500
+ Kyocera  FS-3600
+ Kyocera  FS-7000
+ Kyocera  FS-7000 +
+ Kyocera  FS-8000C
+ Kyocera  FS-9000
+ Kyocera  FS-9100DN
+ Kyocera  FS-9500DN
+ Kyocera  KM-1530
+ Kyocera  KM-1810
+ Kyocera  KM-2030
+ Kyocera  KM-2530
+ Lexmark  Valuewriter  300
+ Minolta  PagePro  6
+ Minolta  PagePro  6e
+ Minolta  PagePro  6ex
+ Minolta  PagePro  8
+ Minolta  PagePro  8L
+ Minolta  PagePro  1100
+ NEC  SuperScript  660i
+ NEC  SuperScript  860
+ NEC  SuperScript  870
+ Olivetti  JP350S
+ Olivetti  PG  306
+ Samsung  ML-4600
+ Samsung  ML-5000a
+ Samsung  ML-6000
+ Samsung  ML-6100
+ Samsung  ML-7000
+ Samsung  ML-7000N
+ Samsung  ML-7000P
+ Samsung  ML-7050
+ Samsung  QL-5100A
+ Samsung  QL-6050
+ Xerox  DocuPrint  P12
+ Xerox  DocuPrint  P1202
+ Xerox  DocuPrint  P8e
+ Xerox  Document  Centre  400
+ Xerox  WorkCentre  M118
+ Compaq  IJ1200
+ Lexmark  X73
+ Lexmark  Z42
+ Lexmark  Z43
+ Lexmark  Z52
+ Olympus  P-440
+ Olympus  P-S100
+ Canon  CP-10
+ Canon  CP-100
+ Canon  CP-200
+ Canon  CP-220
+ Canon  CP-300
+ Canon  CP-330
+ Fujifilm  Printpix-CX-400
+ Fujifilm  Printpix-CX-550
+ Fujifilm  FinePix-NX-500
+ Kodak  Easyshare-Printer-Dock
+ Dai  Nippon  Printing  DS40
+ Dai  Nippon  Printing  DS80

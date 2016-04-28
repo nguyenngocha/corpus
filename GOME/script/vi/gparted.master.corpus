@@ -1,0 +1,192 @@
+ GParted
+ Bộ  hiệu  chỉnh  phân  vùng  Gnome
+ Xóa  bỏ  phân  vùng  đã  chọn
+ % 1  trên  % 2  đã  sao  chép  ( % 3  còn  lại )
+ % 1  trên  % 2  đã  sao  chép
+ sao  chép  % 1  rãnh  ghi ,  dùng  kích  cỡ  khối  là  % 1  rãnh  ghi
+ Thao  tác  bị  thôi
+ Gặp  lỗi  khi  ghi  khối  tại  rãnh  ghi  % 1
+ Gặp  lỗi  khi  đọc  khối  tại  rãnh  ghi  % 1
+ Chỗ  rảnh  nằm  trước  ( MiB ) :
+ Cỡ  mới  ( MiB ) :
+ Chỗ  rảnh  nằm  sau  ( MiB ) :
+ Align  to :
+ Trụ  : Align  to :
+ % 1  MiBAlign  to :
+ Đổi  cỡ
+ Đổi  cỡ / Chuyển
+ Cỡ  tối  thiểu :  % 1  MiB
+ Cỡ  tối  đa :  % 1  MiB
+ đặt  kiểu _ vùng  trên  % 1
+ Chọn  kiểu  nhãn  mới :
+ Dán  % 1
+ Thông  tin  về  % 1
+ Cảnh  báo  :
+ Hệ  thống  tập  tin
+ Hê  thống  tập  tin :
+ Kiểu  nhãn  đĩa :
+ Trạng  thái :
+ Bận  ( ít  nhất  một  phân  vùng  hợp  lý  đã  lắp )
+ Hoạt  động
+ Đã  lắp  vào  % 1
+ Không  bận  ( không  có  phân  vùng  hợp  lý  đã  lắp )
+ Không  hoạt  động
+ Chưa  lắp
+ Dùng :
+ Rảnh :
+ chưa  cấp  phát
+ Cỡ  :
+ Phân  vùng
+ Đường  dẫn :
+ Cờ  :
+ Rãnh  ghi  đầu  :
+ Rãnh  ghi  cuối :
+ Rãnh  ghi  tổng :
+ Tạo  phân  vùng  mới
+ Tạo  là :
+ Phân  vùng  chính
+ Phân  vùng  hợp  lý
+ Phân  vùng  đã  mở  rộng
+ Phân  vùng  mới  # % 1
+ Đổi  cỡ / Chuyển  % 1
+ Đổi  cỡ  % 1
+ Đang  áp  dụng  các  thao  tác  bị  hoãn
+ Phụ  thuộc  vào  lượng  và  kiểu  thao  tác ,  có  thể  mất  thời  gian  nhiều .
+ Thao  tác  hoàn  tất :
+ Chi  tiết
+ % 1  trên  % 2  thao  tác  hoàn  tất
+ _ Lưu  chi  tiết
+ Mọi  thao  tác  hoàn  tất
+ Gặp  lỗi  khi  áp  dụng  những  thao  tác
+ Xem  chi  tiết  để  tìm  thông  tin  thêm
+ Bạn  có  chắc  muốn  thôi  thao  tác  hiện  thời  không ?
+ Việc  thôi  thao  tác  có  thể  gây  RẤT  NHIỀU  thiệt  hại  cho  hệ  thống  tập  tin .
+ Tiếp  tục  thao  tác
+ Thôi  thao  tác
+ Lưu  chi  tiết
+ dùng  libparted
+ Tạo
+ Lớn  hơn
+ Nhỏ  hơn
+ Chuyển
+ Chép
+ Kiểm  tra
+ Không  sẵn  sàng
+ Quản  lý  cờ  trên  % 1
+ giảm  hệ  thống  tập  tin
+ _ Xem
+ Hệ  thống  tập  tin  bị  hỏng
+ tạo  hệ  thống  tập  tin  % 1  mới
+ _ Lắp  vào
+ Tháo  lắ _ p
+ chưa  nhân  diện
+ Không  cho  phép  phân  vùng  có  độ  dài  % 1  rãnh  ghi
+ Không  hợp  lệ  khi  phân  vùng  có  số  rãnh  ghi  đã  dùng  ( % 1 )  hơn  độ  dài  ( % 2 )
+ thông  điệp  libparted
+ Không  thể  phát  hiện  hệ  thống  tập  tin .  Ly  do  có  thể :
+ GParted  không  biết  hệ  thống  tập  tin  này
+ Không  có  hệ  thống  tập  tin  nào  sẵn  sàng  ( chưa  định  dạng )
+ Không  tìm  thấy  điểm  lắp
+ Không  thể  đọc  nội  dung  của  hệ  thống  tập  tin  này .
+ Như  thế  thì  một  số  thao  tác  có  thể  là  không  sẵn  sàng .
+ tạo  phân  vùng  trống
+ đường  dẫn :  % 1
+ đầu  :  % 1
+ cuối :  % 1
+ cỡ :  % 1  ( % 2 )
+ đổi  cỡ / chuyển  phân  vùng
+ tăng  phân  vùng  từ  % 1  lên  % 2
+ khả  năng  di  chuyển  cần  thiết  cả  độ  dài  mới  lẫn  độ  dài  cũ  đều  là  trùng
+ tăng  kích  cỡ  của  hệ  thống  tập  tin  để  chiếm  toàn  bộ  phân  vùng
+ chuyển  hệ  thống  tập  tin  sang  trái
+ chuyển  hệ  thống  tập  tin  sang  phải
+ chuyển  hệ  thống  tập  tin
+ hệ  thống  tập  tin  cả  mới  lẫn  cũ  đều  có  cùng  một  vị  trí  nên  bỏ  qua  thao  tác  này
+ khả  năng  thay  đổi  kích  cỡ  cần  thiết  cả  đầu  cũ  lẫn  đầu  mới  đều  là  trùng
+ chuyển  phân  vùng  sang  phải
+ chuyển  phân  vùng  sang  trái
+ giảm  phân  vùng  từ  % 1  xuống  % 2
+ chuyển  phân  vùng  sang  phải  và  tăng  nó  từ  % 1  lên  % 2
+ chuyển  phân  vùng  sang  phải  và  giảm  nó  từ  % 1  xuống  % 2
+ chuyển  phân  vùng  sang  trái  và  tăng  nó  từ  % 1  lên  % 2
+ chuyển  phân  vùng  sang  trái  và  giảm  nó  từ  % 1  xuống  % 2
+ phân  vùng  cả  mới  lẫn  cũ  đều  có  cùng  một  kích  cỡ  và  vị  trí  :  vẫn  còn  tiếp  tục
+ đầu  cũ  :  % 1
+ cuối  cũ  :  % 1
+ cỡ  cũ  :  % 1  ( % 2 )
+ đầu  mới :  % 1
+ cuối  mới :  % 1
+ cỡ  mới :  % 1  ( % 2 )
+ yêu  cầu  đầu  :  % 1
+ yêu  cầu  cuối :  % 1
+ yêu  cầu  cỡ  :  % 1  ( % 2 )
+ tăng  hệ  thống  tập  tin
+ đổi  cỡ  hệ  thống  tập  tin
+ khả  năng  tăng  kích  cỡ  không  phải  sẵn  sàng  cho  hệ  thống  tập  tin  này
+ dùng  thuật  toán  nội  bộ
+ bản  sao  của  % 1
+ đang  tìm  kích  cỡ  khối  tối  ưu
+ % 1  giây
+ kích  cỡ  khối  tối  ưu  là  % 1  rãnh  ghi  ( % 2 )
+ kiểm  tra  xem  hệ  thống  tập  tin  trên  % 1  có  lỗi  và  ( nếu  có  thể )  sửa  hết
+ khả  năng  kiểm  tra  không  phải  sẵn  sàng  cho  hệ  thống  tập  tin  này
+ kiểu _ vùng  mới :  % 1
+ tính  kích  cỡ  và  vị  trí  mới  của  % 1
+ Thông  tin  thiết  bị
+ Hủy  bước  cuối  cùng
+ Xóa  danh  sách  thao  tác
+ Áp  dụng  mọi  thao  tác
+ Chép  % 1  vào  % 2  ( bắt  đầu  tại  % 3 )
+ Chép  % 1  vào  % 2
+ Tạo  % 1  # % 2  ( % 3 ,  % 4 )  trên  % 5
+ Xóa  bỏ  % 1  ( % 2 ,  % 3 )  ra  % 4
+ Định  dạng  % 1  dạng  % 2
+ đặt  kiểu _ vùng  trên  % 1My  Label
+ đổi  cỡ / chuyển  % 1
+ Chuyển  % 1  sang  phải
+ Chuyển  % 1  sang  trái
+ Tăng  % 1  từ  % 2  lên  % 3
+ Giảm  % 1  từ  % 2  xuống  % 3
+ Chuyển  % 1  sang  phải  và  tăng  nó  từ  % 2  lên  % 3
+ Chuyển  % 1  sang  phải  và  giảm  nó  từ  % 2  xuống  % 3
+ Chuyển  % 1  sang  trái  và  tăng  nó  từ  % 2  lên  % 3
+ Chuyển  % 1  sang  trái  và  giảm  nó  từ  % 2  xuống  % 3
+ Điểm  lắp
+ Cỡ
+ Dùng
+ Rảnh
+ Cờ
+ không  rõ
+ chưa  định  dạng
+ dùng
+ rảnh
+ % 1  B
+ % 1  KiB
+ % 1  MiB
+ % 1  GiB
+ % 1  TiB
+ _ Cập  nhật  các  thiết  bị
+ Thiết  _ bị
+ _ GParted
+ _ Sửa
+ Thông  t _ in  thiết  bị
+ Thao  tác  h _ oãn
+ _ Phân  vùng
+ Trợ  _ giúpNew
+ Thay  đổi  kích  cỡ  /  di  chuyển  phân  vùng  đã  chọn
+ Sao  chép  phân  vùng  đã  chọn  vào  bảng  tạm
+ Dán  phân  vùng  chọn  từ  bảng  tạm
+ Áp  dụng  mọi  thao  tác _ New
+ Đổi  cỡ / Chu _ yển
+ Định  _ dạng  sang
+ _ Quản  lý  cờ
+ Mô  hình :
+ Dầu  :
+ Rãnh  ghi / Rãnh :
+ Trụ  :
+ Không  thể  tham  thao  tác  này  vào  danh  sách .
+ Thoát  GParted  không ?
+ % 1  -  GParted
+ Đang  quét  mọi  thiết  bị ...
+ Chưa  phát  hiện  thiết  bị  nào
+ Nhóm  Việt  hóa  Gnome   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >

@@ -1,0 +1,10 @@
+ default : LTR
+ Hiển  thị  số  khung  hình / giây
+ Tần  số  khung  mặc  định
+ Xem  mọi  cảnh  báo  là  nghiêm  trọng
+ Hướng  hiển  thị  văn  bản
+ Tùy  chọn  cho  Clutter
+ Hiển  thị  bảng  tùy  chọn  cho  Clutter
+ % s  biên  dịch  không  thành  công :  % s
+ Đổ  bóng  đỉnh
+ Đổ  bóng  mảnh

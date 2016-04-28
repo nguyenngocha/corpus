@@ -1,0 +1,512 @@
+ Lỗi  phân  tích  cú  pháp  của  tuỳ  chọn  «  --gdk-debug  »
+ Lỗi  phân  tích  cú  pháp  của  tuỳ  chọn  «  --gdk-no-debug  »
+ Hạng  chương  trình  như  được  dùng  bởi  bộ  quản  lý  cửa  sổ
+ HẠNG
+ Tên  chương  trình  được  dùng  bởi  trình  quản  lý  cửa  sổ
+ TÊN
+ Trình  hiển  thị  X  cần  dùng
+ HIỂN  THỊ
+ Các  cờ  gỡ  lỗi  GDK  cần  đặt
+ CỜ
+ Các  cờ  gỡ  lỗi  GDK  cần  bỏ  đặtkeyboard  label
+ BackSpacekeyboard  label
+ Tabkeyboard  label
+ Enterkeyboard  label
+ Pausekeyboard  label
+ Scroll _ Lockkeyboard  label
+ SysRqkeyboard  label
+ Esckeyboard  label
+ Multikeyboard  label
+ Homekeyboard  label
+ Tráikeyboard  label
+ Lênkeyboard  label
+ Phảikeyboard  label
+ Xuốngkeyboard  label
+ PgUpkeyboard  label
+ PgDnkeyboard  label
+ Endkeyboard  label
+ Beginkeyboard  label
+ In
+ Inskeyboard  label
+ Num _ Lockkeyboard  label
+ KP _ Spacekeyboard  label
+ KP _ Tabkeyboard  label
+ KP _ Enterkeyboard  label
+ KP _ Homekeyboard  label
+ KP _ Leftkeyboard  label
+ KP _ Upkeyboard  label
+ KP _ Rightkeyboard  label
+ KP _ Downkeyboard  label
+ KP _ Page _ Upkeyboard  label
+ KP _ Priorkeyboard  label
+ KP _ Page _ Downkeyboard  label
+ KP _ Nextkeyboard  label
+ KP _ Endkeyboard  label
+ KP _ Beginkeyboard  label
+ KP _ Insertkeyboard  label
+ KP _ Deletekeyboard  label
+ Delkeyboard  label
+ MànHìnhTăngSángkeyboard  label
+ MànHìnhGiảmSángkeyboard  label
+ ÂmThanhTắtkeyboard  label
+ ÂmThanhVặnNhỏkeyboard  label
+ ÂmThanhVặnLớnkeyboard  label
+ ÂmThanhPhátkeyboard  label
+ ÂmThanhDừngkeyboard  label
+ ÂmThanhTiếpkeyboard  label
+ ÂmThanhLùikeyboard  label
+ ÂmThanhThukeyboard  label
+ ÂmThanhTạmDừngkeyboard  label
+ ÂmThanhVòngLạikeyboard  label
+ ÂmThanhPhươngTiệnkeyboard  label
+ BảoVệMànHìnhkeyboard  label
+ Pinkeyboard  label
+ Phóng1keyboard  label
+ Tớikeyboard  label
+ Lùikeyboard  label
+ Ngủkeyboard  label
+ Ngủ  đôngkeyboard  label
+ WLANkeyboard  label
+ WebCamkeyboard  label
+ HiểnThịkeyboard  label
+ TouchpadBậtTắtkeyboard  label
+ ThứcDậykeyboard  label
+ Đừng  gởi  bó  yêu  cầu  GDI
+ Đừng  dùng  API  Wintab  để  hỗ  trợ  phiến  đồ  họa
+ Bằng  «  --no-wintab  »
+ Dùng  API  WIntab  [ mặc  định ]
+ Kích  thước  của  bản  chọn  trong  chế  độ  8  bit
+ MÀU
+ Đang  khởi  chạy  % s
+ Đang  mở  % s
+ Giấy  phép
+ Giấy  phép  của  chương  trình
+ Công  t _ rạng
+ Giấy  _ phép
+ Không  thể  hiện  liên  kết
+ Trang  chủ
+ Giới  thiệu  % s
+ Tác  giả :
+ Tài  liệu :
+ Bản  dịch :
+ Đồ  họa : keyboard  label
+ Shiftkeyboard  label
+ Ctrlkeyboard  label
+ Altkeyboard  label
+ Superkeyboard  label
+ Hyperkeyboard  label
+ Metakeyboard  label
+ Phím  cáchkeyboard  label
+ Gạch  chéo  ngược
+ Ứng  dụng  khác ...
+ Không  thể  chạy  ứng  dụng
+ Không  thể  tìm  ' % s '
+ Không  thể  tìm  ứng  dụng
+ Quên  liên  kết
+ Hiện  ứng  dụng  khác
+ _ Chọn
+ Ứng  dụng  mặc  định
+ Ứng  dụng  khuyến  khích
+ Ứng  dụng  liên  quan
+ Ứng  dụng  khác
+ Hàm  kiểu  không  hợp  lệ  tại  dòng  % d :  ' % s '
+ Trùng  ID  đối  tượng  ' % s '  trên  dòng  % d  ( trùng  với  dòng  % d )
+ Yếu  tố  gốc  không  hợp  lệ :  «  % s  »
+ Thẻ  không  được  quản  lý :  «  % s  » calendar : YM
+ calendar : MY
+ calendar : week _ start : 12000year  measurement  template
+ 2000 % Id % dcalendar : day : digits
+ % d
+ % YAccelerator
+ Bị  tắt
+ Không  hợp  lệ
+ Phím  tắt  mới ... progress  bar  label
+ % d  % % paper  size
+ Chọn  màu
+ Mới  nhận  dữ  liệu  màu  không  hợp  lệ
+ Chọn  màu  bạn  muốn  từ  vòng  màu  bên  ngoài .  Chọn  độ  đậm  nhạt  của  màu  từ  tam  giác  màu  bên  trong .
+ Nhấn  vào  ống  nhỏ  giọt ,  sau  đó  nhấn  vào  một  màu  trên  khắp  màn  hình  bạn  để  chọn  màu  đó .
+ _ Sắc  độ :
+ Vị  trí  trên  vòng  màu .
+ Độ  _ bão  hòa :
+ Cường  độ  màu .
+ _ Giá  trị :
+ Độ  sáng  của  màu .
+ Đỏ :
+ Lượng  sắc  đỏ  trong  màu .
+ Xanh  _ lá :
+ Lượng  sắc  xanh  lá  cây  trong  màu .
+ Xanh  _ lục :
+ Lượng  sắc  xanh  nước  biển  trong  màu .
+ Độ  đụ _ c :
+ Độ  trong  suốt  của  màu .
+ Tê _ n  màu  :
+ Bạn  có  thể  nhập  một  giá  trị  thập  lục  phân  theo  kiểu  HTML ,  hoặc  đơn  giản  là  nhập  tên  màu  như  «  orange  »  ( cam )  vào  ô  này .
+ _ Bảng  chọn :
+ Vòng  màu
+ Màu  được  chọn  trước  đây  ( so  với  màu  đang  chọn ) .  Bạn  có  thể  kéo  màu  này  vào  trường  nhập  bảng  chọn ,  hoặc  chọn  màu  này  như  là  màu  hiện  thời  bằng  cách  kéo  nó  vào  dải  màu  bên  cạnh  khác .
+ Màu  bạn  chọn .  Bạn  có  thể  kéo  màu  này  vào  trường  nhập  bảng  chọn  để  lưu  nó  để  sử  dụng  sau  này .
+ Màu  chọn  lần  trước ,  để  so  sánh  với  màu  đang  chọn .
+ Màu  đã  chọn .
+ _ Lưu  màu  vào  đây
+ Nhấn  trường  nhập  bảng  chọn  này  để  chọn  nó  như  màu  hiện  thời .  Để  thay  đổi  mục  nhập  này ,  kéo  1  dải  màu  vào  đây  hoặc  nhấn-phải  vào  nó  rồi  chọn  «  Lưu  màu  vào  đây  » .
+ Chọn  màupredefinito : mm
+ default : mm
+ Quản  lý  kích  cỡ  riêng
+ inch
+ mm
+ Lề  từ  máy  in ...
+ Kích  cỡ  riêng  % d
+ _ Rộng :
+ _ Cao  :
+ Cỡ  giấy
+ _ Trên
+ _ Dưới :
+ T _ rái :
+ _ Phải :
+ Lề  giấy
+ Cách  _ gõ
+ _ Chèn  ký  tự  điều  khiển  Unicode
+ Num  Lock  đã  bật
+ Caps  Lock  đã  bật
+ Chọn  tập  tin
+ Màn  hình  nền
+ ( Không  có )
+ Khác ...
+ Hãy  gõ  tên  cho  thư  mục  mới
+ Không  thể  lấy  thông  tin  về  tập  tin  này
+ Không  thể  thêm  đánh  dấu
+ Không  thể  gỡ  bỏ  đánh  dấu
+ Không  thể  tạo  thư  mục  đó
+ Không  thể  tạo  thư  mục ,  vì  đã  có  tập  tin  tên  đó .  Bạn  hãy  thử  chọn  tên  khác  cho  thư  mục ,  hoặc  thay  đổi  tên  tập  tin  trước  tiên .
+ Không  thể  tạo  tập  tin  trong  % s  vì  đó  không  phải  là  thư  mục
+ Tên  tập  tin  không  hợp  lệ
+ Không  thể  hiển  thị  nội  dung  của  thư  mục  đó
+ % 1 $ s  trên  % 2 $ s
+ Tìm  kiếm
+ Vừa  dùng
+ Chọn  hiển  thị  những  kiểu  tập  tin  nào
+ Thêm  thư  mục  «  % s  »  vào  Đánh  dấu
+ Thêm  thư  mục  hiện  thời  vào  Đánh  dấu
+ Thêm  các  thư  mục  được  chọn  vào  Đánh  dấu
+ Gỡ  bỏ  Đánh  dấu  «  % s  »
+ Không  thể  gỡ  bỏ  Đánh  dấu  ' % s ' .
+ Gỡ  bỏ  Đánh  dấu  được  chọn
+ Gỡ  bỏ
+ Đổi  tên ...
+ Mở  nhanh
+ _ Mở  nhanh
+ Thêm  thư  mục  được  chọn  vào  Đánh  dấu
+ Không  thể  chọn  tập  tin  đó
+ T _ hêm  Đánh  dấu
+ _ Hiện  tập  tin  ẩn
+ Hiện  cột  _ Kích  cỡ
+ Tập  tin
+ Tên
+ Kích  thước
+ Lúc  thay  đổi
+ Tê _ n :
+ Gõ  tên  tập  tin
+ Chọn  thư  mục
+ Tạo  thư  _ mục
+ Tìm  kiếm :
+ Đị _ a  chỉ :
+ Lưu  tr _ ong  thư  mục :
+ Tạo  tr _ ong  thư  mục :
+ Không  thể  đọc  nội  dung  của  % s
+ Không  thể  đọc  nội  dung  thư  mục
+ Không  rõ
+ % H : % M
+ Hôm  qua  vào  % H : % M
+ Không  thể  chuyển  đổi  sang  thư  mục  đó  vì  nó  không  phải  là  thư  mục  cục  bộ .
+ Phím  tắt  % s  đã  có
+ Không  có  phím  tắt  % s
+ Tập  tin  tên  «  % s  »  đã  có .  Bạn  có  muốn  thay  thế  nó  không ?
+ Tập  tin  đó  đã  có  trong  «  % s  » .  Việc  thay  thế  nó  sẽ  ghi  đè  lên  nội  dung  nó .
+ Tha _ y  thế
+ Không  thể  khởi  chạy  tiến  trình  tìm  kiếm
+ Chương  trình  không  thể  tạo  một  kết  nối  tới  trình  nền  chỉ  mục .  Hãy  kiểm  tra  xem  nó  đang  chạy .
+ Không  thể  gửi  yêu  cầu  tìm  kiếm
+ Không  thể  gắn  kết  % s
+ Đường  dẫn  không  hợp  lệ
+ Không  tìm  thấy
+ Hoàn  tất  duy  nhất
+ Hoàn  tất  mà  không  duy  nhất
+ Đang  hoàn  thành ... sftp : / / blahblah
+ Chỉ  có  thể  chọn  tập  tin  cục  bộsftp : / / blahblah [ Tab ]
+ Tên  máy  chưa  hoàn  tất ;  kết  thúc  bằng  «  /  »
+ Đường  dẫn  không  tồn  tạiFile  System
+ Hệ  tập  tin
+ Chọn  phông  chữ
+ Sans  12
+ Phông  chữ
+ aăâbcdđeêghikoôơuư  AĂÂBCDĐEÊGHIKOÔƠUƯ
+ _ Họ :
+ _ Kiểu :
+ _ Cỡ :
+ _ Xem  thử :
+ Chọn  phông
+ Gặp  lỗi  khi  tải  biểu  tượng :  % s
+ Không  thể  tìm  thấy  biểu  tượng  «  % s  » .  Cũng  không  tìm  thấy  sắc  thái  «  % s  » .  Có  lẽ  bạn  cần  cài  đặt  nó .  Bạn  có  thể  lấy  một  bản  sao  từ :  \ t % s
+ Biểu  tượng  «  % s  »  không  có  trong  sắc  thái
+ Lỗi  nạp  biểu  tượng
+ Đơn  giảninput  method  menu
+ Hệ  thốnginput  method  menu
+ Không  có
+ Hệ  thống  ( % s )
+ _ Mở  liên  kết
+ Chép  địa  chỉ  _ liên  kết
+ Chép  URL
+ URI  không  hợp  lệ
+ Tải  mô-đun  GTK +  thêm
+ MÔ-ĐUN
+ Đặt  mọi  cảnh  báo  là  nghiêm  trọng
+ Các  cờ  gỡ  lỗi  GTK +  cần  đặt
+ Các  cờ  gỡ  lỗi  GTK +  cần  bỏ  đặtpredefinito : LTR
+ default : LTR
+ Không  thể  mở  display :  % s
+ Tùy  chọn  GTK +
+ Hiện  tùy  chọn  GTK +
+ Kết  _ nối
+ Kết  nối  nặc  d _ anh
+ Kết  nố _ i  dưới  người  dùng :
+ Tên  người  _ dùng :
+ _ Miền :
+ Mật  _ khẩu  :
+ _ Quên  mật  khẩu  ngay
+ _ Nhớ  mật  khẩu  đến  khi  bạn  đăng  xuất
+ _ Nhớ  mãi  mãi
+ Ứng  dụng  lạ  ( PID  % d )
+ Không  thế  chấm  dứt  tiến  trình
+ _ Chấm  dứt  tiến  trình
+ Không  thể  buộc  chấm  dứt  tiến  trình  có  PID  % d .  Thao  tác  chưa  được  cài  đặt .
+ Trình  phân  trang  thiết  bị  đầu  cuối
+ Lệnh  " top "
+ Bourne  Again  Shell
+ Bourne  Shell
+ Z  Shell
+ Không  thể  chấm  dứt  tiến  trình  có  PID  % d :  % s
+ Trang  % uNumber  format
+ Không  phải  một  tập  tin  thiết  lập  trang  hợp  lệ
+ Bất  kỳ  máy  in  nào
+ Cho  tài  liệu  chuyển  đổi  tốt
+ Lề :   Trái :  % s  % s   Phải :  % s  % s   Trên :  % s  % s   Dưới :  % s  % s
+ Quản  lý  kích  cỡ  riêng ...
+ Định  dạng  ch _ o  :
+ Cỡ  _ giấy :
+ _ Hướng :
+ Thiết  lập  trang
+ Lên  đường  dẫn
+ Xuống  đường  dẫn
+ Gốc  hệ  tập  tin
+ Xác  thực
+ Không  sẵn  sàng
+ Lưu  trong  thư  _ mục :
+ % s  yêu  cầu  # % dprint  operation  status
+ Tình  trạng  đầu  tiênprint  operation  status
+ Đang  chuẩn  bị  inprint  operation  status
+ Đang  tạo  ra  dữ  liệuprint  operation  status
+ Đang  gửi  dữ  liệuprint  operation  status
+ Đang  đợiprint  operation  status
+ Đầu  ra  bị  chặnprint  operation  status
+ Đang  inprint  operation  status
+ Hoàn  tấtprint  operation  status
+ Kết  thúc  với  lỗi
+ Đang  chuẩn  bị  % d ...
+ Đang  chuẩn  bị ...
+ Đang  in  % d ...
+ Lỗi  tạo  xem  thử  bản  in
+ Lý  do  thường  là  không  thể  tạo  tập  tin  tạm .
+ Gặp  lỗi  khi  khởi  chạy  ô  xem  thử
+ Ứng  dụng
+ Máy  in  ngoại  tuyến
+ Hết  giấy
+ Bị  tạm  ngừng
+ Cần  thiết  người  dùng  sửa
+ Cỡ  riêng
+ Không  tìm  thấy  máy  in
+ Đối  số  cho  CreateDC  không  hợp  lệ
+ Lỗi  từ  StartDoc  ( đầu  tài  liệu )
+ Không  có  đủ  bộ  nhớ  còn  rảnh
+ Đối  số  không  hợp  lệ  tới  PrintDlgEx
+ Con  trỏ  không  hợp  lệ  tới  PrintDlgEx
+ Bộ  thao  tác  không  hợp  lệ  tới  PrintDlgEx
+ Lỗi  chưa  xác  định
+ Lỗi  lấy  thông  tin  máy  in
+ Đang  lấy  thông  tin  máy  in ...
+ Máy  in
+ Địa  điểm
+ Trạng  thái
+ Phạm  vi
+ _ Mọi  trang
+ Trang  _ hiện  thời
+ _ Vùng  chọn
+ T _ rang :
+ Hãy  ghi  rõ  một  hay  nhiều  phạm  vi  trang ,   v.d.  1-3,7,11
+ Trang
+ Bản  sao
+ Bản  _ sao  :
+ Đố _ i  chiếu
+ Đả _ o
+ Chung
+ Trái  sang  phải ,  trên  xuống  dưới
+ Trái  sang  phải ,  dưới  lên  trên
+ Phải  sang  trái ,  trên  xuống  dưới
+ Phải  sang  trái ,  dưới  lên  trên
+ Trên  xuống  dưới ,  trái  sang  phải
+ Trên  xuống  dưới ,  phải  sang  trái
+ Dưới  lên  trên ,  trái  sang  phải
+ Dưới  lên  trên ,  phải  sang  trái
+ Thứ  tự  trang
+ Trái  sang  phải
+ Phải  sang  trái
+ Trên  xuống  dưới
+ Dưới  lên  trên
+ Bố  trí
+ H _ ai  mặt :
+ Trang  trên  mỗi  _ mặt :
+ _ Thứ  tự  trang :
+ In  _ chỉ :
+ Mọi  tờ
+ Tờ  chẵn
+ Tờ  lẻ
+ Tỷ  _ lệ :
+ Giấy
+ _ Kiểu  giấy :
+ _ Nguồn  giấy :
+ Khay  _ xuất :
+ Thẳng  đứngStock  label
+ Nằm  ngangStock  label
+ Đảo  thẳng  đứngStock  label
+ Đảo  nằm  ngangStock  label
+ Chi  tiết  yêu  cầu
+ Ư _ u  tiên :
+ Thông  tin  lập  _ hóa  đơn :
+ In  tài  liệu
+ _ Bây  giờ
+ _ Tại :
+ Xác  định  giờ  in ,  v.d.   15 : 30 ,  2 : 35  pm ,  14 : 15 : 20 ,  11 : 46 : 30  sáng ,  4  giờ  chiều
+ Thời  điểm  in
+ Tạ _ m  ngừng
+ Giữ  lại  yêu  cầu  đến  khi  nó  được  nhả  dứt  khoát
+ Thêm  trang  bìa
+ T _ rước :
+ S _ au :
+ Yêu  cầu  in
+ Cấp  cao
+ Chất  lượng  ảnh
+ MàuBinding  and  finishing
+ Đang  kết  thúc
+ Một  số  thiết  lập  trong  trường  hợp  xung  đột  hộp  thoại
+ Không  thể  định  vị  tập  tin  ảnh  trong  «  pixmap _ path :  «  % s  »
+ Chức  năng  này  không  được  thực  hiện  cho  ô  điều  khiển  hạng  «  % s  »
+ Không  tìm  thấy  mục  cho  URI  «  % s  »
+ Bộ  lọc  không  có  tên
+ Không  thể  gỡ  bỏ  mục
+ Không  thể  xoá  danh  sách
+ Chép  Đị _ a  chỉ
+ Gỡ  bỏ  _ ra  danh  sách
+ _ Xóa  danh  sách
+ Hiện  tài  nguyên  _ riêng
+ Không  tìm  thấy  tài  nguyên  vừa  dùng  có  URI  «  % s  »
+ Mở  «  % s  »
+ Không  biết  mụcrecent  menu  label
+ _ % d .  % srecent  menu  label
+ % d .  % s
+ Không  thể  tìm  thấy  mục  có  URI  «  % s  »
+ Không  tìm  thấy  ứng  dụng  nào  đăng  ký  tên  ' % s '  cho  mục  có  URI  ' % s 'throbbing  progress  animation  widget
+ Con  quay
+ Cung  cấp  biểu  thị  tiến  độ  trực  quanStock  label
+ Thông  tinStock  label
+ Cảnh  báoStock  label
+ LỗiStock  label
+ Câu  hỏiStock  label
+ G _ iới  thiệuStock  label
+ Thê _ m
+ Á _ p  dụngStock  label
+ Đậ _ mStock  label
+ _ ThôiStock  label
+ _ CD-ROMStock  label
+ _ XoáStock  label
+ Đón _ gStock  label
+ _ Kết  nốiStock  label
+ _ Chuyển  đổiStock  label
+ _ ChépStock  label
+ Cắ _ tStock  label
+ _ HủyStock  label
+ _ Ngắt  kết  nốiStock  label
+ Chạ _ yStock  label
+ _ SửaStock  label
+ _ Tập  tinStock  label
+ _ TìmStock  label
+ Tìm  và  tha _ y  thếStock  label
+ Đĩa  _ mềmStock  label
+ T _ oàn  màn  hìnhStock  label
+ _ Rời  toàn  màn  hìnhgo  to  the  bottom  of  the  pageStock  label ,  navigation
+ _ Dướigo  to  the  first  pageStock  label ,  navigation
+ Đầ _ ugo  to  the  last  pageStock  label ,  navigation
+ Cuố _ igo  to  the  top  of  the  pageStock  label ,  navigation
+ _ Trêngo  backStock  label ,  navigation
+ Lù _ igo  downStock  label ,  navigation
+ _ Xuốnggo  forwardStock  label ,  navigation
+ _ Tớinext  songStock  label ,  media
+ _ LênStock  label
+ Đĩa  _ cứngStock  label
+ Trợ  _ giúpStock  label
+ N _ hàStock  label
+ Tăng  thụt  lềStock  label
+ Giảm  thụt  lềStock  label
+ Chỉ  _ mụcStock  label
+ Thông  t _ inStock  label
+ Ngh _ iêngStock  label
+ _ Nhảy  tớicentered  textStock  label
+ _ GiữaStock  label
+ Tô  đầ _ yleft-justified  textStock  label
+ T _ ráiright-justified  textStock  label
+ _ Phảifast  forwardStock  label ,  media
+ Tiếppause  musicStock  label ,  media
+ Tạ _ m  ngừngplay  musicStock  label ,  media
+ _ Phátprevious  songStock  label ,  media
+ T _ rướcStock  label ,  media
+ Th _ uStock  label ,  media
+ Quay  _ lạiStock  label ,  media
+ _ DừngStock  label
+ Mạ _ ngStock  label
+ Mớ _ iStock  label
+ Khô _ ngStock  label
+ _ OKStock  label
+ _ MởStock  label
+ T _ hiết  lập  trangStock  label
+ _ DánStock  label
+ Tù _ y  thíchStock  label
+ _ InStock  label
+ _ Xem  thử  bản  inStock  label
+ Th _ uộc  tínhStock  label
+ T _ hoátStock  label
+ _ Làm  lạiStock  label
+ Cậ _ p  nhậtStock  label
+ _ Bỏ
+ _ Hoàn  nguyênStock  label
+ _ LưuStock  label
+ Lư _ u  dạngStock  label
+ Chọn  Tất  _ cảStock  label
+ _ MàuStock  label
+ _ PhôngStock  label
+ _ Tăng  dầnStock  label
+ _ Giảm  dầnStock  label
+ _ Kiểm  tra  chính  tảStock  label
+ _ Gạch  đèStock  label
+ _ Phục  hồiStock  label
+ Gạch  _ dươiStock  label
+ _ Hủy  bướcStock  label
+ _ CóStock  label
+ Cỡ  chuẩ _ nStock  label
+ _ Vừa  khít  nhấtStock  label
+ Phóng  _ toStock  label
+ Thu  _ nhỏonswitch
+ BẬToffswitch
+ TẮTlight  switch  widget
+ Công  tắc
+ Gặp  lỗi  không  rõ  khi  cố  gắng  bỏ  thứ  tự  % s
+ Không  tìm  thấy  chức  năng  bỏ  thứ  tự  cho  dạng  thức  % s
+ Tìm  cả  «  id  »  ( mã  nhận  diện )  lẫn  «  name  »  ( tên )  trên  yếu  tố 

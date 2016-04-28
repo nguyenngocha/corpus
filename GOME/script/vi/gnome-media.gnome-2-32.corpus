@@ -1,0 +1,115 @@
+ Điều  khiển  Âm  lượng
+ Hiện  điều  khiển  âm  lượng  trên  màn  hình  nền
+ Âm  thanh
+ Điều  chỉnh  âm  lượng  và  kết  hợp  âm  thanh  riêng  với  sự  kiện
+ Bật  mã  gỡ  lỗi
+ Phiên  bản  của  ứng  dụng  này
+ —  Tiểu  dụng  Điều  khiển  Âm  lượng  GNOME
+ Đang  đợi  hệ  thống  âm  thanh  đáp  ứng
+ Trang  đầu  tiên
+ —  Điều  khiển  Âm  lượng  GNOME
+ Kết  xuất
+ Âm  lượng  ra :
+ Vào
+ balance
+ Tráibalance
+ Phảibalance
+ Cân  _ bằng :
+ volume
+ Câm
+ _ Hồ  sơ  :
+ Bị  tắt
+ Âm  thanh  Hệ  thống
+ Phát  hiện  đỉnh
+ Tên
+ Thiết  bị
+ Hiệu  ứng  Âm  thanh
+ Âm  lượng  Báo  động : 
+ Lõi  cứng
+ Chọn  một  thiết  bị  để  nhập  âm  thành  vào
+ Thiết  lập  cho  thiết  bị  đã  chọn :
+ Âm  lượng  vào  :
+ Cấp  nhập :
+ Chọn  một  thiết  bị  để  xuất  âm  thành  ra
+ Ứng  dụng
+ Không  có  ứng  dụng  đang  phát  hay  thu  âm  thanh .
+ Tuỳ  thích  Âm  thanh
+ Dừng
+ _ Kiểm  tra
+ Lỗi  khởi  chạy  Tuỳ  thích  Âm  lượng :  % s
+ Câ _ m
+ Tuỳ  thích  Â _ m  thanh
+ Bị  câm
+ Bộ  thu  âm
+ Thu  đoạn  âm  thanh
+ Không  tên- % d
+ Không  thể  tạo  yếu  tố  % s  kiểu  GStreamer .  Hãy  cài  đặt  Phần  bổ  sung  «  % s  »  từ  mô-đun  «  % s  » .  Thẩm  tra  đã  cài  đặt  cho  đúng ,  bằng  cách  chạy :      gst-inspect-0.10  % s  rồi  khởi  chạy  lại  trình  gnome-sound-recorder .
+ Hãy  thẩm  tra  thiết  lập  nó .  Có  lẽ  còn  thiếu  những  Phần  bổ  sung  cần  thiết .
+ % s ,  % s  và  % sX  hours  and  X  minutesX  minutes  and  X  seconds
+ % s  và  % s
+ Mở  tập  tin
+ Không  nạp  được  tập  tin :  % s
+ Sẵn  sàng
+ Tha _ y  thế
+ Tập  tin  «  % s  »  đã  có .  Bạn  có  muốn  thay  thế  nó  bằng  tập  tin  đang  lưu  không ?
+ Không  thể  lưu  tập  tin  «  % s  »
+ Lưu  tập  tin  là
+ % s  không  được  cài  đặt  trong  đường  dẫn .
+ Gặp  lỗi  khi  khởi  động  % s :  % s
+ Lưu  các  thay  đổi  vào  tập  tin  « % s »  trước  khi  đóng  không ?
+ Đang  thu
+ Đóng  mà  _ không  lưu
+ Câu  hỏi
+ % s  ( Chưa  được  lưu )
+ Không  rõ  kích  cỡ
+ Không  biết
+ % .1f  kHz
+ % .0f  kb / g
+ % .0f  kb / g  ( Xấp  xỉ )
+ 1  ( mono )
+ 2  ( lập  thể )
+ Thông  tin  % s
+ Thông  tin  tập  tin
+ Thư  mục :
+ Tên  tập  tin :
+ Cỡ  tập  tin :
+ Thông  tin  âm  thanh
+ Thời  gian  tập  tin
+ Số  kênh :
+ Tần  số  lấy  mẫu :
+ Tần  số  bit :
+ Bộ  thu  âm  cho  GNOME  gnome-multimedia @ gnome.org
+ Đang  phát ...
+ Kết  xuất  âm  thanh  GConf
+ Phát  lại
+ Thu  âm  thanh  GConf
+ Thiết  lập  bắt  âm  thanh  của  bạn  là  không  hợp  lệ .  Hãy  sửa  chữa  trong  thiết  lập  «  Tùy  thích  Âm  thanh  »  dưới  trình  đơn  Tùy  thích  Hệ  thống .
+ kết  xuất  tập  tin
+ cấp
+ Không  thể  phân  tích  hồ  sơ  âm  thanh  «  % s  » . 
+ Không  thể  bắt  bằng  hồ  sơ  âm  thanh  «  % s  » . 
+ Không  thể  ghi  vào  tập  tin  bằng  hồ  sơ  âm  thanh  «  % s  » . 
+ _ Tập  tin
+ Tạo  mẫu  mới
+ Lưu  tập  tin  hiện  thời
+ Lưu  tập  tin  hiện  thời  với  tên  khác
+ Mở  Điều  khiển  Â _ m  lượng
+ Mở  bộ  hoà  tiếng
+ Hiển  thị  thông  tin  về  tập  tin  hiện  thời
+ Đóng  tập  tin  hiện  thời
+ Thoát  khỏi  chương  trình
+ Điều  _ khiển
+ Thu  âm
+ Phát  âm
+ Dừng  âm
+ Trợ  g _ iúp
+ Mục  lục
+ Mở  sổ  tay
+ Giới  thiệu  ứng  dụng  này
+ Không  tải  được  « ui.xml » .  Có  lẽ  chương  trình  không  được  cài  đặt  cho  đúng .
+ Mở
+ Lưu
+ Lưu  dạng :
+ Thu  từ  nhập  _ vào :
+ Thu  _ dạng :
+Do ÄÃ³ Bá» chÆ¡i CD khÃ´ng thá» cháº¡y.

@@ -1,0 +1,52 @@
+ % B :  Không  rõ  kiểu  phần  trong  tập  tin  a.out.adobe :  % x
+ % s :  Đã  xuất  kiểu  định  vị  lại  không  hợp  lệ :  % d
+ % B :  Đã  nhập  kiểu  định  vị  lại  không  hợp  lệ :  % d
+ % B :  Đã  nhập  mục  ghi  định  vị  lại  sai :  % d
+ % s :  không  thể  đại  diện  phân  " % s "  trong  định  dạng  tập  tin  đối  tượng  a.out
+ % s :  không  thể  đại  diện  phân  cho  ký  hiệu  " % s "  trong  định  dạng  tập  tin  đối  tượng  a.ou
+ không  rõ
+ % P :  % B :  kiểu  định  vị  lại  bất  thường
+ % s :  không  hỗ  trợ  liên  kết  có  khả  năng  định  vị  lại  từ  % s  sang  % s
+ Cảnh  báo :  ghi  kho  quá  chậm  nên  đang  ghi  lại  nhãn  thời  gian
+ Đang  đọc  nhãn  thời  gian  sửa  đổi  tập  tin  kho
+ Đang  ghi  nhãn  thời  gian  armap  đã  cập  nhật
+ Không  có  lỗi
+ Lỗi  gọi  hệ  thống
+ Đích  bfd  không  hợp  lệ
+ Tập  tin  có  định  dạng  không  đúng
+ Tập  tin  đối  tượng  kho  có  định  dạng  không  đúng
+ Thao  tác  không  hợp  lệ
+ Cạn  bộ  nhớ
+ Không  có  ký  hiệu
+ Kho  không  có  chỉ  mục :  hãy  chạy  ranlib  để  thêm
+ Không  còn  có  tập  tin  đã  lưu  trữ  nào  nữa
+ Kho  dạng  sai
+ Không  nhận  ra  định  dạng  tập  tin
+ Định  dạng  tập  tin  mơ  hồ
+ Phần  không  có  nội  dung
+ Kết  xuất  có  phần  không  thể  đại  diện  được
+ Ký  hiệu  cần  phần  gỡ  lỗi  mà  không  tồn  tại
+ Giá  trị  sai
+ Tập  tin  bị  cắt  ngắn
+ Tập  tin  quá  lớn
+ Gặp  lỗi  khi  đọc  % s :  % s
+ #
+      Ký hiệu End+1: %ld
+            KÃ½ hiá»u Äáº§u tiÃªn: %ld
+      Ký hiệu End+1: %-7ld   Kiểu:  %s
+            KÃ½ hiá»u cá»¥c bá»: %ld
+      cấu trúc; ký hiệu End+1: %ld
+            káº¿t há»£p; kÃ½ hiá»u End+1: %ld
+      đếm; ký hiệu End+1: %ld
+            Kiá»u: %s
+Phần động:
+Tham chiếu phiên bản:
+Bảng Hàm (phiên dịch nội dung phần .pdata)
+Phân vùng[%d] đầu  = { 0x%.2x, 0x%.2x, 0x%.2x, 0x%.2x }
+Phần đầu phụ thực hiện
+Có một bảng nhập trong %s tại 0x%lx
+Các Bảng Nhập (phiên dịch %s nội dung phần)
+\tTên DLL: %s
+Có một bảng xuất trong %s, nhưng nó không vừa trong phần đó
+Các Bảng Xuất (phiên dịch %s nội dung phần)
+Bảng [Cái chỉ Thứ tự/Tên]

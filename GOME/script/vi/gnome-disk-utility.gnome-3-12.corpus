@@ -1,0 +1,256 @@
+ Gắn  ảnh  đĩa
+ Đĩa
+ Quản  lý  đĩa  và  các  loại  vật  chứa
+ Vị  trí  mặc  định  cho  hộp  thoại  Tạo / Phục  hồi  ảnh  đĩa
+ Xảy  ra  lỗimilli-secondbenchmark-access-time
+ Cho  phép  ghi  ra  ảnh
+ Chọn  ảnh  đĩa  cần  gắn
+ Đang  huỷ ...
+ _ Gắn  kết
+ Thiết  lập  gắn  kết  _ chỉ  đọc
+ Lỗi  kết  nối  daemon  udisks :  % s  ( % s ,  % d )
+ Gắn  và  kết  nốt  một  hoặc  nhiều  tập  tin  ảnh  đĩa .
+ Lỗi  gắn  ảnh  đĩa :  % s  ( % s ,  % d )
+ Lỗi  xoá  thiết  bị  lặp
+ 3.62.0.90
+ Tỉ  lệ  lỗi  đọc
+ Tần  số  lỗi  khi  đọc  dữ  liệu  thô  từ  đĩa .  Giá  trị  khác  không  nghĩa  là  có  lỗi  trên  bề  mặt  đĩa ,  hoặc  với  đầu  đọc / ghi
+ Hiệu  năng  truyền
+ Hiệu  quả  trung  bình  của  đĩa
+ Thời  gian  khởi  động
+ Thời  gian  cần  thiết  để  khởi  động  đầu  đọc  của  đĩa
+ Đếm  Chạy / Dừng
+ Số  chu  kỳ  chạy / dừng  của  đầu  đọc
+ Số  sector  được  tái  cấp  phát
+ Số  lượng  remapped  sector .  Khi  ổ  cứng  tìm  ra  lỗi  đọc / ghi / kiểm  tra ,  sector  sẽ  được  đánh  dấu  " reallocated "  và  được  chuyển  dữ  liệu  sang  vùng  dành  riêng  đặc  biệt  ( vùng  trống )
+ Lề  kênh  đọc
+ Lề  kênh  khi  đọc  dữ  liệu .
+ Tỉ  lệ  lỗi  dịch  chuyển
+ Tần  số  lỗi  do  dịch  chuyển  đầu  đọc
+ Hiệu  suất  Seek  Timer
+ Hiệu  quả  trung  bình  của  thao  tác  khi  di  chuyển
+ Số  giờ  chạy
+ Số  giờ  trôi  qua  trong  trạng  thái  có  nguồn
+ Số  lần  tái  khởi  động
+ Số  lần  thử  lại  để  khởi  động
+ Số  lần  tái  tinh  chỉnh
+ Số  lần  tinh  chỉnh  thiết  bị
+ Số  lần  mở  điện
+ Số  sự  kiện  mở  điện  ( power-on )
+ Tỉ  lệ  lỗi  đọc  mềm
+ Tần  số  lỗi  khi  đọc  từ  đĩa
+ Lỗi  không  thể  sửa  được  báo  cáo
+ Số  lỗi  không  thể  phục  hồi  dùng  ECC  phần  cứng
+ Ghi  vượt  ngoài
+ Số  lần  đầu  ghi  vượt  ra  ngoài  tầm  hoạt  động  bình  thường
+ Nhiệt  độ  dòng  khí
+ Nhiệt  độ  dòng  khí  trong  ổ  đĩa
+ Tỉ  lệ  lỗi  G-sense
+ Tần  số  lỗi  là  kết  quả  của  tải
+ Số  chu  kỳ  nạp / hủy  nạp
+ Nhiệt  độ
+ Số  lần  tái  định  vị
+ Số  thao  tác  tái  định  vị .  Giá  trị  thô  của  thuộc  tính  này  cho  biết  tổng  số  lần  chuyển  dữ  liệu  ( cả  thành  công  và  không )  từ  sector  tái  định  vị  sang  vùng  trống
+ Số  sector  không  thể  sửa
+ Tổng  số  lỗi  không  thể  sửa  chữa  khi  đọc / ghi  một  sector .  Một  lần  tăng  giá  trị  thuộc  tính  này  chỉ  ra  rằng  có  lỗi  trên  bề  mặt  đĩa  và / hoặc  lỗi  trong  bộ  phận  khí
+ Tỉ  lệ  lỗi  CRC  UDMA
+ Số  lỗi  CRC  trong  chế  độ  UDMA
+ Tỉ  lệ  lỗi  ghi
+ Số  lỗi  trong  khi  ghi  đĩa  ( hoặc )  tỉ  lệ  lỗi  đa  vùng  ( multi-zone )  ( hoặc )  flying-height
+ Số  lần  đọc  ngoài  track
+ Lỗi  đánh  dấu  địa  chỉ  dữ  liệu
+ Số  lỗi  Đánh  dấu  Địa  chỉ  Dữ  liệu  ( Data  Address  Mark  -  DAM )  hoặc  lỗi  riêng  của  nhà  sản  xuất
+ Huỷ  ghi  ra  ngoài
+ Số  lỗi  ECC
+ Sửa  ECC  mềm
+ Chiều  cao  đầu  đọc  trên  mặt  đĩa
+ Độ  cao  hiện  thời  dùng  để  nâng  đĩa
+ Dịch  đĩa
+ Dịch  đĩa  có  thể  là  kết  quả  của  chấn  động  mạnh  trong  kho ,  do  bị  rơi ,  hoặc  do  nhiệt  độ
+ Số  giờ  tải
+ Số  giờ  trong  trạng  thái  hoạt  động  bình  thường
+ Tỉ  lệ  khối  tốt
+ Số  lỗi  khi  đọc  từ  đĩa
+ Không  có  mô  tả  cho  thuộc  tính  % d
+ LỖI
+ Lỗi  trong  quá  khứ
+ OK
+ % .0f °  C  /  % .0f °  F
+ Không  biếtsmart-self-test-result
+ Lần  tự  thử  cuối  cùng  hoàn  tất  thành  côngsmart-self-test-result
+ Lần  tự  thử  cuối  cùng  bị  huỷsmart-self-test-result
+ Lần  tự  thử  cuối  cùng  bị  ngắtsmart-self-test-result
+ Lần  tự  thử  cuối  cùng  không  hoàn  tấtsmart-self-test-result
+ Lần  tự  thử  cuối  cùng  thất  bạismart-self-test-result
+ Lần  tự  thử  cuối  cùng  thất  bại  ( điện ) smart-self-test-result
+ Lần  tự  thử  cuối  cùng  thất  bại  ( servo ) smart-self-test-result
+ Lần  tự  thử  cuối  cùng  thất  bại  ( đọc ) smart-self-test-result
+ Lần  tự  thử  cuối  cùng  thất  bại  ( xử  lý ) smart-self-test-result
+ Tự  thử  đang  chạy  -  còn  lại  % d % % smart-self-test-result
+ Không  rõ  ( % s ) Location
+ % s  trước
+ Không  hỗ  trợ  SMART
+ Chưa  bật  SMART
+ Tự  thử  đang  chạy
+ ĐĨA  NHIỀU  KHẢ  NĂNG  SẼ  HƯ  SỚM
+ TỰ  KIỂM  THỬ  THẤT  BẠI
+ Đĩa  tốt
+ % s  ( % s ) benchmarking
+ Quá  ngưỡng
+ Chưa  quá  ngưỡng
+ Lỗi  nạp  lại  dữ  liệu  SMART
+ ID
+ Thuộc  tính
+ Giá  trị
+ Chuẩn :
+ Tệ  nhất :
+ Loại
+ Đánh  giábenchmark-graph
+ % d  MB / giâybenchmark-graph
+ % 3g  miligiây42  MB "  and  the  trailing  " / sbenchmark-transfer-rate
+ % s / giây
+ % s  ( % s  trước ) benchmark-updated
+ Không  có  dữ  liệu  đo  đạcbenchmark-updated
+ Đang  mở  thiết  bị ... benchmark-updated
+ Đo  tốc  độ  truyền  ( hoàn  tất  % 2.1f % % ) ... benchmark-updated
+ Đo  thời  gian  truy  cập  ( hoàn  tất  % 2.1f % % ) ... benchmarking
+ % .2f  miligiâybenchmarking
+ Lỗi  lấy  kích  thước  thiết  bị :  % mbenchmarking
+ Lỗi  lấy  kích  thước  trang :  % m  benchmarking
+ Lỗi  dịch  chuyển  đến  vị  trí  % lld
+ Lỗi  đọc  từ  vị  trí  % benchmarking
+ Lỗi  đọc  trước  % lld  byte  tại  vị  trí  % lldbenchmarking
+ Lỗi  ghi  % lld  byte  tại  vị  trí  % lld :  % mbenchmarking
+ Cần  ghi  % lld  byte ,  chỉ  ghi  được  % lld :  % mbenchmarking
+ Lỗi  đồng  bộ  ( tại  vị  trí  % lld ) :  % mbenchmarking
+ Lỗi  di  chuyển  đến  vị  trí  % lld :  % mbenchmarking
+ Lỗi  đọc  % lld  byte  tại  vị  trí  % lld
+ Lỗi  cập  nhật  / etc / crypttab
+ Lỗi  thay  đổi  mật  mã
+ Lỗi  lấy  tập  tin  cấu  hình
+ dữ  liệu  cấu  hình  / etc / crypttab  bị  hư
+ March  2 ,  1976  6 : 25AM
+ Ảnh  đĩa  của  % s  ( % s ) .img
+ 512  kB
+ Lỗi  gắn  ảnh  đĩa
+ Số  lỗi  khi  đọc  từ  đĩa4.2  MB / dev /
+ Tách  ảnh  đĩa
+ Lỗi  xác  định  kích  thước  thiết  bị
+ Đã  có  tập  tin  tên  " % s " .  Thay  thế  nhé ?
+ Đã  có  tập  tin  tên  " % s " .  Thay  thế  nghĩa  là  ghi  đè  nội  dung  của  nó .
+ _ Thay  thế
+ Lỗi  mở  tập  tin  để  ghi
+ Chép  dữ  liệu  vào  ảnh  đĩa ...
+ Tương  thích  với  mọi  hệ  thống  và  thiết  bị
+ FAT
+ Tương  thích  với  nhiều  hệ  thống
+ NTFS
+ Tương  thích  với  Linux
+ Ext4
+ Mã  hoá ,  tương  thích  với  Linux
+ LUKS  +  Ext4
+ Tự  chọn
+ Nhập  loại  hệ  tập  tin
+ Không  ghi  đè  dữ  liệu  đã  có
+ Nhanh
+ Ghi  đè  dữ  liệu  đã  có  với  số  không
+ Chậm
+ Lỗi  định  dạng  phân  vùng
+ Lỗi  tạo  phân  vùng
+ Phân  vùng  mở  rộng
+ Cho  phân  vùng  luận  lý
+ Không  thể  tạo  phân  vùng  mới .  Đã  có  bốn  phân  vùng  chính .
+ Đây  là  phân  vùng  chính  cuối  cùng  có  thể  tạo .
+ Sẽ  được  tạo
+ Sẽ  bị  xoá
+ Lỗi  xoá  mục  trong  / etc / crypttab
+ Lỗi  thêm  mục  trong  / etc / crypttab
+ Lỗi  cập  nhật  mục  trong  / etc / crypttab
+ Thiết  bị  khácstandby-value
+ Không  bao  giờ
+ Nhà  sản  xuất  định  nghĩastandby-value
+ Dành  riêngapm-level
+ 255  ( Tắt ) apm-level
+ % d  ( Cho  phép  giảm  tốc ) apm-level
+ % d  ( Không  cho  phép  giảm  tốc ) aam-level
+ 0  ( Tắt )
+ Lỗi  đặt  cấu  hình
+ 5  phút
+ 10  phút
+ 15  phút
+ 3  giờ
+ Tiết  kiệm  năng  lượng ← " )  is  to  signify  that  the  left  part  of  the  scale  offers  spindown .  In  RTL  locales ,  please  use  a  right  arrow  ( " →
+ ←  Giảm  tốc
+ Vận  hành  tốt  hơn
+ Ít  ồn  ( Chậm )
+ Ồn  ( Nhanh )
+ Xoá  an  toàn  cải  thiện  ATA
+ Lỗi  mở  thiết  bị
+ Bạn  có  muốn  định  dạng  đĩa  không ?
+ Mọi  dữ  liệu  trên  đĩa  sẽ  bị  mất  nhưng  có  thể  phục  hồi  bằng  dịch  vụ
+ Lỗi  đặt  nhãn8  hours  and  28  minutes
+ Ít  nhất  % s2  hours  and  2  minutes
+ Xấp  xỉ  % s
+ Xoá  an  toàn  ATA
+ MBR  /  DOS
+ Tương  thích  với  hệ  thống  mới  và  ổ  cứng   >   2TB
+ GPT
+ Lỗi  định  dạng  đĩa
+ Lỗi  định  dạng  khối  tin
+ Bạn  có  chắc  muốn  định  dạng  khối  tin ?
+ Lỗi  đặt  loại  phân  vùng
+ Lỗi  đặt  tên  phân  vùng
+ Lỗi  đặt  cờ  phân  vùngPassword  strength
+ YếuPassword  strength
+ ĐượcPassword  strength
+ TốtPassword  strength
+ Rất  tốc
+ Size4.2  MB  ( 4,300,123  bytes )
+ Lỗi  mở  tập  tin  để  đọc
+ Lỗi  xác  định  kích  thước  tập  tin
+ Chép  dữ  liệu  đến  thiết  bị ...
+ Bạn  có  chắc  muốn  ghi  ảnh  đĩa  vào  thiết  bị ?
+ Mọi  dữ  liệu  hiện  có  sẽ  bị  mất
+ _ Phục  hồi
+ Lỗi  bỏ  khoá  thiết  bị  mã  hoá
+ Không  vật  chứavolume-grid
+ Phân  vùng  % d :  % svolume-grid
+ Phân  vùng  % dvolume-grid
+ Vùng  trốngvolume-grid
+ Phân  vùng  mở  rộngmountedSwapspace "  or  " Ext4  ( version  1.0 ) Mounted  at  / path / to / fs " ,  " Not  Mounted ,  " Active " ,  " Not  Active " ,  " Unlocked "  or  " Lockedvolume-contents-combiner
+ Hệ  tập  tinvolume-grid
+ Hoán  đổi
+ _ Gắn
+ Thiết  lập  thiết  bị  lặp  _ chỉ  đọc
+ accelerator
+ Drive  Settingsaccelerator
+ _ Chỉ  đọc1  minute "  or  " 5  minutes8.9  MBjob-remaining
+ Còn  lại  % s1  minute "  or  " 5  minutesjob-remaining
+ Còn  lại  % s650  MB8.5  GB1  minute  remaining " ,  " 5  minutes  remaining  ( 42.3  MB / s ) " ,  " Less  than  a  minute  remainingduration-year-to-inf
+ % s ,  % s  và  % sErasing  Device
+ Thiết  bị  khối  % ssmart-self-test-result
+ Thiết  bị  đang  bận .
+ partition  type
+ Không  rõRAID  level
+ Hệ  tập  tin  gốc
+ Có ,  gắn  vào  % sIn  Use
+ Chưa  gắnvolume-content-swap
+ volume-content-swap
+ _ Bỏ  khoáLinux  MD  slave  state
+ Bị  phong  toả
+ Vùng  chưa  cấp  phát
+ Lỗi  ghi  vào  thiết  bị
+ Lỗi  gắn  kết  hệ  tập  tin
+ Lỗi  bỏ  gắn  kết  hệ  tập  tin
+ Mọi  dữ  liệu  trên  phân  vùng  sẽ  bị  mất
+ Lỗi  đẩy  vật  chứa  ra
+ Lỗi  khoá  thiết  bị  mã  hoá
+ Lỗi  bật  swap
+ Lỗi  dừng  hoán  đổi
+ Lỗi  huỷ  công  việc
+ Copyright  ©  2008-2012  Red  Hat ,  Inc .  Copyright  ©  2008-2012  David  Zeuthen
+ Xem ,  thay  đổi  và  cấu  hình  đĩa
+ Nguyễn  Thái  Ngọc  Duy   <  pclouds \ @ gmail \ .com  >
+   Tập   tin   thiết   bị   đặc   biệt   -  dùng  liên  kết  biểu  tượng  trong    /  dev  /  disk   để  điều  khiển  phạm  vi
+ Kho  chứa  trên  % s
+ Lỗi  mở  dịch  vụ  ở  địa  chỉ `localhost:%d ': %s: %s

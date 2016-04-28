@@ -1,0 +1,773 @@
+ Tự  động  hóa  Epiphany
+ Duyệt  và  tổ  chức  các  đánh  dấu
+ Đánh  dấu  Web  Epiphany
+ Đánh  dấu  Web
+ Danh  sách  giao  thức  để  xem  xét  là  an  toàn  thêm  vào  điều  mặc  định ,  khi  disable _ unsafe _ protocols  ( vô  hiệu  hóa  giao  thức  không  an  toàn )  có  hoạt  động .
+ Giao  thức  an  toàn  bổ  sung
+ Tắt  điều  khiển  chrome  JavaScript
+ Không  cho  phép  Javascript  điều  khiển  chrome  trong  cửa  sổ .
+ Vô  hiệu  hóa  tất  cả  thông  tin  lược  sử  bằng  cách  tắt  cách  di  chuyển  tiếp  và  trước ,  không  cho  phép  hiển  thị  hộp  thoại  lược  sử  và  ẩn  danh  sách  đánh  dấu  đã  sử  dụng  lần  nhiều  nhất .
+ Vô  hiệu  hoá  địa  chỉ  URL  tùy  ý
+ Tắt  hiệu  chỉnh  đánh  dấu
+ Vô  hiệu  hóa  lược  sử
+ Không  cho  phép  người  dùng  thêm  hoặc  hiệu  chỉnh  đánh  dấu .
+ Không  cho  phép  người  dùng  hiệu  chỉnh  thanh  công  cụ .
+ Không  cho  phép  người  dùng  gõ  địa  chỉ  URL  vào  trình  Epiphany .
+ Tắt  hiệu  chỉnh  thanh  công  cụ
+ Tắt  các  giao  thức  không  an  toàn
+ Không  cho  phép  tải  nội  dung  từ  giao  thức  không  an  toàn .  Giao  thức  an  toàn  là  http  và  https .
+ Mặc  định  ẩn  thanh  trình  đơn
+ Mặc  định  ẩn  thanh  trình  đơn .  Còn  có  thể  truy  cập  thanh  trình  đơn  bằng  cách  bấm  phím  F10 .
+ Khóa  chế  độ  là  toàn  màn  hình
+ Chạy  Epiphany  luôn  trong  chế  độ  toàn  màn  hình
+ Duyệt  Web
+ Bộ  Duyệt  Web  Epiphany
+ Bộ  duyệt  Web
+ Phần  mở  rộng  hoạt  động
+ Địa  chỉ  trang  chủ  của  người  dùng .
+ Cho  phép  cửa  sổ  bật  lên
+ Cho  phép  trang  Web  mở  cửa  sổ  mới  bằng  JavaScript  ( nếu  bật  chạy  JavaScript ) .
+ Luôn  hiển  thị  thanh  có  các  thanh  trang
+ Tải  về  tự  động
+ Tự  động  ngắt  dòng  để  tìm  trong  trang
+ Duyệt  với  con  nháy
+ Chấp  nhận  cookie
+ Mã  hóa  mặc  định
+ Mã  hóa  mặc  định .  Các  giá  trị  được  chấp  nhận  là :  " armscii-8 " ,  " Big5 " ,  " Big5-HKSCS " ,  " EUC-JP " ,  " EUC-KR " ,  " gb18030 " ,  " GB2312 " ,  " geostd8 " ,  " HZ-GB-2312 " ,  " IBM850 " ,  " IBM852 " ,  " IBM855 " ,  " IBM857 " ,  " IBM862 " ,  " IBM864 " ,  " IBM866 " ,  " ISO-2022-CN " ,  " ISO-2022-JP " ,  " ISO-2022-KR " ,  " ISO-8859-1 " ,  " ISO-8859-2 " ,  " ISO-8859-3 " ,  " ISO-8859-4 " ,  " ISO-8859-5 " ,  " ISO-8859-6 " ,  " ISO-8859-7 " ,  " ISO-8859-8 " ,  " ISO-8859-8-I " ,  " ISO-8859-9 " ,  " ISO-8859-10 " ,  " ISO-8859-11 " ,  " ISO-8859-13 " ,  " ISO-8859-14 " ,  " ISO-8859-15 " ,  " ISO-8859-16 " ,  " ISO-IR-111 " ,  " KOI8-R " ,  " KOI8-U " ,  " Shift _ JIS " ,  " TIS-620 " ,  " UTF-7 " ,  " UTF-8  ( tốt  nhất ) " ,  " VISCII " ,  " windows-874 " ,  " windows-1250 " ,  " windows-1251 " ,  " windows-1252 " ,  " windows-1253 " ,  " windows-1254 " ,  " windows-1255 " ,  " windows-1256 " ,  " windows-1257 " ,  " windows-1258 " ,  " x-euc-tw " ,  " x-gbk " ,  " x-johab " ,  " x-mac-arabic " ,  " x-mac-ce " ,  " x-mac-croatian " ,  " x-mac-cyrillic " ,  " x-mac-devanagari " ,  " x-mac-farsi " ,  " x-mac-greek " ,  " x-mac-gujarati " ,  " x-mac-gurmukhi " ,  " x-mac-hebrew " ,  " x-mac-icelandic " ,  " x-mac-roman " ,  " x-mac-romanian " ,  " x-mac-turkish " ,  " x-mac-ukrainian " ,  " x-user-defined " ,  " x-viet-tcvn5712 " ,  " x-viet-vps "  và  " x-windows-949 " .
+ Kiểu  phông  chữ  mặc  định
+ Kiểu  phông  chữ  mặc  định .  Giá  trị  có  thể  là  " serif "  và  " sans-serif "  ( tốt  hơn  cho  chữ  Việt  Nam ) .
+ Bật  chạy  Java
+ Bật  chạy  JavaScript
+ Để  tìm  trong  trang ,  có  bắt  đầu  lại  từ  đầu  sau  khi  tìm  đến  cuối  trang  hay  không .
+ Phạm  vị  thời  gian  trong  trang  lược  sử
+ Trang  chủ
+ ISO-8859-1
+ Ngôn  ngữ
+ Liệt  kê  các  phần  mở  rộng  còn  hoạt  đông .
+ Phân  biệt  chữ  hoa / thường  để  tìm  trong  trang
+ Nhấn  chuột  giữa  sẽ  mở  trang  Web  được  chỉ  ra  bằng  chữ  được  chọn  hiện  thời
+ Nhấn  chuột  giữa  lên  pane  khung  xem  chính  sẽ  mở  trang  Web  được  chỉ  ra  bằng  chữ  được  chọn  hiện  thời .
+ Những  ngôn  ngữ  ưa  thích ,  với  mã  hai  chữ  cái .
+ Hiển  thị  thanh  đánh  dấu  theo  mặc  định
+ Hiển  thị  thanh  trạng  thái  theo  mặc  định
+ Hiển  thị  mọi  trang  của  lược  sử  đa  thăm  " ever "  ( bất  cứ  lúc  nào ) ,  " last _ two _ days "  ( hai  ngày  qua ) ,  " last _ three _ days "  ( ba  ngày  qua ) ,  " today "  ( hôm  nay ) .
+ Hiển  thị  thanh  có  các  thanh  trang  ngay  cả  khi  chỉ  có  mở  một  thanh  trang  thôi .
+ Hiển  thị  thanh  công  cụ  theo  mặc  định
+ Cỡ  bộ  nhớ  tạm  đĩa
+ Cỡ  bộ  nhớ  tạm  đĩa ,  theo  MB .
+ Thông  tin  đánh  dấu  được  hiển  thị  trong  cửa  sổ  hiệu  chỉnh
+ Thông  tin  đánh  dấu  được  hiển  thị  trong  cửa  sổ  hiệu  chỉnh .  Giá  trị  hợp  lệ  trong  danh  sách  ấy  là  " address "  ( địa  chỉ )  và  " title "  ( tiêu  đề ) .
+ Ngôn  ngữ  các  phông  chữ  được  chọn  hiện  thời
+ Ngôn  ngữ  phông  chữ  đã  chọn  hiện  thời .  Giá  trị  hợp  lệ  là  " ar "  ( tiếng  A-rập ) ,  " x-baltic "  ( bộ  tiếng  thuộc  biển  Ban-tích ) ,  " x-central-euro "  ( bộ  tiếng  Âu  trung ) ,  " x-cyrillic "  ( ngôn  ngữ  được  viết  bằng  chữ  cái  kirin ) ,  " el "  ( tiếng  Hy-lạp ) ,  " he "  ( tiếng  Do  thái ) ,  " ja "  ( tiếng  Nhận  bản ) ,  " ko "  ( tiếng  Triều  tiên ) ,  " zh-CN "  ( tiếng  Trung  hoa  phổ  thông ) ,  " th "  ( tiếng  Thái ) ,  " zh-TW "  ( tiếng  Trung  hoa  truyền  thống ) ,  " tr "  ( tiếng  Thổ  nhĩ  kỳ ) ,  " x-unicode "  ( mã  Unicode ,  tốt  hơn  cho  chữ  Việt  Nam ) ,  " x-western "  ( được  viết  bằng  chữ  cái  Âu  tây ) ,  " x-tamil "  ( tiếng  Ta-min ,  một  ngôn  ngữ  Tích-lan )  và   " x-devanagari "  ( tiếng  Đe-va-na-ga-ri ,  một  ngôn  ngữ  Ấn-đô ) .
+ Thư  mục  tải  về
+ Trình  phát  hiện  mã  hóa  tự  động .  Chuỗi  trống  là  tắt  chức  năng  này
+ Trình  tự  động  phát  hiện  mã  hóa .  Mục  hợp  lệ  là  " "  ( tắt  tự  động  phát  hiện ) ,  " cjk _ parallel _ state _ machine "  ( tự  động  phát  hiện  mã  tiếng  Á  đông ) ,  " ja _ parallel _ state _ machine "  ( tự  động  phát  hiện  mã  tiếng  Nhật  bản ) ,  " ko _ parallel _ state _ machine "  ( tự  động  phát  hiện  mã  tiếng  Triều  tiên ) ,  " ruprob "  ( tự  động  phát  hiện  mã  tiếng  Nga ) ,  " ukprob "  ( tự  động  phát  hiện  mã  tiếng  Ukraina ) ,  " zh _ parallel _ state _ machine "  ( tự  động  phát  hiện  mã  tiếng  Trung  hoa ) ,  " zhcn _ parallel _ state _ machine "  ( tự  động  phát  hiện  mã  tiếng  Trung  hoa  phổ  thông ) ,  " zhtw _ parallel _ state _ machine "  ( tự  động  phát  hiện  mã  tiếng  Trung  hoa  truyền  thống )  and  " universal _ charset _ detector "  ( tự  động  phát  hiện  mọi  mã  hóa ) .
+ Thông  tin  trang  được  hiển  thị  trong  cửa  sổ  lược  sử
+ Thông  tin  trang  được  hiển  thị  trong  cửa  sổ  lược  sử .  Giá  trị  hợp  lệ  trong  danh  sách  ấy  là  " address "  ( địa  chỉ ) ,  " title "  ( tiêu  đề ) .
+ Đường  dẫn  thư  mục  nơi  sẽ  tải  về  tập  tin  vào  nó ;  hoặc  « Downloads »  để  sử  dụng  Thư  mục  tải  về  mặc  định ,  hoặc  « Desktop »  để  sử  dụng  thư  mục  màn  hình  nền .
+ Kiểu  thanh  công  cụ
+ Kiểu  thanh  công  cụ .  Giá  trị  hợp  lệ  là  " "  ( sử  dụng  kiểu  mặc  định  GNOME ) ,  " both "  ( cả  hai  chữ  và  biểu  tượng  đều ) ,  " both-horiz "  ( chữ  ở  cạnh  biểu  tượng ) ,  " icons "  ( biểu  tượng ) ,  and  " text "  ( chữ ) .
+ Sử  dụng  màu  riêng
+ Sử  dụng  phông  chữ  riêng
+ Sử  dụng  màu  riêng  của  bạn  thay  cho  màu  mà  trang  yêu  cầu .
+ Dùng  phông  chữ  riêng  của  bạn  thay  cho  phông  chữ  mà  trang  yêu  cầu .
+ Khi  trình  duyệt  không  mở  được  tập  tin  nào  thì  sẽ  tự  động  tải  nó  về  thư  mục  tải  về  rồi  mở  nó  với  ứng  dụng  thích  hợp .
+ Chấp  nhận  cookie  từ  đâu .  Giá  trị  có  thể  là  " anywhere "  ( mọi  nơi ) ,  " current  site "  ( trang  hiện  thời )  và  " nowhere "  ( không  đâu  cả :  không  chấp  nhận  gì  cả ) .
+ Có  in  ngày  vào  chân  trang  hay  không
+ Có  in  địa  chỉ  trang  trong  đầu  trang  hay  không .
+ Có  in  số  thứ  tự  trang  ( x  của  tổng )  vào  chân  trang  hay  không .
+ Có  in  tiêu  đề  trang  trong  đầu  trang  hay  không
+ x-western  ( chữ  tiếng  Âu  tây )
+   Dấu   tay 
+   Phát   hành   do 
+   Phát   hành   cho 
+   Độ   hợp   lệ 
+ _ Trường  chứng  nhận
+ Ton  ti  chứng  n _ hận
+ Tên  chung
+ Động
+ Chi  tiết
+ Hạn  dùng :
+ Giá  trị  _ trường
+ Chung
+ Phát  hành  lúc :
+ Dấu  tay  MD5 :
+ Tổ  chức :
+ Đơn  vị  tổ  chức :
+ Dấu  tay  SHA1 :
+ Số  sản  xuất :
+   _  Tự   động 
+   _  Dùng   bảng   mã   khác  : 
+ _ Phân  biệt  hoa / thường
+ Cookie
+ Bộ  quản  lý  tải  xuống
+ Tìm
+ Mật  khẩu
+ Bộ  quản  lý  dữ  liệu  cá  nhân
+ Bảng  mã  chữ
+ Dùng  bảng  mã  do  tài  liệu  tự  xác  định
+ Tì _ m :
+ _ Tiếp  theo
+ _ Tạm  dừng
+ _ Về  trước
+ _ Ngắt  dòng
+   Màu   sắc 
+   Cookie 
+   Tải   về 
+   Mã   hóa 
+   Phông   chữ 
+   Trang   chủ 
+   Ngôn   ngữ 
+   Tập   tin   tạm 
+   Nội   dung   Web 
+ _ Tự  động  tải  về  và  mở  tập  tin
+ Thêm  Ngôn  ngữ
+ L _ uôn  dùng  màu  của  sắc  thái  màn  hình  nền
+ Cho  phép  bật  lên  _ cửa  sổ
+ Luôn  dùng  các  phông  chữ  nà _ y
+ Tự  động  _ dò  tìm :
+ Chọn  ngôn  ngữ :
+ Xó _ a
+ _ Mặc  định :
+ Bật  chạy  Java _ Script
+ Bật  chạy  _ Java
+ Phông  chữ  và  màu  sắc
+ Cho  n _ gôn  ngữ :
+ MB
+ Chỉ  _ từ  các  trang  bạn  xem
+ Tùy  thích
+ Riêng  tư
+ Theo  trang  hiện  t _ hời
+ Bằng  trang  t _ rắng
+ Đị _ a  chỉ :
+ _ Luôn  chấp  nhận
+ Sức  chứa  đĩ _ a :
+ _ thư  mục  tải  về :
+ _ Bề  rộng  cố  định :
+ _ Cỡ  tối  thiểu :
+ _ Không  bao  giờ  chấp  nhận
+ _ Bề  rộng  thay  đổi :
+   Chân   trang 
+   Đầu   trang 
+ Hình  thức
+ Mà _ u
+ Tiêu  đề  tran _ g
+ _ Số  thứ  tự  trang
+ Giấy
+ Thiết  lập  In
+ _ Ngày
+ Cân  bằng  _ xám
+ Đị _ a  chỉ  trang
+ Hiện  bộ  quản  lý  tải  _ xuống ...
+ % u : % 02u . % 02u
+ % 02u . % 02u
+ Tiếp  tục  _ lại % s  of  % s
+ % s  % s  của  % s
+ Không  biết
+ không  rõ |
+ đã  thất  bại
+ Tập  tin
+ %
+ Còn  lại
+ Tiếng  A-rập  ( _ IBM-864 )
+ Tiếng  A-rập  ( ISO- _ 8859-6 )
+ Tiếng  A-rập  ( _ MacArabic )
+ Tiếng  A-rập  ( _ Windows-1256 )
+ Tiếng  thuộc  biển  Ban-tích  ( _ ISO-8859-13 )
+ Tiếng  thuộc  biển  Ban-tích  ( I _ SO-8859-4 )
+ Tiếng  thuộc  biển  Ban-tích  ( _ Windows-1257 )
+ Tiếng  _ Ac-mê-ni  ( ARMSCII-8 )
+ Tiếng  _ Gi-oa-gi-a  ( GEOSTD8 )
+ Tiếng  Âu  trung  ( _ IBM-852 )
+ Tiếng  Âu  trung  ( I _ SO-8859-2 )
+ Tiếng  Âu  trung  ( _ MacCE )
+ Tiếng  Âu  trung  ( _ Windows-1250 )
+ Tiếng  Trung  hoa  phổ  thông  ( _ GB18030 )
+ Tiếng  Trung  hoa  phổ  thông  ( G _ B2312 )
+ Tiếng  Trung  hoa  phổ  thông  ( GB _ K )
+ Tiếng  Trung  hoa  phổ  thông  ( _ HZ )
+ Tiếng  Trung  hoa  phổ  thông  ( _ ISO-2022-CN )
+ Tiếng  Trung  hoa  truyền  thống  ( Big _ 5 )
+ Tiếng  Trung  hoa  truyền  thống  ( Big5-HK _ SCS )
+ Tiếng  Trung  hoa  truyền  thống  ( _ EUC-TW )
+ Tiếng  bằng  chữ  cái  kirin  ( _ IBM-855 )
+ Tiếng  bằng  chữ  cái  kirin  ( I _ SO-8859-5 )
+ Tiếng  bằng  chữ  cái  kirin  ( IS _ O-IR-111 )
+ Tiếng  bằng  chữ  cái  kirin  ( _ KOI8-R )
+ Tiếng  bằng  chữ  cái  kirin  ( _ MacCyrillic )
+ Tiếng  bằng  chữ  cái  kirin  ( _ Windows-1251 )
+ Tiếng  bằng  chữ  cái  kirin / _ Russian  ( IBM-866 )
+ Tiếng  Hy-lạp  ( _ ISO-8859-7 )
+ Tiếng  Hy-lạp  ( _ MacGreek )
+ Tiếng  Hy-lạp  ( _ Windows-1253 )
+ Tiếng  Gu-sa-ra-ti  ( _ MacGujarati )
+ Tiếng  Gun-mu-khi  ( Mac _ Gurmukhi )
+ Tiếng  Hin-đi  ( Mac _ Devanagari )
+ Tiếng  Do  thái  ( _ IBM-862 )
+ Tiếng  Do  thái  ( IS _ O-8859-8-I )
+ Tiếng  Do  thái  ( _ MacHebrew )
+ Tiếng  Do  thái  ( _ Windows-1255 )
+ Tiếng  Do  thái  trực  _ quan  ( ISO-8859-8 )
+ Tiếng  Nhật  bản  ( _ EUC-JP )
+ Tiếng  Nhật  bản  ( _ ISO-2022-JP )
+ Tiếng  Nhật  bản  ( _ Shift-JIS )
+ Tiếng  Triều  tiên  ( _ EUC-KR )
+ Tiếng  Triều  tiên  ( _ ISO-2022-KR )
+ Tiếng  Triều  tiên  ( _ JOHAB )
+ Tiếng  Triều  tiên  ( _ UHC )
+ Tiếng  _ Xen-tơ  ( ISO-8859-14 )
+ T _ iếng  Băng  đảo  ( MacIcelandic )
+ Tiế _ ng  Bắc  Âu  ( ISO-8859-10 )
+ Tiếng  _ Ba  Tư  ( MacFarsi )
+ Tiếng  Cơ-rô-a-ti-a  ( Mac _ Croatian )
+ Tiếng  _ Lỗ  Má  Ni  ( MacRomanian )
+ Tiến _ g  Lỗ  Má  Ni  ( ISO-8859-16 )
+ Tiếng  Â _ u  Nam  ( ISO-8859-3 )
+ Tiếng  Thái  ( TIS- _ 620 )
+ Tiếng  Thái  ( IS _ O-8859-11 )
+ Tiếng  Thái  ( Windows-874 )
+ Tiếng  Thổ  nhĩ  kỳ  ( _ IBM-857 )
+ Tiếng  Thổ  nhĩ  kỳ  ( I _ SO-8859-9 )
+ Tiếng  Thổ  nhĩ  kỳ  ( _ MacTurkish )
+ Tiếng  Thổ  nhĩ  kỳ  ( _ Windows-1254 )
+ Unicode :  có  thể  trình  bày  tất  cả  ngôn  ngữ  ( UTF- _ 8 )
+ Tiếng  bằng  chữ  cái  kirin / Ukraina  ( _ KOI8-U )
+ Tiếng  bằng  chữ  cái  kirin / Ukraina  ( Mac _ Ukrainian )
+ Tiếng  Việt :  kiểu  cũ  ( _ TCVN )
+ Tiếng  Việt :  kiểu  cũ  ( _ VISCII )
+ Tiếng  Việt :  kiểu  cũ  ( V _ PS )
+ Tiếng  Việt :  kiểu  cũ  ( _ Windows-1258 )
+ Tiếng  Âu  tay  ( _ IBM-850 )
+ Tiếng  Âu  tay  ( _ ISO-8859-1 )
+ Tiếng  Âu  tay  ( IS _ O-8859-15 )
+ Tiếng  Âu  tay  ( _ MacRoman )
+ Tiếng  Âu  tay  ( _ Windows-1252 ) related
+ Tiếng  Anh  ( _ US-ASCII )
+ Unicode  ( UTF- _ 16  BE )
+ Unicode  ( UTF-1 _ 6  LE )
+ Unicode  ( UTF- _ 32  BE )
+ Unicode  ( UTF-3 _ 2  LE ) |
+ Đã  tắt |
+ Tiếng  Trung  hoa |
+ Tiếng  Trung  hoa  phổ  thông |
+ Tiếng  Trung  hoa  truyền  thống |
+ Tiếng  Á  đông |
+ Tiếng  Nhận  bản |
+ Tiếng  Triều  tiên |
+ Tiếng  Nga |
+ Bất  cứ  ngôn  ngữ  nào |
+ Tiếng  Ukraina
+ Không  biết  mã  chữ  ( % s )
+ Tất  cả
+ Khác
+ Tập  tin  cục  bộ
+ Lưu |
+ Tải  về  tập  tin  có  thể  không  an  toàn  này  không ?
+ Loại  tập  tin :  % s .  Loại  tập  tin  này  có  thể  tìm  ẩn  nguy  cơ  phá  hoại  tài  liệu  của  bạn  hoặc  xâm  phạm  sự  riêng  tư  của  bạn .  Mở  trực  tiếp  tập  tin  «  % s  »  là  không  an  toàn .  Thay  vì  vậy  bạn  có  thể  tải  về  nó .
+ Mở  tập  tin  này  không ?
+ Loại  tập  tin :  % s .  Bạn  có  thể  mở  «  % s  »  dùng  «  % s  » ,  hoặc  lưu  nó .
+ Tải  tập  tin  này  về  chứ ?
+ Loại  tập  tin :  % s .  Hiện  thời  bạn  không  có  ứng  dụng  có  thể  mở  «  % s  » .  Thay  vì  bạn  có  thể  tải  nó  về .
+ Lư _ u  là ... http
+ Không  hỗ  trợ  giao  thức  «  % s  » .
+ Có  hỗ  trợ  giao  thức  « http » ,  « https » ,  « ftp » ,  « file » ,  « smb »  và  « sftp » . / home / user / test.html
+ Không  tìm  thấy  tập  tin  «  % s  » .
+ Hãy  kiểm  tra  xem  vị  trí  của  tập  tin  là  đúng ,  rồi  thử  lại.www.example.com
+ Không  tìm  thấy  «  % s  » .
+ Hãy  kiểm  tra  xem  có  kết  nối  đến  Mạng ,  và  có  địa  chỉ  đúng .
+ Nếu  trang  này  tồn  tại  trước ,  có  lẽ  bạn  sẽ  tìm  một  phiên  bản  đã  lữu  trữ .
+ «  % s  »  đã  từ  chối  kết  nối .
+ Có  lẽ  trình  phục  vụ  có  bận ,  hoặc  bạn  gặp  lỗi  kết  nối  qua  mạng .  Hãy  thử  lại  sau  này .
+ Có  lẽ  có  một  phiên  bản  cũ  của  trang  này .
+ «  % s  »  đã  ngắt  kết  nối .
+ «  % s  »  không  trả  lời .
+ Kết  nối  bị  mất  vì  trình  phục  vụ  trả  lời  quá  chậm .
+ Địa  chỉ  không  hợp  lệ .
+ Bạn  đã  nhập  một  địa  chỉ  không  hợp  lệ .
+ «  % s  »  đã  chuyển  hướng  quá  nhiều  lần .
+ Việc  chuyển  hướng  đã  bị  ngừng  vì  lý  do  bảo  mật .
+ «  % s  »  cần  đến  kết  nối  mật  mã .
+ Không  tải  được  tài  liệu  vì  chưa  cài  đặt  cách  hỗ  trợ  mật  mã .
+ «  % s  »  đã  thả  kết  nối .
+ Trình  phục  vụ  đã  thả  kết  nối  trước  khi  dữ  liệu  nào  có  thể  được  đọc .
+ Không  tải  được  tài  liệu  trong  chế  độ  ngoại  tuyến .
+ Không  xem  được  tài  liệu  này  trong  chế  độ  ngoại  tuyến .  Hãy  lập  trình  Eiphany  thành  « trực  tuyến »  rồi  thử  lại .
+ «  % s  »  đã  từ  chối  truy  cập  cổng  « % d » .
+ Không  thể  kết  nối  đến  trình  phục  vụ  ủy  nhiệm .
+ Hãy  kiểm  tra  thiết  lập  trình  phục  vụ  ủy  nhiệm  là  đúng .  Nếu  vẫn  chưa  có  thể  kết  nối  thì  có  lẽ  gặp  lỗi  với  trình  phục  vụ  ủy  nhiệm ,  hoặc  với  kết  nối  qua  mạng . |
+ trong  Bộ  đệm  Google |
+ trong  Kho  Mạng
+ Không  tên
+ Mọi  tập  tin
+ Trang  Web
+ Tập  tin  văn  bản
+ Ảnh
+ Tập  tin  XML
+ Tập  tin  XUL
+ _ Chọn  chứng  nhận
+ Chọn  chứng  nhận  để  định  danh  cho  " % s " .
+ Chọn  chứng  nhận  để  định  danh  chính  bạn .
+ _ Chi  tiết  chứng  nhận
+ _ Xem  chứng  nhận
+ _ Chấp  nhận
+ Địa  chỉ  " % s "  trả  về  thông  tin  bảo  mật  cho  " % s " .  Có  thể  có  ai  đó  đã  theo  dõi  cuộc  liên  lạc  của  bạn  và  lấy  được  những  thông  tin  bí  mật  của  bạn .
+ Bạn  chỉ  nên  chấp  nhận  thông  tin  bảo  mật  nếu  bạn  tin  cậy  " % s "  và  " % s " .
+ Chấp  nhận  thông  tin  bảo  mật  không  đúng  sao ?
+ Trình  duyệt  của  bạn  không  thể  tự  động  tin  cậy  " % s " .  Có  thể  có  ai  đó  đã  theo  dõi  cuộc  liên  lạc  của  bạn  và  lấy  được  những  thông  tin  bí  mật  của  bạn .
+ Bạn  chỉ  nên  kết  nối  tới  nơi  này  nếu  bạn  chắc  chắn  đã  kết  nối  tới  " % s " .
+ Kết  nối  đến  địa  chỉ  không  đáng  tin  cậy  sao ?
+ _ Tin  cậy  thông  tin  bảo  mật  này  từ  giờ  trở  đi
+ _ Kết  nối
+ Chấp  nhận  thông  tin  bảo  mật  đã  hết  hạn  sao ?
+ Thông  tin  bảo  mật  cho  " % s "  đã  hết  hạn  lúc  % s .
+ Chấp  nhận  thông  tin  bảo  mật  chưa  hợp  lệ  sao ?
+ Thông  tin  bảo  mật  cho  % s  vẫn  chưa  hợp  lệ  cho  đến  khi  % s .
+ % a  % A ,  ngày  % e ,  % B ,  năm  % Y
+ Bạn  nên  chắc  chắn  rằng  thời  gian  trên  máy  tính  bạn  là  đúng .
+ Không  thể  kết  nối  được  tới  " % s " .
+ Danh  sách  thu  hồi  chứng  nhận  ( CRL )  từ  " % s "  cần  được  cập  nhật .
+ Hãy  yêu  cầu  trợ  giúp  từ  quản  trị  viên  hệ  thống  của  bạn .
+ Tin  cậy  Certificate  Authority  mới  không ?
+ _ Tin  cậy  CA
+ Tin  cậy  Certificate  Authority  mới  «  % s  »  nhận  diện  trang  Web  không ?
+ Trước  khi  tin  cậy  Certificate  Authority  ( CA )  bạn  nên  kiểm  tra  để  đảm  bảo  chứng  nhận  là  đáng  tin  cậy .
+ Chứng  nhận  đã  có .
+ Chứng  nhận  này  đã  được  nhập .
+ _ Sao  lưu  chứng  nhận .
+ Chọn  mật  khẩu .
+ Chọn  mật  khẩu  để  bảo  vệ  chứng  nhận  này .
+ _ Mật  khẩu :
+ _ Xác  nhận  mật  khẩu :
+ Chất  lượng  mật  khẩu :
+ _ Nập  Chứng  nhận .
+ Yêu  cầu  mật  khẩu .
+ Nhập  mật  khẩu  cho  chứng  nhận  này .
+ Danh  sách  Thu  hồi  Chứng  nhận  đã  được  nhập  thành  công .
+ Danh  sách  Thu  hồi  Chứng  nhận  đã  nhập :
+ Đơn  vị :
+ Lần  cập  nhật  kế :
+ Không  phải  phần  của  chứng  nhận
+ Thuộc  tính  Chứng  nhận
+ Chứnh  nhận  này  được  xác  nhận  để  sử  dụng  như  theo :
+ Không  thể  xác  nhận  chứng  nhận  này  vì  đã  bị  hủy  bỏ .
+ Không  thể  xác  nhận  chứng  nhận  này  vì  đã  quá  hạn .
+ Không  thể  xác  nhận  chứng  nhận  này  vì  không  đáng  tin  cậy .
+ Không  thể  xác  nhận  chứng  nhận  này  vì  người / tổ  chức  phát  hành  nó  không  đánh  tin  cây
+ Không  thể  xác  nhận  chứng  nhận  này  vì  không  biết  người / tổ  chức  phát  hành  nó
+ Không  thể  xác  nhận  chứng  nhận  này  vì  chứng  nhận  CA  không  hợp  lệ .
+ Không  thể  xác  nhận  chứng  nhận  này :  lý  do  không  rõ .
+ Phát  sinh  khoá  riêng  tư ...
+ Hãy  chờ  phát  sinh  khóa  riêng  tư  mới .  Tiến  trình  này  có  thể  mất  vài  phút .
+ Thông  cáo  bảo  mật
+ Đã  nạp  trang  này  qua  kết  nối  bảo  mật
+ Biểu  tượng  khóa  trên  thanh  trạng  thái  dưới  trang  luôn  luôn  hiển  thị  tính  trạng  bảo  mật  của  bất  cứ  trang  nào
+ Cảnh  báo  bảo  mật
+ Đã  nạp  trang  này  qua  kết  nối  bảo  mật  thấp
+ Mọi  thông  tin  bạn  xem  hoặc  nhập  trên  trang  này  có  thể  bị  lấy  do  người  khác
+ Đã  nạp  phần  trang  này  qua  kết  nối  không  bảo  mật
+ Một  phần  thông  tin  bạn  xem  hoặc  nhập  sẽ  được  gởi  qua  kết  nối  không  bảo  mật  nên  có  thể  bị  lấy  do  người  khác
+ Gởi  thông  tin  này  qua  kết  nối  không  bảo  mật  sao ?
+ Thông  tin  bạn  nhập  sẽ  được  gởi  qua  kết  nối  không  bảo  mật  nên  có  thể  bị  lấy  một  cách  dễ  dàng  do  người  khác
+ _ Gởi
+ Dù  đã  nạp  trang  này  qua  kết  nối  bảo  mật ,  thông  tin  bạn  nhập  sẽ  được  gởi  qua  kết  nối  không  bảo  mật  nên  có  thể  bị  lấy  do  người  khác
+ http : / / www.google.com.vn / search ? ie = UTF-8oe = UTF-8q =
+ Hiện  không  thể  dùng  Epiphany  vì  không  khởi  động  được  Mozilla .
+ Không  hỗ  trợ  việc  tạo  ra  tập  tin  kiểu  «  .pdf  » .
+ Không  hỗ  trợ  việc  in  trong  máy  in  này .
+ Bạn  đã  cố  in  tới  một  máy  in  dùng  trình  hỗ  trợ  thiết  bị  «  % s  » .  Chương  trình  này  dùng  một  trình  hỗ  trợ  thiết  bị  PostScript .
+ _ Từ :
+ Lập  đầu  của  phạm  vị  các  trang  cần  in
+ Đế _ n :
+ Lập  kết  thức  của  phạm  vị  các  trang  cần  in
+ In
+ Trang
+ Gặp  lỗi  loại  GConf :    % s
+ _ Bỏ  thanh  công  cụ
+ Thanh  ngăn  cách
+ Mọi  loại  được  hỗ  trợ
+ Tải  về
+ % s  đã  có  rồi ,  hãy  chuyển  nó  ra .
+ Không  tạo  được  thư  mục  % s .
+ Không  cho  phép  ghi  vào  thư  mục  «  % s  » .
+ Bạn  không  có  quyền  tạo  tập  tin  trong  thư  mục  này .
+ Không  cho  phép  ghi  vào  thư  mục  này .
+ Không  cho  phép  ghi  vào  tập  tin  «  % s  » .
+ Bạn  không  có  quyền  ghi  đè  lên  tập  tin  này .
+ Không  cho  phép  ghi  vào  tập  tin  này .
+ _ Ghi  đè  " % s "  không ?
+ Tập  tin  tên  này  đã  có .  Nếu  bạn  ghi  đè  nó ,  sẽ  mật  nối  dung  nó .
+ _ Ghi  đè
+ Ghi  đè  tập  tin  không ?
+ Không  thể  hiển  thị  trợ  giúp :  % s |
+ tiếng  A-rập |
+ tiếng  thuộc  biển  Ban-tích |
+ tiếng  Âu  trung |
+ tiếng  bằng  chữ  kirin |
+ tiếng  Đe-va-na-ga-ri |
+ tiếng  Hy-lạp |
+ tiếng  Do  thái |
+ tiếng  Nhật  bản |
+ tiếng  Triều  tiên |
+ tiếng  Trung  hoa  phổ  thông |
+ tiếng  Ta-min |
+ tiếng  Thái |
+ tiếng  Trung  hoa  truyền  thống |
+ tiếng  Trung  hoa  truyền  thống  ( Hong  Kong ) |
+ tiếng  Thổ  nhĩ  kỳ |
+ tiếng  Ac-mê-ni |
+ tiếng  Ben-ga-li |
+ ngôn  ngữ  âm  tiết  Ca-na-đa  hợp  nhất |
+ tiếng  Ê-ti-ô-pi |
+ tiếng  Gi-oa-gi-a |
+ tiếng  Gu-cha-ra-ti |
+ tiếng  Ghổ-mu-khi |
+ tiếng  Khơ-me |
+ tiếng  Ma-lay-am |
+ tiếng  Âu  tây |
+ chữ  khác
+ Đóng  thanh
+ Cửa  sổ  bất  lên
+ Lược  sử
+ Đánh  dấu
+ Mục  địa  chỉ
+ _ Tải  về
+ 50 %
+ 75 %
+ 100 %
+ 125 %
+ 150 %
+ 175 %
+ 200 %
+ 300 %
+ 400 %
+ Hãy  kéo  và  thả  biểu  tượng  này  để  tạo  liên  kết  đến  trang  này
+ % s :
+ _ Bỏ  ra  thanh  công  cụ
+ Chuyển  sang  t _ rái
+ Chuyển  sang  p _ hải
+ Thuộc  tính  % s
+ _ Tiêu  đề :
+ C _ hủ  đề :
+ _ Hiển  thị  trên  thanh  đánh  dấu
+ Loại  bỏ  ra  chủ  đề  này
+ _ Tập  tin
+ _ Hiệu  chỉnh
+ _ Xem
+ Trợ  _ giúp
+ Chủ  đề  _ mới
+ Tạo  chủ  đề  mới
+ Mở  đánh  dấu  được  chọn  trong  cửa  sổ  mới
+ Mở  đánh  dấu  được  chọn  trong  thanh  mới
+ Đổi  _ tên ...
+ Đổi  tên  đánh  dấu  hoặc  chủ  đề  được  chọn
+ _ Xóa  bỏ
+ Xóa  bỏ  đánh  dấu  hoặc  chủ  đề  được  chọn
+ _ Thuộc  tính
+ Xem / sửa  đổi  thuộc  tính  của  đánh  dấu  được  chọn
+ _ Nập  đánh  dấu ...
+ Nhập  đánh  dấu  từ  trình  duyệt  khác  hay  từ  tập  tin  đánh  dấu
+ _ Xuất  đánh  dấu ...
+ Xuất  đánh  dấu  vào  tập  tin
+ _ Đóng
+ Đóng  cửa  sổ  đánh  dấu
+ Cắ _ t
+ Cắt  phần  được  chọn
+ Sao  _ chép
+ Sao  chép  phần  đã  chọn
+ _ Dán
+ Dán  khay
+ Chọn  _ Tất  cả
+ Chọn  mọi  đánh  dấu  hoặc  văn  bản
+ _ Nội  dung
+ Hiển  thị  trợ  giúp  đánh  dấu
+ _ Giới  thiệu
+ Hiển  thị  công  lao  người  tạo  trình  duyệt
+ H _ iển  thị  trên  thanh  đánh  dấu
+ Hiển  thị  đánh  dấu  hoặc  chủ  đề  được  chọn  trên  thanh  đánh  dấu
+ T _ iêu  đề
+ Chỉ  hiển  thị  cột  tiêu  đề
+ Tiêu  đề  và  địa  chỉ
+ Hiển  thị  cả  các  cột  tiêu  đề  và  địa  chỉ
+ Gõ  chủ  đề
+ Xóa  bỏ  chủ  đề  " % s "  chứ ?
+ Xóa  bỏ  chủ  đề  này  chứ ?
+ Khi  xóa  bỏ  chủ  đề  này  thì  tất  cả  đánh  dấu  của  nó  sẽ  không  có  loại ,  trừ  khi  cũng  của  chủ  đề  khác .  Sẽ  không  xóa  bỏ  đánh  dấu  ấy ,  sẽ  chỉ  xóa  bỏ  chủ  đề .
+ _ Xóa  bỏ  chủ  đề
+ Firefox
+ Firebird
+ Tiểu  sử  sơ  lược  của  trình  Mozilla  " % s "
+ Galeon
+ Konqueror
+ Không  nạp  được
+ Không  thể  nạp  những  đánh  dấu  từ  " % s "  vì  tập  tin  ấy  bị  hỏng  hoặc  có  loại  chưa  được  hỗ  trợ
+ Nập  đánh  dấu  từ  tập  tin
+ Đánh  dấu  loại  Firefox / Mozilla
+ Đánh  dấu  loại  Galeon / Konqueror
+ Đánh  dấu  Epiphany
+ Xuất  đánh  dấu
+ Khuôn  dạng  tập  tin
+ Epiphany  ( RDF )
+ Mozilla  ( HTML )
+ Nập  đánh  dấu
+ _ Nập
+ _ Nập  đánh  dấu  từ :
+ _ Sao  chép  địa  chỉ
+ _ Tìm  kiếm :
+ Chủ  đề
+ Tiêu  đề
+ Địa  chỉhttp : / / www.google.nl "  and  " http : / / www.google.nl / search ? q = % s
+ Tìm  trên  web
+ http : / / www.google.com.vn / search ? ie = utf8oe = utf8q = % s
+ Giải  trí
+ Tin  tức
+ Mua  sắm
+ Thể  thao
+ Du  lịch
+ Công  việc
+ Cập  nhật  đánh  dấu  " % s "  chứ ?
+ Trang  có  đánh  dấu  ấy  đã  di  động  tới  " % s " .
+ _ Không  cập  nhật
+ _ Cập  nhật
+ Cập  nhật  đánh  dấu  chứ ? |
+ Tất  cả |
+ Hay  xem  nhất |
+ Chưa  phân  loại |
+ Nơi  địa  phương
+ Thêm  đánh  dấu
+ Đánh  dấu  có  tiêu  đề  «  % s  »  đã  tồn  tại  cho  trang  này .
+ _ Xem  thuộc  tính
+ Nhân  đôi  đánh  dấu
+ Rỗng
+ Bảng  mã
+ _ Khác ...
+ Bảng  mã  khác
+ _ Tự  động
+ Tìm :
+ Tìm  tiếp
+ Tìm  sự  kiện  tiếp  theo  của  chuỗi  tìm  kiếm
+ Tìm  lên  trước
+ Tìm  sự  kiện  trước  đó  của  chuỗi  tìm  kiếm
+ Rời  toàn  màn  hình
+ Xem
+ Mở  liên  kết  lược  sử  được  chọn  trong  cửa  sổ  mới
+ Mở  liên  kết  lược  sử  được  chọn  trong  thanh  mới
+ Xóa  bỏ  liên  kết  lược  sử  được  chọn
+ T _ hêm  đánh  dấu ...
+ Thêm  đánh  dấu  cho  liên  kết  lược  sử  được  chọn
+ Đóng  cửa  sổ  lược  sử
+ Chọn  mọi  liên  kết  lược  sử  hay  văn  bản
+ _ Xoá  lược  sử
+ Xoá  sạch  lược  sử  duyệt
+ Hiển  thị  trợ  giúp  lược  sử
+ Địa  c _ hỉ
+ Chỉ  hiển  thị  cột  địa  chỉ
+ Xóa  sạch  lược  sử  duyệt  chứ ?
+ Xóa  sạch  lược  sử  duyệt  sẽ  làm  cho  mọi  liên  kết  trong  lược  sử  bị  xóa  vĩnh  viễn .
+ 30  phút  trước
+ Hôm  nay
+ Mở  thanh  mới  trong  cửa  sổ  đang  mở
+ Chạy  trong  chế  độ  toàn  màn  hình
+ Tải  tập  tin  phiên  đã  cho
+ Tập  Tin
+ Thêm  đánh  dấu  ( không  mở  cửa  sổ  nào )
+ URL
+ Nập  đánh  dấu  từ  tập  tin  cho  trước
+ Chạy  trình  hiệu  chỉnh  đánh  dấu
+ Phục  hồi  các  cửa  sổ  và  thanh  trước  của  trình  duyệt  chứ ?
+ Hình  như  trình  Epiphany  đã  thoát  bất  ngờ  trong  lần  chạy  trước .  Có  thể  phục  hồi  các  cửa  sổ  và  thanh  đều  đã  mở ...
+ K _ hông  phục  hồi
+ Phụ _ c  hồi
+ Phục  hồi  sau  bị  hỏng
+ Cần  phần  mở  rộng  thanh  nách
+ Mới  nhắp  vào  liên  kết  mà  cần  đến  phần  mở  rộng  cho  thanh  nách  được  cài  đặt  trước .
+ Bonobo  không  thể  xác  định  đúng  vị  trí  của  tập  tin  GNOME _ Epiphany _ Automation.server  ( máy  chủ  tự  động  hóa  Epiphany ) .  Có  thể  sử  dụng  lệnh / tùy  chọn  bonobo-activation-sysconf  ( cấu  hình  hệ  thống  để  hoạt  hóa  bonobo )  để  định  cấu  hình  đường  dẫn  tìm  kiếm  máy  chủ  bonobo .
+ Hiện  không  thể  sử  dụng  trình  Epiphany  vì  gặp  lỗi  bất  ngờ  Bonobo  khi  cố  đăng  ký  với  máy  chủ  tự  động  hóa .
+ Hiện  không  thể  sử  dụng  trình  Epiphany  vì  gặp  lỗi  bất  ngờ  Bonobo  khi  cố  xác  định  đúng  vị  trí  của  đối  tượng  tự  động  hóa .
+ Trang  trắng
+ Đang  tải  «  % s  » ...
+ Đang  tải ...
+ Chuyển  hướng  tới  % s  ...
+ Truyền  dữ  liệu  từ  % s  ...
+ Đợi  xác  thực  từ  % s  ...
+ Tải  % s ...
+ Chuyển  sang  thanh  này |
+ Mặc  định
+ Bộ  hiệu  chỉnh  thanh  công  cụ
+ Nhãn  _ nút  thanh  công  cụ
+ T _ hêm  thanh  công  cụ  mới
+ Lùi
+ Lùi  lại
+ Lược  sử  có  thể  lùi
+ Tới
+ Đi  tới
+ Lược  sử  có  thể  tiếp
+ Lên
+ Lên  một  cấp
+ Danh  sách  cấp  lên
+ Gõ  địa  chỉ  web  cần  mở  hoặc  cụm  từ  cần  tìm  kiếm .
+ Thu  phóng
+ Chỉnh  cỡ  chữ
+ Đi  tới  địa  chỉ  đã  gõ  trong  mục  nhập  địa  chỉ
+ Trang  c _ hủ
+ Đi  đến  trang  chủ
+ Đánh  _ dấu
+ Đ _ i  đến
+ Công  _ cụ
+ _ Thanh
+ _ Cửa  sổ  mới
+ Mở  cửa  sổ  mới
+ _ Thanh  mới
+ Mở  Thanh  mới
+ _ Mở ...
+ Mở  tập  tin
+ Lư _ u  là ...
+ Lưu  trang  hiện  thời
+ _ Thiết  lập  In ...
+ Thiết  lập  trang  để  in
+ _ Xem  trước  khi  in
+ Xem  trước  khi  in
+ _ In ...
+ In  trang  hiện  thời
+ _ Gửi  đến ...
+ Gửi  liên  kết  của  trang  hiện  thời
+ Đóng  thanh  này
+ _ Hủy  bước
+ Bỏ  hành  động  trước
+ _ Làm  lại
+ Thực  hiện  lại  hành  động  mới  bỏ
+ Chọn  toàn  bộ  trang
+ _ Tìm ...
+ Tìm  từ  hay  cụm  từ  trong  trang
+ Tìm  tiế _ p
+ Tìm  sự  kiện  tiếp  theo  của  từ  hay  cụm  từ
+ Tìm  lên  t _ rước
+ Tìm  sự  kiện  trước  đó  của  từ  hay  cụm  từ
+ Dữ  liệu  cá  n _ hân
+ Xem / Bỏ  cookie  và  mật  khẩu
+ Thanh  công  _ cụ
+ Tùy  chỉnh  thanh  công  cụ
+ Tù _ y  thích
+ Định  cấu  hình  trình  duyệt  web
+ _ Dừng
+ Dừng  truyền  dữ  liệu  hiện  thời
+ Tải  _ lại
+ Hiển  thị  nội  dung  mới  nhất  của  trang  hiện  thời
+ Phóng  _ to
+ Tăng  cỡ  chữ
+ Thu  _ nhỏ
+ Giảm  cỡ  chữ
+ _ Cỡ  thường
+ Dùng  cỡ  chữ  bình  thường
+ _ Bảng  mã
+ Thay  đổi  bảng  mã
+ Ng _ uồn  trang
+ Xem  mã  nguồn  của  trang  ấy
+ Tạo  đánh  dấu  cho  trang  hiện  thời
+ _ HIệu  chỉnh  đánh  dấu
+ Mở  cửa  sổ  đánh  dấu
+ _ Lùi
+ Đi  đến  trang  đã  xem  ở  trước
+ T _ iếp
+ Đi  đến  trang  đã  xem  tiếp  theo
+ _ Lên
+ Đị _ a  chỉ ...
+ Đi  đến  địa  chỉ  xác  định
+ Lược  _ sử
+ Mở  cửa  sổ  lược  sử
+ Thanh  t _ rước
+ Kích  hoạt  thanh  trước
+ Thanh  _ kế
+ Kích  hoạt  thanh  sau
+ Chuyển  thanh  t _ rái
+ Chuyển  thanh  hiện  thời  sang  trái
+ Chuyển  thanh  p _ hải
+ Chuyển  thanh  hiện  thời  sang  phải
+ Tháo  _ bỏ  thanh
+ Tháo  bỏ  thanh  hiện  thời
+ Hiển  thị  trợ  giúp  trình  duyệt  web
+ Sử  dụng  trình  này  ngoại  tuyến
+ Chuyển  sang  chế  độ  ngoại  tuyến
+ Thanh  _ Công  cụ
+ Hiện / Ẩn  thanh  công  cụ
+ Thanh  đánh  _ dấu
+ Hiện / ẩn  thanh  đánh  dấu
+ Th _ anh  trạng  thái
+ Hiện / Ẩn  thanh  trạng  thái
+ T _ oàn  màn  hình
+ Duyệt  toàn  màn  hình
+ Bật  lên  _ cửa  sổ
+ Hiện / Ẩn  cửa  sổ  bật  lên  từ  trang  này ,  còn  bạn  không  yêu  cầu  nó
+ Con  nháy  lựa  chọn
+ _ Lưu  nền  là ...
+ Thêm  đánh  _ dấu ...
+ Hiển  thị  chỉ  _ khung  này
+ Hiển  thị  chỉ  khung  này  trong  cửa  sổ  này  thôi
+ Mở  _ liên  kết
+ Mở  liên  kết  trong  cửa  sổ  này
+ Mở  liên  kết  trong  cửa  sổ  _ mới
+ Mở  liên  kết  trong  _ thanh  mới
+ Mở  liên  kết  trong  thanh  mới
+ Tải  _ liên  kết  về
+ Lưu  _ liên  kết  là ...
+ Lưu  liên  kết  này  với  tên  khác
+ Thêm  đánh  dấu  cho  _ liên  kết ...
+ _ Sao  chép  địa  chỉ  liên  kết
+ _ Gửi  thư ...
+ Sao  _ chép  địa  chỉ  thư
+ Mở  ả _ nh
+ _ Lưu  ảnh  là ...
+ _ Dùng  ảnh  làm  nền
+ Sao  chép  địa  chỉ  ả _ nh
+ Có  vài  thay  đổi  chưa  được  gửi  đi  trong  phần  mẫu .
+ Sẽ  mất  các  thông  tin  ấy  khi  có  phải  đóng  tài  liệu .
+ _ Đóng  tài  liệu
+ Mở
+ Lưu  là
+ Không  bảo  mật
+ Bị  ngắt
+ Thấp
+ Cao
+ Mức  bảo  mật :  % s
+ Lưu  ảnh  nền  ' % s '
+ Mở  ảnh  ' % s '
+ Dùng  ảnh  làm  nền  màn  hình  ' % s '
+ Lưu  ảnh  ' % s '
+ Sao  chép  địa  chỉ  ảnh  ' % s '
+ Gởi  thư  cho  địa  chỉ  ' % s '
+ Sao  chép  địa  chỉ  thư  ' % s '
+ Lưu  _ liên  kết  ' % s '
+ Thêm  đánh  dấu  cho  liên  kết  ' % s '
+ Sao  chép  địa  chỉ  liên  kết  ' % s '
+ Miền
+ Tên
+ Máy  chủ
+ Tên  người  dùng
+ Thuộc  tính  cookie
+ Nội  dung :
+ Đường  dẫn :
+ Gửi  cho :
+ Chỉ  kết  nối  bảo  mật  thôi
+ Bất  kỳ  loại  kết  nối  nào
+ Kết  thức  phiên  hiện  thời
+ Liên  kết  tải  xuống
+ Lưu  _ liên  kết  là
+ Lưu  ảnh  là
+ Lưu  nền  là
+ Đầu
+ Đi  tới  trang  đầu
+ Cuối
+ Đi  tới  trang  cuối
+ Trước
+ Đi  tới  trang  trước
+ Tiếp
+ Đi  tới  trang  kế
+ Đóng
+ Đóng  của  sổ  xem  in  trước | French  ( France ) |
+ % s  tại  % s |
+ Định  nghĩa  do  người  dùng  ( % s )
+ Chọn  thư  mục
+ Liên  hệ  chúng  tôi  tại :
+ Người  đóng  góp
+ Lập  trình  viên  trước :
+ Nhóm  Việt  hoá  GNOME  ( http : / / gnomevi.sourceforge.net )
+ Hãy  xem  cái  này !

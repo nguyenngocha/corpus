@@ -1,0 +1,133 @@
+ Nghịch  đảo
+ Phân  tích  nhân  tử
+ Giai  thừa
+ =
+ Số  nhỏ  dưới
+ Số  mũ
+ Luỹ  thừa  khoa  học
+ x
+ Giá  trị  tuyệt  đối
+ Luỹ  thừa
+ Ký  kép
+ _ Tính
+ Giá  trị  _ Hiện  tại :
+ Lãi  _ suất  định  Kỳ :
+ Tính  số  các  chu  kỳ  kép  cần  để  tăng  một  vốn  đầu  tư  có  giá  trị  hiệu  tại  lên  một  giá  trị  tương  lai ,  theo  một  lãi  xuất  cố  định  trong  mỗi  chu  kỳ  kép .
+ Giá  t _ rị  Tương  lai :
+ Tính  khấu  hao  cho  một  tài  sản  trong  một  thời  gian  nào  đó ,  dùng  phương  pháp  số  dư  giảm  dần  kép .
+ C _ hi  phí :
+ Thời  _ hạn :
+ Chu  _ kì :
+ Giá  trị  Tương  lai
+ Tính  giá  trị  tương  lai  của  một  vốn  đầu  tư  dựa  vào  trả  một  số  tiền  nào  đó  theo  lãi  xuất  định  kỳ  trong  số  chu  kỳ  chi  trả  trong  thời  hạn .
+ Trả  định  _ kì :
+ Tổng  lãi  thực
+ Tính  giá  bán  lại  của  một  sản  phẩm ,  dựa  vào  chi  phí  sản  xuất  và  tổng  lãi  thực  đã  muốn .
+ _ Biên :
+ Trả  Định  Kỳ
+ Tính  tiền  trả  định  kỳ  cho  một  khoản  vay ,  trả  tiền  ở  kết  thúc  của  mỗi  chu  kỳ  chi  trả .
+ Tiền  _ gốc :
+ _ Kì :
+ Giá  trị  Hiện  tại
+ Tính  giá  trị  hiện  tại  của  một  vốn  đầu  tư  dựa  vào  một  số  tiền  được  trả  từng  kỳ ,  giảm  giá  theo  một  lãi  xuất  định  kỳ  trong  số  các  chu  kỳ  chi  trả  trong  thời  hạn .
+ Lãi  suất  định  kì
+ Tính  lãi  xuất  định  kỳ  cần  để  tăng  một  vốn  đầu  tư  lên  một  giá  trị  tương  lai ,  trong  số  các  chu  kỳ  kép .
+ _ Chi  phí :
+ Giá  trị  th _ anh  lý :
+ Tính  khấu  hao  theo  đường  thẳng  của  một  tài  sản  trong  một  chu  kỳ .  Phương  pháp  khấu  hao  theo  đường  thẳng  thì  phân  phối  giá  có  thể  giảm  ra  toàn  bộ  thời  gian  sử  dụng  hữu  ích  của  một  tài  sản .  Thời  gian  sử  dụng  hữu  ích  là  số  các  chu  kỳ  ( thường  là  năm )  trong  chúng  một  tài  sản  bị  sụt  giá .
+ Tính  khấu  hao  được  phép  cho  một  tài  sản  trong  một  chu  kỳ  nào  đó ,  dùng  phương  pháp  khấu  hao  tổng  số  năm .  Phương  pháp  khấu  hao  này  tăng  tỷ  lệ  sụt  giá ,  để  khấu  hao  nhiều  trong  các  chu  kỳ  trước  hơn  các  chu  kỳ  sau .  Thời  gian  sử  dụng  hữu  ích  là  số  các  chu  kỳ  ( thường  là  năm )  trong  chúng  tài  sản  bị  sụt  giá .
+ G _ iá  trị  tương  lai
+ Tính  số  các  chu  kỳ  chi  trả  cần  trong  thời  gian  của  một  niên  khoản  thông  thường ,  để  tích  luỹ  một  giá  trị  tương  lai ,  theo  một  lãi  xuất  định  kỳ .
+ Ctrm
+ Ddb
+ Fv
+ Kì
+ Syd
+ Sln
+ Tỷ  lệ
+ Pv
+ Pmt
+ Gpm
+ Dịch  trái
+ Dịch  phải
+ Chèn  ký  tự
+ Chèn  mã  ký  tự
+ _ Ký  tự :
+ _ Chèn
+ Bàn  tính
+ Chạy  phép  tính  kiểu  số  học ,  khoa  học  hay  tài  chính
+ Tuỳ  thích
+ Trợ  giúp
+ Cơ  bản
+ Cấp  cao
+ Tài  chính
+ Lập  trình
+ Độ  chính  xác
+ Kích  cỡ  từ
+ Hệ  cơ  số
+ Hiện  dấu  tách  hàng  nghìn
+ Cho  biết  có  nên  thêm  vào  dấu  phân  cách  hàng  ngàn  trong  những  con  số  lớn .
+ Hiển  thị  số  không  thập  phân
+ Đơn  vị  tính  hiện  tại
+ Đơn  vị  đích
+ Đô  la  Úc
+ Lev  Bungari
+ Đina  Bahrain
+ Đô  la  Brunei
+ Rê-an  Brazin
+ Pula  Botswana
+ Đô  la  Canađa
+ Franc  CFA
+ Franc  Thuỵ  Sĩ
+ Pêsô  Chilê
+ Nhân  dân  tệ  Trung  Quốc
+ Pêsô  Colombia
+ Koruna  Séc
+ Krone  Đan  Mạch
+ Đina  Algeri
+ Kroon  Estonia
+ Euro
+ Bảng  Sterling
+ Đô  la  Hồng  Kông
+ Kuna  Croatia
+ Forint  Hungari
+ Rupi  Inđônêsia
+ New  Shekel  Israel
+ Rupee  Ấn  Độ
+ Rial  Iran
+ Krona  Ai-xơ-len
+ Yên  Nhật  Bản
+ Won  Hàn  Quốc
+ Đina  Kuwait
+ Tenge  Kazakhstan
+ Rupee  Sri  Lanka
+ Lita  Lithuania
+ Lats  Latvia
+ Đina   Libi
+ Rupee  Mauritania
+ Pêsô  Mexico
+ Ringgit  Malaysian
+ Krone  Na  Uy
+ Rupee  Nê-pan
+ Đô  la  New  Zealand
+ Rial  Oman
+ Nuevo  Sol  Pêru
+ Pêsô  Philipin
+ Rupee  Pakistan
+ Zloty  Phần  Lan
+ Riyal  Qatar
+ Leu  Romani  mới
+ Rouble  Nga
+ Riyal  Saudi
+ Krona  Thuỵ  Điển
+ Đô  la  Singapore
+ Baht  Thái
+ Đina  Tunisia
+ Lira  Thổ  Nhĩ  Kỳ  mới
+ Đô  la  TT  ( TTD )
+ Đô  la  Mỹ
+ Pêsô  Uruquay
+ Bolívar  Vênêzuêla
+ Rand  Nam  Phi
+ Không  thể  mở  tập  tin  trợ  giúp
+ Nhóm  Việt  hóa  GNOME  ( http : / / live.gnome.org / GnomeVi )

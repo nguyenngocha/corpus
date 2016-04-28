@@ -1,0 +1,70 @@
+ Máy
+ Trình  truy  cập / quản  lý  máy  ảo
+ Truy  cập  máy  ảo
+ virtual  machine ; máy ; ảo ; may ; ao ; vm ;
+ Nhóm
+ Danh  sách  nhóm  máy  ảo
+ Quảng  nghỉ  chụp  hình
+ Khoảng  nghỉ  theo  giây  giữa  hai  lần  cập  nhật  hình  chụp
+ Khoảng  thời  gian  hoạt  cản
+ Thời  gian  dùng  cho  chuyển  đổi  và  hoạt  cảnh ,  theo  mili  giây .
+ Kích  thước  cửa  sổ
+ Kích  thước  cửa  sổ  ( rộng  và  cao )
+ Vị  trí  cửa  sổ
+ Vị  trí  cửa  sổ  ( x  và  y )
+ Cửa  sổ  phóng  to
+ Trạng  thái  cửa  sổ  phóng  to
+ Nhóm  Việt  hoá  GNOME
+ Ứng  dụng  GNOME  3  đơn  giản  để  truy  cập  hệ  thống  ảo  hoặc  từ  xa
+ Mới
+ Giới  thiệu  Máy
+ Thoát
+ Số  phiên  bản  hiển  thị
+ Mở  toàn  màn  hình
+ Kiểm  kha  khả  năng  ảo  hoá
+ Mở  bằng  UUID
+ Chuỗi  tìm  kiếm
+ URI  đến  display ,  broker  hoặc  installer  media
+ -  Ứng  dụng  đơn  giản  để  truy  cập  máy  ảo  hoặc  máy  ở  xa
+ Quá  nhiều  đối  số  dòng  lệnh  được  xác  định .
+ Đã  xoá  máy  ' % s '
+ Khởi  động  lại
+ Lỗi  kết  nối  đến  ' % s '
+ Mới  và  gần  đây
+ ( nhấn  phím  Ctrl + Alt  để  nhả )
+ Không  tìm  thấy  máy
+ Tạo  một  cái  bằng  nút  trên  bên  trái
+ Hệ  thống
+ Tên
+ Trình  ảo  hoá
+ URI
+ Chẩn  đoán  log
+ Lưu  log
+ Chép  vào  bảng  tạm
+ Lỗi  lưu :  % s
+ Thuộc  tính
+ Thêm  hỗ  trợ  cho  máy  khách
+ Hỗ  trợ  thiết  bị  USB
+ Hỗ  trợ  Smartcard
+ rỗng
+ CD / DVD
+ Chọn
+ Loại  bỏ
+ chọn  thiết  bị  hoặc  tập  tin  ISO
+ T _ hôi
+ Bộ  nhớ
+ Cần  khởi  động  lại  cho  ' % s ' .  Khởi  động  lại  nhé ?
+ Khởi  động  ' % s '  quá  lâu .  Buộc  tắt  máy  đó  nhé ?
+ Kích  cỡ  đĩa  tối  đa
+ Dữ  liệu  sẽ  bị  mật  khi  buộc  tắt  máy .
+ Phục  hồi  % s  từ  đĩa
+ Khởi  động  % s
+ Kết  nối  đến  % s
+ Nhập  mật  mã  cho  % s
+ Đang  lưu ...
+ Mật  mã
+ CPU  có  khả  năng  ảo  hoá :  % s
+ Môđun  KVM  đã  nạp :  % s
+ •  Libvirt  KVM  guest  sẵn  sàng :  % s
+ •  Ngữ  cảnh  SELinux  là  mặc  định :  % s
+ Thông  báo  lỗi  ( tiếng  Anh )  cho 

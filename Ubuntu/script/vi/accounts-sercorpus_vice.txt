@@ -1,0 +1,10 @@
+ Thay  đổi  dữ  liệu  người  dùng  của  chính  mình
+ Cần  xác  thực  để  thay  đổi  dữ  liệu  người  dùng  của  chính  mình
+ Quản  lý  tài  khoản  người  dùng
+ Cần  xác  thực  để  thay  đổi  dữ  liệu  người  dùng
+ Thay  đổi  cấu  hình  màn  hình  đăng  nhập
+ Cần  xác  thực  để  thay  đổi  cấu  hình  màn  hình  đăng  nhập
+ Hiện  phiên  bản  và  thoát
+ Thay  thế  bản  hiện  có
+ Bật  mã  tìm  lỗi
+ Cung  cấp  giao  tiếp  D-Bus  để  truy  vấn  và  thao  tác  thông  tin  tài  khoản  người  dùng .

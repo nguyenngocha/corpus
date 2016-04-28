@@ -1,0 +1,85 @@
+ Tù _ y  thích
+ Nhóm  mặ _ c  định
+ Chọn  layout .
+ Layout  bàn  phím  XKB
+ Thuộc  tính  GSwitchIt
+ không  được  dùng
+ Applet  XKB  của  Gnome
+ GNOME  XKB  applet  factory
+ Applet  của  GSwitchIt
+ GSwitchIt  applet  factory
+ Tiện  ích
+ Giới  thiệu  _ về ...
+ _ Nhóm
+ Trợ  _ giúp
+ Th _ uộc  tính ...
+ Đóng  góp  dịch  thuật
+ Bản  quyền  Sergey  V.  Udaltsov  ( C )  1999-2002
+ Bộ  công  cụ  XKB  cho  GNOME
+ Áp  dụng  cấu  hình  XKB  và  thoát
+ Làm  cho  chỉ  truy  cập  layout  từ  menu  bật  lên  của  applet .  Không  có  cách  chuyển  tới  layout  này  bằng  bàn  phím .
+ Không  sơ  khởi  GConf  được :  % s
+ ID  của  switchcut  hoạt  động
+ Chọn  nhóm  mặc  định  ( cho  các  cửa  sổ  được  tạo  mới ) .
+ Giữ  phân  cách  nhóm  cho  từng  cửa  sổ  ứng  dụng .
+ Giữ  trạng  thái  của  các  bộ  hiển  thị  riêng  biệt  cho  từng  cửa  sổ  ứng  dụng .
+ Lưu / Khôi  phục  bộ  _ hiển  thị  theo  nhóm
+ Phân  cách  nh _ óm  cho  từng  cửa  sổ
+ Không  thể  sơ  khởi  Bonobo
+ Không  sơ  khởi  XklConfigRegistry  được
+ ...
+ Lỗi  Bonobo
+ Chọn  layout .  Lưu  ý :  một  layout  có  thể  cung  cấp  vài  nhóm .
+ Chọn  model  của  bàn  phím  ( brand ,  số  phím ,  v.v ... ) .
+ Xóa  sạch
+ Xóa  sạch .
+ Phụ  thêm
+ Chung
+ _ Model  bàn  phím :
+ Tùy  chọn  1
+ Tùy  chọn  2
+ Phiên  bản  XFree86  này  không  hỗ  trợ  đa  layouts ,   nên  chỉ  chọn  được  một  layout .
+ Dùng  thiết  lập  XKB  mặc  định ,  bỏ  qua  thiết  lập  cấu  hình  toàn  cục  trong  XF86Config .
+ Dùng  thiết  lập  cấu  hình  mặc  định  trong  XF86Config .
+ Tiền  lập  toàn  _ cục
+ _ Layouts :
+ Xem  trước
+ Lối  tắt  _ Switch
+ Thiết  lập  XKB  mặc  định
+ Control  Phải
+ Control  Trái
+ Shift  Phải
+ Shift  Trái
+ Kêu  bíp  khi  chuyển  nhóm
+ Mức  gỡ  rối
+ Giữ  và  quản  lý  phân  cách  nhóm  cho  từng  cửa  sổ
+ Lưu / Khôi  phục  trình  chỉ  thị  cùng  với  các  nhóm  layout
+ Các  nhóm  phụ
+ Model  bàn  phím  XKB
+ Tùy  chọn  XKB
+ [ us ]
+ Thuộc  tính  GSwitchIt  Applet
+ Cho  kêu  _ bíp
+ Dùng  tiếng  bíp  hệ  thống  để  chỉ  thị  switch .
+ Thứ  cấp
+ Thuộc  tính  XKB
+ Thiết  lập  XKB : 
+ Thuộc  tính  XKB  chung
+ Thành  _ mặc  định
+ Để  _ vừa  khít
+ Cập  nhật  Xem  trước .  Có  thể  mất  chút  thời  gian .
+ Phóng  to / nhỏ
+ Phóng  to .
+ Thu  nhỏ .
+ Phóng  theo  mặc  định .
+ Phóng  cho  vừa .
+ T _ o
+ _ Nhỏ
+ Cậ _ p  nhật  Xem  trước
+ Trang  web  của  GSwitchIt  @  Sourceforge.net
+ Control  Trái  -  Control  Phải
+ Shift  Trái  -  Shift  Phải
+ Alt  -  Control  Trái
+ Alt  -  Control  Phải
+ Alt  -  Shift  Trái
+ Alt  -  Shift  Phải

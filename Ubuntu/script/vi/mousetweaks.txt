@@ -1,0 +1,27 @@
+ Nhấn  đơn
+ Nhấn  đúp
+ Kéo
+ Nhấn  phụ
+ Kiểu  nút
+ Chỉ  chữ
+ Chỉ  hình
+ Hình  và  chữ
+ Hướng
+ Ngang
+ Dọc
+ Kiểu  cửa  sổ  kiểu  nhấn
+ Hiện  cửa  sổ  kiểu  nhấn
+ Hướng  cửa  sổ  kiểu  nhấn
+ Hướng  cửa  sổ  kiểu  nhấn .
+ Vị  trí  cửa  sổ  kiểu  nhấn
+ Kích  thước  và  vị  trí  của  cửa  sổ  kiểu  nhấn ,  theo  định  dạng  chuỗi  toạ  độ  chuẩn  của  X.
+ Bật  nhấn  giữ
+ Hiệu  lực  cú  nhấn  phụ  mô  phỏng
+ Thời  gian  đợi  cú  nhấn  giữ
+ Khoảng  thời  gian  cần  đợi  trước  một  cú  nhấn  phụ  mô  phỏng .
+ Bỏ  qua  sự  chuyển  động  nhỏ  của  con  trỏ
+ Tắt  mousetweaks
+ Khởi  chạy  mousetweaks  dạng  trình  nền
+ Khởi  chạy  mousetweaks  lúc  đăng  nhập
+ -  Trình  nền  truy  cập  chuột  GNOME
+ Lỗi  hiển  thị  Trợ  giúp

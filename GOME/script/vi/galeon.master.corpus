@@ -1,0 +1,111 @@
+ Thêm  các  thanh  dạng  thư  mục
+ Thư  Mục  Mới
+ Bí  danh  không  được  phân  giải
+ Mở  trong  _ Tab  Mới
+ Mở  trong  Cửa  _ Sổ  Mới
+ Chép  Vị  Trí  _ Liên  Kết
+ Thêm  Đánh  _ dấu  vào  đây
+ Đánh  _ Dấu  MớiFileAddSmartSite "  verb = " AddSmartSite "  _ label = " New  S _ mart  Bookmarkfilename "  pixname = " @ prefix @ / @ DATADIRNAME @ / galeon / new _ item _ small.xpm
+ T _ hư  Mục  Mới
+ Mở  Thư  Mục  trong  _ Tab
+ Mở  Thư  Mục  trong  _ Cửa  Sổ
+ Hiện  như  _ Thanh  Công  Cụ
+ Đặ _ t  là  Thư  Mục  Mặc  Định
+ Site  mới
+ Thư  mục  mới
+ _ Tìm :
+ Thư  mục  đã  tạo  ra  tự  động .
+ Nội  dung  của  thư  mục  «  % s  »  đã  được  tạo  ra  tự  động  nên  bạn  không  thể  tự  thêm  hay  gỡ  bỏ  đánh  dấu  dưới  nó .
+ Site  Thông  Minh  Mới
+ Đánh  dấu  vừa  dùng
+ Đánh  dấu  mới  đã  đệ  nghị
+ Chọn  tập  tin  Đánh  dấu  cần  mở
+ Đánh  dấu  Epiphany
+ Dạng  thức  Đánh  dấu  RDF  Epiphany
+ Đồ  thuật  xuất  Đánh  dấu  của  Konqueror
+ Xuất  Đánh  dấu  của  Konqueror
+ Đồ  thuật  xuất  Đánh  dấu  của  Mozilla
+ Xuất  Đánh  dấu  của  Mozilla
+ Đồ  thuật  xuất  Đánh  dấu  của  Netscape
+ Xuất  Đánh  dấu  của  Netscape
+ Đồ  thuật  này  giúp  bạn  xuất  tập  tin  Đánh  dấu .  Nó  sẽ  tạo  sao  lưu  cho  bất  kỳ  tập  tin  nào  bị  ghi  đè .
+ Vị  trí  tập  tin  Đánh  dấu
+ Tìm  thấy  vị  trí  có  khả  năng :
+ Những  vị  trí  này  là  nơi  thường  để  các  Đánh  dấu .
+ Vị  trí  được  chọn :
+ Đây  là  nơi  thường  dùng .  Bạn  có  thể  chọn  một  từ  danh  sách  hoặc  nhập  cái  mới .
+ Đánh  dấu  được  xuất
+ Chọn  tập  tin  cần  xuất
+ Vị  trí
+ Kết  thúc  tiến  trình  xuất .  Để  an  toàn ,  bạn  có  một  sao  lưu  bộ  Đánh  dấu  cũ  trong  % s .
+ Tiến  trình  xuất  đã  kết  thúc .
+ Có  lỗi  khi  xuất  các  Đánh  dấu  của  bạn .
+ Druid  Nhập  Đánh  dấu  ( RDF )  Epiphany
+ Nhập  Đánh  dấu  ( RDF )  Epiphany
+ Đồ  thuật  Nhập  Đánh  dấu  ( của  Galeon  và  Konqueror )  XBEL
+ Nhập  Đánh  dấu  ( của  Galeon  và  Konqueror )  XBEL
+ Druid  Nhập  Đánh  dấu  Mozilla
+ Nhập  Đánh  dấu  Mozilla
+ Druid  Nhập  Đánh  dấu  Netscape
+ Nhập  Đánh  dấu  Netscape
+ Druid  này  sẽ  giúp  bạn  nhập  tập  tin  Đánh  dấu  và  trộn  chúng  và  tập  Đánh  dấu  hiện  có .
+ Trộn  Đánh  dấu  được  nhập
+ Đánh  dấu  đã  nhập :
+ Đây  là  những  Đánh  dấu  vừa  được  nhập .
+ Đánh  dấu  hiện  thời :
+ Đây  là  những  Đánh  dấu  trong  tập  bookmark  hiện  có .
+ Trộn  tự  động
+ Bạn  có  thể  trộn  thủ  công  hai  tập  Đánh  dấu  bằng  cách  " kéo   &   thả "  và  " chép   &   dán " .  Ngoài  ra  bạn  còn  có  thể  dùng  Bộ  trộn  tự  động .
+ Đánh  dấu  được  trộn  tự  động
+ Đánh  dấu  đã  trộn :
+ Đây  là  tập  Đánh  dấu  sau  khi  trộn .
+ Đánh  dấu  đã  được  nhập
+ Chọn  tập  tin  cần  nhập
+ Chưa  nhập  Đánh  dấu  nào .
+ Tiến  trình  nhập  hoàn  tất .  Để  an  toàn ,  bạn  nên  sao  lưu  tập  Đánh  dấu  cũ  trong  % s .
+ Tiến  trình  nhập  hoàn  tất
+ Dạng  thức  bookmark  Mozilla
+ Đánh  dấu  Mozilla
+ Thư  mục  thanh  công  cụ  cá  nhân
+ Không  thể  mở  tập  tin :  % s
+ Đánh  dấu  Netscape
+ % a ,  % b  % -d  % Y  at  % -I : % M  % p
+ Chưa  ghi  rõ
+ Đánh  dấu
+ Tái  hiện  Đánh  dấu
+ Tựa  đề
+ Dạng  thức  Đánh  dấu  XBEL
+ Gốc  Đánh  dấu  XBEL
+ Thư  mục  không  tên
+ Tên
+ Giá  trị
+ Đường  dẫn
+ Có
+ Không
+ Bảo  mật
+ Quá  hạn
+ % u  trên  % u  byte
+ % .1f  trên  % .1f  KB
+ % .1f  trên  % .1f  MB
+ % .1f  KB / g
+ % .1f  MB / g1.0  of  4.2  MB  at  42.0  KB / s1.2  MB  at  14.6  KB / s
+ % s  tại  % s
+ Không  biết
+ %
+ Tên  tập  tin
+ Kích  thước
+ Vẫn  còn
+ Hủy  bỏ  mọi  công  việc  đang  hoãn  chứ ?
+ Không  có  ứng  dụng  nào  được  dùng  để  mở  tập  tin  đã  cho .
+ Không  có  tờ  kiểu  dáng  của  người  dùng
+ Lạ  ( % s )
+ Tập  tin  cục  bộ
+ Khác
+ «  % s  »
+ Dòng  % d ,  Cột  % d ,  Tập  tin  «  % s  »  trong  «  % s  »
+ Bàn  giao  tiếp  JavaScript
+ _ Lệnh :
+ Định  _ giá
+ _ Xóa
+ Gặp  lỗi  khi  in .  Không  tìm  thấy  máy  in  nào .
+ Hãy  kiểm  tra  biến  môi  trường    "  XPSERVERLIST  "   ( danh  sách  trình  phục  vụ  XP )  có  chứa  ít  nhất  một  trình  phục  vụ  Xprint  hợp  lệ .  Để  tìm  thông  tin  thêm ,  hãy  xem     http \ : \ / \ / xprint \ .mozdev \ .org     hay 

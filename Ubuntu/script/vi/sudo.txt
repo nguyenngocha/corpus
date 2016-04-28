@@ -1,0 +1,131 @@
+ không  thể  mở  userdb
+ không  thể  chuyển  đến  sổ  đăng  ký  " % s "  cho  % s
+ không  thể  phục  hồi  sổ  đăng  ký
+ lỗi  nội  bộ ,  dùng  thử  erealloc ( 0 )
+ lỗi  nội  bộ ,  dùng  thử  erealloc2 ( 0 )
+ lỗi  nội  bộ ,  % s  bị  tràn
+ lỗi  nội  bộ ,  đã  dùng  thử  ecalloc ( 0 )
+ lỗi  nội  bộ ,  dùng  thử  erealloc3 ( 0 )
+ lỗi  nội  bộ ,  đã  dùng  erecalloc ( 0 )
+ giá  trị  không  hợp  lệ
+ giá  trị  quá  lớn
+ giá  trị  quá  nhỏ
+ % s :  % s :  % s
+ % s :  % s
+ nguồn  nhóm  không  được  hỗ  trợ  “ % s ”  trong  % s ,  dòng  % d
+ nhóm  tối  đa  không  hợp  lệ  “ % s ”  trong  % s ,  dòng  % d
+ không  thể  lấy  trạng  thái  về  % s
+ % s  không  phải  tập  tin  thường
+ % s  được  sở  hữu  bởi  uid  % u ,  nên  là  % u
+ % s  ai  ghi  cũng  được
+ % s  là  nhóm  có  thể  ghi
+ không  mở  được  % s
+ Không  hiểu  tín  hiệu
+ phần  bổ  xung  chính  sách  gặp  lỗi  khi  khởi  tạo  phiên
+ không  thể  tạo  tiến  trình  con
+ không  thể  thêm  sự  kiện  vào  hàng  đợi
+ không  thể  tạo  sockets
+ có  lỗi  trong  vòng  lặp  sự  kiện
+ không  thể  phục  hồi  nhãn  cho  tty
+ không  thể  xóa  bỏ  PRIV _ PROC _ EXEC  từ  PRIV _ LIMIT
+ không  thể  phân  bổ  pty
+ không  tạo  được  đường  ống  pipe
+ không  thể  đặt  thiết  bị  cuối  sang  chế  độ  raw
+ lỗi  khi  đọc  từ  đường  ống  dẫn  tín  hiệu
+ gặp  lỗi  khi  đọc  từ  một  đường  ống  dẫn  lệnh
+ gặp  lỗi  khi  đọc  từ  socketpair
+ kiểu  trả  về  không  như  mong  đợi  từ  backchannel :  % d
+ không  thể  đặt  điều  khiển  cho  tty
+ % s % s :  % s
+ % s  phải  được  sở  hữu  bởi  uid  % d
+ % s  phải  là  những  thứ  chỉ  có  thể  ghi  bởi  chủ  sở  hữu
+ không  thể  tải  % s :  % s
+ không  tìm  thấy  ký  hiệu  “ % s ”  trong  % s
+ lờ  đi  phần  bổ  xung  chính  sách  “ % s ”  trong  % s ,  dòng  % d
+ chỉ  được  phép  chỉ  định  một  phần  bổ  xung  chính  sách
+ lờ  đi  phần  bổ  xung  chính  sách  bị  trùng  lặp  “ % s ”  trong  % s ,  dòng  % d
+ phần  bổ  xung  chính  sách  % s  không  bao  gồm  phương  thức  kiểm  tra  chính  sách
+ load _ interfaces :  bị  tràn
+ không  mở  được  socket
+ đối  số  cho  -C  phải  là  một  số  lớn  hơn  hoặc  bằng  3
+ bạn  có  lẽ  không  được  chỉ  định  biến  môi  trường  trong  chế  độ  soạn  thảo
+ sudoedit  không  được  hỗ  trợ  trên  nền  tảng  này
+ Chỉ  có  một  trong  số  các  tùy  chọn  -e ,  -h ,  -i ,  -K ,  -l ,  -s ,  -v  hay  -V  được  chỉ  định
+ % s  -  sửa  chữa  các  tập  tin  trên  danh  nghĩa  người  dùng  khác
+ % s  -  thực  hiện  câu  lệnh  với  người  dùng  khác
+ Tùy  chọn :
+ chạy  lệnh  ở  chế  độ  nền
+ hiển  thị  trợ  giúp  này  rồi  thoát
+ đọc  mật  khẩu  từ  đầu  vào  tiêu  chuẩn
+ dừng  việc  xử  lý  đối  số  dòng  lệnh
+ không  thể  mở  hệ  thống  audit
+ không  thể  gửi  thông  tin  audit
+ không  thể  fgetfilecon  % s
+ % s  nhãn  đã  thay  đổi
+ Không  thể  phục  hồi  ngữ  cảnh  cho  % s
+ không  thể  mở  % s ,  không  phải  là  tty  liên  quan
+ không  thể  lấy  ngữ  cảnh  tty  hiện  hành ,  không  phải  là  tty  có  liên  quan
+ không  thể  lấy  ngữ  cảnh  tty  mới ,  không  phải  là  tty  có  liên  quan
+ không  thể  đặt  ngữ  cảnh  tty  mới
+ bạn  phải  chỉ  định  một  kiểu  vai  trò  cho  % s
+ không  thể  lấy  kiểu  mặc  định  cho  vai  trò  % s
+ lỗi  khi  đặt  đặt  vai  trò  mới  % s
+ lỗi  khi  đặt  kiểu  mới  % s
+ % s  không  phải  là  một  ngữ  cảnh  hợp  lệ
+ lỗi  lấy  ngữ  cảnh  cũ
+ không  thể  xác  định  rõ  chế  độ  ép  buộc .
+ không  thể  cài  đặt  ngữ  cảnh  tty  mới  cho  % s
+ không  thể  đặt  ngữ  cảnh  bảo  thực  thi  thành  % s
+ không  thể  đặt  ngữ  cảnh  tạo  khóa  thành  % s
+ cần  thiết  ít  nhất  một  đối  số
+ không  thể  thực  thi  % s
+ giới  hạn  điều  khiển  tài  nguyên  đã  tới  hạn
+ người  dùng  " % s "  không  phải  là  thành  viên  của  dự  án  " % s "
+ tác  vụ  được  gọi  đã  kết  thúc
+ không  thể  gia  nhập  dự  án  " % s "
+ không  kho  tài  nguyên  chung  nào  được  thừa  nhận  ràng  buộc  đã  tồn  tại  sẵn  cho  dự  án  " % s "
+ nguồn  tài  nguyên  chung  được  chỉ  ra  chưa  tồn  tại  cho  dự  án  " % s "
+ không  thể  buộc  phần  tài  nguyên  chung  mặc  định  cho  dự  án  " % s "
+ đặt  dự  án  cho  dự  án  " % s "  gặp  lỗi
+ cảnh  báo ,  nguồn  điều  khiển  gán  gặp  lỗi  cho  dự  án  " % s "
+ Phiên  bản  sudo  % s
+ Cấu  hình  các  tùy  chọn :  % s
+ lỗi  nghiêm  trọng ,  không  thể  tải  plugins
+ không  thể  khởi  tạo  phần  bổ  xung  chính  sách
+ Gặp  lỗi  khi  nạp  phần  bổ  sung  I / O  % s
+ không  mong  đợi  chế  độ  sudo  0x % x
+ không  thể  lấy  véc  tơ  nhóm
+ không  hiểu  uid  % u :  bạn  là  ai ?
+ % s  phải  được  sở  hữu  bởi  uid  % d  và  bít  setuid  phải  được  đặt
+ uid  hữu  hiệu  thì  không  là  % d ,  % s  trên  hệ  thống  tập  tin  với  tuỳ  chọn   ' nosuid '  được  đặt ,  hay  một  hệ  thống  tập  tin  NFS  không  có  đặc  quyền  của  root  có  phải  vậy  không ?
+ uid  hữu  hiệu  thì  không  là  % d ,  chương  trình  sudo  có  được  cài  với  setuid  root  không ?
+ không  rõ  lớp  đăng  nhập  % s
+ không  thể  đặt  ngữ  cảnh  người  dùng
+ không  thể  đặt  nhóm  phụ  IDs
+ không  thể  đặt  hiệu  ứng  gid  chạy  như  là  gid  % u
+ không  thể  thay  đổi  gid  thành  runas  gid  % u
+ không  thể  đặt  ưu  tiên  cho  quá  trình
+ không  thể  chuyển  đổi  thư  mục  gốc  thành  % s
+ không  thể  thay  đổi  thành  runas  uid  ( % u ,  % u )
+ không  thể  thay  đổi  thư  mục  thành  % s
+ biểu  thức  điều  kiện  con  kết  thúc  không  như  mong  đợi :  % d
+ phần  bổ  xung  chính  sách  % s  không  hỗ  trợ  liệt  kê  đặc  quyền
+ phần  bổ  xung  chính  sách  % s  không  hỗ  trợ  tùy  chọn  -v
+ phần  bổ  xung  chính  sách  % s  không  hỗ  trợ  tùy  chọn  -k / -K
+ không  thể  thay  đổi  uid  thành  root  ( % u )
+ lỗi  phần  bổ  xung :  thiếu  danh  sách  tập  tin  cho  sudoedit
+ % s :  không  phải  là  tập  tin  thường
+ % s :  ghi  ngắn
+ % s  còn  lại  chưa  thay  đổi
+ % s  không  thay  đổi
+ không  thể  ghi  vào  % s
+ nội  dung  của  phiên  chỉnh  sửa  chỉ  còn  % s
+ Không  đọc  tập  tin  tạm  thời
+ không  có  tty  hiện  diện  và  không  có  chương  trình  hỏi  mật  khẩu  nào  được  chỉ  ra
+ không  có  chương  trình  hỏi  mật  khẩu  nào  được  chỉ  ra ,  hãy  thử  cài  đặt  SUDO _ ASKPASS
+ không  thể  đặt  gid  thành  % u
+ không  thể  đặt  uid  thành  % u
+ không  thể  chạy  % s
+ không  thể  ghi  lại  stdin
+ không  thể  dup2  stdin
+ không  thể  phục  hồi  stdin

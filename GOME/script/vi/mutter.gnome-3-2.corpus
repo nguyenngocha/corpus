@@ -1,0 +1,129 @@
+ Bộ  quản  lý  cửa  sổ  đã  đang  chạy  trên  Màn  hình  % i  trên  bộ  trình  bày  " % s "
+ Chuyển  sang  vùng  làm  việc  1
+ Chuyển  sang  vùng  làm  việc  2
+ Chuyển  sang  vùng  làm  việc  3
+ Chuyển  sang  vùng  làm  việc  4
+ Chuyển  sang  vùng  làm  việc  5
+ Chuyển  sang  vùng  làm  việc  6
+ Chuyển  sang  vùng  làm  việc  7
+ Chuyển  sang  vùng  làm  việc  8
+ Chuyển  sang  vùng  làm  việc  9
+ Chuyển  sang  vùng  làm  việc  10
+ Chuyển  sang  vùng  làm  việc  11
+ Chuyển  sang  vùng  làm  việc  12
+ Chuyển  sang  vùng  làm  việc  bên  trái  vùng  làm  việc  hiện  thời
+ Chuyển  sang  vùng  làm  việc  bên  phải  vùng  làm  việc  hiện  thời
+ Chuyển  sang  vùng  làm  việc  bên  trên  vùng  làm  việc  hiện  thời
+ Chuyển  sang  vùng  làm  việc  bên  dưới  vùng  làm  việc  hiện  thời
+ Chuyển  giữa  các  cửa  sổ  khác  nhau  của  ứng  dụng ,  dùng  một  cửa  sổ  tự  mở
+ Chuyển  ngược  giữa  các  cửa  sổ  khác  nhau  của  ứng  dụng ,  dùng  một  cửa  sổ  tự  mở
+ Chuyển  giữa  các  cửa  sổ  khác  nhau ,  dùng  một  cửa  sổ  tự  mở
+ Chuyển  ngược  giữa  các  cửa  sổ  khác  nhau ,  dùng  một  cửa  sổ  tự  mở
+ Chuyển  giữa  các  bảng  và  màn  hình  nền ,  dùng  một  cửa  sổ  tự  mở
+ Chuyển  ngược  giữa  các  bảng  và  màn  hình  nền ,  dùng  một  cửa  sổ  tự  mở
+ Di  chuyển  ngay  giữa  các  cửa  sổ  của  ứng  dụng
+ Chuyển  ngược  ngay  giữa  các  cửa  sổ  của  ứng  dụng
+ Di  chuyển  giữa  các  cửa  sổ  ngay
+ Chuyển  ngược  ngay  giữa  các  cửa  sổ
+ Di  chuyển  giữa  các  bảng  và  màn  hình  nền  ngay
+ Di  chuyển  lùi  lại  giữa  các  bảng  và  màn  hình  nền  ngay
+ Ẩn  mọi  của  sổ  thông  thường  và  đặt  tiêu  điểm  vào  màn  hình  nền
+ Hiện  trình  đơn  chính  của  Bảng
+ Hiện  hộp  thoại  «  Chạy  ứng  dụng  »  của  Bảng
+ Bắt  đầu  hoặc  ngừng  thu  phiên  làm  việc
+ Chụp  hình
+ Chụp  hình  cửa  sổ
+ Chạy  thiết  bị  cuối
+ Kích  hoạt  trình  đơn  cửa  sổ
+ Bật / Tắt  Chế  độ  Toàn  màn  hình
+ Bật  tắt  trạng  thái  phóng  to
+ Bật / tắt  nếu  một  cửa  sổ  nào  đó  lúc  nào  cũng  hiển  thị  phía  trước  các  cửa  sổ  khác
+ Phóng  to  cửa  sổ
+ Phục  hồi  cửa  sổ
+ Bật  tắt  trạng  thái  đánh  bóng
+ Thu  nhỏ  cửa  sổ
+ Đóng  cửa  sổ
+ Di  chuyển  cửa  sổ
+ Co  giãn  cửa  sổ
+ Bật / tắt  nếu  cửa  sổ  nằm  trên  mọi  vùng  làm  việc ,  hay  chỉ  trên  một
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  1
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  2
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  3
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  4
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  5
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  6
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  7
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  8
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  9
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  10
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  11
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  12
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  bên  trái
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  bên  phải
+ Chuyển  cửa  sổ  lên  vùng  làm  việc  trên
+ Chuyển  cửa  sổ  xuống  vùng  làm  việc  dưới
+ Nâng  cửa  sổ  bị  cửa  sổ  khác  lấp ,   không  bị  lấp  thì  hạ  nó  xuống
+ Nâng  cửa  sổ  lên  trên  các  cửa  sổ  khác
+ Hạ  thấp  cửa  sổ  xuống  dưới  các  cửa  sổ  khác
+ Phóng  to  cửa  sổ  theo  chiều  dọc
+ Phóng  to  cửa  sổ  theo  chiều  ngang
+ Chuyển  cửa  sổ  sang  góc  tây  bắc  ( trái  trên )
+ Chuyển  cửa  sổ  sang  góc  đông  bắc  ( phải  trên )
+ Chuyển  cửa  sổ  sang  góc  tây  nam  ( trái  dưới )
+ Chuyển  cửa  sổ  sang  góc  đông  nam  ( phải  dưới )
+ Chuyển  cửa  sổ  sang  phía  bắc  ( trên )  màn  hình
+ Chuyển  cửa  sổ  sang  phía  nam  ( dưới )  màn  hình
+ Chuyển  cửa  sổ  sang  phía  đông  ( phải )  màn  hình
+ Chuyển  cửa  sổ  sang  phía  tây  ( trái )  màn  hình
+ Chuyển  cửa  sổ  vào  trung  tâm  của  màn  hình
+ Sự  kiện  chuông
+ Yêu  cầu  thông  tin  cửa  sổ  không  rõ :  % d
+   %  s   không  trả  lời .
+ Ứng  dụng  không  trả  lời .
+ Bạn  có  thể  chọn  chờ  một  lúc  trước  khi  buộc  chấm  dứt  ứng  dụng .
+ _ Chờ
+ _ Buộc  thoát
+ Thiếu  phần  mở  rộng  % s  cần  thiết  để  tổng  hợp
+ Lỗi  mở  bộ  trình  bày  Hệ  thống  Cửa  sổ  X  " % s " .
+ Một  chương  trình  khác  đã  dùng  phím  «  % s  »  với  phím  bổ  trợ  « % x »  như  là  tổ  hợp .
+ Gặp  lỗi  khi  chạy    %  s  :  % s
+ Không  có  lệnh  " % d "  nào  được  định  nghĩa .
+ Không  có  lệnh  thiết  bị  cuối  nào  được  định  nghĩa .
+ Vô  hiệu  hóa  kết  nối  với  bộ  quản  lý  phiên  làm  việc
+ Thay  thế  bộ  quản  lý  cửa  sổ  đang  chạy
+ Ghi  rõ  ID  quản  lý  phiên  làm  việc
+ Bộ  trình  bày  X  cần  dùng
+ Khởi  động  phiên  làm  việc  từ  tập  tin  lưu
+ Khiến  các  lời  gọi  X  đồng  bộ  với  nhau
+ Lỗi  quét  thư  mục  sắc  thái :  % s
+ Không  tìm  thấy  sắc  thái .  Hãy  bảo  đảm  % s  tồn  tại  và  chứa  những  sắc  thái  bình  thường .
+ mutter  % s  Tác  quyền  ©  2001- % d  của  Havoc  Pennington ,  Red  Hat ,  Inc . ,  và  những  người  khác .  Chương  trình  này  là  phần  mềm  tự  do ;  xem  mã  nguồn  để  tìm  điều  kiện  sao  chép .  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .
+ In  phiên  bản
+ Danh  sách  phần  bổ  sung  tổng  hợp  cách  nhau  bằng  dấu  phẩy
+ Khóa  GConf  «  % s  »  được  đặt  giá  trị  không  hợp  lệ
+ % d  được  lưu  trong  khoá  GConf  % s  nằm  ở  ngoại  phạm  vi  % d  đến  % d
+ Khóa  GConf  «  % s  »  được  đặt  kiểu  sai
+ Khoá  GConf  % s  đã  được  dùng  và  không  thể  ghi  đè  % s
+ Không  thể  ghi  đè  khoá  GConf ,  không  tìm  thấy  % s
+ Khả  năng  chỉnh  sửa  cho  các  ứng  dụng  không  theo  chuẩn  đã  đã  tắt .  Vài  ứng  dụng  có  thể  sẽ  xử  sự  không  đúng .
+ Không  thể  phân  tách  mô  tả  phông  chữ  «  % s  »  từ  khóa  GConf  «  % s  » .
+ Tìm  thấy  «  % s  »  trong  cơ  sở  dữ  liệu  cấu  hình  không  phải  giá  trị  hợp  lệ  cho  bộ  biến  đổi  nút  chuột .
+ Gặp  lỗi  khi  đặt  số  vùng  làm  việc  là  % d :  % s
+ Vùng  làm  việc  % d
+ Tìm  thấy  «  % s  »  trong  cơ  sở  dữ  liệu  cấu  hình  không  phải  giá  trị  hợp  lệ  cho  tổ  hợp  phím  «  % s  » .
+ Gặp  lỗi  khi  đặt  tên  cho  vùng  làm  việc  % d  thành  «  % s  » :  % s
+ Lỗi  đặt  trạng  thái  cửa  sổ  ẩn  sống :  % s
+ Lỗi  đặt  trạng  thái  không  tab  tự  mở :  % s
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  không  hợp  lệ .
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  đã  có  bộ  quản  lý  cửa  sổ  rồi ;  hãy  thử  dùng  tùy  chọn  « --replace »  để  _ thay  thế _  bộ  quản  lý  cửa  sổ  đang  dùng .
+ Không  thể  lấy  vùng  chọn  bộ  quản  lý  cửa  sổ  trên  Màn  hình  % d  trên  bộ  trình  bày  «  % s  » .
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  đã  có  bộ  quản  lý  cửa  sổ .
+ Không  thể  giải  phóng  Màn  hình  % d  trên  bộ  trình  bày  «  % s  » .
+ Không  thể  tạo  thư  mục  «  % s  » :  % s
+ Không  thể  mở  tập  tin  phiên  làm  việc  «  % s  »  để  ghi :  % s
+ Gặp  lỗi  khi  ghi  tập  tin  phiên  làm  việc  «  % s  » :  % s
+ Gặp  lỗi  khi  đóng  tập  tin  phiên  làm  việc  «  % s  » :  % s
+ Lỗi  phân  tích  tập  tin  phiên  làm  việc  đã  lưu :  % s
+ Thấy  thuộc  tính   <  mutter _ session  >  ,  nhưng  đã  có  session  ID
+ Không  nhận  ra  thuộc  tính  % s  trên  phần  tử 
+ phải xác định cho kiểu dáng khung này.

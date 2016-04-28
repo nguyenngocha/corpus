@@ -1,0 +1,93 @@
+ Devhelp
+ Trợ  giúp  phát  triển
+ Chương  trình  trợ  giúp  cho  nhà  phát  triển
+ Bộ  duyệt  tài  liệu
+ Tình  trạng  được  cực  đại  hóa  của  cửa  sổ  chính
+ Khi  nào  cửa  sổ  chính  bắt  đầu  với  kích  cỡ  lớn  nhất .
+ Độ  rộng  của  cửa  sổ  chính
+ Độ  rộng  của  cửa  sổ  chính .
+ Độ  cao  của  cửa  sổ  chính
+ Độ  cao  của  cửa  sổ  chính .
+ Vị  trí  X  của  cửa  sổ  chính
+ Vị  trí  X  của  cửa  sổ  chính .
+ Vị  trí  Y  của  cửa  sổ  chính
+ Vị  trí  Y  của  cửa  sổ  chính .
+ Độ  rộng  của  mục  lục  và  ô  tìm  kiếm
+ Độ  rộng  của  mục  lục  và  ô  tìm  kiếm .
+ Thanh  đã  chọn :  " nội  dung "  hoặc  " tìm  kiếm "
+ Đối  với  thanh  đã  chọn :  ' nội  dung '  hoặc  ' tìm  kiếm ' .
+ Tắt  sách
+ Tắt  danh  mục  sách  bởi  người  dùng .
+ Nhóm  theo  ngôn  ngữ
+ Có  nhóm  sách  theo  ngôn  ngữ  không
+ Độ  rộng  của  cửa  sổ  trợ  giúp
+ Độ  rộng  của  cửa  sổ  trợ  giúp .
+ Độ  cao  của  cửa  sổ  trợ  giúp
+ Độ  cao  của  cửa  sổ  trợ  giúp .
+ Vị  trí  X  của  cửa  sổ  trợ  giúp
+ Vị  trí  X  của  cửa  sổ  trợ  giúp .
+ Vị  trí  Y  của  cửa  sổ  trợ  giúp
+ Vị  trí  Y  của  cửa  sổ  trợ  giúp .
+ Dùng  phông  hệ  thống
+ Sử  dụng  các  phông  mặc  định  của  hệ  thống .
+ Phông  cho  văn  bản
+ Phông  cho  văn  bản  có  độ  rộng  thay  đổi .
+ Phông  cho  văn  bản  cố  định
+ Phông  cho  văn  bản  có  độ  rộng  cố  định ,  như  mã  ví  dụ .
+ Hỗ  trợ  của  Trợ  giúp  phát  triển
+ Đặt  phím  F2  để  hiển  thị  Trợ  giúp  Phát  triển  cho  từ  ở  vị  trí  con  trỏ
+ Hiển  thị  tài  liệu  hướng  dẫn  API
+ Launchpad  Contributions :    Clytie  Siddall  https : / / launchpad.net / ~ clytie    Nguyễn  Thái  Ngọc  Duy  https : / / launchpad.net / ~ pclouds    lngt  https : / / launchpad.net / ~ longuyet
+ Bộ  duyệt  trợ  giúp  của  GNOME  dành  cho  nhà  phát  triển
+ Hỗ  trợ  của  Trợ  giúp  phát  triểnDevhelp
+ Devhelp  -  Trợ  giúp
+ Sách :
+ Ngôn  ngữ :  % s
+ Ngôn  ngữ :  Không  xác  định
+ Sáchpage
+ Trang
+ Từ  khoá
+ Hàm
+ Struct
+ Macro
+ Enum
+ Kiểu
+ Mở  cửa  sổ  Devhelp  mới
+ Tìm  từ  khoá
+ TỪ  KHOÁ
+ Tìm  và  hiển  thị  kết  quả  trong  cửa  sổ  hỗ  trợ
+ Hiển  thị  phiên  bản  rồi  thoát
+ Thoát  bất  kì  chương  trình  trợ  giúp  phát  triển  nào  đang  chạy
+ Đợi  ' % s ' ,  nhận  ' % s '  tại  dòng  % d ,  cột  % d
+ Miền  tên  không  hợp  lệ  ' % s '  tại  dòng  % d ,  cột  % d
+ các  yếu  tố  " title " ,  " name "  và  " link "  đều  phải  có  tại  dòng  % d ,  cột  % d
+ các  yếu  tố  " name "  và  " link "  đều  phải  có  bên  trong   <  sub  >   tại  dòng  % d ,  cột  % d
+ các  yếu  tố  " name "  và  " link "  đều  phải  có  bên  trong  ' % s '  tại  dòng  % d ,  cột  % d
+ yếu  tố  " type "  phải  có  bên  trong   <  keyword  >   tại  dòng  % d ,  cột  % d
+ Không  thể  giải  nén  quyển  sách  ' % s ' :  % s
+ Cấu  hình
+ _ Nhóm  theo  ngôn  ngữ
+ Bật
+ Tựa
+ Kệ  sách
+ _ Dùng  phông  hệ  thống
+ Độ  rộng  _ không  cố  định : 
+ Độ  rộng  _ cố  định :
+ Phông
+ 50 %
+ 75 %
+ 100 %
+ 125 %
+ 150 %
+ 175 %
+ 200 %
+ 300 %
+ 400 %
+ Lỗi  mở  liên  kết  yêu  cầu
+ Đón _ g
+ Trang  trắng
+ _ Thanh  mới
+ _ In
+ _ Tìm
+ Chữ  _ lớn  hơn
+ Chữ  _ nhỏ  hơn

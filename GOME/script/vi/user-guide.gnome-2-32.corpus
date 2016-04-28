@@ -1,0 +1,445 @@
+ Từ  điển  thuật  ngữ
+ tiểu  dụng
+ Một  tiểu  dụng  là  một  ứng  dụng  tương  tác  nhỏ  nằm  trong  một  thanh  điều  khiển ,  ví  dụ    Volume   Control  .  Mỗi  tiểu  dụng  có  một  giao  diện  người  dùng  đơn  giản  mà  bạn  có  thể  thao  tác  với  chuột  hoặc  bàn  phím .
+ bàn  làm  việc
+ Phần  của  Bàn  làm  việc  GNOME  không  có  các  mục  đồ  hoạ  giao  diện ,  như  là  các  thanh  điều  khiển  và  các  cửa  sổ .
+ hình  nền  bàn  làm  việc
+ Ảnh  hoặc  màu  sử  dụng  cho  bàn  làm  việc .
+ đối  tượng  trên  bàn  làm  việc
+ Một  biểu  tượng  trên  bàn  làm  việc  có  thể  sử  dụng  để  mở  tệp ,  thư  mục  và  ứng  dụng .  Bạn  có  thể  dùng  các  đối  tượng  trên  bàn  làm  việc  để  có  một  cách  thức  tiện  lợi  để  truy  cập  tệp ,  thư  mục  và  ứng  dụng  mà  bạn  thường  xuyên  sử  dụng .
+ Tên  DNS
+ Một  tên  riêng  để  phân  biệt  một  máy  tính  trong  mạng .
+ ngăn  kéo
+ Ngăn  kéo  là  một  bảng  trượt  có  thể  đóng  mở  bằng  biểu  tượng  ngăn  kéo .
+ phần  mở  rộng
+ Phần  cuối  trong  tên  của  tệp ,  nó  nằm  sau  dấu  chấm  ( . )  cuối  cùng  trong  tên  tệp .  Ví  dụ ,  phần  mở  rộng  của  tệp    hình.jpeg   là    jpeg  .
+ Phần  mở  rộng  tệp  có  thể  chỉ  ra  kiểu  của  tệp .  Trình  quản  lý  tập  tin    Nautilus   sử  dụng  thông  tin  này  để  xác  định  phải  làm  gì  để  mở  tệp .  Chi  tiết ,  xem   .
+ định  dạng
+ Định  dạng  thiết  bị  là  thao  tác  chuẩn  bị  thiết  bị  trước  khi  sử  dụng  với  một  hệ  thống  tập  tin  nào  đó .  Khi  bạn  định  dạng  thiết  bị ,  tất  cả  các  dữ  liệu  trên  thiết  bị  sẽ  bị  mất .
+ Trình  ứng  dụng  chuẩn  GNOME
+ Ứng  dụng  sử  dụng  các  thư  viện  lập  trình  chuẩn  GNOME  được  gọi  là  ứng  dụng  chuẩn  GNOME .  Ví  dụ ,  Trình  quản  lý  tập  tin    Nautilus   và  trình  soạn  chữ    gedit   là  những  ứng  dụng  GNOME  chuẩn .
+ Địa  chỉ  IP
+ Một  dãy  số  riêng  để  phân  biệt  một  máy  tính  trong  mạng .
+ phím  tắt
+ Một    phím   tắt   là  một  hoặc  nhiều  phím  kết  hợp  cung  cấp  một  cách  thức  khác  để  thực  hiện  một  thao  tác .
+ bộ  khởi  chạy
+ Bộ  khởi  chạy  khởi  động  một  chương  trình  nào  đó ,  thực  thi  một  lệnh ,  hoặc  mở  một  tệp .  Bộ  khởi  chạy  có  thể  đặt  trong  bảng  hoặc  trong  trình  đơn .
+ thanh  trình  đơn
+ Thanh  trình  đơn  là  thanh  nằm  trên  cùng  trong  cửa  sổ  ứng  dụng ,  chứa  trình  đơn  của  ứng  dụng .
+ Kiểu  MIME
+ Multipurpose  Internet  Mail  Extension  ( MIME )  ( tạm  dịch :  phần  mở  rộng  đa  mục  đích  cho  thư  điện  tử  trên  Internet ) .  Kiểu  MINE  có  thể  phân  biệt  định  dạng  của  một  tệp  và  cho  phép  chọn  ứng  dụng  để  đọc  tệp .  Ví  dụ :  Một  ứng  dụng  thư  điện  tử  có  thể  dùng  kiểu  MINE    image  /  png   để  phát  hiện  tệp  Portable  Networks  Graphic  ( PNG )  được  đính  kèm  trong  thư .
+ gắn  kết
+ Gắn  kết  là  thao  tác  để  làm  cho  một  hệ  thống  tập  tin  nào  đó  sử  dụng  được .  Khi  bạn  gắn  một  hệ  thống  tập  tin ,  hệ  thống  tập  tin  sẽ  trở  thành  một  thư  mục  con  hệ  thống  tập  tin  của  bạn .
+ ô
+ Ô  là  một  vùng  nhỏ  của  cửa  sổ .  Ví  dụ  cửa  sổ    Nautilus   chứa  một  ô  bên  và  một  ô  xem .
+ công  cụ  tùy  thích
+ Một  công  cụ  phần  mềm  chuyên  dụng  điều  khiển  một  phần  nào  đó  cách  ứng  xử  của  Bàn  làm  việc  GNOME .
+ Phím  tắt  là  các  phím  cho  phép  thực  hiện  thao  tác  nhanh .
+ xếp  chồng  lên  nhau
+ Xếp  chồng  lên  nhau  là  một  cách  sắp  xếp  các  cửa  sổ  sao  cho  mỗi  cửa  sổ  được  đặt  chồng  lên  nhau  trên  màn  hình .
+ thanh  trạng  thái
+ Thanh  trạng  thái  là  thanh  nằm  ở  dưới  cùng  trên  cửa  sổ ,  cung  cấp  các  thông  tin  về  tình  trạng  hiện  tại  của  cái  bạn  xem  trong  cửa  sổ .
+ liên  kết  tượng  trưng
+ Một  kiểu  tệp  đặc  biệt  trỏ  đến  tệp  hay  thư  mục  khác .  Khi  bạn  thực  hiện  thao  tác  với  tệp  liên  kết  tượng  trưng ,  thao  tác  được  thực  hiện  vào  tệp  hay  thư  mục  mà  liên  kết  tượng  trưng  trỏ  đến .
+ thanh  công  cụ
+ Thanh  công  cụ  là  thanh  chứa  các  nút  thường  được  sử  dụng  nhất  trong  ứng  dụng .  Thông  thường ,  thanh  công  cụ  nằm  dưới  thanh  trình  đơn .
+ Uniform  Resource  Identifier
+ Uniform  Resource  Identifier  ( URI )  ( tạm  dịch :  định  danh  tài  nguyên  thống  nhất )  là  một  chuỗi  chỉ  một  vị  trí  cụ  thể  trong  hệ  thống  tập  tin  hoặc  trên  Web .  Ví  dụ ,  địa  chỉ  trang  web  là  một  URI .
+ Uniform  Resource  Locator
+ Uniform  Resource  Locator  ( URL )  ( tạm  dịch :  định  vị  tài  nguyên  thống  nhất )  là  địa  chỉ  một  vị  trí  cụ  thể  trên  Web .
+ cách  xem
+ Thành  phần    Nautilus   cho  phép  bạn  hiển  thị  thư  mục  theo  cách  thức  nào  đó .  Ví  dụ :    Nautilus   có  cách  xem  biểu  tượng  cho  phép  bạn  hiển  thị  nội  dung  của  thư  mục  dưới  dạng  các  biểu  tượng .    Nautilus   cũng  có  cách  xem  danh  sách  cho  phép  bạn  hiển  thị  nội  dung  của  thư  mục  dưới  dạng  một  danh  sách .
+ nơi  làm  việc
+ Vùng  làm  việc  là  một  nơi  riêng  biệt  trong  Bàn  làm  việc  GNOME ,  nơi  bạn  có  thể  thực  hiện  công  việc .
+ Phản  hồi
+ Phần  này  chứa  thông  tin  về  báo  cáo  lỗi  trong  GNOME ,  gợi  ý  và  chú  thích  về  ứng  dụng  hay  tài  liệu  GNOME .
+ Thông  báo  lỗi
+ Nếu  bạn  tìm  thấy  một  lỗi  của  một  trong  các  ứng  dụng  GNOME ,  hãy  báo  cáo  lỗi  đó !  Các  nhà  phát  triển  sẽ  đọc  tất  cả  các  báo  cáo  lỗi  và  cố  gắng  sửa  chúng .  Hãy  có  gắng  càng  cụ  thể  càng  tốt  khi  miêu  tả  các  tình  huống  gây  lỗi  ( bạn  đã  nhập  những  lệnh  nào ?  nút  nào  bạn  đã  ấn ? )  Nếu  có  bất  kỳ  một  tin  nhắn  báo  lỗi  nào ,  hãy  chắc  chắn  đã  gửi  kèm  chúng  theo .
+ Cách  dễ  nhất  để  báo  cáo  lỗi  là  sử  dụng    Bug   Buddy  ,  công  cụ  báo  cáo  lỗi  có  sẵn  của  GNOME .  Nó  sẽ  chạy  tự  động  trong  các  sự  kiện  ứng  dụng  sụp  đổ .  Các  chi  tiết  mà  các  nhà  phát  triển  GNOME  cần  tự  động  được  thu  nhặt ,  nhưng  bạn  có  thể  trợ  giúp  nhiều  hơn  bằng  cách  gửi  thông  tin  về  những  gì  bạn  đang  làm  khi  sụp  đổ  xảy  ra .
+ Bạn  có  thể  gửi  các  lỗi  và  duyệt  danh  sách  các  lỗi  đã  biết  bằng  cách  kết  nối  tớ    cơ   sở   dữ   liệu   theo   dõi   lỗi   GNOME  .  Bạn  sẽ  cần  phải  đăng  ký  trước  khi  có  thể  gửi  lỗi  theo  cách  này  —  và  đừng  quên  đọc    Hướng   dẫn   ghi   lỗi  .
+ Hãy  chú  ý  rằng  một  vài  ứng  dụng  GNOME  được  phát  triển  bên  ngoài  GNOME ,  hoặc  bởi  các  công  ty  thương  mại  ( những  sản  phẩm  này  vẫn  là  phần  mềm  tự  do ) .  Ví  dụ ,    Inkscape  ,  một  ứng  dụng  đồ  hoạ  vec-tơ ,  được  phát  triển  tại    SourceForge  .  Các  báo  cáo  lỗi  và  bình  luận  về  những  sản  phẩm  này  nên  gửi  trực  tiếp  về  các  công  ty  hay  tổ  chức  tương  ứng .  Nếu  bạn  đang  sử  dụng    Bug   Buddy  ,  nó  sẽ  tự  động  gửi  báo  cáo  lỗi  cho  cơ  sở  dữ  liệu  đúng .
+ Gợi  ý  và  bình  luận
+ Nếu  bạn  có  gợi  ý  hoặc  muốn  yêu  cầu  một  chức  năng  mới  cho  một  trong  các  ứng  dụng ,  điều  đó  có  thể  được  làm  bằng  cách  sử  dụng  cơ  sở  dữ  liệu  theo  dõi  lỗi .  Gửi  gợi  ý  của  bạn  như  một  báo  cáo  lỗi  như  miêu  tả  trong    và  tại  bước  phù  hợp  chọn    Severity  :   Enhancement  .
+ Các  bình  luận  tài  liệu
+ Nếu  bạn  tìm  thấy  sự  không  chuẩn  xác  hay  lỗi  in  trong  một  thuộc  các  tài  liệu  GNOME ,  hoặc  có  bất  kỳ  bình  luận  hay  gợi  ý  nào  về  tài  liệu ,  hãy  cho  chúng  tôi  biết !  Cách  dễ  nhất  để  làm  như  vậy  là  gửi  một  báo  cáo  lỗi  như  đã  giải  thích  trước  đây  và  lựa  chọn    Component  :   docs   tại  các  bước  phù  hợp  ( hoặc    general   nếu  không  có  thành  phần    docs  ) .  Nếu  bình  luận  của  bạn  về  tài  liệu  GNOME  chung  ( như  là    Hướng   dẫn   người   dùng   GNOME  )  hơn  là  các  sổ  tay  ứng  dụng  cụ  thể ,  lựa  chọn    Product  :   gnome-user-docs  .
+ Một  cách  thay  thế ,  bạn  có  thể  chỉ  cần  gửi  bình  luận  bằng  thư  điện  tử  về  danh  sách  thư    Dự   án   Tài   liệu   GNOME  ;  vị  trí  của  chúng  tôi  là    gnome-doc-list  @  gnome.org   Và  dù  sao :  nếu  bạn  không  phải  một  nhà  phát  triển  nhưng  muốn  giúp  đỡ  GNOME  —    tham   gia   GDP   và  giúp  đỡ  chúng  tôi  cải  thiện  tài  liệu  GNOME .
+ Tham  gia  Dự  án  GNOME
+ Chúng  tôi  hi  vọng  bạn  thích  thú  khi  sử  dụng  GNOME  và  tìm  thấy  ở  GNOME  khả  năng  làm  việc  với  năng  suất  cao .  Dù  sao  đi  nữa ,  chúng  tôi  vẫn  còn  chỗ  cần  cải  thiện .
+ GNOME  mời  bạn  tham  gia  cộng  đồng  phần  mềm  tự  do  nếu  bạn  có  thời  gian  rảnh  rỗi .  Có  nhiều  lĩnh  vực  khác  nhau .  GNOME  cần  các  lập  trình  viên ,  nhưng  cũng  cần  cách  phiên  dịch  viên ,  người  biên  soạn  tài  liệu ,  người  kiểm  tra ,  nghệ  sĩ ,  nhà  văn  và  những  công  việc  khác  nữa .
+ Để  biết  thêm  thông  tin  về  việc  gia  nhập  GNOME ,  vui  lòng  đến    http  :  /  /  live.gnome.org  /  JoinGnome  .
+ Để  biết  thêm  thông  tin  về  việc  gửi  phản  hồi  cho  GNOME ,  như  là  các  báo  cáo  lỗi ,  các  gợi  ý ,  và  các  sửa  chữa  cho  tài  liệu ,  hãy  xem   .
+ Công  cụ  và  Tiện  ích
+ Phần  này  miêu  tả  vài  công  cụ  và  tiện  ích  trong  Bàn  làm  việc  GNOME .
+ Chạy  Ứng  Dụng
+ Hộp  thoại  Chạy  ứng  dụng ,  dùng
+ Hộp  thoại    Chạy   ứng   dụng   cho  phép  bạn  truy  cập  đến  dòng  lệnh .  Khi  bạn  chạy  một  lệnh  trong  hộp  thoại    Chạy   ứng   dụng  ,  bạn  không  thể  xem  dữ  liệu  xuất  ra  từ  ứng  dụng .
+ Để  chạy  lệnh  từ  dòng  lệnh  thực  hiện  các  bước  sau :
+ Từ  thanh  điều  khiển
+ Bạn  có  thể  thêm  nút    Chạy   ứng   dụng   vào  thanh  điều  khiển .  Xem   .  Nhấn  vào  nút    Chạy   ứng   dụng   trên  thanh  để  mở  hộp  thoại    Chạy   ứng   dụng  .
+ Sử  dụng  phím  tắt
+ Nhấn       Alt       F2    .  Bạn  có  thể  thay  đổi  phím  tắt  để  mở  hộp  thoại    Chạy   ứng   dụng   trong    công   cụ   tùy   thích      Phím    tắt    .
+ Mở  hộp  thoại    Chạy   ứng   dụng   bằng  một  trong  các  cách  sau :  
+ Hộp  thoại    Chạy   ứng   dụng   hiện  ra .
+ Nhập  lệnh  bạn  muốn  chạy  trong  ô  trống ,  hoặc  chọn  từ  danh  sách  các  ứng  dụng  đã  có .
+ Nếu  bạn  chỉ  nhập  vị  trí  của  tệp ,  một  ứng  dụng  tương  ứng  sẽ  được  chạy  để  mở  tệp .  Nếu  bạn  nhập  địa  chỉ  một  trang  web ,  trình  duyệt  mặc  định  của  bạn  sẽ  mở  trang  web  bạn  nhập  vào .  Đánh  địa  chỉ  trang  web  bắt  đầu  với  http : / / ,  như  http : / / www.gnome.org.
+ Để  chọn  một  lệnh  bạn  đã  chạy  trước  đó ,  nhấn  mũi  tên  xuống  bên  cạnh  ô  nhập  lệnh ,  sau  đó  chọn  lệnh  muốn  chạy .
+ Bạn  có  thể  dùng  nút    Chạy   với   tập   tin   để  chọn  tập  tin  thêm  vào  cuối  dòng  lệnh .  Ví  dụ :  bạn  có  thể  nhập  lệnh    emacs  ,  sau  đó  chọn  tập  tin  để  sửa .
+ Chọn  tùy  chọn    Chạy   trong   trình   cuối   để  chạy  ứng  dụng  hoặc  lệnh  trong  một  cửa  sổ  trình  cuối .  Chọn  tùy  chọn  này  cho  ứng  dụng  hay  lệnh  nào  không  tạo  cửa  sổ  để  chạy  trong  đó .
+ Nhấn  nút    Chạy   trên  hộp  thoại    Chạy   ứng   dụng  .
+ Chụp  ảnh  màn  hình
+ chụp  ảnh  màn  hình
+ Bạn  có  thể  chụp  ảnh  màn  hình  theo  các  cách  dưới  đây :
+ Bạn  thêm  nút    Chụp   ảnh   màn   hình   vào  bất  kỳ  thanh  điều  khiển  nào .  Để  biết  cách  thực  hiện  thao  tác  này ,  xem   .  Nhấn  nút    Chụp   màn   hình   để  chụp  ảnh  toàn  bộ  màn  hình .
+ Dùng  phím  tắt
+ Để  chụp  màn  hình ,  dùng  các  phím  tắt  sau :
+ Phím  tắt  mặc  định
+ Chức  năng
+ Print  Screen
+ Chụp  toàn  bộ  màn  hình .
+ Alt
+ Chụp  một  ảnh  cho  cửa  sổ  đang  hoạt  động .
+ Bạn  có  thể  sử  dụng    công   cụ   tùy   thích     Phím    tắt     để  thay  đổi  các  phím  tắt  mặc  định .
+ Từ  thanh  trình  đơn
+ Chọn       Ứng    dụng       Bổ    trợ       Chụp    ảnh    màn    hình    .
+ Từ  cửa  sổ  trình  cuối
+ Bạn  có  thể  dùng  lệnh    gnome-screenshot   để  chụp  ảnh  màn  hình .  Lệnh    gnome-screenshot   chụp  ảnh  toàn  màn  hình  và  hiển  thị  hộp  thoại    Lưu   hình  .  Dùng  hộp  thoại    Lưu   hình   để  lưu  ảnh  màn  hình  đã  chụp .
+ Bạn  cũng  có  thể  dùng  các  tùy  chọn  lệnh    gnome-screenshot   như  sau :
+ Tùy  chọn
+ --window
+ Chụp  ảnh  cửa  sổ  đang  làm  việc .
+ giây
+ --delay = 
+ Chụp  ảnh  sau  thời  gian  một  số  giây  được  chỉ  định ,  và  hiển  thị  hộp  thoại    Lưu   hình  .  Sử  dụng  hộp  thoại    Lưu   hình   để  lưu  ảnh  màn  hình  đã  chụp .
+ --include-border
+ Chụp  ảnh  màn  hình ,  lấy  cả  viền  của  cửa  sổ .
+ Chụp  ảnh  màn  hình ,  không  lấy  viền  của  cửa  sổ .
+ --border-effect = shadow
+ Chụp  một  ảnh  màn  hình  và  thêm  hiệu  ứng  đổ  bóng  xung  quanh  nó
+ --border-effect = border
+ Mở  một  cửa  sổ  để  bạn  đặt  các  tuỳ  chọn  trước  khi  chụp  ảnh  màn  hình .
+ --help
+ Hiển  thị  các  tùy  chọn  của  lệnh .
+ Khi  bạn  chụp  một  ảnh  màn  hình ,  hộp  thoại    Lưu   ảnh   màn   hình   sẽ  xuất  hiện .  Để  lưu  ảnh  chụp  màn  hình  như  một  tập  tin  ảnh ,  hãy  nhập  tên  tập  tin  cho  ảnh ,  chọn  một  vị  trí  từ  danh  sách  thả  xuống  và  chọn  nút    Lưu  .  Bạn  cũng  có  thể  sử  dụng  nút    Sao   chép   sang   bộ   nhớ   tạm   để  sao  chép  ảnh  sang  bộ  nhớ  tạm  hoặc  chuyển  nó  sang  một  ứng  dụng  khác  bằng  cách  kéo-thả .
+ Trình  xem  Trợ  giúp  Yelp
+ Yelp
+ Giới  thiệu
+   Trình   xem   Trợ   giúp   Yelp   được  quốc  tế  hóa ,  có  nghĩa  là  nó  hỗ  trợ  để  xem  tài  liệu  chứa  nhiều  ngôn  ngữ  khác  nhau .  Tài  liệu  phải  được  địa  phương  hóa ,  hay  được  dịch  riêng  cho  mỗi  ngôn  ngữ ,  và  được  cài  đặt  đúng  để  Trình  xem  Trợ  giúp  Yelp  có  thể  xem  được .
+ Đang  khởi  động  Yelp
+ Khởi  động    Trình   xem   Trợ   giúp   Yelp 
+ Bạn  có  thể  khởi  động    Trình   xem   Trợ   giúp   Yelp   bằng  các  cách  dưới  đây :
+ Trình  đơn    Hệ   thống 
+ Chọn    Trợ   giúp   và   Hỗ   trợ 
+ Dòng  lệnh
+ Thực  thi  lệnh  sau  đây :    yelp 
+ Giao  diện
+ Khi  bạn  khởi  động    Trình   xem   Trợ   giúp   Yelp  ,  bạn  sẽ  thấy  cửa  sổ  bên  dưới  hiện  ra :
+ Cửa  sổ    Trình   xem   Trợ   giúp   Yelp 
+    Trình   xem   Trợ   giúp   Yelp   chứa  các  thành  phần  trong  
+ Thanh  trình  đơn
+ Tập  tin
+ Sử  dụng  trình  đơn  này  để  Mở  một  cửa  sổ  mới ,  xem  Trang  thông  tin  về  tài  liệu ,  In  tài  liệu  hiện  tại ,  hay  Đóng  cửa  sổ .
+ Sửa
+ Sử  dụng  trình  đơn  này  để  Chép ,  Chọn  cả ,  Tìm ... ,  hoặc  đặt  các  Tùy  thích  của  bạn .
+ Xem
+ Đánh  dấu
+ Sử  dụng  trình  đơn  này  để  Thêm  Đánh  dấu  hoặc  để  Sửa  Đánh  dấu
+ Trợ  giúp
+ Xem  thông  tin  về  Trình  xem  Trợ  giúp  Yelp  và  các  cộng  tác  viên  của  dự  án  qua  mục  trình  đơn    Giới   thiệu  .  Mở  tài  liệu  này  với  mục  trình  đơn    Mục   lục   hoặc  nhấn    F1  .
+ Thanh  công  cụ
+ Quay  lại
+ Dùng  nút  này  để  quay  lại  trang  tài  liệu  đã  xem .
+ Tiến  lên
+ Dùng  nút  này  để  tiến  tới  trang  bạn  đã  xem  sau  trang  bạn  đang  xem .
+ Chủ  đề  trợ  giúp
+ Dùng  nút  này  để  quay  lại  bảngmục  lục  chính  ( đã  hiện  trong   ) .
+ Ô  trình  duyệt
+ Ô  trình  duyệt  là  nơi  hiển  thị  bảng  mục  lục  hoặc  tài  liệu .  Sử  dụng  bảng  mục  lục  để  chuyển  đến  tài  liệu  bạn  cần .
+ Sử  dụng  Yelp
+ Mở  tài  liệu
+ Sử  dụng  Bảng  Nội  dung  để  điều  hướng  tới  tài  liệu  mong  muốn .
+ Bạn  có  thể  kéo  một  tập  tin  XML  Docbook  từ  Nautilus  tới  cửa  sổ  Yelp  hoặc  bộ  khởi  chạy .
+ Nhấn  phím    F1  .
+ Để  mở  một  tài  liệu  trong    Trình   duyệt   Trợ   giúp   Yelp  :  
+ Bạn  cũng  có  thể  xem  một  tài  liệu  nào  đó  bằng  cách  gọi  Trình  xem  Trợ  giúp  Yelp  từ  dòng  lệnh  hoặc  bằng  cách  kéo  các  tệp  vào  Yelp .  Xem    để  biết  thêm  thông  tin .
+ Mở  cửa  sổ  mới
+ Để  mở  một  cửa  sổ  mới :
+ Nhấn       Tệp       Cửa    sổ    mới   
+ Dùng  tổ  hợp  phím       Ctrl       N   
+ Giới  thiệu  tài  liệu  này
+ Để  xem  thông  tin  về  tài  liệu  hiện  tại  đang  mở :
+ Nhấn       Tệp       Về    tài    liệu    này   
+ Tùy  chọn  này  chỉ  có  ở  tài  liệu  dạng  DocBook .  Các  cộng  tác  viên  viết  tài  liệu  và  chú  thích  luật  pháp  thường  được  liệt  kê  ở  phần  này .
+ In  trang
+ Để  in  trang  bạn  xem  trong    Trình   xem   Trợ   giúp   Yelp  :
+ Nhấn       Tệp       In    trang    này   
+ In  tài  liệu
+ Để  in  cả  tài  liệu :
+ Nhấn       Tệp       In    tài    liệu    này   
+ Tùy  chọn  này  chỉ  có  với  tài  liệu  DocBook .
+ Đóng  cửa  sổ
+ Để  đóng  một  cửa  sổ  trong    Trình   xem   Trợ   giúp   Yelp  ,  thực  hiện  như  sau :
+ Nhấn       Tệp       Đóng    cửa    sổ   
+ Dùng  tổ  hợp  phím       Ctrl       W   
+ Đặt  Tùy  thích
+ Để  đặt  tùy  thích  của  bạn  trong    Trình   xem   Trợ   giúp   Yelp  :
+ Nhấn       Sửa       Tùy    thích   
+   Một  cửa  sổ  sẽ  hiện  ra  giống  như   :
+ Cửa  sổ  tùy  thích    Trình   xem   Trợ   giúp   Yelp 
+  Tùy  chọn  có  trong  hộp  thoại  này  có  chức  năng  sau :
+ Dùng  phông  hệ  thống
+ Đánh  dấu  tùy  chọn  này  để  hiện  tài  liệu  dùng  phông  chữ  mặc  định  sử  dụng  bằng  Môi  trường  GNOME .
+ Để  tự  chọn  phông  chữ  hiển  thị  tài  liệu ,  bỏ  chọn  tùy  chọn  này  và  nhấn  nút  sau  chữ    Độ   rộng   khác   nhau   hoặc    Độ   rộng   cố   định  .
+ Độ  rộng  biến  đổi
+ Đây  là  phông  chữ  sử  dụng  khi  không  bắt  buộc  phải  sử  dụng  phông  chữ  có  kích  thước  cố  định .  Hầu  hết  chữ  sẽ  là  kiểu  này .
+ Độ  rộng  cố  định
+ Đây  là  phông  chữ  sử  dụng  khi  tất  cả  các  ký  tự  cần  có  kích  thước  như  nhau .  Phông  này  thường  dùng  để  chỉ  các  lệnh ,  các  phần  chương  trình ,  hoặc  các  chữ  thuộc  vào  các  nhóm  này .
+ Nhấn  tùy  chọn  này  nếu  bạn  muốn  thấy  một  con  trỏ  nhấp  nháy  trong   .  Con  trỏ  sẽ  cho  phép  bạn  duyệt  văn  bản  dễ  dàng  hơn  bằng  cách  hiện  vị  trí  con  trỏ  trong  tài  liệu .
+ Quay  lại  trong  danh  sách  Các  trang  Đã  xem
+ Để  quay  lại  trang  trước  trong  danh  sách  các  trang  đã  xem :
+ Nhấn       Di    chuyển       Quay    lại   
+ Dùng  tổ  hợp  phím       Alt       Left   
+ Dùng  nút    Quay   lại   trong    Thanh   công   cụ 
+ Tiến  lên  trong  danh  sách  Các  trang  Đã  xem
+ Để  tiến  lên  trong  danh  sách  các  trang  đã  xem :
+ Nhấn       Di    chuyển       Tiến    lên   
+ Dùng  tổ  hợp  phím       Alt       Phải   
+ Dùng  nút    Tiến   lên   trong    Thanh   công   cụ 
+ Chuyển  đến  Chủ  đề  Trợ  giúp
+ Để  chuyển  tới  Chủ  đề  Trợ  giúp :
+ Nhấn       Di    chuyển       Chủ    đề    Trợ    giúp   
+ Dùng  tổ  hợp  phím       Alt       Home   
+ Dùng  nút    Chủ   đề   Trợ   giúp   trong    Thanh   công   cụ 
+ Chuyển  đến  Phần  Trước
+ Đi  đến  phần  trước :
+ Nhấn       Di    chuyển       Phần    trước   
+ Dùng  tổ  hợp  phím       Alt       Up   
+ Tùy  chọn  này  có  trong  tài  liệu  được  định  dạng  DocBook .
+ Chuyển  tới  Phần  Sau
+ Di  chuyển  tới  phần  sau :
+ Nhấn       Di    chuyển       Phần    sau   
+ Dùng  tổ  hợp  phím       Alt       Down   
+ Chuyển  tới  Mục  lục
+ Để  chuyển  tới  mục  lục  nội  dung  của  tài  liệu :
+ Nhấn       Di    chuyển       Mục    lục   
+ Tạo  Đánh  dấu
+ Để  đánh  dấu  tài  liệu  nào  đó :
+ Nhấn       Đánh    dấu       Tạo    Đánh    dấu   
+ Dùng  tổ  hợp  phím       Ctrl       D   
+  Một  cửa  sổ  sẽ  hiện  ra  giống  như   .
+ Tạo  một  Cửa  sổ  Đánh  dấu
+  Nhập  tiêu  đề  mong  muốn  trong  ô    Tiêu   đề  .  Sau  đó  nhấn    Tạo   để  tạo  đánh  dấu ,  hoặc  nhấn    Thôi   để  hủy  yêu  cầu .
+ Sửa  đánh  dấu
+ Để  sửa  bộ  sưu  tập  các  đánh  dấu  của  bạn :
+ Nhấn       Đánh    dấu       Sửa    Đánh    dấu   ...   
+ Dùng  tổ  hợp  phím       Ctrl       B   
+  Một  cửa  sổ  hiện  ra  giống  như   .
+ Chỉnh  Cửa  sổ  Đánh  dấu
+  Bạn  có  thể  quản  lý  các  đánh  dấu  của  mình  dùng  cửa  sổ  này  theo  các  cách  sau :
+ Dùng  nút  này  để  mở  đánh  dấu  đã  chọn  trong  cửa  sổ  mới .
+ Đổi  tên
+ Sử  dụng  nút  này  để  thay  đổi  tiêu  đề  đánh  dấu  trang  của  bạn .
+ Xóa
+ Dùng  nút  này  để  xóa  đánh  dấu  từ  bộ  sưu  tập .
+  Sau  khi  bạn  kết  thúc  việc  quản  lý  đánh  dấu  của  mình ,  nhấn  nút    Đóng   để  thoát  khỏi    Cửa   sổ   Sửa   Đánh   dấu  .
+ Để  nhận  được  giúp  đỡ  sử  dụng    Trình   xem   Trợ   giúp   Yelp   ( và  xem  tài  liệu  này ) :
+ Nhấn       Trợ    giúp       Mục    lục   
+ Các  tính  năng  nâng  cao
+ Mở  tài  liệu  nào  đó
+ Mở  tài  liệu  từ  Trình  quản  lý  tập  tin
+ Dùng  Dòng  lệnh  để  Mở  Tài  liệu
+ Trình  xem  trợ  giúp  Yelp  hỗ  trợ  mở  tài  liệu  từ  dòng  lệnh .  Có  một  số  URL  ( Uniform  Resource  Identifiers ,  Định  danh  tài  nguyên  thống  nhất )  có  thể  được  dùng .  Bao  gồm :
+ file :
+ Dùng  URI  này  khi  bạn  muốn  truy  cập  một  tập  tin  với  yelp ,  ví  dụ :
+ yelp  file : / / / usr / share / gnome / help / gcalctool / C / gcalctool.xml
+   ghelp  :   hoặc    gnome-help  : 
+ Dùng  URI  này  khi  bạn  muốn  truy  cập  tài  liệu  trợ  giúp  của  GNOME ,  các  tài  liệu  này  thường  được  viết  bằng  định  dạng  DocBook .
+ yelp  ghelp : gcalctool
+ yelp  ghelp : user-guide ? yelp-advanced-cmdline
+ man :
+ yelp  man : gcalctool
+ hoặc
+ yelp  ' man : intro ( 1 ) '
+ yelp  ' man : intro ( 2 ) '
+ info :
+ Dùng  URI  này  khi  bạn  muốn  truy  cập  trang  GNU  info  nào  đó .
+ yelp  info : make
+ Làm  tươi  Nội  dung  theo  Yêu  cầu
+   Trình   xem   Trợ   giúp   Yelp   hỗ  trợ  phím  tắt       Ctrl       R    ,  phím  tắt  này  sẽ  tải  lại  tài  liệu  DocBook  đang  mở .  Tính  năng  này  cho  phép  các  nhà  phát  triển  xem  các  thay  đổi  trong  tài  liệu  khi  có  thay  đổi .
+ Thông  tin  thêm
+ Phần  này  đi  sâu  vào  vài  trình  trợ  giúp  mà    Trình   xem   Trợ   giúp   Yelp   sử  dụng ,  và  cung  cấp  các  tài  nguyên  nơi  bạn  có  thể  lấy  thông  tin  thêm  về    Trình   xem   Trợ   giúp   Yelp 
+   Trình   duyệt   Trợ   giúp   Yelp   sử  dụng  scrollkeeper  để  tạo  bảng  nội  dung  cho  tài  liệu  DocBook  và  HTML ,  và  cũng  để  giữ  theo  dõi  các  bản  dịch  cho  mỗi  tài  liệu .
+ Tiện  Ích  Tài  Liệu  GNOME
+ Tài  liệu  được  phân  phối  với  GNOME  sử  dụng  bộ  tiện  ích  cho  rất  nhiều  công  việc :
+ Bản  dịch  đơn  giản  của  các  tài  liệu  tới  các  ngôn  ngữ  khác  nhau .
+ Cung  cấp  một  bộ  công  cụ  để  trợ  giúp  đóng  gói  và  cài  đặt  tài  liệu  vào  vị  trí  đúng  và  đăng  ký  tài  liệu  với  scrollkeeper .
+ Thực  hiện  chuyển  đổi  từ  định  dạng  DocBook  sang  một  định  dạng  phù  hợp  để  hiển  thị .
+    Trình   duyệt   Trợ   giúp   Yelp   dựa  trên    Các   Stylesheet   XSLT   GNOME   để  thực  hiện  việc  chuyển  đổi  từ  DocBook  sang  HTML .    Các   tiện   ích   dựng   tài   liệu   GNOME   dựa  vào  các  tác  giả  ứng  dụng  để  cài  đặt  và  đăng  ký  tài  liệu  bên  trong  hệ  thống  giúp  đỡ .
+ Trang  nhà  và  Danh  sách  Thư
+ Để  biết  thêm  thông  tin  về    Trình   duyệt   Trợ   giúp   Yelp  ,  hãy  xem  trang  nhà  Dự  án  Tài  liệu ,    http  :  /  /  live.gnome.org  /  Yelp  ,  hoặc  đăng  ký  và  Danh  sách  Thư ,    gnome-doc-devel-list  @  gnome.org  .
+ Tham  gia  vào  Dự  án  Tài  liệu  GNOME
+ Nếu  bạn  thích  trợ  giúp  tạo  ra  và  cập  nhật  tài  liệu  cho  dự  án  GNOME ,  hãy  ghé  thăm  trang  nhà  Dự  án  Tài  liệu :   http  :  /  /  live.gnome.org  /  DocumentationProject 
+ Phiên  Bàn  Làm  Việc
+ Cần  giới  thiệu  tốt  hơn
+ Chương  này  cần  công  việc
+ Chương  này  cung  cấp  thông  tin  bạn  cần  để  đăng  nhập  và  tắt  GNOME ,  và  để  bắt  đầu ,  quản  lý  và  kết  thúc  một  phiên  bàn  làm  việc .
+ Bắt  đầu  một  Phiên  làm  việc
+ phiên  làm  việc
+ bắt  đầu
+ Một    phiên   làm   việc   là  một  khoảng  thời  gian  bạn  sử  dụng  để  dùng  GNOME ,  giữa  lúc  đăng  nhập  và  lúc  đăng  xuất .  Trong  một  phiên  làm  việc ,  bạn  sử  dụng  các  ứng  dụng  của  bạn ,  in  ấn ,  duyệt  web , ...
+ Đăng  nhập  vào  để  GNOME  bắt  đầu  phiên  làm  việc  của  bạn .  Màn  hình  đăng  nhập  là  cánh  cổng  vào  Bàn  làm  việc  GNOME :  nó  là  nơi  bạn  nhập  tên  người  dùng  và  mật  khẩu  và  lựa  chọn  các  tuỳ  chọn  như  là  ngôn  ngữ  bạn  muốn  GNOME  sử  dụng  cho  phiên  làm  việc  của  bạn .
+ Bình  thường  đăng  xuất  sẽ  kết  thúc  phiên  làm  việc ,  nhưng  bạn  có  thể  chọn  để  lưu  trạng  thái  làm  việc  của  bạn  và  phục  hồi  lại  vào  lần  kế  tiếp  bạn  sử  dụng  GNOME :  xem   .
+ Đăng  nhập  vào  GNOME
+ đăng  nhập
+ bắt  đầu  phiên  làm  việc
+ Để  đăng  nhập  vào  một  phiên  làm  việc ,  thực  hiện  các  bước  sau  đây :
+ Trong  màn  hình  đăng  nhập ,  nhấn  vào  biểu  tượng    Phiên   làm   việc  .  Chọn  Bàn  làm  việc  GNOME  trong  danh  sách  các  môi  trường  bàn  làm  việc  sẵn  có .  Hầu  hết  người  dùng  không  cần  thực  hiện  bước  này ,  vì  GNOME  thường  là  môi  trường  bàn  làm  việc  mặc  định  rồi .
+ Nhập  tên  người  dùng  của  bạn  vào  trường    Tên   người   dùng   trên  màn  hình  đăng  nhập ,  sau  đó  nhấn    Enter  .
+ Nhập  mật  khẩu  trong  trường    Mật   khẩu   trên  màn  hình  đăng  nhập ,  sau  đó  nhấn    Enter  .
+ Khi  bạn  đăng  nhập  thành  công ,  GNOME  sẽ  sử  dụng  một  thời  gian  ngắn  để  khởi  động .  Khi  đã  sẵn  sàng ,  bạn  sẽ  thấy  Bàn  làm  việc  và  bạn  có  thể  bắt  đầu  sử  dụng  máy  tính  của  mình .
+ Lần  đầu  tiên  bạn  đăng  nhập ,  trình  quản  lý  phiên  làm  việc  bắt  đầu  một  phiên  làm  việc  mới .  Nếu  bạn  đã  từng  đăng  nhập  trước  đó  và  đã  lưu  các  cài  đặt  cho  phiên  làm  việc  trước  kia  lúc  bạn  thoát  thì  trình  quản  lý  phiên  làm  việc  sẽ  phục  hồi  phiên  làm  việc  trước  của  bạn .
+ Nếu  bạn  muốn  tắt  hoặc  khởi  động  lại  hệ  thống  trước  khi  đăng  nhập ,  nhấn  vào  biểu  tượng    Hệ   thống   trên  màn  hình  đăng  nhập .  Một  hộp  thoại  sẽ  được  hiển  thị .  Lựa  chọn  tuỳ  chọn  bạn  cần ,  và  nhấn    OK  .
+ Nhà  phân  phối  hoặc  cung  cấp  hệ  thống  của  bạn  có  thể  đã  thay  đổi  màn  hình  đăng  nhập  nên  nó  không  còn  có  biểu  tượng    Hệ   thống   nữa .  Trong  trường  hợp  này ,  tuỳ  chọn  để  tắt  máy  tính  có  thể  được  tìm  thấy  bằng  cách  nhấn  biểu  tượng    Khác  ,  hoặc  nhấn  một  nút    Tắt   máy   riêng  biệt .
+ Sử  Dụng  Một  Ngôn  Ngữ  Khác
+ ngôn  ngữ  khác ,  đăng  nhập
+ ngôn  ngữ ,  đăng  nhập  khác
+ phiên  làm  việc  trong  ngôn  ngữ  khác
+ Để  đăng  nhập  vào  một  phiên  làm  việc  trong  một  ngôn  ngữ  khác ,  thực  hiện  các  hành  động  sau .
+ Trong  màn  hình  đăng  nhập ,  nhấn  vào  biểu  tượng    Ngôn   ngữ  .  Chọn  ngôn  ngữ  bạn  cần  trong  danh  sách  các  ngôn  ngữ  sẵn  có .
+ Khi  bạn  đăng  nhập  vào  một  phiên  làm  việc  trong  một  ngôn  ngữ  kháclà  bạn  đang  thay  đổi  ngôn  ngữ  cho  giao  diện  người  dùng  nhưng  không  phải  là  thay  đổi  sơ  đồ  bàn  phím .  Để  chọn  một  sơ  đồ  bàn  phím  khác ,  sử  dụng  tiểu  dụng       Bộ    chỉ    thị    bàn    phím   
+ Nhà  phân  phối  hoặc  cung  cấp  hệ  thống  của  bạn  có  thể  đã  thay  đổi  màn  hình  đăng  nhập  nên  nó  không  còn  có  biểu  tượng    Ngôn   ngữ   nữa .  Trong  trường  hợp  này ,  tuỳ  chọn  để  thay  đổi  ngôn  ngữ  phiên  làm  việc  có  thể  được  tìm  thấy  bằng  cách  nhấn  biểu  tượng    Khác  .
+ Khoá  Màn  Hình  Của  Bạn
+ Biểu  tượng  khoá  màn  hình .
+ khoá  màn  hình
+ nút  khoá
+ Việc  khoá  màn  hình  của  bạn  ngăn  chặn  truy  cập  và  thông  tin  và  các  ứng  dụng  của  bạn ,  cho  phép  bạn  bỏ  mặc  máy  tính  của  mình .  Trong  khi  màn  hình  bị  khoá ,    bộ   bảo   vệ   màn   hình   sẽ  chạy .
+ Để  khoá  màn  hình ,  thực  hiện  một  trong  các  bước  sau :
+ Chọn       Tới       Home    .
+ Nếu  nút    Khoá   màn   hình   hiển  thị  trên  một  thanh  điều  khiển ,  nhấn  vào  nút    Khoá   màn   hình  .
+ Nút    Khoá   màn   hình   mặc  định  không  hiển  thị  trên  các  thanh  điều  khiển .  Để  thêm  vào ,  xem   .
+ Để  mở  khoá  màn  hình ,  di  chuyển  con  chuột  của  bạn  hay  nhấn  phím  bất  kỳ ,  nhập  mật  khẩu  vào  hộp  thoại  màn  hình  khoá ,  sau  đó  nhấn    Enter  .
+ Nếu  một  người  dùng  khác  muốn  sử  dụng  máy  tính  trong  khi  nó  bị  khoá ,  họ  có  thể  di  chuyển  chuột  hay  nhấn  một  phím  sau  đó  nhấn    Thay   đổi   người   dùng  .  Màn  hình  đăng  nhập  sẽ  được  hiển  thị  và  họ  có  thể  đăng  nhập  sử  dụng  tài  khoản  người  dùng  của  họ .  Họ  sẽ  không  thể  truy  cập  vào  bất  kỳ  ứng  dụng  hay  thông  tin  nào  của  bạn .  Khi  họ  đăng  xuất ,  màn  hình  sẽ  lại  bị  khoá  và  bạn  có  thể  truy  cập  phiên  làm  việc  của  bạn  bằng  cách  mở  khoá  màn  hình .
+ Bạn  có  thể  để  lại  một  tin  nhắn  cho  một  người  dùng  đã  khoá  màn  hình  của  họ .  Di  chuyển  chuột  hay  nhấn  phím  bất  kỳ  sau  đó  nhấn    Để   lại   tin   nhắn  .  Nhập  tin  nhắn  của  bạn  vào  hộp  và  nhấn    Lưu  .  Tin  nhắn  của  bạn  sẽ  được  hiển  thị  khi  người  dùng  mở  khoá  màn  hình  của  bạn .
+ Cài  đặt  các  chương  trình  để  tự  động  khởi  chạy  khi  bạn  đăng  nhập
+ công  cụ  tuỳ  thích
+ Phiên  làm  việc
+ tự  khởi  động
+ Bạn  có  thể  chọn  những  chương  trình  nhất  định  để  khởi  chạy  tự  động  khi  bạn  đăng  nhập  vào  một  phiên  làm  việc .  Ví  dụ ,  bạn  có  thể  muốn  một  trình  duyệt  web  khởi  động  ngay  khi  bạn  đăng  nhập .  Các  chương  trình  khởi  chạy  tự  động  khi  bạn  đăng  nhập  được  gọi  là    các   chương   trình   khởi   động  .  Các  chương  trình  tự  khởi  động  được  tự  động  lưu  lại  và  đóng  an  toàn  bởi  trình  quản  lý  phiên  làm  việc  khi  bạn  đăng  xuất ,  và  được  khởi  động  lại  khi  bạn  đăng  nhập .
+ Công  cụ  tuỳ  thích    Phiên   làm   việc   cho  phép  bạn  định  nghĩa  chương  trình  nào  được  khởi  chạy  tự  động  khi  bạn  đăng  nhập .  Nó  có  hai  nhãn ,  nhãn    Chương   trình   khởi   động   và  nhãn    Tuỳ   chọn  .
+ Nhãn  Chương  Trình  Khởi  Động
+ Bạn  có  thể  dùng  nhãn  Chương  trình  Khởi  động  để  thêm ,  thay  đổi ,  và  gỡ  bỏ  các  chương  trình  khởi  động .
+ Một  danh  sách  các  chương  trình  được  hiển  thị  trong  nhãn  này .  Danh  sách  hiện  một  mô  tả  ngắn  cho  mỗi  chương  trình ,  cùng  với  một  hộp  chọn  để  biết  chương  trình  khởi  động  đó  được  bật  hay  không .  Các  chương  trình  không  được  bật  sẽ  không  được  tự  khởi  chạy  khi  bạn  đăng  nhập .
+ Bật / Tắt  Các  Chương  trình  Khởi  động
+ Để  bật  một  chương  trình  cho  tự  khởi  động ,  tích  vào  hộp  chọn  tương  ứng  chương  trình  đó .
+ Để  tắt  một  chương  trình  cho  không  tự  khởi  động ,  bỏ  tích  hộp  chọn .
+ Thêm  Một  Chương  Trình  Khởi  Động  Mới
+ Để  thêm  một  chương  trình  khởi  động  mới ,  thực  hiện  các  bước  sau  đây :
+ Nhấn    Thêm  .  Nó  sẽ  mở  hộp  thoại    Thêm   Chương   trình   Khởi   động  .
+ Sử  dụng  hộp  chữ    Tên   để  chỉ  định  một  tên  cho  chương  trình  khởi  động  mới .
+ Sử  dụng  hộp  chữ    Lệnh   để  chỉ  định  một  lệnh  để  gọi  ứng  dụng .  Ví  dụ ,  lệnh    gedit   sẽ  khởi  động    Bộ   soạn   văn   bản   Gedit  .  Nếu  bạn  không  biết  lệnh  chính  xác ,  nhấn    Duyệt   để  chọn  đường  dẫn  của  lệnh .
+ Nhập  một  mô  tả  của  ứng  dụng  trong  hộp    Chú   thích  .  Bạn  sẽ  thấy  nó  như  là  mô  tả  của  chương  trình  trong  danh  sách  các  chương  trình  khởi  động .
+ Nhấn    Thêm  .  Ứng  dụng  sẽ  được  thêm  vào  danh  sách  các  chương  trình  khởi  động  với  hộp  chọn  trong  trạng  thái  đã  tích  ( đã  bật ) .
+ Gỡ  Bỏ  Một  Chương  Trình  Khởi  Động
+ Để  gỡ  bỏ  một  chương  trình  khởi  động ,  lựa  chọn  nó  trong  danh  sách  các  chương  trình  khởi  động  và  nhấn    Bỏ  .
+ Chỉnh  Sửa  Một  Chương  Trình  Khởi  Động
+ Để  chỉnh  sửa  một  chương  trình  khởi  động ,  lựa  chọn  nó  trong  danh  sách  các  chương  trình  khởi  động  và  nhấn    Sửa  .  Một  hộp  thoại  sẽ  xuất  hiện  cho  phép  bạn  chỉnh  sửa  các  thuộc  tính  của  chương  trình .  Xem    để  biết  thêm  thông  tin  về  các  tuỳ  chọn  sẵn  có  cho  hộp  thoại  này .
+ Nhãn  Tuỳ  Chọn  Phiên  Làm  Việc
+ Trình  quản  lý  phiên  làm  việc  có  thể  ghi  nhớ  những  ứng  dụng  bạn  đang  chạy  khi  đăng  xuất  và  có  thể  tự  động  khởi  động  lại  chúng  khi  bạn  đăng  nhập  một  lần  nữa .  Nếu  bạn  muốn  điều  này  xảy  ra  mỗi  lần  bạn  đăng  xuất ,  chọn    Tự   động   ghi   nhớ   các   ứng   dụng   đang   chạy   khi   đăng   xuất  .  Nếu  bạn  muốn  điều  này  chỉ  xảy  ra  một  lần ,  nhấn    Ghi   nhớ   ứng   dụng   đang   chạy   hiện   tại   trước  khi  đăng  xuất .
+ Kết  Thúc  Một  Phiên  Làm  Việc
+ kết  thúc
+ đăng  xuất
+ thoát
+ tắt  máyfigures / logout _ icon.png "  format = " PNG
+ Khi  bạn  kết  thúc  việc  sử  dụng  máy  tính ,  bạn  có  thể  chọn  một  trong  những  điều  sau :
+ Đăng  xuất ,  để  máy  tính  của  bạn  sẵn  sàng  cho  một  người  dùng  khác  để  bắt  đầu  làm  việc  với  nó .  Để  đăng  xuất  khỏi  GNOME ,  chọn       Hệ    thống       Đăng    xuất        tên     người     dùng      
+ Tắt  máy  của  bạn  và  tắt  cả  nguồn  điện .  Để  tắt  máy ,  chọn       Hệ    thống       Tắt    máy     và  nhấn    Tắt   máy   trên  hộp  thoại  xuất  hiện .
+ Phụ  thuộc  vào  cấu  hình  máy  tính  của  bạn ,  bạn  có  thể    Ngủ   đông   máy  tính  của  bạn .  Ngủ  đông  sử  dụng  ít  năng  lượng ,  nhưng  tất  cả  các  ứng  dụng  và  tài  liệu  bạn  đã  mở  được  bảo  toàn  và  sẽ  vẫn  được  mở  khi  bạn  tiếp  từ  trạng  thái  ngủ  đông .  Bạn  có  thể  tiếp  tục  sau  ngủ  đông  bằng  cách  di  chuyển  chuột  hoặc  nhấn  một  phím .
+ Một  vài  nhà  cung  cấp  và  phân  phối  cho  phép  bạn  ngủ  đông  theo  hai  cách ,  thường  gọi  là  Ngủ  đông  và    Tạm   dừng  .  Cả  hai  đều  bảo  toàn  các  tập  tin  và  ứng  dụng  đã  mở  của  bạn ,  nhưng  một  thì  tắt  nguồn  của  máy  tính  trong  khi  cách  kia  thì  để  máy  tính  chạy  trong  trạng  thái  sử  dụng  ít  năng  lượng .
+ Khi  bạn  kết  thúc  một  phiên  làm  việc ,  những  ứng  dụng  với  công  việc  chưa  lưu  sẽ  cảnh  báo  bạn .  Bạn  có  thể  chọn  để  lưu  công  việc ,  hoặc  huỷ  bỏ  lệnh  để  đăng  xuất  hoặc  tắt  máy .
+ Trước  khi  bạn  kết  thúc  một  phiên  làm  việc ,  bạn  có  thể  muốn  lưu  các  cài  đặt  hiện  tại  để  có  thể  phục  hồi  phiên  sau  này .  Trong  công  cụ  tuỳ  thích       Phiên    làm    việc    ,  bạn  có  thể  lựa  chọn  một  tuỳ  chọn  để  tự  động  lưu  lại  các  cài  đặt  hiện  tại  của  bạn .
+ Sử  dụng  Các  Thanh  điều  khiển
+ Chương  này  miêu  tả  cách  sử  dụng  các  thanh  điều  khiển  ở  bên  trên  và  bên  dưới  của  Bàn  làm  việc  GNOME ,  cách  để  tuỳ  biến  các  đối  tượng  xuất  hiện  trên  chúng ,  và  cách  để  thêm  thanh  điều  khiển  mới  vào  bàn  làm  việc .
+ thanh  điều  khiển
+ giới  thiệu
+ Một  thanh  điều  khiển  là  một  vùng  trong  Bàn  làm  việc  GNOME  nơi  bạn  có  thể  truy  cập  vào  các  hành  động  và  thông  tin  nhất  định  mà  không  cần  quan  tâm  trạng  thái  các  cửa  sổ  ứng  dụng .  Ví  dụ ,  trong  các  thanh  điều  khiển  GNOME  mặc  định ,  bạn  có  thể  chạy  các  ứng  dụng ,  xem  ngày  và  giờ ,  điều  khiển  âm  lượng  hệ  thống  và  nhiều  hơn  nữa .
+ Bạn  có  thể  tuỳ  biến  các  thanh  điều  khiển  theo  ý  thích  của  bạn .  Bạn  có  thể  thay  đổi  cách  ứng  xử  và  diện  mạo  của  chúng ,  và  bạn  có  thể  thêm  hay  gỡ  bỏ  đối  tượng  từ  thanh  điều  khiển  của  bạn .  Bạn  có  thể  tạo  nhiều  thanh  điều  khiển ,  và  chọn  các  thuộc  tính ,  đối  tượng  và  hình  nền  khác  nhau  cho  mỗi  thanh .  Bạn  cũng  có  thể  ẩn  các  thanh  điều  khiển .
+ Theo  mặc  định ,  Bàn  làm  việc  GNOME  chứa  một  thanh  điều  khiển  ở  cạnh  trên  của  màn  hình ,  và  một  thanh  ở  cạnh  dưới  của  màn  hình .  Các  chương  sau  đây  miêu  tả  các  thanh  điều  khiển  đó .
+ Thanh  Điều  Khiển  Cạnh  Trên
+ thanh  điều  khiển  cạnh  trên
+ Theo  mặc  định ,  thanh  điều  khiển  cạnh  trên  chứa  các  đối  tượng  sau :
+ Bản  phân  phối  GNOME  của  bạn  có  thể  đã  thay  đổi  cài  đặt  mặc  định  này .
+ tiểu  dụng    Thanh   Trình   Đơn 
+ Thanh  Trình  Đơn  chứa  các  trình  đơn    Ứng   dụng  ,    Mở   nhanh  ,  và    Hệ   thống  .  Để  biết  thêm  về  thanh  trình  đơn ,  xem   .
+ Một  bộ  các  biểu  tượng  bộ  khởi  chạy  ứng  dụng
+ Con  số  chính  xác  của  các  biểu  tượng  phụ  thuộc  vào  bản  phân  phối  GNOME  của  bạn ,  nhưng  nhìn  chung  bạn  sẽ  tìm  được  ít  nhất  một  bộ  khởi  chạy  cho    Trình   duyệt   Web  ,  một    trình   khách   Thư   điện   tử   và    Trình   duyệt   Trợ   giúp  .  Nhấp  vào  bất  cứ  biểu  tượng  bộ  khởi  chạy  noà  để  mở  ứng  dụng  tương  ứng .
+ tiểu  dụng    Vùng   Thông   Báo 
+ Hiển  thị  các  biểu  tượng  từ  các  ứng  dụng  khác  mà  có  thể  yêu  cầu  sự  chú  ý  của  bạn ,  hoặc  bạn  có  thể  muốn  truy  cập  mà  không  cần  chuyển  từ  cửa  sổ  ứng  dụng  hiện  tại  của  bạn .  Để  biết  thêm  về  nó ,  xem   .
+ Cho  tới  khi  một  ứng  dụng  thêm  một  biểu  tượng  vào  vùng  thông  báo ,  chỉ  một  thanh  hẹp  được  hiện  ra .
+ tiểu  dụng    Đồng   Hồ 
+   Đồng   Hồ   hiển  thị  giờ  hiện  tại .  Nhấn  vào  giờ  để  mở  một  lịch  nhỏ .  Bạn  cũng  có  thể  xem  một  bản  đồ  thế  giới  bằng  cách  nhấp  vào  nhãn  mở  rộng    Địa   điểm  .  Để  biết  thêm ,  xem    Sổ   tay   tiểu   dụng   Đồng   hồ  .
+ tiểu  dụng    Điều   Khiển   Âm   Lượng 
+   Điều   khiển   âm   lượng   cho  phép  bạn  điều  khiển  âm  lượng  của  các  loa  trong  hệ  thống  của  bạn .  Để  biết  thêm ,  xem    Sổ   Tay   Điều   Khiển   Âm   Lượng  .
+ biểu  tượng       thanh    điều    khiển    cạnh    trên       biểu    tượng    danh    sách    cửa    sổ      bộ   chọn   cửa   sổ 
+   Bộ   chọn   cửa   sổ   liệt  kê  tất  cả  các  cửa  sổ  đang  mở .  Để  tập  trung  vào  một  cửa  sổ ,  nhấp  vào  biểu  tượng  bộ  chọn  cửa  sổ  tại  bên  phải  thanh  điều  khiển  cạnh  trên ,  sau  đó  lựa  chọn  cửa  sổ .  Để  biết  thêm ,  xem   .
+ Thanh  Điều  Khiển  Cạnh  Dưới
+ thanh  điều  khiển  cạnh  dưới
+ Theo  mặc  định ,  thanh  điều  khiển  cạnh  dưới  chứa  các  đối  tượng  sau  đây :
+ nội  dung  mặc  định
+ nút    Hiện   Màn   Hình 
+ Nhấn  vào  nút  này  để  thu  nhỏ  toàn  bộ  các  cửa  sổ  đang  mở  và  hiện  ra  màn  hình  làm  việc .  Nhấn  một  lần  nữa  để  phục  hồi  toàn  bộ  cửa  sổ  về  trạng  thái  trước  đó  của  chúng .
+ tiểu  dụng    Danh   Sách   Cửa   Sổ 
+ Hiển  thị  một  nút  cho  mỗi  cửa  sổ  được  mở .    Danh   sách   cửa   sổ   cho  phép  bạn  thu  nhỏ  và  phục  hồi  các  cửa  sổ ,  Để  biết  thêm ,  xem   .
+ tiểu  dụng    Bộ   Chuyển   Đổi   Vùng   Làm   Việc 
+ Cho  phép  bạn  chuyển  đổi  giữa  các  vùng  làm  việc  của  bạn .  Để  biết  thêm  về  các  vùng  làm  việc ,  xem   .
+ Quản  Lý  Thanh  Điều  Khiển
+ quản  lý
+ Phần  sau  đây  mô  tả  cách  quản  lý  các  thanh  điều  khiển  của  bạn .
+ Để  tương  tác  với  một  thanh  điều  khiển ,  bạn  phải  nhấn  vào  một  vùng  trống  trên  thanh  hơn  là  vào  bất  kỳ  đối  tượng  nào  mà  nó  giữ .  Nếu  các  nút  ẩn  được  hiển  thị  trên  thanh  điều  khiển ,  bạn  cũng  có  thể  nhấn  chuột  giữa  hoặc  chuột  phải  vào  một  trong  số  chúng  để  lựa  chọn  thanh  điều  khiển .
+ Di  Chuyển  Một  Thanh  Điều  Khiển
+ di  chuyển
+ Để  di  chuyển  một  thanh  điều  khiển  sang  cạnh  khác  của  màn  hình ,  nhấn  và  giữ    ALT   và  kéo  thanh  điều  khiển  tới  vị  trí  mới .  Nhấp  vào  bất  cứ  khoảng  không  gian  trống  nào  trên  thanh  điều  khiển  để  bắt  đầu  kéo .
+ Một  thanh  điều  khiển  không  được  đặt  để  mở  rộng  ra  toàn  chiều  rộng  của  màn  hình  có  thể  được  kéo  đi  từ  cạnh  của  màn  hình  và  đặt  vào  bất  kỳ  đâu .  Xem    để  biết  thêm  chi  tiết  cách  đặt  thuộc  tính  mở  rộng  của  một  thanh  điều  khiển .
+ Các  Thuộc  Tính  Thanh  Điều  Khiển
+ thay  đổi  các  thuộc  tính
+ Bạn  có  thể  thay  đổi  các  thuộc  tính  của  mỗi  thanh  điều  khiển ,  như  là  vị  trí  của  thanh  điều  khiển ,  chế  độ  ẩn  và  diện  mạo .
+ Để  thay  đổi  các  thuộc  tính  của  một  thanh  điều  khiển ,  kích  chuột  phải  vào  vùng  trống  trên  bảng ,  sau  đó  chọn    Thuộc   tính  .  Hộp  thoại    Thuộc   tính   Thanh   điều   khiển   chứa  hai  nhãn ,    Chung   và    Nền  .
+ Nhãn  Thuộc  Tính  Chung
+ Trong  nhãn    Chung  ,  bạn  có  thể  thay  đổi  các  thuộc  tính  kích  thước ,  vị  trí  và  ẩn  thanh  điều  khiển .  Bảng  sau  miêu  tả  các  thành  phần  hộp  thoại  trên  mục  nhãn    Chung  :
+ Thành  Phần  Hộp  Thoại
+ Mô  tả
+ Định  hướng
+ Lựa  chọn  vị  trí  của  thanh  điều  khiển  trên  màn  hình  của  bạn .  Nhấp  vào  vị  trí  cần  thiết  cho  bảng .
+ Kích  thước
+ Sử  dụng  hộp  lên  xuống  để  chỉ  định  kích  thước  của  thanh  điều  khiển .
+ Mở  rộng
+ Theo  mặc  định ,  một  thanh  điều  khiển  sẽ  mở  rộng  ra  toàn  chiều  rộng  cạnh  màn  hình  chỗ  nó  được  đặt .  Một  thanh  điều  khiển  không  mở  rộng  có  thể  được  di  chuyển  đi  từ  các  cạnh  màn  hình  tới  mọi  chỗ  trên  màn  hình .
+ Tự  động  ẩn
+ Chọn  tuỳ  chọn  này  nếu  bạn  muốn  thanh  điều  khiển  chỉ  hiển  thị  toàn  bộ  khi  con  trỏ  chuột  di  chuyển  qua  nó .  Thanh  điều  khiển  sẽ  tự  ẩn  khỏi  màn  hình  theo  suốt  cạnh  dài  nhất  của  nó ,  để  lại  một  phần  hẹp  nhìn  thấy  được  trên  cạnh  của  bàn  làm  việc .  Di  chuyển  con  trỏ  chuột  lên  phần  nhìn  thấy  được  của  thanh  điều  khiển  để  làm  cho  nó  di  chuyển  lại  để  nhìn  thấy .
+ Hiện  các  nút  ẩn
+ Lựa  chọn  tuỳ  chọn  này  để  hiển  thị  các  nút  ẩn  ở  mỗi  đầu  của  thanh  điều  khiển .  Nhấp  vào  một  nút  ẩn  sẽ  di  chuyển  thanh  điều  khiển  dọc  chiều  dài ,  ẩn  nó  khỏi  màn  hình  và  để  lại  nút  ẩn  ở  phía  đối  diện .  Nhấn  nút  ẩn  này  để  phục  hồi  lại  thanh  điều  khiển  cho  nhìn  thấy  hoàn  toàn .
+ Mũi  tên  trên  các  nút  ẩn
+ Lựa  chọn  tuỳ  chọn  này  để  hiển  thị  các  mũi  tên  trên  các  nút  ẩn ,  nếu  nút  ẩn  được  bật .
+ Nhãn  Các  Thuộc  Tính  Nền
+ Bạn  có  thể  lựa  chọn  kiểu  nền  của  thanh  điều  khiển  trong  nhãn    Nền  .  Các  lựa  chọn  như  sau  đây :
+ Không  ( sử  dụng  sắc  thái  hệ  thống )
+ Lựa  chọn  tuỳ  chọn  này  để  làm  cho  thanh  điều  khiển  sử  dụng  các  cài  đặt  trong    công   cụ   tuỳ   thích      Sắc    thái    .   Điều   này   giữ   cho   nền   thanh   điều   khiển   của   bạn   trông   giống   như   các   phần   còn   lại   của   bàn   làm   việc   và   các   ứng   dụng  . 
+Hầu hết các hành động này được thực hiện bằng cách sử dụng chuột trên các phần khác nhau của khung cửa sổ (xem  để biết tóm tắt cách dùng chuột). Cạnh trên của khung cửa sổ được gọi là 
+ mô tả các thành phần của các cửa sổ đối tượng tập tin.
+ mô tả các tác vụ bạn có thể thực hiện với 
+ liệt kê các vị trí URI đặc biệt bạn có thể sử dụng với trình quản lý tập tin.
+ liệt kê các tuỳ thích kiểu xem mà bạn có thể thay đổi.
+ liệt kê các tuỳ thích xử lý vật chứa khác mà bạn có thể thay đổi.
+ liệt kê các tuỳ thích công nghệ giúp đỡ bạn có thể thay đổi.
+Dự Án Tài Liệu GNOME
+ liệt kê các tuỳ thích cửa sổ bạn có thể thay đổi.
+ liệt kê các tuỳ thích chia sẻ phiên làm việc bạn có thể đặt. Những tuỳ thích này có một ảnh hưởng trực tiếp lên bảo mật hệ thống của bạn
+ liệt kê các tuỳ thích phím chuột bạn muốn thay đổi.
+ liệt kê các tuỳ thích nghỉ nhập mà bạn có thể thay đổi.
+liệt kê tùy thích khả năng truy cập của chuột mà bạn có thể sửa đổi:
+ liệt kê các tuỳ thích đầu ra âm thanh mà bạn có thể thay đổi.
+ Con trỏ bận
+ Con trỏ bàn tay
+ Con trỏ di chuyển
+ Con trỏ sao chép
+ Con trỏ liên kết tượng trưng
+ Con trỏ hỏi
+ Con trỏ di chuyển đối tượng thanh điều khiển

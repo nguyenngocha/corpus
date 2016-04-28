@@ -1,0 +1,37 @@
+ Alleyoop
+ Bộ  nhớ  rò  rỉ
+ Tùy  chỉnh  Alleyoop
+ Chạy  tập  tin  có  thể  thực  hiện ...
+ Hãy  nhập  đường  dẫn  đến  một  tập  tin  có  khả  năng  thực  thi ,  và  đối  số  nào  bạn  muốn  gởi  qua  cho  nó .
+ Không  thể  nạp `%s ':  % s
+ Tải  bản  ghi  Valgrind ...
+ Không  thể  lưu  vào `%s ':  % s Ghi đè?
+ Không  thể  lưu  vào `%s ':  % s
+ Lưu  bản  ghi  Valgrind ...
+ Alleyoop  là  một  tiền  tiêu  Valgrind  cho  môi  trường  Gnome .
+ Chạ _ y
+ Chạy  chương  trình
+ Buộc  _ kết  thúc
+ Buộc  kết  thúc  chương  trình
+ Mở  tập  tin  bản  ghi
+ Lưu  tập  tin  bản  ghi
+ _ Chỉnh  sửa
+ Cắ _ t
+ _ Chép
+ _ Dán
+ Ngăn  chặn
+ Xem / Sửa  việc  thu  hồi
+ Công  cụ
+ Xác  định  công  cụ  Valgrind  mặc  định  cần  dùng
+ Chạy
+ Buộc  kết  thúc
+ Hiển  thị  trợ  giúp  rồi  thoát
+ Hiển  thị  phiên  bản  rồi  thoát
+ Thêm   <  dir  >   vào  danh  sách  các  thư  mục  nơi  cần  tìm  kiếm  tập  tin  mã  nguồn
+ Thêm  đệ  qui   <  dir  >   và  mọi  thư  mục  con  vào  danh  sách  các  thư  mục  nơi  cần  tìm  kiếm  tập  tin  mã  nguồn
+ Trình  soạn  thảo :
+ Xem  thử
+ dòng  nằm  trên  và  dưới  dòng  đích .
+ Lỗi  tạo  ống  dẫn  tới  ' % s ' :  % s
+ Lỗi  tạo  tiến  trình  con  ' % s ' :  % s
+ Gặp  cú  pháp  không  hợp  lệ  trong  thiết  lập  ' % s ' .  Hãy  nhập  một  giá  trị  dạng  "    s \

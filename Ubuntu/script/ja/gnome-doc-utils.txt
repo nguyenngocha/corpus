@@ -1,0 +1,49 @@
+ default : LTR ,   - 
+ 、  ,  Tom ,  Dick ,  and  Harry
+ と  Tom  and  Dick
+ と 
+ - 
+ A : # x2003 ;
+ このドキュメントについて
+ 関連項目
+   作者    作者 
+ 参考文献
+ 注意
+ 出版社のマーク
+   協力者    協力者 
+ 目次
+   著作権    著作権 
+ 献辞
+   編集者    編集者 
+ メール
+ 用語集
+ 重要
+ 目次
+ 利用条件または商標
+ 名前
+ 次へ
+ 注記
+   その他の協力者    その他の協力者 
+ Q : # x2003 ;
+ はじめに
+ 前へ
+   発行者    発行者 
+ 改版履歴
+ 参照
+ 関連項目
+ 概要
+ チップス
+   翻訳者    翻訳者 
+ 警告watermark-blockquote-XXXX.pngwatermark-blockquote-00AB.pngyelp-watermark-blockquote-201C
+ watermark-blockquote-201C.png1 " ,  " A " ,  " a " ,  " I " ,  or  " i
+   appendix.digit    A 
+   appendix.label      .  #  x2003  ;      .  #  x2002  ;    付録    
+   appendix.number      .   
+   appendix.xref    付録      -    
+   biblioentry.tooltip       の参考文献を表示する  。 
+   bibliography.xref     
+   bibliolabel.format    [    ]  1 " ,  " A " ,  " a " ,  " I " ,  or  " i
+   book.digit    1 
+   book.xref     
+   citetitle.format    “    ”          
+   citation.format    [    ]  1 " ,  " A " ,  " a " ,  " I " ,  or  " i

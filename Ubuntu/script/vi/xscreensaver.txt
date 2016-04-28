@@ -1,0 +1,100 @@
+ Duyệt ...
+ Chọn  tập  tin .
+ Không  thể  tìm  tập  tin  pixmap :  % s
+ Lỗi  khi  nạp  tập  tin  pixmap :  % s
+ XScreenSaver
+ _ Tệp
+ _ Màn  hình  trống  bây  giờ
+ Kích  hoạt  XScreenSaver  daemon  bây  giờ  ( Khoá  màn  hình  nếu  đã  cấu  hình )
+ _ Khoá  màn  hình  ngay
+ Khoá  màn  hình  ngay  ( thậm  chí  khi   " Khoá  màn  hình "  không  được  chọn )
+ _ Giệt  Daemon
+ Báo  cho  XScreenSaver  daemon  đang  chạy  thoát  ra .
+ _ Chạy  lại  Daemon
+ Giệt  và  chạy  lại  XScreenSaver  daemon .
+ _ Thoát  ra
+ Thoát  khỏi  chương  trình  xscreensaver  xem  trước  ( nhưng  để  XScreenSaver  daemon  chạy  ở  nền )
+ _ Giúp
+ _ Nói  về ...
+ Hiển  thị  thông  tin  phiên  bản .
+ _ Tài  liệu ...
+ Đi  tới  tài  liệu  trên  trang  web  của  XScreenSaver .
+ Chu  trình  sau
+ Có  chăng  nên  yêu  cầu  một  mật  khẩu  để  không  bỏ  trống  màn  hình .
+ Khoá  màn  hình  sau
+ Để  trống  sau
+ Bao  lâu  trước  khi  màn  hình  tối  hẳn .
+ phút
+ Xem  trước
+ Diễn  thử  trình  bảo  vệ  màn  hình  ở  chế  độ  toàn  mành  hình  ( nhấn  chuột  để  quay  lại )
+ Thiết  lập ...
+ Tùy  chọn  và  chú  giải  cho  trình  bảo  vệ  màn  hình  được  chọn .
+ Chế  độ :
+ Tắt  trình  Bảo  vệ  Màn  hình
+ Chỉ  có  màn  hình  trống
+ Chỉ  có  một  trình  bảo  vệ  màn  hình
+ Trình  bảo  vệ  màn  hình  ngẫu  nhiên
+ Dùng
+ Trình  bảo  vệ  màn  hình
+ \ \ /
+ Chạy  trình  bảo  vệ  màn  hình  tiếp  theo  trong  danh  sách  với  chế  độ  toàn  màn  hình  ( nhấn  chuột  để  quay  lại )
+ / \ \
+ Chạy  trình  bảo  vệ  màn  hình  trước  trong  danh  sách  ở  chế  độ  toàn  màn  hình  ( nhấn  chuột  để  quay  lại )
+ Mô  tả
+ Chế  độ  hiển  thị
+ Chẩn  đoán
+ Có  chăng  daemon  nên  in  ra  màn  hình  thật  nhiều  thông  tin  gỡ  rối .
+ Chẩn  đoán  chi  tiết
+ Nên  chăng  bất  kỳ  output  lỗi  của  các  chế  độ  hiển  thị  nên  gửi  một  lần  nữa  ra  màn  hình .
+ Hiển  thị  lỗi  tiến  trình  con
+ Nên  chăng  màn  hình  nháy  lên  ( với  số  hiệu  phiên  bản  và  nút `Trợ giúp ') nên hiển thị thoáng qua khi daemon khởi chạy lần đầu.
+ Hiển  thị  Màn  hình  Loé  lên  khi  khởi  chạy
+ Bảng  màu
+ Nên  chăng  cài  đặt  một  bản  đồ  màu  cá  nhân  khi  chạy  ở  chế  độ  8  bit  trên  màn  hình  mặc  định .
+ Cài  đặt  bảng  màu
+ Nên  chăng  màn  hình  nên  tối  dần  dần  khi  trình  bảo  vệ  màn  hình  hoạt  động .
+ Trở  nên  tối  dần  khi  Làm  trống
+ Nên  chăng  màn  hình  sáng  dần  lên  khi  trình  bảo  vệ  màn  hình  thôi  hoạt  động .
+ Sáng  dần  lên  khi  Thôi  làm  trống
+ Thời  gian  tắt  dần
+ Màn  hình  nên  mờ  dần  đi  hay  sáng  trở  lại  trong  bao  lâu .
+ giây
+ Hiển  thị  quản  lý  Năng  lượng
+ Nên  chăng  monitor  nên  giảm  năng  lượng  sau  một  lúc .
+ Bật  quản  lý  năng  lượng
+ Tắt  sau
+ Treo  sau
+ Nghỉ  sau
+ Bao  lâu  cho  tới  khi  monitor  đi  vào  chế  độ  tiết  kiệm  năng  lượng .
+ Bao  lâu  cho  tới  khi  monitor  giảm  năng  lượng .
+ Thao  tác  Ảnh
+ Nên  chăng  chế  độ  thao  tác  ảnh  được  phép  hoạt  động  với  ảnh  của  màn  hình  nền .
+ Chụp  ảnh  màn  hình
+ Chế  độ  xử  lý  ảnh  có  nên  hoạt  động  trên  các  ảnh  được  nhận  từ  đầu  vào  video  cử  hệ  thống  hay  không  ( nếu  như  có ) .
+ Chụp  khung  video
+ Chọn  ảnh  ngẫu  nhiên :
+ Duyệt
+ Nâng  cao
+ Trình  bảo  vệ  màn  hình  X :  Thiết  lập  chế  độ  đặc  trưng
+ Thiết  lập
+ Chuẩn
+ Hiển  thị :
+ bất  kỳ
+ Tốt  nhất
+ Mặc  định
+ Mặc  định-N
+ GL
+ Màu  đúng
+ Màu  giả
+ Xám  tĩnh
+ Cân  bằng  xám
+ Màu  trực  tiếp
+ Màu
+ Xám
+ Đơn  sắc
+ Dòng  lệnh :
+ Tài  liệu ...
+ Nhấn  vào  đây  để  đọc  tài  liệu  về  chế  độ  hiển  thị  này ,  nếu  như  có .
+ Nâng  cao   >  >
+ Biên  soạn  dòng  lệnh  trực  tiếp .
+ Chuẩn   

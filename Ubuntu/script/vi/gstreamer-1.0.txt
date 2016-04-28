@@ -1,0 +1,79 @@
+ Hiển  thị  phiên  bản  của  GStreamer
+ Hiển  thị  tất  cả  các  loại  gỡ  lỗi  sẵn  có  rồi  thoát
+ MỨC
+ DANH  SÁCH
+ Tắt  xuất  dữ  liệu  gỡ  lỗi  với  màu
+ Tắt  gỡ  lỗi
+ Các  đường  dẫn  định  giới  bằng  dấu  hai  chấm  mà  chứa  phần  bổ  sung
+ ĐƯỜNG _ DẪN
+ PHẦN _ BỔ _ SUNG
+ Tắt  chức  năng  bắt  lỗi  phân  đoạn  trong  khi  nạp  phần  bổ  sung
+ Tắt  khả  năng  cập  nhật  bộ  đăng  ký
+ Tùy  chọn  GStreamer
+ Hiện  Tùy  chọn  GStreamer
+ Tùy  chọn  lạ
+ Lỗi  nội  bộ  GStreamer :  chưa  viết  mã  cho  chức  năng  này .
+ Lỗi  nội  bộ  GStreamer :  vấn  đề  đệm .
+ Lỗi  nội  bộ  GStreamer :  vấn  đề  về  tuyến  trình .
+ Lỗi  GStreamer :  vấn  đề  thỏa  thuận .
+ Lỗi  nội  bộ  GStreamer :  vấn  đề  sự  kiện .
+ Lỗi  nội  bộ  GStreamer :  vấn  đề  di  chuyển  vị  trí  đọc .
+ Lỗi  nội  bộ  GStreamer :  vấn  đề  thẻ .
+ Bản  cài  đặt  GStreamer  của  bạn  còn  thiếu  một  bổ  sung .
+ Lỗi  GStreamer :  vấn  đề  đồng  hồ .
+ Ứng  dụng  này  đang  thử  sử  dụng  chức  năng  GStreamer  bị  tắt .
+ Trình  GStreamer  mới  gặp  một  lỗi  thư  viện  hỗ  trợ  chung .
+ Không  thể  khởi  động  thư  viện  hỗ  trợ .
+ Không  thể  đóng  thư  viện  hỗ  trợ .
+ Không  thể  cấu  hình  thư  viện  hỗ  trợ .
+ Gặp  lỗi  mã  hóa .
+ Trình  GStreamer  mới  gặp  một  lỗi  tài  nguyên  chung .
+ Không  tìm  thấy  tài  nguyên .
+ Tài  nguyên  đang  bận  hay  chưa  sẵn  sàng .
+ Không  thể  mở  tài  nguyên  để  đọc .
+ Không  thể  mở  tài  nguyên  để  ghi .
+ Không  thể  mở  tài  nguyên  để  đọc  và  ghi .
+ Không  thể  đóng  tài  nguyên .
+ Không  thể  đọc  từ  tài  nguyên .
+ Không  thể  ghi  vào  tài  nguyên .
+ Không  thể  thi  hành  việc  di  chuyển  vị  trí  đọc  trên  tài  nguyên .
+ Không  thể  đồng  bộ  trên  tài  nguyên .
+ Không  thể  lấy / đặt  cài  đặt  từ / trên  tài  nguyên .
+ Không  còn  không  gian  trống  trên  tài  nguyên  đó .
+ Trình  GStreamer  mới  gặp  một  lỗi  luồng  chung .
+ phần  tử  không  thi  hành  khả  năng  quản  lý  luồng  này .  Hãy  thông  báo  lỗi .
+ Không  thể  quyết  định  kiểu  luồng  dữ  liệu .
+ Hiện  thời  không  có  phần  mã  hóa / giải  mã  ( codec )  xử  lý  được  luồng  kiểu  đó .
+ Không  thể  giải  mã  luồng  dữ  liệu .
+ Không  thể  mã  hóa  luồng  dữ  liệu .
+ Không  thể  tách  kênh  luồng  dữ  liệu .
+ Không  thể  phối  hợp  luồng  để  truyền  thông  qua  một  kênh  riêng  lẻ .
+ Luồng  dữ  liệu  có  định  dạng  sai .
+ Luồng  dữ  liệu  bị  mã  hóa  và  không  hỗ  trợ  chức  năng  giải  mã .
+ Luồng  dữ  liệu  bị  mã  hoá  và  không  thể  giải  mã  vì  chưa  cung  cấp  khoá  thích  hợp .
+ Lỗi  ghi  đăng  ký  bộ  nhớ  tạm  vào  % s :  % s
+ tựa  đề
+ tựa  đề  thường  dùng
+ tên  sắp
+ nghệ  sĩ
+ tên  nghệ  sĩ  dạng  viết  tắt
+ album
+ tên  sắp  album
+ ngày
+ ngày  tạo  dữ  liệu  này  ( dạng  cấu  trúc  GDate )
+ ngày  và  giờ  mà  dữ  liệu  được  tạo  ( dạng  cấu  trúc  GstDateTime )
+ thể  loại
+ thể  loại  của  dữ  liệu  này
+ ghi  chú
+ số  rãnh
+ số  thứ  tự  rãnh  ở  trong  bộ  sưu  tập
+ đếm  rãnh
+ số  đĩa
+ số  thứ  tự  đĩa  ở  trong  bộ  sưu  tập
+ đếm  đĩa
+ địa  điểm
+ mô  tả
+ phiên  bản
+ phiên  bản  của  dữ  liệu  này
+ ISRC
+ Luật  thu  âm  Tiêu  chuẩn  Quốc  tế  ( International  Standard  Recording  Code )  —  xem 

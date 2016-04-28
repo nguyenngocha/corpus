@@ -1,0 +1,57 @@
+ Glade
+ Bộ  thiết  kế  giao  diện  Glade
+ Tạo  hay  mở  bản  đồ  án  thiết  kế  giao  diện  người  dùng  cho  ứng  dụng  GTK +
+ Chọn
+ Chọn  ô  điều  khiển  trong  vùng  làm  việc
+ Kéo  đổi  cỡ
+ Kéo  và  thay  đổi  kích  cỡ  của  ô  điều  khiển  trong  vùng  làm  việc
+ Canh  lề
+ Lưu
+ Lưu  dự  án  hiện  thời
+ Lưu  _ dạng …
+ Lưu  dự  án  hiện  thời  có  tên  khác
+ Sửa  tùy  thích  về  dự  án
+ Đóng
+ Đóng  dự  án  hiện  thời
+ Hủy  hành  động  cuối  cùng
+ Làm  lại  hành  động  cuối  cùng
+ Ra
+ Cắt  vùng  chọn
+ Chép  % s
+ Sao  chép  vùng  chọn
+ Dán  bảng  nháp
+ Xoá  vùng  chọn
+ Dự  án  t _ rước
+ Kích  hoạt  dự  án  trước
+ Dự  án  _ kế
+ Kích  hoạt  dự  án  kế  tiếp
+ Tạo  một  dự  án  mới .
+ Mở
+ Mở  một  dự  án
+ Thoát  khỏi  chương  trình
+ Mở  _ gần  đây
+ Giới  thiệu  GNOME
+ Giới  thiệu  về  ứng  dụng  này
+ Tham  chiếu  _ phát  triển
+ Hiển  thị  sổ  tay  tham  chiếu  nhà  phát  triển
+ Sửa  hình  thức  nhãn
+ Biể _ u  tượng  nhỏ
+ Hiện  mục  bằng  biểu  tượng  nhỏ
+ Thả  neo  _ bảng  chọn
+ Thả  neo  bảng  chọn  vào  cửa  sổ  chính
+ Thả  neo  bộ  _ xem  xét
+ Thả  neo  bộ  xem  xét  vào  cửa  sổ  chính
+ Thuộc  tính  N _ eo
+ Thả  neo  bộ  chỉnh  sửa  vào  cửa  sổ  chính
+ Thanh  trạng  thái
+ Thanh  công  cụ
+ Văn  bản  ở  cạnh  biểu  tượng
+ Hiện  mục  dạng  văn  bản  ở  cạnh  biểu  tượng
+ Chỉ  _ hình
+ Hiện  mục  chỉ  dạng  biểu  tượng
+ Chỉ  _ nhãn
+ Hiện  mục  chỉ  dạng  văn  bản
+ Bộ  thiết  kế  giao  diện  người  dùng  cho  GTK +  và  GNOME .
+ Chương  trình  này  là  phần  mềm  tự  do ;  bạn  có  thể  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  với  điều  kiện  của  Giấy  Phép  Công  Cộng  GNU  như  được  xuất  bản  bởi  Tổ  Chức  Phần  Mềm  Tự  Do ;  hoặc  phiên  bản  2  của  Giấy  Phép  này ,  hoặc  ( tùy  chọn )  bất  kỳ  phiên  bản  sau  nào .  Chương  trình  này  được  phát  hành  vì  mong  muốn  nó  có  ích ,  nhưng  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .  Xem  Giấy  Phép  Công  Cộng  GNU  để  biết  thêm  chi  tiết .  Bạn  đã  nhận  một  bản  sao  của  Giấy  Phép  Công  Cộng  GNU  cùng  với  chương  trình  này ;  nếu  không ,  hãy  viết  thư  cho  Tổ  Chức  Phần  Mềm  Tự  Do ,  Free  Software  Foundation ,  Inc . ,  51  Franklin  Street ,  Fifth  Floor ,  Boston ,  MA   02110-1301 ,  USA  ( Mỹ ) .
+ Nhóm  Việt  hoá  GNOME   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >
+      Gợi    ý   :      *  Nhắp-phải  trên  khung  xem  cây ,  để  thêm  mục .    *  Bấm  phím  Delete  để  gỡ  bỏ  mục  được  chọn .    *  Kéo  và  Thả  để  sắp  xếp  lại .    *  Có  thể  sửa  đổi  cột  Kiểu .

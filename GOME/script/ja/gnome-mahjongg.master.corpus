@@ -1,0 +1,47 @@
+ GNOME  上海
+ 盤面から全ての牌を取り終わるまで同じ牌を二つずつ取っていきます
+ ウィンドウの幅  ( ピクセル単位 )  です 。
+ ウィンドウの高さ  ( ピクセル単位 )  です 。
+ mahjongg  map  name
+ 簡単mahjongg  map  name
+ ジッグラトmahjongg  map  name
+ 四つの橋mahjongg  map  name
+ 雲mahjongg  map  name
+ 三目並べmahjongg  map  name
+ 赤い龍mahjongg  map  name
+ ピラミッドの壁mahjongg  map  name
+ 交差する十字mahjongg  map  name
+ 一時停止
+ 取れる牌の組 :
+ 新しいゲーム ( _ N )
+ ゲームをやり直す ( _ R )
+ 得点 ( _ S )
+ 設定 ( _ P )
+ 終了 ( _ Q )
+ ヘルプ ( _ H )
+ このアプリケーションについて ( _ A )
+ このマップで新しいゲームを開始しますか ?
+ プレイを続行すると 、 次のゲームでは新しいマップを使用します 。
+ 続行する ( _ C )
+ 新しいマップ ( _ N )
+ 残念ながら 、 手詰まりです 。
+ ヒント
+ やり直す ( _ R )
+ 新しいゲーム ( _ N )
+ 設定 ( _ P )
+ テーマ ( _ T ) :
+ レイアウト ( _ L ) :
+ メインゲーム :
+ 牌 :
+ 同じ麻雀牌を見つけていくゲームです 。  GNOME  上海は  GNOME  ゲーム集の一部です 。
+ 相花  毅   <  takeshi \ .aihana \ @ gmail \ .com  >  佐藤  暁   <  ss \ @ gnome \ .gr \ .jp  >  KAMAGASAKO  Masatoshi   <  emerald \ @ gnome \ .gr \ .jp  >  草野  貴之   <  AE5T \ -KSN \ @ asahi \ -net \ .or \ .jp  >  Yuusuke  Tahara   <  tahara \ @ gnome \ .gr \ .jp  >  Akira  Higuchi   <  a \ -higuti \ @ math \ .sci \ .hokudai \ .ac \ .jp  >  Yukihiro  Nakai   <  Nakai \ @ technologist \ .com  >  catback ( Hiromi  Imazato )   <  catback \ @ lindwurm \ .biz  >  日本GNOMEユーザー会   <  http \ : \ / \ / www \ .gnome \ .gr \ .jp  >
+ レイアウト :
+ 日付
+ 経過時間
+ ウィンドウがフルスクリーンの場合は  TRUE
+ 新しいゲーム ( _ N )
+ 移動をやり直す ( _ R )
+ 一時停止 ( _ P )
+ GNOME  上海の設定
+ GNOME  ゲーム集のウェブサイト
+ GNOME  上海  -  % s

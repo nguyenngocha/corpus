@@ -1,0 +1,108 @@
+ 認証 ( _ A )
+ リソースに対するユーザ名 ( _ U ) :
+ パスワード ( _ P ) :
+ 表面と裏面
+ 表面
+ 戻る
+ シンプルスキャン
+ ドキュメント ( _ D )
+ スキャン ( _ A )
+ 一枚のページ ( _ P )
+ フィーダより全てのページ ( _ F )
+ スキャン停止 ( _ S )
+ テキスト
+ 写真
+ 電子メール ( _ E )
+ ページ ( _ P )
+ 左へ回転 ( _ L )
+ 右へ回転 ( _ R )
+ 切り抜き ( _ C )
+ なし ( _ N )
+ A _ 4
+ A _ 5
+ A _ 6
+ US  レター ( _ L )
+ US  リーガル ( _ G )
+ カスタム ( _ C )
+ 切り抜きを回転 ( _ R )
+ 左へ移動
+ 右へ移動
+ ヘルプ ( _ H )
+ コンテンツ ( _ C )
+ 新規ドキュメントの作成
+ 新規
+ 一枚のページをスキャンします
+ スキャン
+ ドキュメントをファイルに保存
+ 保存
+ スキャンを停止します
+ 停止
+ ページを左回転  ( 反時計回り )
+ 左へ回転
+ ページを右回転  ( 時計回り )
+ 右へ回転
+ 選択した範囲の切り抜き
+ 切り抜き
+ 設定
+ スキャンする対象 ( _ O ) :
+ テキストの画素数 ( _ T ) :
+ 写真の画素数 ( _ P ) :
+ スキャン面 :
+ ページサイズ :
+ 明るさ :
+ コントラスト :
+ 品質 :
+ ドキュメントをスキャンします
+ スキャンするデバイス
+ 画像を取得する  SANE  デバイスです 。
+ スキャンするドキュメントの種類
+ スキャンされる文書の種類 。 この設定により 、 画像の解像度 、 色の深度 、 事後処理が決定されます 。
+ 10mm単位での紙の幅
+ 10mm単位の用紙の幅  ( または自動用紙検知の場合は  0 )
+ 10mm単位の用紙の高さ
+ 10mm単位の紙の高さ  ( または  0  で自動紙検知 )
+ スキャンの明るさ
+ -100から100までの範囲で明るさを調節する  ( 0は無調整 ) 。
+ スキャンのコントラスト
+ -100から100までの範囲でコントラストを調節する  ( 0は無調整 ) 。
+ テキストスキャンの解像度
+ テキストをスキャンするときの解像度 ( DPI ) です 。
+ 写真スキャンの解像度
+ 写真をスキャンするときの解像度 ( DPI ) です 。
+ スキャンする面
+ スキャンされる面
+ ファイルを保存するディレクトリ
+ ファイルを保存するディレクトリです 。 設定されていない場合 、 標準でドキュメントディレクトリに保存されます 。
+ JPEGの圧縮に使用する品質の値
+ JPEGの圧縮に使用する品質の値です 。
+ 利用可能なスキャナがありません 。 スキャナを接続してください 。
+ スキャナに接続できません
+ スキャンを開始できません
+ スキャナとの通信に失敗しました
+ リリースバージョンを表示
+ デバッグメッセージを表示
+ 古いバージョンの  Simple  Scan  によって生成されたPDFファイルを修復する
+ スキャンに失敗しました
+ スキャンされたドキュメント
+ [ デバイス ... ]  -  スキャンユーティリティ
+ ' % s  --help '  を実行すると利用可能なすべてのコマンドラインオプションの一覧が表示されます
+ スキャンされたドキュメント.pdf
+ ' % s '  にアクセスするにはユーザ名とパスワードが必要です
+ スキャナが検出されていません
+ スキャナが接続されて電源が入っているか確認してください
+ 名前を付けて保存 ...
+ 画像ファイル
+ すべてのファイル
+ ファイルタイプの選択 ( _ T )
+ PDF  ( 複数のページを含む )
+ JPEG  ( 圧縮済み )
+ PNG  ( ロスレス )
+ ファイルの保存に失敗しました
+ 保存しない場合 、 変更は失われます 。
+ 現在のドキュメントを保存しますか ?
+ 変更を破棄
+ プレビュー用の画像を保存できません
+ 画像プレビューアプリケーションを開けませんでした
+ ヘルプファイルを開くことができません
+ This  program  is  free  software :  you  can  redistribute  it  and / or  modify  it  under  the  terms  of  the  GNU  General  Public  License  as  published  by  the  Free  Software  Foundation ,  either  version  3  of  the  License ,  or  ( at  your  option )  any  later  version .  This  program  is  distributed  in  the  hope  that  it  will  be  useful ,  but  WITHOUT  ANY  WARRANTY ;  without  even  the  implied  warranty  of  MERCHANTABILITY  or  FITNESS  FOR  A  PARTICULAR  PURPOSE .   See  the  GNU  General  Public  License  for  more  details .  You  should  have  received  a  copy  of  the  GNU  General  Public  License  along  with  this  program .   If  not ,  see 
+  Akira Tanaka https://launchpad.net/~akira-tanaka  Hajime Mizuno https://launchpad.net/~mizuno-as  Jeroen Hoek https://launchpad.net/~mail-jeroenhoek  Jun Kobayashi https://launchpad.net/~jkbys  Kenichi Ito https://launchpad.net/~ken-i54k  Kentaro Kazuhama https://launchpad.net/~kazken3  Koichi Akabe https://launchpad.net/~vbkaisetsu  MANABE Akinari https://launchpad.net/~maaanaari  Shushi Kurose https://launchpad.net/~kuromabo  Tosiki Iga https://launchpad.net/~tosiki-iga

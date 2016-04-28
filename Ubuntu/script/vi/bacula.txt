@@ -1,0 +1,1 @@
+ Không  thể  mở  file  dữ  liệu :  % s

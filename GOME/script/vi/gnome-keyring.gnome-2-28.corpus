@@ -1,0 +1,137 @@
+ Ứng  dụng  «  % s  »  ( % s )  muốn  truy  cập  mật  khẩu  cho  «    »  trong  vòng  khóa  mặc  định .
+ Ứng  dụng  «  % s  »  ( % s )  muốn  truy  cập  mật  khẩu  cho  «    »  trong  % s .
+ Ứng  dụng  «  % s  »  muốn  truy  cập  mật  khẩu  cho  «    »  trong  vòng  khóa  mặc  định .
+ Ứng  dụng  «  % s  »  muốn  truy  cập  mật  khẩu  cho  «    »  trong  % s .
+ Ứng  dụng  lạ  muốn  truy  cập  mật  khẩu  cho  «    »  trong  vòng  khóa  mặc  định .
+ Ứng  dụng  lạ  muốn  truy  cập  mật  khẩu  cho  «    »  trong  % s .
+ Cho  phép  truy  xuất
+ Cho  phép  ứng  dụng  truy  xuất  vòng  khóa  chứ ?
+ Ứng  dụng  «  % s  »  ( % s )  muốn  truy  cập  vào  vòng  khóa  mặc  định ,  nhưng  vòng  đã  bị  khóa
+ Ứng  dụng  «  % s  »  ( % s )  muốn  truy  cập  vào  vòng  khóa  «  % s  » ,  nhưng  vòng  đã  bị  khóa
+ Ứng  dụng  «  % s  »  muốn  truy  cập  vào  vòng  khóa  mặc  định ,  nhưng  vòng  đã  bị  khóa
+ Ứng  dụng  «  % s  »  muốn  truy  cập  vào  vòng  khóa  «  % s  » ,  nhưng  vòng  đã  bị  khóa
+ Ứng  dụng  lạ  muốn  truy  cập  vào  vòng  khóa  mặc  định ,  nhưng  vòng  đã  bị  khóa
+ Ứng  dụng  lạ  muốn  truy  cập  vào  vòng  khóa  «  % s  » ,  nhưng  vòng  đã  bị  khóa
+ Hãy  nhập  mật  khẩu  cho  vòng  khóa  mặc  định  để  mở  vòng  khóa
+ Hãy  nhập  mật  khẩu  cho  vòng  khóa  «  % s  »  để  mở  vòng  khóa
+ Mở  vòng
+ Tự  động  mở  khoá  vòng  khoá  này  khi  tôi  đăng  nhập .
+ Ứng  dụng  «  % s  »  ( % s )  muốn  tạo  vòng  khóa  mới  tên  «  % s  » .  Bạn  phải  chọn  mật  khẩu  bạn  muốn  dùng  để  mở  vòng  khóa  này .
+ Ứng  dụng  «  % s  »  ( % s )  muốn  tạo  vòng  khóa  mặc  định  mới .  Bạn  phải  chọn  mật  khẩu  bạn  muốn  dùng  để  mở  vòng  khóa  này .
+ Ứng  dụng  «  % s  »  muốn  tạo  vòng  khóa  mới  tên  «  % s  » .  Bạn  phải  chọn  mật  khẩu  bạn  muốn  dùng  để  mở  vòng  khóa  này .
+ Ứng  dụng  «  % s  »  muốn  tạo  vòng  khóa  mặc  định  mới .  Bạn  phải  chọn  mật  khẩu  bạn  muốn  dùng  để  mở  vòng  khóa  này .
+ Ứng  dụng  lạ  muốn  tạo  vòng  khóa  mới  tên  «  % s  » .  Bạn  phải  chọn  mật  khẩu  bạn  muốn  dùng  để  mở  vòng  khóa  này .
+ Ứng  dụng  lạ  muốn  tạo  vòng  khóa  mặc  định  mới .  Bạn  phải  chọn  mật  khẩu  bạn  muốn  dùng  để  mở  vòng  khóa  này .
+ Mật  khẩu  vòng  khóa  mới
+ Hãy  chọn  mật  khẩu  cho  vòng  khóa  mới
+ Ứng  dụng  «  % s  »  ( % s )  muốn  thay  đổi  mật  khẫu  cho  vòng  khoá  «  % s  » .  Bạn  cần  phải  chọn  mật  khẩu  cho  nó .
+ Ứng  dụng  «  % s  »  ( % s )  muốn  thay  đổi  mật  khẫu  cho  vòng  khoá  mặc  định .  Bạn  cần  phải  chọn  mật  khẩu  cho  nó .
+ Ứng  dụng  «  % s  »  muốn  thay  đổi  mật  khẫu  cho  vòng  khoá  «  % s  » .  Bạn  cần  phải  chọn  mật  khẩu  cho  nó .
+ Ứng  dụng  «  % s  »  muốn  thay  đổi  mật  khẫu  cho  vòng  khoá  mặc  định .  Bạn  cần  phải  chọn  mật  khẩu  cho  nó .
+ Ứng  dụng  lạ  muốn  thay  đổi  mật  khẫu  cho  vòng  khoá  «  % s  » .  Bạn  cần  phải  chọn  mật  khẩu  cho  nó .
+ Ứng  dụng  lạ  muốn  thay  đổi  mật  khẫu  cho  vòng  khoá  mặc  định .  Bạn  cần  phải  chọn  mật  khẩu  cho  nó .
+ Chọn  mật  khẩu  mới  cho  vòng  khóa  «  % s  » . 
+ Chọn  mật  khẩu  mới  cho  vòng  khóa  mặc  định . 
+ Đổi  mật  khẩu  vòng  khóa
+ Ứng  dụng  «  % s  »  ( % s )  muốn  lưu  mật  khẩu ,  nhưng  không  có  vòng  khóa  mặc  định .  Để  tạo  vòng ,  bạn  cần  chọn  mật  khẩu  dùng  để  mở  vòng  khoá .
+ Ứng  dụng  «  % s  »  muốn  lưu  mật  khẩu ,  nhưng  không  có  vòng  khóa  mặc  định .  Để  tạo  vòng ,  bạn  cần  chọn  mật  khẩu  dùng  để  mở  vòng  khoá .
+ Ứng  dụng  lạ  muốn  lưu  mật  khẩu ,  nhưng  không  có  vòng  khóa  mặc  định .  Để  tạo  vòng ,  bạn  cần  chọn  mật  khẩu  dùng  để  mở  vòng  khoá .
+ Tạo  vòng  khoá  mặc  định
+ Chọn  mật  khẩu  cho  vòng  khóa  mặc  định
+ Có  bật  gnome-keyring  SSH  agent  hay  không .
+ Tuỳ  chọn  này  bật  SSH  agent  trong  gnome-keyring  daemon .  Nó  chỉ  có  tác  dụng  khi  gnome-keyring-daemon  hoạt  động ,  ( ví  dụ :  khi  người  dùng  đăng  nhập ) .  Thiết  lập  này  có  thể  bị  ghi  đè  bằng  đối  số  dòng  lệnh  truyền  cho  daemon .
+ Có  bật  thành  phần  gnome-keyring  PKCS # 11  hay  không .
+ Tuỳ  chọn  này  bật  thành  phần  PKCS # 11  trong  gnome-keyring  daemon .  Nó  chỉ  có  tác  dụng  khi  gnome-keyring-daemon  hoạt  động ,  ( ví  dụ :  khi  người  dùng  đăng  nhập ) .  Thiết  lập  này  có  thể  bị  ghi  đè  bằng  đối  số  dòng  lệnh  truyền  cho  daemon .
+ Trình  nền  Vòng  Khoá  GNOME
+ Gỡ  khoá  vòng  khoá  đăng  nhập
+ Gõ  mật  khẩu  đăng  nhập  để  gỡ  khoá  vòng  khoá
+ Vòng  khoá  đăng  nhập  của  bạn  đã  không  được  gỡ  khoá  khi  bạn  đăng  nhập  vào  máy  tính  này .
+ Tạo  vòng  khoá  đăng  nhập
+ Gõ  mật  khẩu  đăng  nhập
+ Vòng  khoá  đăng  nhập  của  bạn  đã  không  được  tạo  tự  động  khi  bạn  đăng  nhập  vào  máy  tính  này .  Nó  sẽ  được  tạo  ngay  bây  giờ .
+ Mở  khoá  mật  khẩu  cho  vòng  khóa  % s
+ Mở  khoá  cá  nhân
+ Mở  chứng  nhận
+ Mở  khoá  công  khai
+ Mở  khoá
+ Gõ  mật  khẩu  để  mở  khoá  cá  nhân
+ Gõ  mật  khẩu  để  mở  chứng  nhận
+ Gõ  mật  khẩu  để  mở  khoá  công  khai
+ Gõ  mật  khẩu  để  gỡ  khoá
+ Ứng  dụng  muốn  truy  cập  đến  khoá  cá  nhân  % s ,  nhưng  nó  đang  bị  khóa
+ Ứng  dụng  muốn  truy  cập  đến  chứng  nhận  % s ,  nhưng  nó  đang  bị  khóa
+ Ứng  dụng  muốn  truy  cập  đến  khoá  công  khai  % s ,  nhưng  nó  đang  bị  khóa
+ Ứng  dụng  muốn  truy  cập  đến  «  % s  » ,  nhưng  nó  bị  khóa
+ Tự  động  mở  khoá  cá  nhân  này  khi  tôi  đăng  nhập .
+ Tự  động  mở  chứng  nhận  này  khi  tôi  đăng  nhập .
+ Tự  động  mở  khoá  công  khai  này  khi  tôi  đăng  nhập .
+ Tự  động  mở  khoá  này  khi  tôi  đăng  nhập .
+ Mở  khoá  lưu  trữ  chứng  nhận / khoá
+ Nhập  mật  khẩu  để  mở  khoá  kho  lưu  chứng  nhận / khoá
+ Một  ứng  dụng  muốn  truy  cập  đến  kho  lưu  chứng  nhận / khoá  «  % s  » ,  nhưng  nó  vẫn  bị  khóa
+ Tự  động  mở  kho  lưu  bảo  mật  khi  tôi  đăng  nhập .
+ Yêu  cầu  mật  khẩu  mới
+ Yêu  cầu  mật  khẩu  mới  để  lưu  trữ  bảo  mật
+ Để  chuẩn  bi  «  % s  »  lưu  trữ  chứng  nhận  hay  khoá  thì  yêu  cầu  một  mật  khẩu
+ Lưu  mật  khẩu  không  mật  mã  không ?
+ Dùng  một  mật  khẩu  trắng  thì  mật  khẩu  đã  lưu  sẽ  không  thể  được  mã  hoá  an  toàn .  Mọi  người  đều  có  thể  truy  cập  vào  tập  tin  của  bạn .
+ Lưu  không  an  toàn
+ _ Vị  trí :
+ Mật  khẩu  _ cũ  :
+ _ Mật  khẩu  :
+ _ Xác  nhận  mật  khẩu  :
+ Độ  mạnh  của  mật  khẩu  mới
+ Hai  mật  khẩu  không  trùng .
+ Không  cho  phép  mật  khẩu  trắng
+ _ Từ  chối
+ _ Tạo
+ _ Thay  đổi
+ Cho  phép  _ một  lần
+ _ Luôn  cho  phép
+ Đĩa  rời :  % s
+ Đĩa  rời
+ Nhà
+ Tập  tin  này  nằm  trên  một  đĩa  hay  ổ  không  có
+ Không  thể  tạo  thư  mục :  % s
+ Không  thể  xoá  tập  tin :  % s
+ Thành  phần  Miền
+ Mã  số  người  dùng
+ Địa  chỉ  thư
+ Ngày  sinh
+ Nơi  sinh
+ Giới  tính
+ Quốc  gia  cấp  công  dân
+ Quốc  gia  ở
+ Tên  chung
+ Họ
+ Số  thứ  tự
+ Quốc  gia
+ Vùng
+ Tỉnh
+ Đường
+ Tổ  chức
+ Đơn  vị  tổ  chức
+ Tuổi  tác
+ Số  điện  thoại
+ Tên  hay  gọi
+ Tên  viết  tắt
+ Thế  hệ  dè  dặt
+ Tên  miền  dè  dặt
+ Biệt  hiệu
+   Không   phải   phần   của   chứng   nhận 
+   không   rõ 
+ Chứng  nhận  ứng  dụng  khách  SSL
+ Chứng  nhận  trình  phục  vụ  SSL
+ Chứng  nhận  người  ký  thư  điện  tử
+ Chứng  nhận  người  nhận  thư  điện  tử
+   Chứng   nhận   này   đã   được   thẩm   tra   cho   những   mục   đích   theo   đây  : 
+   Cấp   cho 
+ Tên  chung  ( TC )
+ Tổ  chức  ( O )
+ Đơn  vị  tổ  chức  ( OU )
+ Cấp  vào
+ Hết  hạn  vào
+   Cấp   bởi 
+   Vân   tay 
+ Vân  tay  SHA1
+ Vân  tay  MD5

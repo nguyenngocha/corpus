@@ -1,0 +1,754 @@
+ Cảnh  giác ! :  % s
+ Chào  mừng
+ Bạn  có  chắc  muốn  thoát  không ?
+ Thực  sự  thoát  khỏi  Lynx  không ?
+ Kết  nối  bị  ngắt .
+ Tiến  trình  truyền  dữ  liệu  bị  gián  đoạn .
+ Đã  bị  hủy ! ! !
+ Đang  hủy !
+ Tốt  lắm ! ! !
+ OK
+ Hoàn  tất .
+ Yêu  cầu  sai .
+ lùi
+ màn  hình  tiếp
+ HÃY  GIÚP !
+ ,  trợ  giúp  về 
+ Lệnh :  [ mũi  tên ]  di  chuyển ;  [ ? ]  trợ  giúp ;  [ q ]  thoát ;  [  <  - ]  lùi  lại .
+ —  [ phím  dài ]  xem  thêm ;  [ mũi  tên ]  di  chuyển ;  [ ? ]  trợ  giúp ,  [ q ]  thoát .
+ —  [ phím  dài ]  trang  kế  tiếp  —
+ URL  quá  dài
+ ( Trường  nhập  văn  bản )  Không  hoạt  động .   Nhấn   <  return  >   để  kích  hoạt .
+ ( Vùng  văn  bản )  Không  hoạt  động .   Nhấn   <  return  >   để  kích  hoạt .
+ ( Vùng  văn  bản )  Không  hoạt  động .   Nhấn   <  return  >   để  kích  hoạt  ( % s  để  mở  trình  soán  thảo ) .
+ ( Trường  biểu  mẫu )  Không  hoạt  động .   Nhấn   <  return  >   để  soạn  thảo .
+ ( Trường  biểu  mẫu )  Không  hoạt  động .   Nhấn   <  return  >   để  soạn  thảo  ( % s  để  gửi  đi  mà  không  nhớ  tạm ) .
+ ( Trường  biểu  mẫu )  Không  hoạt  động .   Hãy  nhấn   <  return  >   để  soạn  thảo ,  nhấn   <  return  >   hai  lần  để  gửi  đi .
+ ( Trường  biểu  mẫu  gửi  thư )  Không  hoạt  động .   Hãy  nhấn   <  return  >   để  thay  đổi .
+ ( Trường  nhập  mật  khẩu )  Không  hoạt  động .   Hãy  nhấn   <  return  >   để  kích  hoạt .
+ Trường  nhập  tập  tin  KHÔNG  THỂ  SỬA  ĐỔI .  Dùng  các  phím  mũi  tên  LÊN  hoặc  XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Trường  nhập  tập  tin )  Hãy  nhập  tên  tập  tin .   Sử  dụng  các  phím  mũi  tên  LÊN  hoặc  XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Trường  nhập  văn  bản )  Hãy  nhập .   Dùng  các  mũi  tên  LÊN  hoặc  XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Vùng  văn  bản )  Hãy  nhập .   Dùng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Vùng  văn  bản )  Hãy  nhập .   Sử  dụng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp  ( % s  để  mở  trình  soạn  thảo ) .
+ Trường  văn  bản  biểu  mẫu  KHÔNG  THỂ  SỬA  ĐỔI .  Dùng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Trường  biểu  mẫu )  Hãy  nhập .   Dùng   <  return  >   để  gửi  đi .
+ ( Trường  biểu  mẫu )  Hãy  nhập .   Dùng   <  return  >   để  gửi  đi .  ( % s  để  không  nhớ  tạm ) .
+ ( Trường  biểu  mẫu )  Hãy  nhập .  Dùng   <  return  >   để  gửi  đi ,  phím  mũi  tên  hoặc  tab  để  đi  tiếp .
+ Trường  biểu  mẫu  KHÔNG  THỂ  SỬA  ĐỔI .  Dùng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Trường  biểu  mẫu  gửi  thư )  Hãy  nhập .   Dùng   <  return  >   để  gửi  đi ,  phím  mũi  tên  hoặc  tab  để  đi  tiếp .
+ ( Trường  biểu  mẫu  gửi  thư )  Không  cho  phép  gửi  thư  vì  thế  không  thể  gửi  đi .
+ ( Trường  nhập  mật  khẩu )  Hãy  nhập .   Sử  dụng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ Mật  khẩu  biểu  mẫu  KHÔNG  THỂ  SỬA  ĐỔI .  Dùng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Trường  hộp  chọn )    Dùng  mũi  tên  phải  hoặc   <  return  >   để  bật  tắt .
+ Hộp  lựa  chọn  KHÔNG  THỂ  SỬA  ĐỔI .  Dùng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Nút  chọn  một )    Dùng  mũi  tên  phải  hoặc   <  return  >   để  bật  tắt .
+ Nút  chọn  một  biểu  mẫu  KHÔNG  THỂ  SỬA  ĐỔI .  Dùng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ Gửi  ( ' x '  để  không  nhớ  tạm )  cho 
+ Gửi  cho 
+ ( Nút  gửi  đi  biểu  mẫu )  Dùng  mũi  tên  phải  hoặc   <  return  >   để  gửi  ( ' x '  để  không  nhớ  tạm ) .
+ ( Nút  gửi  đi  biểu  mẫu )  Dùng  mũi  tên  phải  hoặc   <  return  >   để  gửi  đi .
+ Nút  gửi  đi  BỊ  TẮT .  Dùng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ Gửi  thư  biểu  mẫu  cho 
+ ( nút  gửi  thư  biểu  mẫu )  Dùng  mũi  tên  phải  hoặc   <  return  >   để  gửi  đi .
+ ( nút  gửi  thư  biểu  mẫu )  Không  cho  phép  gửi  thư  vì  thế  không  thể  gửi  đi .
+ ( Đặt  lại  biểu  mẫu )   Dùng  mũi  tên  phải  hoặc   <  return  >   để  đặt  lại  biểu  mẫu  thành  các  giá  trị  mặc  định
+ Nút  đặt  lại  BỊ  TẮT .  Hãy  dùng  mũi  tên  LÊN / XUỐNG  hoặc  tab  để  đi  tiếp .
+ ( Danh  sách  tùy  chọn )  Bấm  Return  và  dùng  các  phím  mũi  tên  và  Return  để  đặt  tùy  chọn .
+ ( Danh  sách  lựa  chọn )  Bấm  Return  và  dùng  các  phím  mũi  tên  và  Return  để  đặt  tùy  chọn .
+ Danh  sách  tùy  chọn  KHÔNG  THẾ  SỬA  ĐỔI .   Hãy  dùng  các  mũi  tên  hoặc  Return  để  xem  lại  hoặc  rời  bỏ .
+ Danh  sách  lựa  chọn  KHÔNG  THẾ  SỬA  ĐỔI .   Hãy  dùng  các  mũi  tên  hoặc  Return  để  xem  lại  hoặc  rời  bỏ .
+ Đang  gửi  biểu  mẫu ...
+ Đang  đặt  lại  biểu  mẫu ...
+ Đang  nạp  tài  liệu .   Bất  kỳ  mục  nào  trong  đơn  cũng  sẽ  mất !
+ Cảnh  báo :  không  thể  chuyển  đổi  từ  dữ  liệu  sang  bộ  ký  tự  % s .
+ ( LIÊN  KẾT  THÔNG  THƯỜNG )   Dùng  mũi  tên  sang  phải  hoặc   <  return  >   để  kích  hoạt .
+ Đã  yêu  cầu  một  tài  nguyên  hiện  thời  không  sẵn  sàng .
+ Gõ  lệnh  động  tác  gõ  phím  Lynx : 
+ Đang  tra  tìm 
+ Đang  lấy  % s
+ Đang  bỏ  qua  % s
+ Đang  dùng  % s
+ URI  cấm :  % s
+ Địa  chỉ  dạng  sai  % s
+ URL :  % s
+ Không  thể  truy  cập  vào  tập  tin  WWW .
+ Đây  là  chỉ  mục  tìm  kiếm  được .  Dùng  % s  để  tìm  kiếm :
+ — Thêm —  Đây  là  chỉ  mục  tìm  kiếm  được .  Dùng  % s  để  tìm  kiếm :
+ Bạn  đã  gõ  một  số  liên  kết  không  hợp  lệ .
+ Hiện  thời  đang  xem  mã  nguồn  của  tài  liệu .   Nhấn  «  \ \  »  để  trở  lại  phiên  bản  được  vẽ .
+ Mũi  tên :  [ Trên / Xuống ]  di  chuyển ;  [ Phải ]  theo  liên  kết ;  [ Trái ]  lùi  lại .  
+ [ H ]  trợ  giúp ;  [ O ]  tùy  chọn ;  [ P ]  in ;  [ M ]  màn  hình  chính ;  [ Q ]  thoát ;  [ / ]  tìm ;  [ del ]  lịch  sử 
+ Lệnh  khác :  [ H ]  trợ  giúp ;  [ K ]  sơ  đồ  phím ;  [ G ]  đi  tới ;  [ P ]  in ;  [ M ]  màn  hình  chính ;  [ Q ]  thoát  
+ Lệnh  khác :  [ B ]  lùi  lại ;  [ E ]  sửa ;  [ D ]  tải  về ;  [ ^ R ]  nạp  lại  [ ^ W ]  xoá  màn  hình ;  [ / ]  tìm  trong  tài  liệu 
+ Lệnh  khác :  [ C ]  lịch  sử  bình  luận ;  [ xoá  lùi ]  Đánh  dấu  ( [ V ]  xem ;  [ A ]  thêm ;  [ R ]  bỏ ) 
+ Hãy  nhập  văn  bản  vào  trường  này  bằng  cách  gõ  phím              
+ Ctrl-U  để  xóa  tất  cả  văn  bản  trong  trường ,  [ Xoá  lùi ]  để  xóa  1  ký  tự    
+ Ctrl-U  để  xóa  văn  bản  trong  trường ,  [ Xoá  lùi ]  để  xóa  1  ký  tự    
+ % s  để  xóa  tất  cả  văn  bản  trong  trường ,  [ Xoá  lùi ]  để  xóa  1  ký  tự    
+ % s  để  xóa  văn  bản  trong  trường ,  [ Xoá  lùi ]  để  xóa  1  ký  tự    
+ Sai  dạng  gửi  thư  biểu  mẫu  nên  bị  thôi .
+ Cảnh  báo !  mã  điều  khiển  trong  địa  chỉ  thư  thay  thế  bởi  ?
+ Không  cho  phép  gửi  thư !   Không  thể  gửi  đi .
+ Lỗi  gửi  thư  biểu  mẫu .
+ Việc  gửi  thư  biểu  mẫu  bị  thôi .
+ Đang  gửi  nội  dung  của  biểu  mẫu ...
+ URI  mailto  ( gửi  thư  cho )  không  chứa  địa  chỉ  thư  điện  tử .
+ Không  thể  mở  tập  tin  tạm  thời  cho  URL  mailto  ( gửi  thư  cho ) .
+ Bạn  có  muốn  trích  dẫn  thư  gốc  không ?
+ Bạn  có  muốn  trích  dẫn  mã  nguồn  đã  phân  tích  sẵn  không ?
+ Đang  tạo  và  thực  hiện  trình  soạn  thảo  đã  chọn  để  soạn  thảo  thư
+ Lỗi  tạo  và  thực  hiện  trình  soạn  thảo ,  hãy  kiểm  tra  định  nghĩa  trình  soạn  thảo  trong  trình  đơn  tùy  chọn
+ Gửi  bình  luận  này  không ?
+ Gửi  thư  này  không ?
+ Đang  gửi  thư  của  bạn ...
+ Đang  gửi  bình  luận  của  bạn :
+ Ở  ngoài  VÙNG  VĂN  BẢN ,  không  thể  dùng  trình  soạn  thảo  ngoại  trú .
+ Ở  ngoài  VÙNG  VĂN  BẢN ,  không  thể  dùng  câu  lệnh .
+ tập  tin :  HÀNH  ĐỘNG  không  cho  phép !
+ tập  tin :  URL  qua  liên  kết  đã  đưa  là  không  cho  phép !
+ Truy  cập  vào  tập  tin  cục  bộ  bị  từ  chối .
+ tập  tin :  không  cho  phép  URL  qua  Đánh  dấu !
+ Không  cho  phép  URL  đặc  biệt  này  trong  tài  liệu  bên  ngoài .
+ Bấm  phím   <  return  >   để  trở  về  Lynx .
+ Đang  tạo  và  thực  hiện  tiến  trình  con  DCL .  Dùng  «  logout  »  để  quay  lại  Lynx .
+ Gõ  «  EXIT  »  ( thoát )  để  trở  về  Lynx .
+ Đang  tạo  và  thực  hiện  trình  bao  mặc  định .   Hãy  dùng  «  exit  »  để  quay  lại  Lynx .
+ Chức  năng  tạo  và  thực  hiện  hiện  thời  bị  tắt .
+ Câu  lệnh  «  ' d 'ownload  »  ( tải  về )  hiện  hiện  thời  bị  tắt .
+ Bạn  không  thể  tải  xuống  một  trường  nhập  liệu .
+ Biểu  mẫu  có  hành  động  mailto  ( gửi  thư )  thì  không  thể  tải  xuống .
+ Bạn  không  thể  tải  xuống  một  liên  kết  mailto :  ( gửi  thư ) .
+ Bạn  không  thể  tải  xuống  cookie .
+ Bạn  không  thể  tải  xuống  một  tùy  chọn  in  ẩn .
+ Bạn  không  thể  tải  xuống  một  tùy  chọn  tải  lên .
+ Bạn  không  thể  tải  xuống  một  tùy  chọn  cho  phép .
+ Không  thể  tải  xuống  địa  chỉ  URL  đặc  biệt  này .
+ Không  có  gì  cần  tải  xuống .
+ Tìm  đường  BẬT !
+ Tìm  đường  TẮT !
+ Sẽ  thêm  liên  kết  cho  mọi  hình  ảnh !   Đang  nạp  lại ...
+ Đã  phục  hồi  sự  điều  khiển  hình  ảnh  tiêu  chuẩn !  Đang  nạp  lại ...
+ Sẽ  chèn  Pseudo _ ALT  cho  mỗi  ảnh  trực  tiếp  không  có  chuỗi  xen  kẽ  ALT !  Đang  nạp  lại ...
+ Ảnh  trực  tiếp  không  có  chuỗi  ALT  sẽ  bị  bỏ  qua !  Đang  nạp  lại ...
+ Chế  độ  8-bit  thô  sơ  hoặc  CJK  TẮT !  Đang  nạp  lại ...
+ Chế  độ  8-bit  thô  sơ  hoặc  CJK  BẬT !  Đang  nạp  lại ...
+ Gửi  yêu  cầu  HEAD  cho  [ D ]  tài  liệu  hoặc  [ L ]  liên  kết ,  hoặc  [ C ]  thôi : 
+ Gửi  yêu  cầu  HEAD  cho  [ D ]  tài  liệu ,  hoặc  [ C ]  thôi : 
+ Tiếc  là  tài  liệu  không  phải  địa  chỉ  URL  Web  ( theo  giao  thức  HTTP ) .
+ Tiếc  là  liên  kết  không  phải  địa  chỉ  URL  Web  ( theo  giao  thức  HTTP ) .
+ Tiếc  là  HÀNH  VI  cho  biểu  mẫu  này  đã  bị  tắt .
+ Rất  tiếc ,  HÀNH  VI  cho  biểu  mẫu  này  không  phải  là  một  URL  kiểu  http .
+ Không  phải  là  URL  http  hay  biểu  mẫu  HÀNH  VI .
+ URL  đặc  biệt  này  không  thể  là  một  HÀNH  VI  của  biểu  mẫu .
+ Địa  chỉ  URL  không  nằm  trong  vùng  bắt  đầu .
+ Chức  năng  gửi  bài  tin  đã  bị  tắt
+ Hỗ  trợ  quản  lý  tập  tin  đã  bị  tắt .
+ Hiện  thời  không  có  sẵn  tập  tin  nhảy .
+ Nhảy  tới  ( dùng  «  ?  »  để  liệt  kê ) : 
+ Không  cho  phép  nhảy  tới  một  địa  chỉ  URL  viết  tắt .
+ Không  cho  phép  dùng  địa  chỉ  URL  ngẫu  nhiên .  Hãy  dùng  một  lối  tắt .
+ Chưa  dùng  địa  chỉ  URL  ngẫu  nhiên .
+ Các  tính  năng  Đánh  dấu  đã  bị  tắt .
+ Chức  năng  thực  hiện  thông  qua  Đánh  dấu  đã  bị  tắt .
+ Chưa  xác  định  tập  tin  Đánh  dấu .  Hãy  dùng  % s  để  xem  tùy  chọn .
+ Không  thể  mở  tập  tin  tạm  thời  để  chuyển  đổi  danh  sách  nóng  Mosaic  X.
+ LỖI  —  không  thể  mở  tập  tin  Đánh  dấu .
+ Không  thể  mở  tập  tin  Đánh  dấu  để  xoá  liên  kết .
+ Không  thể  mở  tập  tin  ghi  tạm  để  xoá  liên  kết .
+ Gặp  lỗi  khi  thay  đổi  tên  của  tập  tin  ghi  tạm .
+ Gặp  lỗi  khi  thay  đổi  tên  của  tập  tin  tạm  thời .
+ Không  thể  sao  chép  tập  tin  tạm  thời  để  xoá  liên  kết .
+ Không  thể  mở  lại  tập  tin  tạm  thời  để  xoá  liên  kết .
+ Liên  kết  không  nằm  riêng  trên  một  dòng  trong  tập  tin  Đánh  dấu .
+ Lỗi  xoá  Đánh  dấu .
+ Không  đi  qua  được  tập  tin  Đánh  dấu  ( chỉ  các  URL  http ) .
+ Không  thể  mở  tập  tin  Đánh  dấu ,  trước  tiên  hãy  dùng  «  a  »  để  lưu  liên  kết .
+ Không  có  liên  kết  trong  tập  tin  Đánh  dấu  này .
+ Lưu  [ D ]  tài  liệu  hoặc  [ L ]  liên  kết  vào  tập  tin  Đánh  dấu ,  hoặc  [ C ]  thôi : 
+ Lưu  [ D ]  tài  liệu  vào  tập  tin  Đánh  dấu ,  hoặc  [ C ]  thôi : 
+ Lưu  [ L ]  liên  kết  vào  tập  tin  Đánh  dấu ,  hoặc  [ C ]  thôi : 
+ Tài  liệu  từ  biểu  mẫu  có  nội  dung  POST  thì  không  thể  được  lưu  dạng  Đánh  dấu .
+ Không  thể  lưu  trường / liên  kết  của  biểu  mẫu
+ Không  thể  lưu  dạng  Đánh  dấu  tập  tin  kiểu  lịch  sử ,  hiển  thị  thông  tin ,  trình  đơn  hoặc  danh  sách .
+ Bạn  thực  sự  muốn  xoá  liên  kết  này  khỏi  tập  tin  Đánh  dấu  không ?
+ Địa  chỉ  dạng  sai .
+ Phân  tích  bình  luận  lịch  sử  BẬT  ( Tối  thiểu  bị  ghi  đè ) .
+ Phân  tích  bình  luận  lịch  sử  TẮT  ( Tối  thiểu  được  dùng ) .
+ Phân  tích  bình  luận  lịch  sử  BẬT  ( Hợp  lệ  bị  ghi  đè ) .
+ Phân  tích  bình  luận  lịch  sử  TẮT  ( Hợp  lệ  có  tác  động ) .
+ Phân  tích  bình  luận  tối  thiểu  BẬT  ( cũng  có  tác  động ) .
+ Phân  tích  bình  luận  tối  thiểu  TẮT  ( Hợp  lệ  có  tác  động ) .
+ Phân  tích  bình  luận  tối  thiểu  BẬT  ( nhưng  kiểu  lịch  sử  có  tác  động ) .
+ Phân  tích  bình  luận  tối  thiểu  TẮT  ( kiểu  lịch  sử  có  tác  động ) .
+ Phân  tích  dấu  nháy  kép  mềm  BẬT .
+ Phân  tích  dấu  nháy  kép  mềm  TẮT .
+ Đang  dùng  phân  tích  TagSoup  của  HTML .
+ Đang  dùng  phân  tích  SortaSGML  của  HTML .
+ Bạn  ở  cuối  của  tài  liệu  này .
+ Bạn  ở  đầu  của  tài  liệu  này .
+ Bạn  ở  trang  % d  của  tài  liệu  này .
+ Liên  kết  số  % d  không  cần  cập  nhật .
+ Bạn  ở  tài  liệu  đầu  tiên .
+ Không  có  liên  kết  bên  trên  dòng  này  của  tài  liệu .
+ Không  có  liên  kết  bên  dưới  dòng  này  của  tài  liệu .
+ Tới  chiều  dài  tối  đa .  Hãy  xoá  văn  bản  hoặc  đi  tiếp .
+ Không  nằm  trên  một  nút  gửi  biểu  mẫu  hay  một  liên  kết  thông  thường .
+ Có  nút  chọn  một  thì  lúc  nào  phải  chọn  một  của  những  tùy  chọn  được  cung  cấp .
+ Không  có  nút  gửi  đi  cho  biểu  mẫu  này ,  gửi  đi  một  trường  văn  bản  riêng ?
+ Bạn  có  muốn  trở  về  tài  liệu  trước  không ?
+ Sử  dụng  phím  mũi  tên  hoặc  tab  để  đi  tiếp .
+ Hãy  nhập  văn  bản .   Sử  dụng  phím  mũi  tên  hoặc  tab  để  đi  tiếp .
+ HTML  xấu ! !  Chưa  xác  định  hành  động  biểu  mẫu .
+ HTML  xấu ! !  Không  thể  tạo  cửa  sổ  tự  mở .
+ Không  thể  tạo  cửa  sổ  tự  mở .
+ Không  cho  phép  đi  tới  một  địa  chỉ  URL  ngẫu  nhiên !
+ Không  cho  phép  đi  tới  một  địa  chỉ  URL  không  phải  HTTP .
+ Bạn  không  có  quyền  đi  tới  địa  chỉ  URL  kiểu  «  % s  »
+ URL  cần  mở : 
+ Sửa  URL  Đi  Tới  hiện  tại : 
+ Sửa  URL  Đi  Tới  trước : 
+ Sửa  một  URL  Đi  Tới  trước : 
+ Tài  liệu  hiện  thời  chứa  dữ  liệu  POST .
+ Sửa  URL  của  tài  liệu  này : 
+ Sửa  URL  của  liên  kết  hiện  tại : 
+ Không  thể  chỉnh  sửa  địa  chỉ  URL  kiểu  Quản  lý  Tập  tin
+ Nhập  truy  vấn  cơ  sở  dữ  liệu : 
+ Nhập  truy  vấn  whereis : 
+ Nhập  truy  vấn  hiện  thời : 
+ Nhập  truy  vấn  trước : 
+ Nhập  một  truy  vấn  trước : 
+ Bấm  tổ  hợp  phím  Ctrl-R  để  gửi  lại  truy  vấn  hiện  thời .
+ Sửa  lối  tắt  hiện  thời : 
+ Sửa  lối  tắt  trước : 
+ Sửa  một  lối  tắt  trước : 
+ Phím  «  % c  »  không  phải  được  ánh  xạ  tới  một  tập  tin  nhảy .
+ Không  thể  tìm  tập  tin  nhảy .
+ Không  thể  mở  tập  tin  nhảy .
+ Lỗi  đọc  tập  tin  nhảy .
+ Tràn  bộ  nhớ  khi  đọc  tập  tin  nhảy .
+ Tràn  bộ  nhớ  khi  đọc  bảng  nhảy .
+ Hiện  thời  không  có  sẵn  chỉ  mục .
+ Bạn  thực  sự  muốn  chuyển  đổi  sang  màn  hình  Chính  không ?
+ Bạn  ở  màn  hình  chính .
+ Không  phải  một  tài  liệu  có  chỉ  mục  và  khả  năng  tìm  kiếm :  bấm  «  /  »  để  tìm  kiếm  một  chuỗi  văn  bản
+ Chưa  xác  định  chủ  sơ  hữu  cho  tập  tin  này  thì  bạn  không  thể  gửi  bình  luận
+ Chưa  xác  định  chủ  sơ  hữu .  Dùng  % s  không ?
+ Bạn  có  muốn  gửi  bình  luận  không ?
+ Không  cho  phép  dùng  thư  vì  thế  bạn  không  thể  gửi  bình  luận
+ Câu  lệnh  chỉnh  sửa  ( E )  hiện  thời  bị  tắt .
+ Chức  năng  chỉnh  sửa  bên  ngoài  hiện  thời  bị  tắt .
+ Lỗi  hệ  thống  —  lỗi  lấy  trạng  thái .
+ Chưa  xác  định  trình  soạn  thảo .
+ Câu  lệnh  in  ẩn  ( P )  hiện  thời  bị  tắt .
+ Tài  liệu  không  có  liên  kết  Thanh  công  cụ  hoặc  Băng  cờ .
+ Không  thể  mở  tập  tin  theo  cây .
+ Không  thể  mở  tập  tin  đã  tìm  theo  cây .
+ Không  thể  mở  tập  tin  từ  chối .
+ Không  thể  mở  tập  tin  kết  xuất  lỗi  theo  cây
+ TIẾN  TRÌNH  THEO  CÂY  ĐÃ  BỊ  GIÁN  ĐOẠN
+ Đi  theo  liên  kết  ( hoặc  đi  tới  liên  kết  hay  trang )  số : 
+ Chọn  tùy  chọn  ( hoặc  trang )  số : 
+ Tùy  chọn  số  % d  không  cần  cập  nhật .
+ Bạn  ở  cuối  của  danh  sách  tùy  chọn  này .
+ Bạn  ở  đầu  của  danh  sách  tùy  chọn  này .
+ Bạn  ở  trang  % d  của  danh  sách  tùy  chọn  này .
+ Bạn  đã  nhập  một  số  thứ  tự  tùy  chọn  không  hợp  lệ .
+ HTML  xấu ! !   Dùng  «  -trace  »  để  chẩn  đoán .
+ Đưa  ra  tên  của  tập  tin  cần  lưu  vào
+ Không  ghi  được  dữ  liệu  vào  tập  tin  —  hãy  chạy  WWW  cục  bộ
+ Không  thể  mở  tập  tin  tạm  thời .
+ Không  thể  mở  tập  tin  kết  xuất  nên  thôi .
+ Chức  năng  thực  hiện  bị  tắt .
+ Chưa  hiệu  lực  chức  năng  thực  hiện  cho  tập  tin  này .   Xem  trình  đơn  Tùy  chọn  ( dùng  % s ) .
+ Khả  năng  thực  hiện  không  phải  được  biên  dịch  vào  phiên  bản  này .
+ Tập  tin  này  không  thể  được  hiển  thị  trên  thiết  bị  cuối  này .
+ Tập  tin  này  không  thể  được  hiển  thị  trên  thiết  bị  cuối  này :  [ D ]  Tải  về  [ C ]  Thôi
+ % s   [ D ]  Tải  về  [ C ]  Thôi
+ Đang  hủy  bỏ  tập  tin .
+ Đang  lấy  tập  tin  —  HÃY  ĐỢI  —
+ Nhập  tên  tập  tin : 
+ Sửa  tên  tập  tin  trước : 
+ Sửa  một  tên  tập  tin  trước : 
+ Nhập  tên  tập  tin  mới : 
+ Tên  tập  tin  không  được  bắt  đầu  với  một  dấu  chấm .
+ Tập  tin  đã  có .   Tạo  một  phiên  bản  mới  hơn  ?
+ Tập  tin  đã  có .  Ghi  đè  ?
+ Không  thể  ghi  vào  tập  tin  đó .
+ LỖI !  -  sai  cấu  hình  câu  lệnh  tải  xuống .
+ Không  thể  tải  xuống  tập  tin .
+ Đang  đọc  thư  mục ...
+ Đang  xây  dựng  danh  sách  thư  mục ...
+ Đang  lưu ...
+ Không  thể  chỉnh  sửa  tập  tin  «  % s  » .
+ Không  thể  truy  cập  vào  tài  liệu .
+ Không  thể  truy  cập  vào  tập  tin .
+ Không  thể  truy  cập  vào  thư  mục .
+ Không  thể  nạp  dữ  liệu .
+ Hiện  thời  Lynx  không  thể  chỉnh  sửa  ( E )  tập  tin  WWW  từ  xa .
+ Trường  này  không  được  chỉnh  sửa  ( E )  bằng  trình  soạn  thảo  bên  ngoài .
+ Quy  tắc  sai
+ Không  đủ  toán  hạng :
+ Bạn  không  có  quyền  chỉnh  sửa  tập  tin  này .
+ Tựa  đề : 
+ Chủ  đề : 
+ Tên  người  dùng : 
+ Mật  khẩu : 
+ lynx :  cần  thiết  Tên  người  dùng  và  Mật  khẩu .
+ lynx :  cần  thiết  Mật  khẩu .
+ Xoá  tất  cả  thông  tin  xác  thực  cho  phiên  chạy  này  không ?
+ Thông  tin  xác  thực  đã  bị  xoá .
+ Lỗi  xác  thực .  Thử  lại  ?
+ Hỗ  trợ  CGI  đã  bị  tắt .
+ Khả  năng  Lynxcgi  không  phải  được  biên  dịch  vào  phiên  bản  này .
+ Tiếc  là  không  có  cách  đã  biết  để  chuyển  đổi  % s  sang  % s .
+ Không  thể  thiết  lập  kết  nối .
+ Không  thể  tạo  kết  nối
+ Liên  kết  có  khả  năng  thực  hiện  đã  bị  từ  chối  do  yêu  cầu  dạng  sai .
+ Liên  kết  có  khả  năng  thực  hiện  đã  bị  từ  chối  do  ký  tự  «  % c  » .
+ Liên  kết  có  khả  năng  thực  hiện  đã  bị  từ  chối  do  chuỗi  đường  dẫn  tương  đối  ( ' .. / ' ) .
+ Liên  kết  có  khả  năng  thực  hiện  đã  bị  từ  chối  do  vị  trí  hay  đường  dẫn .
+ Truy  cập  thư  bị  tắt .
+ Chỉ  truy  cập  được  tới  những  tập  tin  và  máy  phục  vụ  trên  máy  cục  bộ .
+ Truy  cập  Telnet  bị  tắt .
+ Đặc  tả  cổng  Telnet  bị  tắt .
+ Truy  cập  mạng  bài  tin  USENET  bị  tắt .
+ Truy  cập  Rlogin  bị  tắt .
+ Truy  cập  FTP  bị  tắt .
+ Không  có  tham  chiếu  từ  tài  liệu  này .
+ Chỉ  có  liên  kết  bị  ẩn  từ  tài  liệu  này .
+ Không  thể  mở  tập  tin  lệnh .
+ Đã  dừng  gửi  bài  tin ! ! !
+ Đang  tạo  và  thực  hiện  trình  soạn  thảo  đã  chọn  để  chỉnh  sửa  bài  tin
+ Gửi  bài  này  ?
+ Phụ  thêm  «  % s  »  ?
+ Đang  gửi  cho  nhóm  tin ...
+ Bạn  có  thư  chưa  đọc .
+ Bạn  có  thư .
+ Bạn  có  thư  mới .
+ Đã  dừng  chèn  tập  tin ! ! !
+ Không  đủ  bộ  nhớ  cho  tập  tin .
+ Không  thể  mở  tập  tin  để  đọc .
+ Tập  tin  không  tồn  tại .
+ Tập  tin  không  tồn  tại  —  nhập  lại  hoặc  thôi :
+ Tập  tin  không  có  khả  năng  đọc .
+ Tập  tin  không  có  khả  năng  đọc  —  nhập  lại  hoặc  thôi :
+ Không  có  gì  để  chèn  -  tập  tin  có  chiều  dài  0 .
+ Đã  dừng  yêu  cầu  lưu ! ! !
+ Đã  dừng  yêu  cầu  thư  tín ! ! !
+ Đang  xem  mã  nguồn  đã  phân  tích  sẵn .  Bạn  có  chắc  muốn  gửi  nó  đính  kèm  thư  không ?
+ Hãy  đợi ...
+ Đang  gửi  tập  tin  đính  kèm  thư .  Hãy  đợi ...
+ LỖI  —  Không  thể  gửi  tập  tin  đính  kèm  thư
+ Tập  tin  có  chiều  dài  % d  màn  hình .  Bạn  có  chắc  muốn  in  không ?
+ Đã  dừng  yêu  cầu  in ! ! !
+ Bấm   <  return  >   để  bắt  đầu : 
+ Bấm   <  return  >   để  kết  thúc : 
+ Tập  tin  có  chiều  dài  % d  trang .  Bạn  có  chắc  muốn  in  không ?
+ Kiểm  tra  xem  máy  in  đã  kết  nối  và  đang  chạy .  Bấm   <  return  >   để  bắt  đầu  in :
+ LỖI  —  Không  thể  cấp  phát  sức  chứa  tập  tin ! ! !
+ Không  thể  mở  tập  tin  tạm  thời
+ Không  thể  mở  tập  tin  tùy  chọn  in
+ Đang  in  tập  tin .  Hãy  đời ...
+ Hãy  nhập  một  địa  chỉ  thư  điện  tử  Internet  hợp  lệ : 
+ LỖI  —  máy  in  bị  cấu  hình  sai .
+ Không  có  sẵn  sơ  đồ  ảnh  từ  đáp  ứng  POST .
+ Yêu  cầu  MAP  ( sơ  đồ )  ảnh  bên  khách  bị  hướng  sai .
+ MAP  ( sơ  đồ )  ảnh  bên  khách  không  thể  truy  cập  được .
+ Không  có  sẵn  MAP  ( sơ  đồ )  ảnh  nào  bên  khách .
+ MAP  ( sơ  đồ )  ảnh  bên  khách  không  sẵn  sàng .
+ Chiều  cao  màn  hình  phải  ít  nhất  là  24  dòng  cho  trình  đơn  Tùy  chọn .
+ Chiều  cao  màn  hình  phải  ít  nhất  là  23  dòng  cho  trình  đơn  Tùy  chọn .
+ Chiều  cao  màn  hình  phải  ít  nhất  là  22  dòng  cho  trình  đơn  Tùy  chọn .
+ Phím  đó  yêu  cầu  chế  độ  Người  dùng  Cắp  cao .
+ Kiểu  nội  dung :  % s
+ Câu  lệnh : 
+ Lệnh  không  rõ  hoặc  mơ  hồ
+ Phiên  bản 
+ đầu  tiên
+ ,  đoán  là ...
+ Quyền  hạn  cho 
+ Chọn 
+ chữ  hoa
+ của  dòng  tùy  chọn ,
+ để  lưu ,
+ tới 
+ hoặc 
+ chỉ  mục
+ để  trở  về  Lynx .
+ Đồng  ý  với  thay  đổi
+ Đặt  lại  thay  đổi
+ Phím  mũi  tên  bên  trái  thì  hủy  thay  đổi
+ Lưu  tùy  chọn  vào  đĩa
+ Gõ  RETURN  để  chấp  nhận  dữ  liệu  đã  nhập .
+ Gõ  RETURN  để  chấp  nhận  dữ  liệu  đã  nhập .   Xóa  dữ  liệu  để  gọi  giá  trị  mặc  định .
+ Giá  trị  được  chấp  nhận .
+ Đã  chấp  nhận  giá  trị !  --  CẢNH  BÁO :  Lynx  được  cấu  hình  cho  XWINDOWS .
+ Đã  chấp  nhận  giá  trị !  --  CẢNH  BÁO :  Lynx  không  được  cấu  hình  cho  XWINDOWS .
+ Bạn  không  có  quyền  thay  đổi  trình  soạn  thảo  cần  dùng .
+ Lỗi  đặt  biến  DISPLAY  ( trình  bày ) .
+ Lỗi  dọn  biến  DISPLAY  ( trình  bày ) .
+ Bạn  không  có  quyền  thay  đổi  tập  tin  Đánh  dấu .
+ Thiết  bị  cuối  không  hỗ  trợ  màu  sắc
+ Thiết  bị  cuối  «  % s  »  của  bạn  không  hỗ  trợ  màu  sắc
+ Truy  cập  vào  tập  tin  «  chấm  »  đã  bị  tắt .
+ Chuỗi  User-Agent  không  chứa  «  Lynx  »  hay  «  L _ y _ n _ x  »
+ Hãy  dùng  «  Lynx  »  hay  «  L _ y _ n _ x  »  trong  User-Agent ;  không  thì  hình  như  bạn  lừa  dối .
+ Chức  năng  thay  đổi  chuỗi  User-Agent  đã  bị  tắt .
+ Bạn  không  có  quyền  thay  đổi  thiết  lập  này .
+ Đang  lưu  Tùy  chọn ...
+ Các  tùy  chọn  đã  được  lưu .
+ Không  thể  lưu  Tùy  chọn .
+ Bấm  «  R  »  để  trở  về  Lynx 
+ [  >  ]  lưu  ;  [ r ]  trở  về  Lynx 
+ Gõ  phím  bất  kỳ  để  thay  đổi  giá  trị ,  RETURN  để  chấp  nhận .
+ Gặp  lỗi  khi  giải  nén  tập  tin  tạm  thời .
+ Lược  đồ  URL  không  được  hỗ  trợ .
+ Dữ  liệu  không  hỗ  trợ :  URL !   Tạm  thời  hãy  dùng  SHOWINFO .
+ Tới  giới  hạn  chuyển  hướng  ( 10  địa  chỉ  URL ) .
+ Địa  chỉ  URL  chuyển  hướng  cấm  được  nhận  từ  máy  phục  vụ
+ Máy  phục  vụ  yêu  cầu  chuyển  hướng  % d  của  nội  dung  POST  tới
+ [ P ]  tiếp  tục ;  [ G ]  lấy ;  [ C ]  thôi 
+ [ P ]  tiếp  tục ;  [ C ]  thôi 
+ Chuyển  hướng  nội  dung  POST .  [ P ]  tiếp  tục ;  [ U ]  xem  URL ;  [ G ]  lấy ;  [ C ]  thôi
+ Chuyển  hướng  nội  dung  POST .  [ P ]  tiếp  tục ;  [ U ]  xem  URL ;  [ C ]  thôi
+ Tài  liệu  từ  Biểu  mẫu  với  nội  dung  POST .   Gửi  lại  ?
+ Gửi  lại  nội  dung  POST  tới  % s  ?
+ Danh  sách  từ  tài  liệu  có  dữ  liệu  POST .   Nạp  lại  % s  ?
+ Tài  liệu  từ  hành  động  POST ,  có  thể  không  hiểu  HEAD .  Tiếp  tục  ?
+ Hành  động  gửi  đi  biểu  mẫu  là  POST ,  có  thể  không  hiểu  HEAD .  Tiếp  tục  ?
+ Tiếp  tục  mà  không  có  tên  người  dùng  và  mật  khẩu  ?
+ Tiếp  tục  ( % s )  ?
+ Không  thể  POST  ( gửi )  cho  máy  chủ  này .
+ Không  hỗ  trợ  POST  cho  địa  chỉ  URL  này  thì  bỏ  qua  dữ  liệu  POST .
+ Đang  hủy  dữ  liệu  POST ...
+ Tài  liệu  sẽ  không  được  nạp  lại .
+ Vị  trí : 
+ Không  tìm  thấy  «  % s  » !
+ Tập  tin  Đánh  dấu  mặc  định
+ Màn  hình  quá  nhỏ  ( tối  thiểu  8 × 35 )
+ Chọn  đích  đến  hoặc  ^ G  để  thôi : 
+ Chọn  Đánh  dấu  con ,  «  =  »  cho  trình  đơn ,  hoặc  ^ G  để  thôi : 
+ Tạo  lại  liên  kết  trong  tập  tin  Đánh  dấu  này  ( L )  hoặc  thôi  ( C ) : 
+ Chức  năng  hỗ  trợ  đa  Đánh  dấu  không  sẵn  sàng .
+ Chọn  Đánh  dấu  ( màn  hình  % d  trên  % d )
+ Chọn  Đánh  dấu
+ Đang  sửa  MÔ  TẢ  và  ĐƯỜNG  DẪN  của  Đánh  dấu  ( % d  trên  2 )
+ Đang  sửa  MÔ  TẢ  và  ĐƯỜNG  DẪN  của  Đánh  dấu
+ Chữ : 
+ Sử  dụng  một  đường  dẫn  bắt  nguồn  từ  thư  mục  đăng  nhập  trong  ngữ  pháp  SHELL  ( trình  bao ) .
+ Sử  dụng  một  đường  dẫn  bắt  nguồn  từ  thư  mục  nhà .
+ Vượt  quá  số  liên  kết  cho  phép  mỗi  trang !   Hãy  sử  dụng  chức  năng  cuộn  theo  nửa  trang  hay  hai  dòng .
+ Không  có  sẵn  liên  kết  đã  thăm  trước .
+ Cạn  bộ  nhớ .  Chương  trình  bị  hủy  bỏ .
+ Cạn  bộ  nhớ .  Đang  hủy  bỏ ...
+ Không  đủ  bộ  nhớ .
+ Bộ  Quản  lý  Thư  mục / Tập  tin  không  sẵn  sàng
+ HREF  trong  thẻ  BASE  không  phải  là  một  địa  chỉ  URL  tuyệt  đối .
+ Địa  chỉ  URL  định  vị  không  phải  là  tuyệt  đối .
+ Địa  chỉ  URL  cập  nhật  không  phải  là  tuyệt  đối
+ Bạn  đang  gửi  một  thư  có  thân  cho :
+ Bạn  đang  gửi  một  bình  luận  cho :
+ Cũng  sao  chép  cho :
+ Dùng  Ctrl-G  để  thôi  nếu  bạn  không  muốn  gửi  thư
+ Hãy  nhập  tên  của  bạn ,  hoặc  để  trống  ( nặc  danh )
+ Hãy  nhập  địa  chỉ  thư  điện  tử  hoặc  một  phương  pháp
+ khác  để  liên  hệ  với  bạn ,  nếu  mong  muốn  thư  trả  lời .
+ Hãy  nhập  dòng  chủ  đề .
+ Hãy  nhập  địa  chỉ  thư  điện  tử  cho  đó  cần  sao  chép  ( CC )  thư  này .
+ ( Bỏ  rỗng  nếu  bạn  không  muốn  sao  chép . )
+ Hãy  xem  lại  thân  của  thư :
+ Bấm  phím  Return  để  tiếp  tục : 
+ Bấm  RETURN  để  làm  sạch : 
+ Bấm  Ctrl-U  để  xóa  giá  trị  mặc  định .
+ Hãy  nhập  thông  điệp  bên  dưới .
+ Khi  hoàn  thành ,  bấm  Enter  và  gõ  một  dấu  chấm  ( . )
+ trên  một  dòng ,  rồi  bấm  lại  phím  Enter .
+ % s  cookie :  % . * s = % . * s   Cho  phép  ?     Y \ t \ tcó     N \ t \ tkhông     A \ t \ tluôn  luôn     V \ t \ tkhông  bao  giờ
+ Chấp  nhận  miền  cookie  không  hợp  lệ  =  % s  cho  % s  không ?
+ Chấp  nhận  đường  dẫn  cookie  không  hợp  lệ  =  % s  làm  tiền  tố  của  «  % s  »  không ?
+ Cho  phép  cookie  này .
+ Từ  chối  cookie  này .
+ Hộp  cookie  là  rỗng .
+ Kích  hoạt  liên  kết  để  lấy  cookie  hoặc  cả  miền ,
+ hoặc  thay  đổi  thiết  lập  «  cho  phép  »  của  một  miền .
+ ( Không  bao  giờ  cho  phép  cookie . )
+ ( Luôn  luôn  cho  phép  Cookie . )
+ ( Cho  phép  Cookie  sau  khi  xác  nhận . )
+ ( Cookie  bền  bỉ . )
+ ( Không  tên . )
+ ( Không  có  giá  trị . )
+ Không  có
+ ( Kết  thúc  phiên  chạy . )
+ Xoá  cookie  này  không ?
+ Cookie  ( bánh  quy )  đã  bị  ăn .
+ Xoá  miền  rỗng  này  không ?
+ Miền  các  cokie  ( bánh  quy )  đã  bị  ăn .
+ [ D ]  xoá  các  cookie  của  miền ;  đặt  cho  phép  [ A ]  luôn  luôn  [ P ]  nếu  xác  nhận  [ V ]  không  bao  giờ  ;  [ C ]  thôi 
+ [ D ]  xoá  miền ;  đặt  cho  phép  [ A ]  luôn  luôn  [ P ]  nếu  xác  nhận  [ V ]  không  bao  giờ  ;  [ C ]  thô 
+ Mọi  cookie  của  miền  này  đã  bị  ăn .
+ [ A ]  luôn  luôn  cho  phép  từ  miền  «  % s  » .
+ [ V ]  không  bao  giờ  cho  phép  từ  miền  «  % s  » .
+ [ P ]  xác  nhận  thì  cho  phép  từ  miền  «  % s  » .
+ Xoá  mọi  cookie  của  miền  này  không ?
+ Mọi  cookie  ( bánh  quy )  trong  hộp  đã  bị  ăn .
+ Không  cho  phép  địa  chỉ  URL  chứa  cổng  19 .
+ Không  cho  phép  địa  chỉ  URL  chứa  cổng  25 .
+ Không  cho  phép  địa  chỉ  URL  chứa  cổng  % lu .
+ Địa  chỉ  URL  có  trường  cổng  sai .
+ Vượt  quá  số  tối  đa  các  phần  tử  HTML  có  thể  lồng  nhau .
+ Tham  chiếu  bộ  phận  sai  nên  loại  bỏ  những  dấu  chấm  đứng  trước .
+ Lỗi  mở  bản  ghi  tìm  đường  ( trace )  thì  tắt  chức  năng  tìm  đường .
+ Bản  ghi  Tìm  đường  Lynx
+ Chưa  khởi  chạy  bản  ghi  tìm  đường  cho  phiên  chạy  này .
+ Đã  đặt  tới  số  tối  đa  các  tập  tin  tạm  thời .
+ Giá  trị  của  trường  biểu  mẫu  vượt  quá  chiều  dài  vùng  đệm .  Hãy  xén  phần  đuôi .
+ Phần  đuôi  đã  sửa  kết  hợp  với  phần  đầu  của  giá  trị  trường  biểu  mẫu .
+ Thư  mục
+ Không  cho  phép  duyệt  qua  thư  mục .
+ Truy  cập  lựa  chọn  không  phải  được  hiệu  lực  cho  thư  mục  này
+ Đã  định  dạng :  lỗi  quét  thư  mục .
+ Thư  mục  này  không  cho  phép  ghi .
+ Không  thể  truy  cập  đến  tập  tin  đã  yêu  cầu
+ Không  tìm  thấy  sự  đại  diện  thích  hợp  để  truyền .
+ Không  thể  mở  tập  tin  để  giải  nén .
+ Tập  tin :
+ Thư  mục  con :
+ thư  mục
+ Đến 
+ Thư  mục  hiện  tại  là 
+ Liên  kết  tượng  trưng
+ Máy  phục  vụ  không  đáp  ứng .
+ Chỉ  mục  CSO
+ Đây  là  một  chỉ  mục  tìm  kiếm  được  của  một  cơ  sở  dữ  liệu  CSO .
+ Kết  quả  tìm  kiếm  CSO
+ Lỗi  tìm  nơi  trên  % s
+ Bấm  phím  «  S  »  và  nhập  các  từ  khoá  tìm  kiếm .
+ Đây  là  một  chỉ  mục  Gopher  tìm  kiếm  được .
+ Chỉ  mục  Gopher
+ Trình  đơn  Gopher
+ Kết  quả  tìm  kiếm
+ Đang  gửi  yêu  CSO / PH .
+ Đang  gửi  yêu  cầu  Gopher .
+ Yêu  cầu  CSO / PH  đã  được  gửi ;  đang  đợi  đáp  ứng .
+ Yêu  cầu  Gopher  đã  được  gửi ;  đang  đợi  đáp  ứng .
+ Hãy  nhập  các  từ  khoá  tìm  kiếm .
+ Từ  khóa  đã  nhập  sẽ  cho  phép  tìm  kiếm  theo  một
+ tên  của  người  trong  cơ  sở  dữ  liệu .
+ Kết  nối  bị  đóng  ? ? ?
+ Không  thể  mở  tập  tin  tạm  thời  để  POST  ( gửi )  bài  tin .
+ Trình  khách  này  không  hỗ  trợ  chức  năng  gửi  bài  tin  qua  SSL .
+ Kiểu  % d  «  % s  »  SGML : % s .   Phông  % s  % .1f  điểm .
+ \ tSắp = % d ,  % d  tab .  ( % .0f  trước ,  % .0f  sau )
+ \ t \ tKiểu  Tab = % d  tại  % .0f
+ Không  thể  tiếp  tục  khi  không  có  tên  người  dùng  và  mật  khẩu .
+ Không  thể  thử  lại  với  thông  tin  tin  xác  thực .  Liên  hệ  với  Chủ  Web  của  máy  phục  vụ .
+ Không  thể  thử  lại  với  thông  tin  tin  xác  thực  ủy  nhiệm .  Liên  hệ  với  Chủ  Web  của  máy  phục  vụ .
+ Đang  thử  lại  với  thông  tin  tin  xác  thực  ủy  nhiệm .
+ Lỗi  SSL :  % s-Tiếp  tục  ?
+ HTWAIS :  Thông  điệp  trả  lại  quá  lớn .
+ Nhập  truy  vấn  WAIS : 
+ Đang  thử  lại  dạng  yêu  cầu  HTTP0 .
+ Đã  truyền  % d  byte
+ Đã  truyền  xong  dữ  liệu
+ Gặp  lỗi  khi  xử  lý  dòng  % d  trên  % s
+ Trang  Danh  sách  Địa  chỉ
+ Tập  tin  Đánh  dấu
+ Xác  định  Cấu  hình
+ Hộp  Cookie
+ Sơ  đồ  phím  hiện  thời
+ Tùy  chọn  Quản  lý  Tập  tin
+ Tùy  chọn  Tải  xuống
+ Trang  Lịch  sử
+ Trang  Danh  sách
+ Thông  tin  Lynx.cfg
+ Danh  sách  nóng  Mosaic  đã  chuyển  đổi
+ Trình  đơn  Tùy  chọn
+ Tùy  chọn  Quyền  hạn  Tập  tin
+ Tùy  chọn  In
+ Thông  tin  về  tài  liệu  hiện  thời
+ Các  thông  điệp  trạng  thái  vừa  xem
+ Tùy  chọn  Tải  lên
+ Trang  Liên  kết  đã  Thăm
+ Xem  thêm
+ của  bạn
+ cho  tùy  chọn  lúc  chạy
+ tùy  chọn  lúc  biên  dịch
+ bản  phát  hành  mới  nhất
+ phiên  bản  phát  hành  sẵn
+ phiên  bản  phát  triển
+ Dữ  liệu  theo  đây  đã  được  lấy  trong  tiến  trình  tự  động  cấu  hình / xây  dựng  của  bản  sao  Lynx  này .  Khi  báo  cáo  lỗi ,  vui  lòng  thêm  một  bản  sao  của  trang  này .
+ Dữ  liệu  theo  đây  đã  được  dùng  làm  lời  xác  định  lúc  biên  dịch  đã  tự  động  cấu  hình  trong  khi  xây  dựng  bản  sao  Lynx  này .
+ [ C ]  tạo ;  [ D ]  tải  về ;  [ E ]  soạn ;  [ F ]  trình  đơn  đầy ;  [ M ]  sửa ;  [ R ]  bỏ  ;  [ T ]  thẻ ;  [ U ]  tải  lên     
+ Lỗi  lấy  trạng  thái  về  liên  kết  hiện  tại .
+ Địa  chỉ  URL  đặc  biệt  chỉ  dùng  được  từ  trình  đơn  Quyền  hạn  Tập  tin  hiện  thời .
+ Hỗ  trợ  bên  ngoài  hiện  thời  bị  tắt .
+ Chức  năng  thay  đổi  thư  mục  hoạt  động  hiện  thời  bị  tắt .
+ Ngắt  dòng  TẮT .
+ Ngắt  dòng  BẬT .
+ Phân  tích  bảng  lồng  vào  nhau  TẮT !   Đang  nạp  lại ...
+ Phân  tích  bảng  lồng  vào  nhau  BẬT !   Đang  nạp  lại ...
+ Dịch  chuyển  tắt  trong  khi  ngắt  dòng  làm  việc
+ Chức  năng  tìm  đường  không  được  hỗ  trợ
+ \ tThụt :  đầu  tiên = % .0f  khác = % .0f ,  Cao = % .1f  Môtả = % .1f
+ Tên  người  dùng  cho  «  % s  »  tại  % s  «  % s % s  » :
+ Trình  khách  này  không  biết  cách  cấu  táo  thông  tin  xác  thực  ủy  nhiệm  cho  scheme
+ Trình  khách  này  không  biết  cách  cấu  táo  thông  tin  xác  thực  cho  scheme
+ Dòng  đầu  không  hợp  lệ  «  % s % s % s % s % s  »
+ Cần  thiết  xác  thực  ủy  nhiệm  —  đang  thử  lại
+ Truy  cập  mà  không  xác  thực  thì  bị  từ  chối  —  đang  thử  lại
+ Truy  cập  bị  quy  tắc  cấm
+ Không  tìm  thấy  tài  liệu  với  nội  dung  POST  trong  bộ  nhớ  tạm .  Gửi  lại  ?
+ Chưa  nạp  xong .
+ * * * *  HTAccess :  ổ  cắm  hoặc  số  thứ  tự  tập  tin  trả  lại  bởi  hàm  nạp  quá  cũ .
+ * * * *  HTAccess :  Trạng  thái  trả  lại  là :  % d
+ Không  thể  truy  cập
+ Không  thể  truy  cập  đến  tài  liệu .
+ Hãy  gõ  mật  khẩu  cho  người  dùng  % s @ % s :
+ Không  thể  kết  nối  tới  máy  chủ  FTP .
+ đóng  ổ  cắm  chính
+ ổ  cắm  cho  ổ  cắm  chính
+ Đang  nhận  thư  mục  FTP .
+ Đã  truyền  % d  byte  ( % 5d )
+ kết  nối  đến  dữ  liệu
+ Đang  nhận  tập  tin  FTP .
+ Không  thể  thiết  lập  kết  nối  finger .
+ Không  thể  nạp  dữ  liệu  ( URL  finger  không  chứa  tên  nơi  Web )
+ Số  thứ  tự  cổng  không  hợp  lệ :  chỉ  sẽ  dùng  cổng  79 .
+ Không  thể  truy  cập  đến  máy  chủ  finger .
+ Máy  phục  vụ  finger  không  đáp  ứng .
+ Tên  người  dùng  cho  máy  chủ  tin  tức  «  % s  » :
+ Thay  đổi  tên  người  dùng  ?
+ Tên  người  dùng :
+ Mật  khẩu  cho  máy  chủ  tin  tức  «  % s  » :
+ Thay  đổi  mật  khẩu  ?
+ Không  tìm  thấy :  % s
+ Không  có  bài  trong  nhóm  này .
+ Không  có  bài  trong  phạm  vi  này .
+ % s ,   Bài  % d- % d
+ Bài  cũ
+ Có  khoảng  % d  bài  báo  trong  % s ,  với  mã  số :
+ Mọi  bài  sẵn  sàng  trong 
+ Bài  mới
+ Trình  khách  này  không  hỗ  trợ  địa  chỉ  URL  kiểu  SNEWS .
+ Không  có  đích  cho  văn  bản  thô .
+ Đang  kết  nối  tới  máy  tin  tức  NewsHost  ...
+ Không  thể  truy  cập  đến  % s .
+ Không  đọc  được  thông  tin  tin  tức .  Máy  tin  tức  % .20s  đã  trả  lời :  % .200s
+ Không  đọc  được  thông  tin  tin  tức ;  đáp  ứng  rỗng  từ  máy  % s
+ Đang  đọc  danh  sách  các  nhóm  tin  sẵn  sàng .
+ Đang  đọc  danh  sách  các  bài  trong  nhóm  tin .
+ Đang  đọc  bài  tin .
+ Tiếc  là  không  thể  nạp  tin  tức  đã  yêu  cầu .
+ Địa  chỉ  có  cổng  không  hợp  lệ
+ Chiều  dài  địa  chỉ  hình  như  không  hợp  lệ
+ Không  thể  định  vị  máy  từ  xa  % s .
+ Tên  máy  không  hợp  lệ  % s
+ Đang  tạo  kết  nối  % s  tới  % s
+ lỗi  ổ  cắm .
+ lỗi  ổ  cắm :  nhóm  % d  địa  chỉ  % s  cổng  % s .
+ Không  thể  làm  cho  kết  nối  không  chặn .
+ Lỗi  kết  nối  ( quá  nhiều  lần  thử  lại ) .
+ Không  thể  phục  hồi  ổ  cắm  để  chặn .
+ Địa  chỉ  chứa  một  tên  người  dùng :  % s
+ Trình  khách  này  không  hỗ  trợ  địa  chỉ  URL  kiểu  HTTPS  ( Web  bảo  mật )
+ Không  thể  kết  nối  tới  mấy  từ  xa .
+ Đang  thử  lại  kết  nối  mà  không  có  TLS .
+ Lỗi  SSL : máy ( % s ) ! = chứng  nhận ( % s ) -Tiếp  tục  ?
+ Kết  nối  % d-bit  bảo  mật  HTTP  % s  ( % s )
+ Đang  gửi  yêu  cầu  HTTP .
+ Lỗi  ghi  mạng  bất  thường ;  kết  nối  bị  hủy  bỏ .
+ Đã  gửi  yêu  cầu  HTTP ;  đang  đợi  đáp  ứng .
+ Lỗi  đọc  mạng  bất  thường ;  kết  nối  bị  hủy  bỏ .
+ Nhận  được  Trạng  thái  Thông  tin  không  mong  đợi .
+ Yêu  cầu  đã  hoàn  thành .   Đặt  lại  Nội  dung.If-Modified-Since
+ Nhận  được  trạng  thái  304  Chưa  Sửa  Đổi  không  mong  đợi .
+ Chuyển  hướng  nội  dung  POST  cần  sự  tán  thành  của  người  dùng .
+ Có  nội  dung  POST .  Đang  coi  sự  Chuyển  hướng  Lâu  dài  chỉ  là  Tạm  thời .
+ Đang  thử  lại  với  thông  tin  xác  thực  truy  cập .
+ Hiển  thị  thân  thư  401  không ?
+ Hiển  thị  thân  thư  407  không ?
+ Không  rõ  đáp  ứng  trạng  thái  từ  máy  phục  vụ .
+ phiên  chạy  % s  từ  xa :
+ Không  thể  kết  nối  tới  máy  phục  vụ  WAIS .
+ Không  thể  mở  kết  nối  WAIS  để  đọc .
+ Mã  chẩn  đoán  là 
+ Chỉ  mục 
+ chứa  % d  mục % s  thích  hợp  với  «
+ Số  đầu  tiên  sau  mỗi  mục  là  điểm  tương  đối  của  nó , 
+ số  thứ  hai  là  số  dòng  trong  mục  đó .
+ ( tên  tập  tin  sai )
+ ( mã  số  tài  liệu  sai )
+ ( Mục  ghi  phần  đầu  ngắn ,  không  hiển  thị  được )
+ Mục  ghi  phần  đầu  dài ,  không  hiển  thị  được
+ Mục  ghi  văn  bản
+ Bản  ghi  Hàng  đầu ,  không  hiển  thị  được
+ Mục  ghi  Mã ,  không  hiển  thị  được
+ Lỗi  cú  pháp  trong  địa  chỉ  URL  kiểu  WAIS
+ ( Chỉ  mục  WAIS )
+ Chỉ  mục  WAIS : 
+ Đây  là  một  liên  để  tìm  kiếm 
+ chỉ  mục  WAIS .
+ Hãy  nhập  câu  lệnh  tìm  kiếm  ( s ) ,  rồi  ghi  rõ  chuỗi  tìm  kiếm .
+ ( trong 
+ Tìm  kiếm  WAIS  «
+ »  trong : 
+ HTWAIS :  yêu  cầu  quá  lớn .
+ Đang  tìm  kiếm  qua  cơ  sở  dữ  liệu  WAIS ...
+ Tiến  trình  tìm  kiếm  bị  gián  đoạn .
+ Không  thể  chuyển  đổi  định  dạng  của  tài  liệu  WAIS
+ HTWAIS :  yêu  cầu  quá  dài .
+ Đang  lấy  tài  liệu  WAIS ...
+ Chưa  trả  lại  văn  bản .
+ CHƯA  ĐƯA  RA  trong  tập  tin  mã  nguồn ; 
+ Tập  tin  mã  nguồn  WAIS
+ mô  tả
+ Truy  cập  liên  kết
+ Truy  cập  trực  tiếp
+ ( xác  định  máy  phục  vụ  ủy  nhiệm  thì  cũng  có  thể  dùng  nó )
+ Nhà  duy  trì
+ Máy
+ Cạn  bộ  nhớ ,  đã  gián  đoạn  hiển  thị .
+ Cạn  bộ  nhớ ,  sẽ  gián  đoạn  truyền  tải .
+ CẠN  BỘ  NHỚ
+ trường  nhập  văn  bản
+ trường  nhập  mật  khẩu
+ hộp  kiểm  tra
+ nút  chọn  một
+ nút  gửi  đi
+ nút  đặt  lại
+ trình  đơn  tự  mở
+ trường  biểu  mẫu  bị  ẩn
+ vùng  nhập  văn  bản
+ trường  nhập  phạm  vi
+ trường  nhập  tập  tin
+ trường  gửi  văn  bản  đi
+ nút  gửi  ảnh  đi
+ trường  keygen
+ trường  biểu  mẫu  không  rõ
+ Không  rõ  trường  hoặc  liên  kết
+ không  thể  mở  tập  tin  để  tải  lên
+ Đang  gửi  % s
+ Tìm  ra  Treo :  cấu  trúc  TextAnchor  bị  lỗi  -  đề  nghị  thoát .
+ Ngắt  dòng  để  vừa  khít  vùng  hiển  thị  ?
+ Các  dòng  rất  dài  đã  bị  cắt  ngắn .
+ byte
+ Đã  đọc  % s  dữ  liệu
+ Đã  đọc  % s  trên  % s  dữ  liệu
+ ,  % s / giây
+ ( bị  ngừng  chạy  trong  % s )
+ ,  Giờ  tới  xấp  xỉ  % s
+ ( Bấm  «  z  »  để  hủy  bỏ ) yesnoyes "  and  " noyes "  and  " noyes "  and  " noyes "  or  " no
+ có
+ không
+ Mô  tả :
+ ( không  có )
+ Đường  dẫn  tập  tin :
+ ( không  rõ )
+ Tài  liệu  chỉ  có  các  liên  kết  ẩn .   Hãy  dùng  câu  lệnh  liệt  kê  [ L ] .
+ Lỗi  bộ  nhớ  tạm  nguồn  -  đĩa  đầy  ?
+ Lỗi  bộ  nhớ  tạm  nguồn  -  không  đủ  bộ  nhớ .
+ Tập  tin  này  là  một  bản  đại  diện  HTML  của  danh  sách  nóng  của  Mosaic  X.       Có  thể  xóa  các  liên  kết  đã  lỗi  thời  hoặc  không  đúng  bằng  câu  lệnh       gỡ  bỏ  Đánh  dấu  [ R ] .
+ Có  thể  xóa  liên  kết  bằng  phím  «  R  »  
+Hãy xin nhà quản trị hệ thống cho phép gửi báo cáo lỗi, và nếuđồng ý thì gửi thư lên danh sách lynx-dev.  Báo cáo lỗi cần có mô tả ngắngọi câu lệnh và/hoặc URL gây ra vấn đề, tên hệ điều hành có kèm số phiênbản, phiên bản TCPIP, TRACEBACK nếu có thể lấy, và những thông tinthích hợp khác.
+Chưa khai báo sơ đồ soạn thảo Lynx.

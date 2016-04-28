@@ -1,0 +1,9 @@
+ Thiết  đặt  độ  phân  giải  màn  hình  phát  hiện  rằng  chế  độ  phân  giải  ảo  phải  được  đặt  trong  tập  tin  cấu  hình  để  áp  dụng  thiết  đặt  của  bạn .  Bạn  có  muốn  Độ  phân  giải  Màn  hình  được  đặt  về  chế  độ  phân  giải  ảo  cho  bạn ?  ( Khuyên  dùng )
+ Không  thể  kết  nối  với  dịch  vụ  DBUS  Thiết  đặt  Độ  phân  giải  Màn  hình .
+ Xin  hãy  đăng  xuất  rồi  đăng  nhập  trở  lại .  Sau  đó  bạn  sẽ  có  thể  dùng  Thiết  đặt  Độ  phân  giải  Màn  hình  để  cài  đặt  màn  hình  của  bạn
+ Thiết  đặt  Độ  phân  giải  Màn  hình  không  thể  áp  dụng  thiết  đặt  của  bạn .
+ Thiết  đặt  Độ  phân  giải  Màn  hình
+ Thay  đổi  Cấu  hình  Độ  phân  giải  Màn  hình
+ Thay  đổi  cấu  hình  Độ  phân  giải  Màn  hình  yêu  cầu  có  đặc  quyền .
+ Thay  đổi  tác  dụng  của  Ctrl + Alt + Backspace
+ Thay  đổi  tác  dụng  của  Ctrl + Alt + Backspace  yêu  cầu  có  đặc  quyền .

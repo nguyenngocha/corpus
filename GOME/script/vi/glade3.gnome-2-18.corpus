@@ -1,0 +1,200 @@
+ Tạo  hay  mở  bản  đồ  án  thiết  kế  giao  diện  người  dùng  cho  ứng  dụng  GTK +
+ Bộ  thiết  kế  giao  diện  Glade
+ Bộ  thiết  kế  giao  diện  người  dùng
+ Glade
+ Xuất  thông  tin  phiên  bản  và  thoát
+ Tắt  tích  hợp  Devhelp
+ [ FILE ... ]
+ Tạo  hay  mở  thiết  kế  giao  diện  người  dùng  cho  ứng  dụng  GTK + .
+ Tùy  chọn  Glade
+ không  tìm  thấy  cách  hỗ  trợ  gmodule ,  mà  cần  thiết  cho  trình  glade  hoạt  động
+ Không  thể  mở  «  % s  »  vì  tập  tin  đó  không  tồn  tại .
+ [ Chỉ  đọc ]
+ Không  thể  hiển  thị  địa  chỉ  URL  «  % s  »
+ Không  tìm  thấy  trình  duyệt  Mạng  thích  hợp  chạy  được .
+ Thuộc  tính
+ Kích  hoạt  % s
+ Mở …
+ Tập  tin  % s  đã  bị  sửa  đổi  kể  từ  đọc  nó  lần  trước
+ Lưu  thì  tất  cả  các  thay  đổi  bên  ngoài  có  thể  bị  mất .  Vẫn  còn  lưu  không ?
+ Vẫn  _ lưu
+ _ Không  lưu
+ Lỗi  lưu  % s :  % s
+ Mới  lưu  dự  án  «  % s  » .
+ Không  có  dự  án  đang  mở  cần  lưu .
+ Lưu  dạng …
+ Không  thể  lưu  tập  tin  % s .  Bạn  không  có  quyền  lưu  tập  tin  đó .
+ Không  thể  lưu  tập  tin  % s .  Hiện  thời  có  một  dự  án  khác  cùng  đường  dẫn  đã  mở .
+   Lưu   các   thay   đổi   trong   dự   án   «   %  s   »   trước   khi   đóng   chứ  ?  Nếu  bạn  không  lưu  các  thay  đổi  này ,  chúng  sẽ  bị  mất  hoàn  toàn .
+ _ Đóng  mà  không  lưu
+ Lỗi  lưu  % s  vào  «  % s  » :  % s
+ Lưu …
+ Không  thể  hiển  thị  sổ  tay  người  dùng  trực  tuyến
+ Không  tìm  thấy  trình  duyệt  Mạng  thích  hợp  chạy  được  để  chạy  và  hiển  thị  địa  chỉ  URL :  % s
+ Không  thể  hiển  thị  sổ  tay  nhà  phát  triển  trực  tuyến
+ Chương  trình  này  là  phần  mềm  tự  do ;  bạn  có  thể  phân  phối  và / hay  sửa  đổí  nó  với  điều  kiện  cua  Quyền  Công  Chung  Gnu  ( GPL )  như  được  xuất  do  Free  Software  Foundation ;  hoặc  phiên  bản  2 ,  hoặc  ( tùy  chọn )  bất  cứ  phiên  bản  sau  nào .  Chúng  tôi  phân  phối  chương  trình  này  vì  mong  nó  có  ích ,  nhưng  không  bảo  đảm  gì  cả ,  không  bảo  đảm  một  cách  ngụ  ý  khả  năng  bán  hay  khả  năng  làm  việc  dứt  khoát .  Hãy  xem  Quyền  Công  Chung  Gnu  để  tim  thấy  chi  tiết  thêm .  Bạn  nên  được  nhận  một  bản  Quyền  Công  Chung  Gnu  với  chương  trình  này ;  nếu  không  thì  hãy  viết  thư  cho  Free  Software  Foundation ,  Inc . ,  51  Franklin  Street ,  Fifth  Floor ,  MA  02110-1301 ,  USA  ( Mỹ ) .
+ Nhóm  Việt  hoá  GNOME   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >
+ Bộ  thiết  kế  giao  diện  người  dùng  cho  GTK +  và  GNOME .
+ _ Tập  tin
+ _ Hiệu  chỉnh
+ _ Xem
+ _ Dự  án
+ Trợ  _ giúp
+ Tạo  một  dự  án  mới .
+ _ Mở …
+ Mở  một  dự  án
+ Mở  _ gần  đây
+ Thoát  khỏi  chương  trình
+ _ Diện  mạo  hộp
+ Giới  thiệu  về  ứng  dụng  này
+ Hiển  thị  sổ  tay  người  dùng
+ Tham  chiếu  _ phát  triển
+ Hiển  thị  sổ  tay  tham  chiếu  nhà  phát  triển
+ Lưu  dự  án  hiện  thời
+ Lưu  _ dạng …
+ Lưu  dự  án  hiện  thời  có  tên  khác
+ Đóng  dự  án  hiện  thời
+ Hủy  hành  động  cuối  cùng
+ Làm  lại  hành  động  cuối  cùng
+ Cắt  vùng  chọn
+ Sao  chép  vùng  chọn
+ Dán  bảng  nháp
+ Xoá  vùng  chọn
+ _ Bảng  nháp
+ Hiện  bảng  nháp
+ Dự  án  t _ rước
+ Kích  hoạt  dự  án  trước
+ Dự  án  _ kế
+ Kích  hoạt  dự  án  kế  tiếp
+ Biể _ u  tượng  nhỏ
+ Hiện  mục  bằng  biểu  tượng  nhỏ
+ Trợ  g _ iúp  ngữ  cảnh
+ Ẩn / hiện  các  cái  nút  trợ  giúp  ngữ  cảnh  trong  bộ  soạn  thảo
+ Văn  bản  ở  cạnh  biểu  tượng
+ Hiện  mục  dạng  văn  bản  ở  cạnh  biểu  tượng
+ Chỉ  b _ iểu  tượng
+ Hiện  mục  chỉ  dạng  biểu  tượng
+ Chỉ  _ văn  bản
+ Hiện  mục  chỉ  dạng  văn  bản
+ Chọn  ô  điều  khiển
+ Chọn  ô  điều  khiển  trong  vùng  làm  việc
+ Bảng  chọn
+ Bộ  xem  xét
+ Không  thể  tạo  một  dự  án  mới .
+ % s  đã  được  mở
+ _ Hồi  lại
+ Hồi  lại :  % s
+ hành  động  cuối  cùng
+ _ Làm  lại
+ Làm  lại :  % s
+ Bảng  tạm
+ Dự  án  hoạt  động
+ Đang  cố  lưu  dữ  liệu  riêng  vào  thư  mục  % s ,  nhưng  nó  là  tập  tin  chuẩn .  Như  thế  thì  sẽ  không  lưu  dữ  liệu  riêng  nào  trong  phiên  chạy  này .
+ Việc  tạo  thư  mục  % s  nơi  cần  lưu  dữ  liệu  riêng  bị  lỗi .  Như  thế  thì  sẽ  không  lưu  dữ  liệu  riêng  nào  trong  phiên  chạy  này .
+ Gặp  lỗi  khi  ghi  dữ  liệu  vào  % s  ( % s ) .  Như  thế  thì  sẽ  không  lưu  dữ  liệu  riêng  nào  trong  phiên  chạy  này .
+ Gặp  lỗi  khi  xếp  theo  thứ  tự  dữ  liệu  cấu  hình  cần  lưu  ( % s ) .  Như  thế  thì  sẽ  không  lưu  dữ  liệu  riêng  nào  trong  phiên  chạy  này .
+ Gập  lỗi  khi  mở  % s  để  ghi  dữ  liệu  riêng  ( % s ) .  Như  thế  thì  sẽ  không  lưu  dữ  liệu  riêng  nào  trong  phiên  chạy  này .
+ Bạn  không  thể  sao  chép  một  ô  điều  khiển  là  một  phần  của  ô  điều  khiển  ghép .
+ Chưa  chọn  ô  điều  khiển .
+ Bạn  không  thể  cắt  một  ô  điều  khiển  là  một  phần  của  ô  điều  khiển  ghép .
+ Không  thể  dán  vào  ô  điều  khiển  mẹ  được  chọn
+ Không  thể  dán  nhiều  ô  điều  khiển
+ Không  có  ô  điều  khiển  được  chọn  trên  bảng  tạm
+ Không  thể  dán  ô  điều  khiển  % s  vào  ô  điều  khiển  mẹ
+ Có  thể  dán  cùng  lúc  chỉ  một  ô  điều  khiển  vào  đồ  chứa  này .
+ Không  đủ  bộ  giữ  chỗ  trong  đồ  chứa  đích
+ Bạn  không  thể  xoá  bỏ  một  ô  điều  khiển  là  một  phần  của  ô  điều  khiển  ghép .
+ Kho
+ Mục  kho  có  sẵn
+ Ảnh  kho
+ Một  ảnh  kho  có  sẵn
+ Đối  tượng
+ Danh  sách  các  đối  tượng
+ Bộ  đệm  điểm  ảnh
+ Giá  trị  đệm  điểm  ảnh
+ MàuGDK
+ Giá  trị  màu  GDK
+ Phím  tăng  tốc
+ Danh  sách  các  phím  tăng  tốc
+ Số  nguyên
+ Giá  trị  số  nguyên
+ Số  nguyên  vô  dấu
+ Giá  trị  số  nguyên  không  có  dấu
+ Chuỗi
+ Mục  nhập
+ Strv
+ Mảng  chuỗi
+ Phù  động
+ Mục  nhập  điểm  phù  động
+ Bun
+ Giá  trị  luận  lý
+ Đang  đặt  kiểu  mục  trên  % s  thành  % s
+ Thêm  một  % s  vào  % s
+ Xoá  % s  con  ra  % s
+ Sắp  xếp  lại  các  điều  con  của  % s
+ Nhãn
+ Kiểu
+ Tên  :
+ Kiểu  :
+ Ô  điều  khiển
+ Thiết  lập  nhiều  thuộc  tính
+ Đang  đặt  % s  trên  % s
+ Đang  đặt  % s  trên  % s  thành  % s
+ Đang  đổi  tên  % s  thành  % s
+ Thêm  % s
+ nhiều
+ Bạn  không  thể  loại  bỏ  một  ô  điều  khiển  nội ,  là  một  phần  của  ô  điều  khiển  ghép .
+ Loại  bỏ  % s
+ Loại  bỏ  đồng  loạt
+ Bảng  tạm  thêm  % s
+ Bảng  tạm  bỏ  % s
+ Tạo  % s
+ Xoá  bỏ  % s
+ Cắt  % s
+ Chép  % s
+ Dán  % s
+ Kéo / Thả  từ  % s  đến  % s
+ Thêm  bộ  quản  lý  tín  hiệu  % s
+ Gở  bỏ  bộ  quản  lý  tín  hiệu  % s
+ Đổi  bộ  quản  lý  tín  hiệu  % s
+ Dữ  liệu  thiết  lập  i18n
+ Không  thể  nạp  ảnh  ( % s )
+ Xem  tài  liệu  hướng  dẫn  GTK +  về  thuộc  tính  này
+ Hạng  tài  sản
+ GladePropertyClass  ( hạng  tài  sản  Glade )  mà  GladeEditorProperty  ( thuộc  tính  bộ  hiệu  chỉnh )  này  được  tạo  cho  nó
+ Dùng  lệnh
+ Chúng  ta  có  nên  dùng  API  lệnh  cho  đống  hồi  lại / làm  lại  hay  không
+ Hiện  thông  tin
+ Hiện / Ẩn  cái  nút  thông  tin
+ Chọn  trường
+ _ Chọn  các  trường  độc  lập :
+ Sửa  chữ
+ _ Chữ :
+ _ Dịch  được
+ Có  _ tiền  tố  ngữ  cảnh
+ Ghi  _ chú  cho  người  dịch :
+ Có
+ Không
+ Tên
+ Hạng
+ Chọn  bộ  thực  hiện  % s
+ Chọn  một  % s  trong  dự  án  này
+ Đố _ i  tượng :
+ Đối  tượng :
+ Giá  trị :
+ Giá  trị  hiện  có
+ Dưới :
+ Giá  trị  tối  thiểu
+ Trên :
+ Giá  trị  tối  đa
+ Nấc  tăng :
+ Tăng  cần  dùng  khi  thay  đổi  giá  trị  một  ít
+ Tăng  trang :
+ Tăng  cần  dùng  khi  thay  đổi  giá  trị  nhiều
+ Cỡ  trang :
+ Kích  cỡ  trang  ( trong  GtkScrollbar ,  đây  là  kích  cỡ  của  vùng  hiện  rõ )
+ Chữ  số
+ Thêm  nữa
+ Vùng  phím
+ Hàm
+ Khác

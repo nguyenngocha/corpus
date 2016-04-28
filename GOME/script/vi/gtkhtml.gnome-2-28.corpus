@@ -1,0 +1,493 @@
+ URL  là  % s ,  chuỗi  thay  thế  là  % s
+ URL  là  % s
+ lấy  tiêu  điểm
+ Phần  chứa  HTML
+ đen
+ nâu  nhạt
+ nâu  vàng
+ lục  thẫm  # 2
+ xanh  hải  quân
+ xanh  sẫm
+ tím  # 2
+ xám  rất  đen
+ đỏ  sẫm
+ cam  đỏ
+ vàng  kim
+ lục  thẫm
+ xanh  xỉn
+ xanh
+ tím  xỉn
+ xám  đen
+ đỏ
+ cam
+ xanh  lá  mạ
+ lục  xỉn
+ xanh  xỉn  # 2
+ xanh  da  trời  # 2
+ tím
+ xám
+ đỏ  tươi
+ cam  sáng
+ vàng
+ lục
+ xanh  lông  mòng
+ xanh  sáng
+ tím  đỏ
+ xám  sáng
+ hồng
+ vàng  sáng
+ lục  nhạt
+ xanh  lông  mòng  sáng
+ xanh  nhạt
+ tím  nhạt
+ trắng
+ Chọn  màu  riêng
+ Màu  hiện  thời
+ Màu  được  lựa  chọn  hiện  thời
+ Màu  mặc  định
+ Màu  liên  quan  đến  nút  mặc  định
+ Nhãn  mặc  định
+ Nhãn  cho  nút  mặc  định
+ Mặc  định
+ Mặc  định  là  trong  suốt
+ Màu  mặc  định  cũng  trong  xuất  không
+ Bảng  chọn  màu
+ Bảng  chọn  màu  riêngpopup-shown
+ Tự  mởpopup-shown
+ Có  nên  hiển  thị  danh  sách  thả  xuống  của  hộp  tổ  hợp  không.state
+ Tình  trạng  màustate
+ Tình  trạng  của  một  hộp  tổ  hợp  màu
+ tự  chọn
+ Màu  tự  chọn ...
+ Mô  tả  về  màu  mặc  định
+ Màu
+ Bóng  khung
+ Hình  thức  của  viền  khung
+ Hành  vi
+ Một  hành  vi  GtkRadioAction  ( hành  động  nút  chọn  một )
+ Mỉm  _ cười
+ _ Buồn
+ Nhá _ y  mắt
+ _ Lè  lươ ̃ i
+ Cươ ̀ i  p _ há  lên
+ _ Thô
+ Cười  điệ _ u
+ Lún _ g  túng
+ C _ ười  to
+ _ Không  chắc
+ N _ gạc  nhiên
+ L _ o
+ Hô _ n
+ Giậ _ n
+ T _ rơ  tráo
+ Th _ iên  thần
+ K _ hóc
+ _ Bị  bịnh
+ _ Mệt
+ M _ a  tà
+ _ Khỉ
+ Chèn  tập  tin  HTML
+ Chèn  ảnh
+ Chèn  tập  tin  nhập  thô
+ Tha _ y  thế
+ Thấy  thế  tất  _ cả
+ Tiế _ p
+ _ Chép
+ Cắ _ t
+ Tìm  tiế _ p
+ _ Tăng  thụt  lề
+ Tăng  thụt  lề
+ Tập  tin  _ HTML ...
+ Tập  tin  _ văn  bản ...
+ _ Dán
+ Dán  _ trích  dẫn
+ _ Làm  lại
+ C _ họn  tất  cả
+ _ Tìm ...
+ Tha _ y  thế ...
+ Kiểm  tra  _ chính  tả ...
+ _ Thử  URL ...
+ _ Hủy  bước
+ _ Giảm  thụt  lề
+ Giảm  thụt  lề
+ _ Ngắt  dòng
+ _ Sửa
+ _ Tập  tin
+ Đị _ nh  dạng
+ _ Kiểu  đoạn  văn ...
+ C _ hèn
+ Chỉnh  c _ anh
+ _ Ngôn  ngữ  hiện  có
+ _ Xem
+ _ Giữa
+ Canh  giữa
+ T _ rái
+ Canh  trái
+ _ Phải
+ Canh  phải
+ _ HTML
+ Chế  độ  sửa  HTML
+ Văn  bản  _ thô
+ Chế  độ  sửa  văn  bản  thô
+ Chuẩ _ n
+ Tiêu  đề  _ 1
+ Tiêu  đề  _ 2
+ Tiêu  đề  _ 3
+ Tiêu  đề  _ 4
+ Tiêu  đề  _ 5
+ Tiêu  đề  _ 6
+ Đị _ a  chỉ
+ Định  dạng  _ sẵn
+ Danh  sách  chấ _ m  điểm
+ Danh  sách  chữ  số  _ La  mã
+ Danh  sách  đánh  _ số
+ Danh  sách  _ ABC
+ Ả _ nh ...
+ _ Liên  kết ...
+ Chèn  liên  kết
+ Đườ _ ng ...
+ Chèn  đường
+ _ Bảng ...
+ Chèn  bảng
+ Ô  ( _ C ) ...
+ T _ rang ...
+ Cỡ  _ phông
+ _ Kiểu  phông
+ Đậ _ m
+ Đậm
+ Ngh _ iêng
+ Nghiêng
+ Nhậ _ p  thô
+ Văn  bản  thô
+ _ Gạch  đè
+ Gạch  đè
+ Gạch  _ dưới
+ Gạch  dưới
+ -2
+ -1
+ + 0
+ + 1
+ + 2
+ + 3
+ + 4
+ Nội  dung  ô
+ Cột
+ Hàng
+ Bảng
+ Xoá  bảng
+ Cách  gõ
+ Thuộc  tính
+ Cột  đằng  sau
+ Cột  đằng  trước
+ Chèn  _ liên  kết
+ Hàng  bên  trên
+ Hàng  bên  dưới
+ Ô ...
+ Ảnh ...
+ Liên  kết ...
+ Trang ...
+ Đoạn  văn ...
+ Đường ...
+ Bảng ...
+ Văn  bản ...
+ Gỡ  bỏ  liên  kết
+ Thêm  từ  vào  từ  điển
+ Bỏ  qua  từ  sai  chính  tả
+ Thêm  từ  vào
+ Góp  ý  khác
+ _ Biểu  tượng  xúc  cảm
+ Chèn  ảnh  cười
+ _ Tìm
+ Ả _ nh
+ _ Liên  kết
+ Đườn _ g
+ _ Bảng
+ Kiểu  đoạn  văn
+ Chế  độ  sửa
+ Cỡ  chữ
+ Tự  động
+ Không  thể  mở  liên  kết .
+ Thư  mục  hiện  tại
+ Thư  mục  đầu  tiên  cho  các  hộp  thoại  chọn  tập  tin
+ Tên  tập  tin
+ Tên  tập  tin  cần  dùng  khi  lưu
+ Chế  độ  HTML
+ Soạn  thảo  mã  HTML  hay  nhập  thô
+ Chính  tả  trực  tiếp
+ Kiểm  tra  chính  tả  trong  khi  gõ
+ Liên  kết  ma  thuật
+ Làm  cho  URI  nhấn  được  trong  khi  gõ
+ Hình  cười  ma  thuật
+ Chuyển  đổi  hình  cười  sang  ảnh  trong  khi  gõ
+ px
+ px  %  theo  sau
+ Trái
+ Giữa
+ Phải
+ Không
+ Giấy  bị  khoan
+ Mực  xanh
+ Giấy
+ Ruy  băng
+ Nửa  đêm
+ Mật
+ Nháp
+ Giấy  kẻ  ô
+ Thuộc  tính  văn  bản
+ _ Cỡ  :
+ _ Màu  :
+ Thuộc  tính  đoạn  văn
+ Chung
+ _ Kiểu  dáng :
+ Chỉnh  canh
+ Tìm
+ Tìm  _ ngược
+ _ Phân  biệt  chữ  hoa / thường
+ _ Biểu  thức  chính  quy
+ Thay  thế
+ _ Bằng :
+ Th _ ay  thế
+ Xác  nhận  thay  thế
+ Thuộc  tính  liên  kết
+ _ URL :
+ _ Mô  tả :
+ Thuộc  tính  đường
+ Cỡ  :
+ Bề  _ rộng :
+ Kiểu  dáng
+ _ Chỉnh  canh :
+ Đổ  _ bóng
+ Thuộc  tính  bảng
+ _ Hàng :
+ Cộ _ t :
+   Bố   trí 
+ _ Giãn  cách :
+ Đệ _ m :
+ _ Viền :
+ _ Nền :
+ Mà _ u  :
+ Ả _ nh :
+ Thuộc  tính  trang
+ Màu  sắc
+ _ Văn  bản :
+ _ Liên  kết :
+ Ảnh  nền
+ _ Mẫu  :
+ Tự  _ chọn :
+ Thuộc  tính  ô
+ _ Cột
+ _ Hàng
+ Ô  ( _ E )
+   Chỉnh   canh   và   Ứng   xử 
+ Kiểu  t _ iêu  đề
+ Nằm  _ dọc :
+ Nằm  ng _ ang :
+ Ô  theo  cột :
+ Ô  theo  hàng :
+ Bề  rộng :
+ Chọn  một  ảnh
+ Ản _ h :
+ Thuộc  tính  ảnh
+ _ Nguồn :
+ Bề  _ cao :
+ Đệm  _ X :
+ Đệm  _ Y :
+ Liên  kết
+ Ngôn  ngữ
+ Ngôn  ngữ  được  dùng  bởi  công  cụ  kiểm  tra  chính  tả
+ Góp  ý  về  «  % s  »
+ Từ  sai  chính  tả
+ Từ  sai  chính  tả  hiện  tại
+ Bộ  kiểm  tra  chính  tả
+ _ Lờ  đi
+ _ Bỏ  qua
+ _ Lùi
+ Từ  điển
+ Thê _ m  từlanguage
+ Không  rõ  ( % s ) French  ( France ) language
+ % s  ( % s ) language
+ Lưu  là
+ Tài  liệu  không  tên
+ Kết  xuất  HTML
+ Mã  nguồn  HTML
+ Mã  nguồn  thô
+ _ In ...
+ T _ hoát
+ _ Lưu
+ Lư _ u  là ...
+ Kết  _ xuất  HTML
+ Mã  nguồn  _ HTML
+ Mã  nguồn  _ thô
+ Có  thể  sửa
+ Có  thể  chỉnh  sửa  mã  html  không
+ Tựa  đề  tài  liệu
+ Tựa  đề  của  tài  liệu  hiện  có
+ Cơ  bản  tài  liệu
+ Địa  chỉ  URL  cơ  bản  cho  tham  chiếu  tương  đối
+ Cơ  bản  đích
+ Địa  chỉ  URL  co  bản  của  khung  đích
+ Phông  độ  rộng  cứng
+ Phông  chữ  đơn  cách  cần  dùng  cho  văn  bản  kiểu  máy  đánh  chữ
+ Màu  liên  kết  mới
+ Màu  của  phần  tử  liên  kết  mới
+ Màu  liên  kết  đã  thăm
+ Màu  của  phần  tử  liên  kết  đã  dùng
+ Màu  liên  kết  hoạt  động
+ Màu  của  phần  tử  liên  kết  đang  nhấn  vào
+ Màu  lỗi  chính  tả
+ Màu  của  dấu  hiệu  lỗi  chính  tả
+ Màu  đoạn  trích  dẫn
+ Màu  của  đoạn  đã  trích  dẫn
+ Gửi  truy  vấn
+ Đặt  lại
+ Không  thể  cấp  phát  phông  chữ  in  mặc  định
+ Thử  GtkHTML
+   Chỉnh   canh 
+   Ảnh   nền 
+   Nền 
+   Màu   sắc 
+   Chung 
+   Liên   kết 
+   Phạm   vi 
+   Kích   cỡ 
+   Kiểu   dáng 
+ Trái  Giữa  Phải
+ Không  có  Giấy  bị  khoan  Mực  màu  xanh  Giấy  Ribbon  Nửa  đêm  Mật  Nháp  Giấy  kẻ  ô
+ Trên  Giữa  Dưới
+ px  %
+ Danh  sách  ABC
+ Danh  sách  chấm  điểm
+ Canh  giữa  các  đoạn  văn
+ Kiểm  tra  chính  tả  của  tài  liệu
+ Chép
+ Sao  chép  vùng  chọn  vào  bảng  nháp
+ Chép  vùng  chọn
+ Cắt
+ Cắt  vùng  chọn  vào  bảng  nháp
+ Cắt  vùng  chọn
+ Biểu  tượng  xúc  _ cảm
+ Tìm  tiếp
+ Tìm  và  Thay  thế
+ Tìm  và  thay  thế
+ Ảnh
+ Chèn  Biểu  tượng  xúc  cảm  Khóc  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  Cau  mày  vào  tài  liệu ...
+ Chèn  tập  tin  HTML  vào  tài  liệu ...
+ Chèn  liên  kết  HTML  vào  tài  liệu ...
+ Chèn  mẫu  HTML  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  Thơ  ơ  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  Cười  to  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  «  Chê ́ t  chưa !  »  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  Bị  bịnh  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  Mỉm  cười  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  Ngạc  nhiên  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  lè  lươ ̃ i  vào  tài  liệu ...
+ Chèm  Biểu  tượng  xúc  cảm  Phân  vân  vào  tài  liệu ...
+ Chèn  Biểu  tượng  xúc  cảm  Nháy  mắt  vào  tài  liệu ...
+ Chèn  ảnh  vào  tài  liệu ...
+ Chèn  đường  thẳng  nằm  ngang  vào  tài  liệu ...
+ Chèn  bảng  vào  tài  liệu ...
+ Chèn  tập  tin  văn  bản  vào  tài  liệu ...
+ Canh  bên  trái  các  đoạn  văn
+ Chuyển  đổi  kiểu  dáng  đoạn  văn  hiện  thời  thành  Chuẩn
+ Chuyển  đổi  kiểu  dáng  đoạn  văn  hiện  thời  thành  Định  dạng  sẵn
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  danh  sách  chấm  điểm
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  danh  sách  chữ  số  La  mã
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  danh  sách  đánh  số
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  tiêu  đề  H1
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  tiêu  đề  H2
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  tiêu  đề  H3
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  tiêu  đề  H4
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  tiêu  đề  H5
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  tiêu  đề  H6
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  địa  chỉ
+ Chuyển  đổi  đoạn  văn  hiện  thời  thành  danh  sách  ABC
+ Chuẩn
+ Danh  sách  đánh  số
+ _ Chết  chưa !
+ Dán
+ Dán  từ  bảng  nháp
+ Dán  bảng  nháp
+ Dán  từ  bảng  nháp  theo  dạng  đoạn  trích  dẫn
+ Định  dạng  sẵn
+ Làm  lại
+ Làm  lại  bước  thay  đổi  mới  hủy
+ Làm  lại  bước  hành  động  mới  hủy
+ Canh  bên  phải  các  đoạn  văn
+ Danh  sách  chữ  số  La  mã
+ Đường
+ Chọn  toàn  nội  dung  của  tài  liệu
+ Chữ  thấp
+ Chữ  cao
+ _ Mẫu ...
+ Máy  đánh  chữ
+ Hủy  bước
+ Hủy  các  bước  thay  đổi  mới  làm
+ Hủy  bước  hành  động  mới  làm
+ C _ au  mày
+ _ Tiêu  đề
+ _ Thờ  ơ
+ Cười  t _ o
+ Đoạn  _ văn ...
+ _ Kiểu  dáng
+ _ Văn  bản ...
+ Phân  _ vân
+ Bộ  biên  soạn  HTML  GNOME
+ Điều  khiển  Biên  soạn  HTML  GNOME
+ Bộ  tạo  trình  soạn  thảo  HTML  GNOME
+ Đường  dẫn  tập  tin  ảnh  nền
+ Mẫu
+ Không  nạp  được  tập  tin  glade .
+ Trong  suốt
+ Văn  bản
+ Đoạn  văn
+ Trang
+ xem  thử  màu  sắc
+ Màu  tự  chọn :
+ xanh  tím
+ tím  đen
+ xanh  da  trời
+ Tự  mở
+ Điều  khiển  Biên  soạn  GtkHTML
+
+ *
+ -2  -1  Chuẩn  + 1  + 2  + 3  + 4
+   Mẫu 
+ Chỉnh  canh :
+ Ô
+ Bật
+ Canh  nằm  ngang :
+ Ngang :
+ Trái  Giữa  Phải  Không  có
+ Bóng
+ Dọc :
+ xxxxxxxxxxxxxx
+ URL :
+ Mô  tả :
+ Chèn
+ Gặp  lỗi  khi  nạp  tập  tin  «  % s  » :  % s
+ Định  dạng
+ Tiêu  đề  1
+ Tiêu  đề  2
+ Tiêu  đề  3
+ Tiêu  đề  4
+ Tiêu  đề  5
+ Tiêu  đề  6
+ Địa  chỉ
+ Kiểu  văn  bản ...
+ Kiểu  đoạn  văn ...
+ Kiểu  liên  kết ...
+ Kiểu  đường ...
+ Kiểu  ảnh ...
+ Kiểu  ô ...
+ Kiểu  bảng ...
+ Kiểu  trang ...
+ Bảng  chèn
+ Bảng  xóa
+ Từ  điển  % s
+ _ Ngược
+ Gõ  vào  đây  chuỗi  bạn  muốn  tìm
+ Không  thêm  được  từ  vào  từ  điển  vì  thiết  lập  ngôn  ngữ  bị  hỏng .
+ Không  tìm  thấy  từ  sai  chính  tả
+ Ghi  chú
+ Ghi  vào  đây

@@ -1,0 +1,4 @@
+ một  con  số  nằm  giữa  0  và  1
+ dạng  «     t \
+Aspell %s.  Tác quyền © năm 2000-2011 của Kevin Atkinson.
+    %s lá»c: %s

@@ -1,0 +1,60 @@
+ Xóa  bỏ
+ Thủ  tục
+ Nguồn  dữ  liệu
+ Không  tìm  thấy  nguồn  dữ  liệu  % s  trong  cấu  hình .
+ Độ  quan  trọng
+ Kết  nối  đã  được  mở .
+ Không  thể  mở  kết  nối .
+ Lỗi  không  rõ
+ Không  tìm  thấy  chương  trình  «  fop  »
+ Không  có  chi  tiết
+ Gặp  lỗi  khi  đọc  % s :  % s
+ Định  nghĩa
+ Kiểu  dữ  liệu
+ Mô  tả
+ Thông  tin
+ Thiếu  tham  số  cho  «  % s  »
+ Phương  pháp  xác  thực
+ Bộ  cung  cấp
+ Chuỗi  kết  nối
+ Lỗi
+ Không  thể  chuẩn  bị  cấu  trúc  lệnh .
+ Không  thể  thực  hiện  câu  Oracle .
+ Bộ  cung  cấp  đã  cài  đặt
+ Gặp  lỗi  khi  lưu  từ  điển  vào  tập  tin  «  % s  » :  % s
+ Gặp  lỗi  khi  tạo   từ  điển  % s .
+ Chuỗi  kết  nối  cần  dùng
+ Không  rõ  ký  tự  «  % s  »
+ Thông  tin  về  bộ  cung  cấp
+ Chưa  xác  định  bộ  cung  cấp
+ Không  tìm  thấy  đích  «  % s  »
+ Tham  số  DSN
+ Tập  tin
+ Tên  người  dùng
+ Mật  khẩu
+ Gặp  lỗi  khi  tải  tập  tin  từ  điển  «  % s  » :  % s
+ DSN  cần  dùng
+ Bộ  cung  cấp  cần  dùng
+ Tùy  chọnGdaMetaStore
+ Phương  ngôn  SQL  cần  dùng  khi  kết  nối
+ Chưa  xác  định  tham  số  tên  «  % s  »
+ Lỗi  cấu  hình  nguồn  dữ  liệu  :  chưa  ghi  rõ  bộ  cung  cấp .
+ Chuỗi  kết  nối  ODBC
+ Chưa  xác  định  cơ  sở  dữ  liệu .
+ Chưa  xác  định  DSN  hay  chuỗi  kết  nối
+ Chưa  ghi  rõ  kết  nối
+ Không  thể  thêm  mô  hình  dữ  liệu  BDB  vào  kết  nối :  % s
+ Kết  nối  bị  ngắt .
+ Tham  số  không  hợp  lệ  «  % s  » .
+ Thiếu  tham  số
+ Cột  % d  ở  ngoại  phạm  vi  0  -  % d
+ Không  thể  lấy  danh  sách  các  chức  năng .
+ Mô  hình  dữ  liệu
+ Không  có  hàng  trong  mô  hình  dữ  liệu
+ Thiếu  tên  truy  vấn
+ Mô  hình  cho  giản  đồ  có  số  cột  không  đúng .
+ Không  thể  lấy  số  cột  trong  tập  kết  quả .
+ Hàng  % d  vượt  ngoài  phạm  vi  0  -  % d .
+ Không  tìm  thấy  hàng  % d  trong  mô  hình  dữ  liệu .
+ Không  thể  mở  tập  tin  «  % s  »
+ Mong  đợi  giá  trị  nhị  phân  GdaBinary ,  còn  nhận  % s

@@ -1,0 +1,5 @@
+ Chào  thế  giới !
+ % s :  toán  tử  bổ  sung  :  % s
+ Sử  dụng :  % s  [ TÙY  CHỌN ] ...
+ In  ra  lời  chào  thân  thiện  có  khả  năng  tùy  chỉnh .
+ -h ,  --help             hiển  thị  trợ  giúp  này  rồi  thoát   -v  --version          hiển  thị  thông  tin  phiên  bản  rồi  thoát

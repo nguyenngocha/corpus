@@ -1,0 +1,4 @@
+ --support-old-code           Hỗ  trợ  kết  hợp  với  mã  cũ
+ --thumb-entry =    k \
+Tập hợp                 Ký hiệu
+Cấu hình bộ nhớ

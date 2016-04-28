@@ -1,0 +1,124 @@
+ Có  hiện  điểm  dữ  liệu  lịch  sử  không
+ Có  hiện  điểm  dữ  liệu  lịch  sử  trong  cửa  sổ  thống  kê  không .
+ Có  nên  làm  mịn  dữ  liệu  lịch  sử  hay  không
+ Có  nên  làm  mịn  dữ  liệu  lịch  sử  trong  đồ  thị  hay  không .
+ Kiểu  đồ  thị  mặc  định  để  hiển  thị  lịch  sử
+ Kiểu  đồ  thị  mặc  định  để  hiển  thị  trong  cửa  sổ  lịch  sử .
+ Thời  gian  lịch  sử  tối  đa  được  hiển  thị
+ Thời  gian  tối  đa  được  hiển  thị  trên  trục  X  của  đồ  thị  lịch  sử .
+ Có  hiện  điểm  dữ  liệu  thống  kê  không
+ Có  hiện  điểm  dữ  liệu  thống  kê  trong  cửa  sổ  thống  kê  không .
+ Có  nên  làm  mịn  dữ  liệu  thống  kê  hay  không
+ Có  nên  làm  mịn  dữ  liệu  thống  kê  trong  đồ  thị  hay  không .
+ Kiểu  đồ  thị  mặc  định  để  hiển  thị  thống  kê
+ Kiểu  đồ  thị  mặc  định  để  hiển  thị  trong  cửa  sổ  thống  kê .
+ Chỉ  mục  của  số  trang  hiện  mặc  định
+ Chỉ  mục  của  số  trang  hiện  mặc  định ,  dùng  để  trả  tiêu  điểm  về  đúng  trang .
+ ID  của  thiết  bị  được  chọn  cuối  cùng
+ Định  danh  của  thiết  bị  cuối  cùng  được  dùng  để  trả  tiêu  điểm  cho  đúng  thiết  bị .
+ Thống  kê  năng  lượng
+ Theo  dõi  quản  lý  năng  lượng
+ Chi  tiết
+ Kiểu  đồ  thị :
+ Chiều  dài  dữ  liệu :
+ Không  có  dữ  liệu  cần  hiển  thị .
+ Dùng  đường  mịn
+ Hiện  các  điểm  dữ  liệu
+ Lịch  sử
+ Thống  kê
+ Số  lần  đánh  thức  bộ  xử  lý  mỗi  giây :
+ Đánh  thức
+ % id
+ % id % 02ih
+ % ig
+ % ih % 02im
+ % 2ip
+ % 2ip % 02i
+ % 2ig
+ % i % %
+ % .1fW
+ % .1fV
+ Tỷ  lệ
+ Sạc
+ Thời  gian  đến  đầy
+ Thời  gian  đến  trống
+ 10  phút
+ 2  giờ
+ 6  giờ
+ 1  ngày
+ 1  tuần
+ Hồ  sơ  thời  gian  sạc
+ Hồ  sơ  thời  gian  xả
+ Độ  chính  xác  thời  gian  sạc
+ Độ  chính  xác  thời  gian  xả
+ Lithi  ion
+ Lithi  polime  ( LiP )
+ Lithi  ion  photphat
+ Axit  chì
+ NiCad
+ Mạ  kền  kim  loại  hyddrua  ( NMH )
+ Không  rõ  kỹ  thuật
+ Đang  sạc
+ Đang  xả
+ Rỗng
+ Sạc  đầy
+ Đang  chờ  sạc
+ Đang  chờ  xả
+ Thuộc  tính
+ Giá  trị
+ Ảnh
+ Mô  tả
+ Kiểu
+ ID
+ Lệnh
+ Không  rõ
+ Có
+ Khôngbattery0
+ Thiết  bị
+ Nhà  sản  xuất
+ Số  thứ  tự
+ Nguồn
+ Đã  cập  nhật
+ Tái  sạc  đượcChanging "  or  " Fully  charged
+ Tình  trạng
+ Năng  lượng
+ Năng  lượng  khi  trống
+ Năng  lượng  khi  đầy
+ Năng  lượng  ( thiết  kế )
+ Điện  áp
+ Phần  trăm
+ Dung  tích
+ Công  nghệ
+ Trực  tuyến
+ Không  có  dữ  liệu
+ Mô-đun  hạt  nhân
+ Lõi  hạt  nhân
+ Gián  đoạn  liên  tiến  trình
+ Gián  đoạn
+ Bàn  phím  PS / 2 / chuột / touchpad
+ ACPI
+ ATA  nối  tiếp  ( SATA )
+ Bộ  điều  khiển  chủ  ATA
+ Bộ  tiếp  hợp  không  dây  Intelfirefox-bin
+ Đếm  thời  gian  % s
+ Ngủ  % s
+ Công  việc  mới  % s
+ Đợi  % s
+ Hàng  đợi  làm  việc  % s
+ Mạng  xoá  sạch  % s
+ Hoạt  động  USB  % s
+ Dậy  % s
+ Gián  đoạn  cục  bộ
+ Gián  đoạn  lập  lại  lịch
+ Thông  tin  Thiết  bị
+ Lịch  sử  Thiết  bị
+ Hồ  sơ  Thiết  bị
+ Bộ  xử  lý  ngủ  dậy
+ Thời  gian  đã  qua
+ Sạc  bộ  pin
+ Thời  gian  dự  đoán
+ Hệ  số  sửa  chữa
+ Độ  chính  xác  dự  đoán
+ Hiển  thị  thông  tin  gỡ  lỗi  thêm
+ Chọn  thiết  bị  này  lúc  khởi  động
+ Bộ  xử  lý

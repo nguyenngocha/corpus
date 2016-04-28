@@ -1,0 +1,150 @@
+ @ @ image :  ' figures / evince _ start _ window.png ' ;  md5 = 7f4da5e33bcac35738a268d93d497d47
+ Thanh  công  cụ
+ Nhấn  nút    Lưu  .
+ Để  mở  một  tài  liệu
+ In  tài  liệu
+ Dùng  các  thanh  cuộn  của  cửa  sổ .
+ Nạp  lại  nội  dung  tài  liệu
+ Chọn  mục  này  để  in  tất  cả  các  trang  của  tài  liệu .
+ Bạn  có  thể  di  chuyển  đến  vị  trí  bất  kỳ  trong  tài  liệu  bằng  cách  sau :
+ Bộ  xem  tài  liệu  Evince
+ File
+ Phạm  vi  in
+ Để  in  tài  liệu
+ Hướng  trang  in  ra
+ Chọn       Xem       Khung    lề     hoặc  nhấn    F9  .
+ Làm  việc  với  các  tài  liệu  được  bảo  vệ  bằng  mật  khẩu
+ Mật  khẩu  người  dùng ,  chỉ  cho  phép  người  khác  đọc  tài  liệu .
+ Để  mở  một  tài  liệu ,  hãy  thực  hiện  các  bước  sau :
+ Bấm  đúp  chuột  trái  lên  tên  tập  tin  trong  Bộ  quản  lý  tập  tin
+ Tự  nhập  một  lệnh  riêng  để  in  tài  liệu .
+ Nhấn  các  phím  mũi  tên  hoặc  phím  cách  trên  bàn  phím .
+ Bằng  mật  khẩu ,  tác  giả  có  thể  đặt  các  mức  bảo  vệ  sau  đối  với  tài  liệu :
+ Khi  khởi  động  Evince
+ Giới  thiệu
+ Để  khởi  động  Bộ  xem  tài  liệu  Evince
+ Bạn  có  thể  sử  dụng  các  cách  sau  để  thay  đổi  kích  thước  trang  tài  liệu  trong  vùng  hiển  thị  của    Evince  :
+ Để  in  một  tài  liệu ,  chọn       Tập    tin       In    .
+ In  tài  liệu  ra  một  tập  tin  PostScript .
+ Nguyễn  Đình  Trung   <  nguyendinhtrung141 \ @ gmail \ .com  >  ,  2009
+ Hướng  dẫn  sử  dụng  bộ  xem  tài  liệu  Evince
+ Bộ  xem  tài  liệu  Evince  giúp  bạn  xem  nhiều  định  dạng  tài  liệu  như  Portable  Document  Format  ( PDF )  và  PostScript
+ 2005
+ Nickolay  V.  Shmyrev
+ 2004
+ Sun  Microsystems
+ Dự  án  Tài  liệu  GNOME
+ Được  phép  sao  chép ,  phân  phối  và / hoặc  thay  đổi  tài  liệu  này  theo  những  điều  khoản  của  Giấy  phép  Tài  liệu  Tự  do  GNU  ( GNU  Free  Documentation  License  -  GFDL ) ,  phiên  bản  1.1  hoặc  về  sau ,  được  công  bố  bởi  Free  Software  Foundation  không  kèm  Invariant  Sections ,  không  Front-Cover  Texts  và  không  Back-Cover  Texts .  Bạn  có  thể  lấy  một  bản  sao  của  GFDL  tại    liên   kết   này   hoặc  trong  tập  tin  COPYING-DOCS  phân  phối  kèm  với  tài  liệu  này .
+ Tài  liệu  này  là  một  phần  của  bộ  tài  liệu  GNOME ,  phân  phối  với  GFDL .  Nếu  bạn  muốn  phân  phối  chỉ  riêng  tài  liệu  này ,  bạn  có  thể  làm  thế  bằng  cách  thêm  một  bản  sao  giấy  phép  vào  tài  liệu ,  theo  mô  tả  ở  phần  6  của  giấy  phép .
+ Nhiều  tên  được  dùng  bởi  công  ty  để  phân  biệt  sản  phẩm  và  dịch  vụ  của  họ  là  nhãn  hiệu  thương  mại .  Những  nơi  xuất  hiện  những  tên  này  trong  tài  liệu ,  và  dự  án  tài  liệu  GNOME  biết ,  sẽ  được  viết  hoa  hoặc  chữ  đầu  viết  hoa .
+ Sun
+ Đội  tài  liệu  GNOME
+ Nickolay  V.
+ Shmyrev
+ nshmyrev @ yandex.ru
+ Hướng  dẫn  sử  dụng  Bộ  xem  tài  liệu  Evince  V1.1
+ 2008-04-05
+ Niels  Giesen
+ Claude  Paroz
+ Hướng  dẫn  sử  dụng  Bộ  xem  tài  liệu  Evince  V1.0
+ 2005-04-06
+ Tài  liệu  này  mô  tả  Bộ  xem  tài  liệu  Evince  phiên  bản  0.2
+ Phản  hồi
+ Để  thông  báo  lỗi  hoặc  có  đề  nghị  liên  quan  đến  ứng  dụng  Evince  hoặc  tài  liệu  này ,  vui  lòng  làm  theo  hướng  dẫn  trong    Trang   phản   hồi   GNOME  .
+ evince
+   Bộ   xem   tài   liệu   Evince   giúp  bạn  xem  nhiều  định  dạng  tài  liệu  như  Portable  Document  Format  ( PDF )  và  PostScript .    Evince   được  tích  hợp  với  môi  trường  làm  việc  theo  tiêu  chuẩn  mà  Freedesktop.org  và  dự  án  GNOME  đề  xuất .
+ Tìm  hiểu  Evince
+   Bộ   xem   tài   liệu   Evince   sẽ  tự  động  chạy  mỗi  khi  bạn  mở  một  tài  liệu  dạng  PDF  hoặc  PostScript .
+ Tuy  nhiên ,  bạn  có  thể  mở    Evince   bằng  nhiều  cách  khác ,  như  gõ  lệnh :    evince  .
+ Khi  chạy    Bộ   xem   tài   liệu   Evince  ,  cửa  sổ  sau  sẽ  hiện  lên .
+ Cửa  sổ  Evince
+ Cửa  sổ  chính  của  Evince .  Các  thành  phần :  thanh  tiêu  đề ,  thanh  trình  đơn ,  thanh  công  cụ  và  vùng  hiển  thị .  Thanh  trình  đơn  bao  gồm  các  mục  Tập  tin ,  Hiệu  chỉnh ,  Xem ,  Di  chuyển  và  Trợ  giúp .
+ Cửa  sổ  chương  trình    Evince   bao  gồm  các  thành  phần  sau  đây :
+ Thanh  trình  đơn
+ Thanh  trình  đơn  chứa  tất  cả  các  lệnh  để  bạn  sử  dụng  khi  làm  việc  với  các  tài  liệu  trong    Bộ   xem   tài   liệu   Evince  .
+ Thanh  công  cụ  chứa  các  nút  lệnh  cho  phép  bạn  truy  cập  nhanh  chóng  vào  các  lệnh  trên  thanh  trình  đơn .
+ Vùng  hiển  thị
+ Vùng  hiển  thị  được  dùng  để  trình  bày  nội  dung  tài  liệu .
+ Các  thành  phần  của  giao  diện  người  dùng
+ Hành  động
+ Cửa  sổ
+ Kéo  một  tập  tin  từ  một  ứng  dụng  khác ,  như  bộ  Quản  lý  tập  tin  chẳng  hạn ,  vào  trong  cửa  sổ    Bộ   xem   tài   liệu   Evince  .
+ Chọn       Tập    tin       Mở    .
+ Các  phím  tắt
+ Nhấn  tổ  hợp  phím       Ctrl       O    .
+ Trong    Evince  ,  bạn  có  thể  thực  hiện  một  hành  động  theo  nhiều  cách  khác  nhau .  Ví  dụ ,  bạn  có  thể  mở  một  tài  liệu  bằng  một  trong  các  cách  sau :                   
+ Bạn  có  thể  mở  tài  liệu  hướng  dẫn  này  từ  thanh  trình  đơn .
+ Cách  dùng
+ Trong  hộp  thoại    Mở   tài   liệu  ,  chọn  tập  tin  bạn  cần  mở .
+ Nhấn  nút    Mở  .    Evince   sẽ  hiển  thị  tên  tập  tin  được  mở  trong  phần  thanh  tiêu  đề  của  cửa  sổ  chương  trình .
+ Để  mở  một  tài  liệu  khác ,  hãy  chọn       Tập    tin       Mở     thêm  lần  nữa .    Bộ   xem   tài   liệu   Evince   sẽ  mở  mỗi  tập  tin  trong  một  cửa  sổ  riêng  biệt .
+ Nếu    Evince   không  nhận  dạng  được  định  dạng  của  tài  liệu  bạn  chọn  để  xem ,  chương  trình  sẽ  phát  một  thông  báo  lỗi . 
+ Để  di  chuyển  trong  tài  liệu
+ Để  xem  trang  kế  tiếp ,  chọn       Di    chuyển       Trang    sau    .
+ Để  xem  trang  trước ,  chọn       Di    chuyển       Trang    trước    .
+ Để  xem  trang  đầu  tiên ,  chọn       Di    chuyển       Trang    đầu    .
+ Để  xem  trang  cuối  cùng ,  chọn       Di    chuyển       Trang    cuối    .
+ Để  xem  một  trang  bất  kỳ ,  hãy  nhập  số  trang  hoặc  nhãn  của  trang  vào  ô  văn  bản  ở  trên  thanh  công  cụ ,  rồi  nhấn    Return  .
+ Để  cuộn  trang
+ Để  xem  nội  dung  chưa  được  trình  bày  trong  vùng  hiển  thị ,  hãy  dùng  các  cách  sau :
+ Dịch  chuyển  vùng  hiển  thị  bằng  cách  nhấn  chuột  giữa  vào  trong  tài  liệu ,  rồi  di  chuyển  vị  trí  con  chuột .  Ví  dụ ,  để  cuộn  trang  xuống  phía  dưới ,  hãy  dùng  chuột  kéo  dịch  vùng  hiển  thị  lên  phía  trên . 
+ Để  thay  đổi  kích  cỡ  trang
+ Để  tăng  kích  cỡ  trang ,  chọn       Xem       Phóng    to    .
+ Để  giảm  kích  cỡ  trang ,  chọn       Xem       Thu    nhỏ    .
+ Để  đặt  kích  cỡ  trang  đúng  bằng  chiều  rộng  của  vùng  hiển  thị  trong  cửa  sổ    Evince  ,  chọn       Xem       Vừa    độ    rộng    trang    .
+ Để  đặt  kích  cỡ  trang  sao  cho  toàn  bộ  trang  vừa  khít  trong  vùng  hiển  thị  của    Evince  ,  chọn       Xem       Vừa    khít    .
+ Để  phóng  to  cửa  sổ    Evince   ra  toàn  màn  hình ,  chọn       Xem       Toàn    màn    hình    .  Để  thu  cửa  sổ    Evince   về  kích  thước  cũ ,  nhấn  vào  nút    Bỏ   chế   độ   toàn   màn   hình  .
+ Để  xem  các  trang  hoặc  cấu  trúc  của  tài  liệu
+ Để  xem  các  đánh  dấu  hoặc  các  trang ,  hãy  thực  hiện  các  bước  sau :
+ Dùng  danh  sách  thả  xuống  ở  phần  đầu  khung  lề  để  chọn  chế  độ  hiển  thị  cấu  trúc  tài  liệu ,  hoặc  xem  thử  nội  dung  trang .
+ Dùng  thanh  cuộn  ở  bên  phải  khung  lề  để  tìm  mục  hoặc  trang  tài  liệu  mình  cần .
+ Nhấn  vào  một  mục  để  di  chuyển  tới  vị  trí  tương  ứng  trong  tài  liệu .  Nhấn  vào  một  trang  để  hiển  thị  nội  dung  của  trang  trong  vùng  hiển  thị .
+ Để  xem  thuộc  tính  tài  liệu
+ Để  xem  thuộc  tính  của  một  tài  liệu ,  hãy  chọn       Tập    tin       Thông    tin    .
+ Hộp  thoại    Thông   tin   xuất  hiện ,  hiển  thị  các  thông  tin  đi  kèm  tài  liệu
+ Trong  một  số  trường  hợp ,  nếu  tác  giả  khi  tạo  tài  liệu  đã  đặt  chế  độ  cấm  không  cho  in  tài  liệu ,  bạn  sẽ  không  chọn  được  lệnh    In  .  Lúc  này ,  bạn  phải  nhập  mật  khẩu  phù  hợp  thì  chương  trình  mới  có  thể  in  tài  liệu  này .  Xin  xem    để  biết  thêm  thông  tin  về  cách  xử  lý  các  tập  tin  được  mã  hóa  bằng  mật  khẩu .
+ Hộp  thoại    In   có  các  phần  sau :
+ Chọn  một  trong  các  tùy  chọn  ở  dưới  để  đặt  phạm  vi  in :
+ Tất  cả
+ Từ  trang
+ Chọn  mục  này  để  in  một  vài  trang  nhất  định  của  tài  liệu .  Dùng  các  ô  xoay  để  chọn  trang  đầu  và  trang  cuối  của  phạm  vi  cần  in  ra .
+ Dùng  ô  danh  sách  thả  xuống  này  để  chọn  máy  in  mà  bạn  muốn  dùng  để  in  tài  liệu  này .
+ Tùy  chọn    Tạo   tài   liệu   PDF   chưa  được  hỗ  trợ  trong  phiên  bản    Evince   hiện  thời .
+ Thiết  lập
+ Dùng  danh  sách  thả  xuống  này  để  thiết  lập  máy  in .
+ Để  cấu  hình  máy  in ,  nhấn  vào  nút    Thiết   lập  .  Ví  dụ ,  bạn  có  thể  bật  hoặc  tắt  chức  năng  in  song  công ,  hoặc  đặt  thời  gian  trễ  thực  hiện  việc  in ,  nếu  máy  in  của  mình  có  tính  năng  này .
+ Vị  trí
+ Dùng  ô  danh  sách  thả  xuống  này  để  chọn  một  trong  các  đích  in :
+ CUPS
+ In  tài  liệu  ra  máy  in  CUPS .
+ Nếu  máy  in  được  chọn  là  một  máy  in  CUPS ,    CUPS   là  mục  duy  nhất  có  trong  danh  sách  chọn .
+ lpr
+ In  tài  liệu  ra  máy  in .
+ Nhấn  nút    Lưu   thành   để  hiển  thị  hộp  thoại  chọn  tên  và  vị  trí  của  tập  tin  PostScript  sẽ  xuất  ra .
+ Tùy  chọn
+ Gõ  tên  lệnh  và  các  tham  số  của  lệnh  vào  ô  văn  bản .
+ Trạng  thái
+ Tính  năng  này  chưa  được  hỗ  trợ  trong  phiên  bản    Evince   hiện  thời .
+ Loại
+ Ghi  chú
+ Kích  thước  trang
+ Dùng  danh  sách  thả  xuống  này  để  chọn  kích  thước  trang  giấy  muốn  dùng  khi  in  tài  liệu  ra .
+ Chiều  rộng
+ Dùng  hộp  xoay  này  để  chọn  chiều  rộng  của  tờ  giấy .  Chọn  đơn  vị  đo  trong  ô  kế  bên .
+ Chiều  cao
+ Dùng  hộp  xoay  này  để  chọn  chiều  cao  của  tờ  giấy .  Chọn  đơn  vị  đo  trong  ô  kế  bên .
+ Dùng  danh  sách  thả  xuống  này  để  chọn  hướng  giấy  cho  máy  in .
+ Dùng  danh  sách  thả  xuống  này  để  chọn  hướng  giấy .
+ Dùng  danh  sách  thả  xuống  này  để  chọn  bố  cục  giấy .  Có  thể  xem  thử  bố  cục  được  chọn  trong  vùng    Xem   thử  .
+ Dùng  danh  sách  thả  xuống  này  để  chọn  khay  giấy .
+ Để  sao  chép  tài  liệu
+ Để  sao  chép  tài  liệu ,  hãy  thực  hiện  các  bước  sau :
+ Chọn       Tập    tin       Lưu    một    bản    sao    .
+ Gõ  tên  tập  tin  mới  vào  trong  ô    Tên   tập   tin   của  hộp  thoại    Lưu   một   bản   sao  .
+ Nếu  cần ,  chọn  thư  mục  muốn  dùng  để  lưu  bản  sao .  Mặc  định  là  thư  mục  chính  của  bạn .
+ Mật  khẩu  người  chủ ,  cho  phép  người  khác  thực  hiện  các  hành  động  khác ,  ví  dụ  như  in  tài  liệu  chả  hạn .
+ Khi  bạn  mở  một  tài  liệu  được  bảo  vệ  bằng  mật  khẩu ,    Evince   sẽ  hiển  thị  một  hộp  thoại  bảo  mật .  Tại  đây ,  hãy  nhập  mật  khẩu  người  dùng  hoặc  mật  khẩu  chủ  vào  ô    Nhập   mật   khẩu  ,  sau  đó  nhấn    Mở   tài   liệu  .
+ Để  đóng  tài  liệu
+ Để  đóng  tài  liệu ,  chọn       Tập    tin       Đóng    .
+ Nếu  cửa  sổ  hiện  thời  là  cửa  sổ    Evince   cuối  cùng  đang  mở ,  thao  tác  này  sẽ  kết  thúc  hoạt  động  của  chương  trình .
+ Bảng  dưới  đây  liệt  kê  tất  cả  các  phím  tắt  được  sử  dụng  trong    Bộ   xem   tài   liệu   Evince  :

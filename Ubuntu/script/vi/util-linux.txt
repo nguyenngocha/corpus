@@ -1,0 +1,243 @@
+ đặt  chỉ-đọc
+ đặt  đọc-viết
+ lấy  chỉ-đọc
+ lấy  kích  cỡ  khối  lôgíc  ( cung  từ )
+ lấy  kích  cỡ  khối  vật  lý  ( cung  từ )
+ lấy  kích  cỡ  V / R  tối  thiểu
+ lấy  kích  cỡ  V / R  tối  ưu
+ lấy  số  tối  đa  các  cung  từ  cho  mỗi  yêu  cầu
+ lấy  kích  cỡ  khối
+ đặt  kích  cỡ  khối
+ lấy  kích  cỡ  tính  bằng  byte
+ đặt  đọc  sẵn
+ lấy  đọc  sẵn
+ đặt  đọc  sẵn  cho  hệ  thống  tập  tin
+ lấy  đọc  sẵn  cho  hệ  thống  tập  tin
+ đẩy  dữ  liệu  bộ  đệm  lên  đĩa
+ đọc  lại  bảng  phân  vùng
+ % s  ( % s )
+ không  thể  mở  % s
+ % s  gặp  lỗi .
+ % s  thành  công .
+ RO     RA    SSZ    BSZ    CungĐầu              Cỡ      Thiết  bị
+ cách  dùng :
+ \ tGHI  CHÚ :  elvtune  chỉ  hoạt  động  với  nhân  linux  phiên  bản  2.4
+ thiếu  thiết  bị  khối ,  dùng  lệnh  “ -h ”  để  có  trợ  giúp
+ elvtune  chỉ  hữu  ích  khi  sử  dụng  với  nhân  linux  cũ ;  đối  với  phiên  bản  2.6 ,  hãy  thay  thế  bằng  phần  mềm  định  thời  V / R  sysfs  tunables .
+ Đang  định  dạng  ... 
+ xong
+ Đang  kiểm  tra  ... 
+ Đọc : 
+ Có  vấn  đề  khi  đọc  trụ  % d ,  cần  % d ,  đọc  % d
+ dữ  liệu  sai  tại  trụ  ( cyl )  % d  Đang  tiếp  tục  ... 
+ “ % s ”  từ  gói  phần  mềm  “ % s ”
+ Không  thể  xác  định  được  kiểu  định  dạng  hiện  tại
+ % s-mặt ,  % d  rãnh ,  % d  cung / rãnh .  Tổng  dung  lượng  % d  kB .
+ Kép
+ Đơn
+ cách  dùng :  % s  [ -hv ]  [ -x  thư  mục ]  tập  tin   -h \ t \ t  in  ra  hướng  dẫn  này   -x  thư  mục \ t  ghi  thông  tin  vào  thư  mục  này   -v \ t \ t  hiện  thị  nhiều  thông  báo  khi  thực  hiện   tập  tin \ t \ t  tập  tin  để  thử  nghiệm
+ lỗi  lấy  trạng  thái :  % s
+ lỗi  mở :  % s
+ ioctl  gặp  lỗi :  không  thể  xác  định  kích  cỡ  thiết  bị :  % s
+ không  phải  thiết  bị  khối  hay  tập  tin :  % s
+ chiều  dài  tập  tin  quá  ngắn
+ gặp  lỗi  khi  đọc :  % s
+ không  tìm  thấy  ma  thuật  siêu  khối
+ gặp  tính  năng  hệ  thống  tập  tin  không  được  hỗ  trợ
+ kích  cỡ  siêu  khối  ( % d )  quá  nhỏ
+ số  tập  tin  không
+ cảnh  báo :  định  dạng  cramfs  cũ
+ không  thể  thử  CRC :  định  dạng  cramfs  cũ
+ lỗi  crc
+ inode  gốc  không  phải  thư  mục
+ offset  gốc  sai  ( % lu )
+ khối  dữ  liệu  quá  lớn
+ gặp  lỗ  ở  % ld  ( % zd )
+ đang  giải  nén  khối  ở  % ld  đến  % ld  ( % ld )
+ khác  khối  ( % ld )  byte
+ khác  kích  cỡ  ( % ld  vs  % ld )  byte
+ lỗi  ghi :  % s
+ lchown  bị  lỗi :  % s
+ chown  bị  lỗi :  % s
+ utime  gặp  lỗi :  % s
+ inode  thư  mục  có  hiệu  số  không  và  kích  cỡ  khác  số  không :  % s
+ mkdir  bị  lỗi :  % s
+ tập  tin  có  tên  dài  số  không
+ tập  tin  có  tên  dài  sai
+ khoảng  bù  ( offset )  inode  sai
+ inode  tập  tin  có  hiệu  số  không  và  kích  cỡ  khác  số  không
+ inode  tập  tin  có  kích  cỡ  số  không  và  hiệu  khác  số  không
+ liên  kết  mềm  có  hiệu  số  không
+ liên  kết  mềm  có  kích  cỡ  số  không
+ gặp  lỗi  kích  cỡ  trong  liên  kết  mềm :  % s
+ liên  kết  mềm  bị  lỗi :  % s
+ tập  tin  đặc  biệt  có  hiệu  khác  số  không :  % s
+ FIFO  có  kích  cỡ  khác  số  không :  % s
+ ổ  cắm  ( socket )  có  kích  cỡ  khác  số  không :  % s
+ chế  độ  giả :  % s  ( % o )
+ mknod  bị  lỗi :  % s
+ sai  đặt  khoảng  bù  ( offset )  dữ  liệu  tập  tin
+ biên  dịch  mà  không  hỗ  trợ  -x
+ % s :  OK
+ Cách  dùng :  % s  [ -larvsmf ]  / dev / TÊN
+ % s  đã  được  gắn . \ t 
+ Bạn  có  thực  sự  muốn  tiếp  tục
+ kiểm  tra  bị  dừng .
+ Vùng  nr   <   VÙNGĐẦUTIÊN  trong  tập  tin  “ % s ” .
+ Vùng  nr   >  =  CÁCVÙNG  trong  tập  tin  “ % s ” .
+ Xoá  khối
+ Lỗi  đọc :  không  thể  tìm  tới  khối  trong  tập  tin  “ % s ”
+ Lỗi  đọc :  khối  sai  trong  tập  tin  “ % s ”
+ Lỗi  nội  bộ :  ghi  vào  khối  sai  Yêu  cầu  ghi  bị  bỏ  qua
+ di  chuyển  vị  trí  đọc  bị  lỗi  trong  ghi _ khối
+ Lỗi  ghi :  khối  sai  trong  tập  tin  “ % s ”
+ di  chuyển  vị  trí  đọc  bị  lỗi  trong  ghi _ siêu _  khối
+ không  thể  ghi  siêu-khối
+ Không  thể  ghi  ánh  xạ  inode
+ Không  thể  ghi  ánh  xạ  vùng
+ Không  thể  ghi  các  inode
+ di  chuyển  vị  trí  đọc  gặp  lỗi
+ không  thể  cấp  phát  vùng  đệm  cho  siêu  khối
+ không  thể  đọc  siêu  khối
+ số  magic  sai  trong  siêu  khối
+ Chỉ  hỗ  trợ  khối / vùng  1k
+ vùng  s _ imap _ blocks  sai  trong  siêu  khối
+ vùng  s _ zmap _ blocks  sai  trong  siêu  khối
+ Không  thể  phân  phối  bộ  đệm  cho  ánh  xạ  inode
+ Không  thể  phân  cấp  bộ  đệm  cho  ánh  xạ  vùng
+ Không  thể  phân  phối  bộ  đệm  cho  các  inode
+ Không  thể  phân  phối  bộ  đệm  cho  việc  đếm  inode
+ Không  thể  phân  phối  bộ  đệm  cho  việc  đếm  vùng
+ Không  thể  đọc  ánh  xạ  inode
+ Không  thể  đọc  ánh  xạ  vùng
+ Không  thể  đọc  các  inode
+ Cảnh  báo :  Firstzone  ! =  Norm _ firstzone
+ % ld  inode
+ % ld  khối
+ Vùng _ dữ _ liệu _ đầu _ tiên = % ld  ( % ld )
+ Cỡ _ vùng = % d
+ Cỡ _ tối _ đa = % ld
+ Trạng  thái  hệ  thống  tập  tin = % d
+ inode  % d  đánh  dấu  không  sử  dụng ,  nhưng  lại  dùng  cho  tập  tin  “ % s ”
+ Dấu  được  dùng
+ Tập  tin  “ % s ”  có  chế  độ  % 05o
+ Cảnh  báo :  số  lượng  inode  quá  lớn .
+ inode  gốc  không  phải  là  một  thư  mục
+ Khối  đã  được  dùng .  Bây  giờ  trong  tập  tin  “ % s ” .
+ Xóa
+ Khối  % d  trong  tập  tin  “ % s ”  có  dấu  “ không  dùng ” .
+ Sửa
+ Thư  mục  “ % s ”  chứa  một  số  hiệu  inode  sai  cho  tập  tin  “ % . * s ” .
+ Bỏ
+ % s :  thư  mục  sai :  “ . ”  không  phải  đứng  đầu
+ % s :  thư  mục  sai :  “ .. ”  không  phải  cái  thứ  hai
+ lỗi  nội  bộ
+ % s :  thư  mục  sai :  kích  cỡ   <   32
+ di  chuyển  vị  trí  đọc  không  thành  công  trong  bad _ zone  ( vùng _ sai )
+ Đặt
+ Đặt  i _ nlinks  cho  số  đếm
+ Bỏ  đánh  dấu
+ kích  cỡ  inode  sai
+ kích  cỡ  inode  v2  sai
+ cần  dùng  thiết  bị  cuối  cho  những  sửa  chữa  tương  tác  qua  lại
+ không  mở  được  «  % s  » :  % s
+ % s  sạch  sẽ ,  không  kiểm  tra .
+ Bắt  buộc  kiểm  tra  hệ  thống  tập  tin  trên  % s .
+ Hệ  thống  tập  tin  % s  bẩn ,  cần  kiểm  tra .
+ % 6ld  inode  được  dùng  ( % ld % % )
+ % 6ld  vùng  được  dùng  ( % ld % % )
+ % 6d  tập  tin  thường  % 6d  thư  mục  % 6d  tập  tin  thiết  bị  ký  tự  % 6d  tập  tin  thiết  bị  khối  % 6d  liên  kết  % 6d  liên  kết  mềm  ------  % 6d  tập  tin
+ ----------------------------  HỆ  THỐNG  TẬP  TIN  BỊ  THAY  ĐỔI  ----------------------------
+ số  cung  từ :  % d ,  kích  cỡ  cung  từ :  % d
+ tên  khối  tin  quá  dài
+ tên  hệ  thống  tập  tin  quá  dài
+ không  thể  lấy  trạng  thái  về  thiết  bị  % s
+ % s  không  phải  là  thiết  bị  khối  đặc  biệt
+ không  lấy  được  kích  cỡ  % s
+ đối  số  khối  quá  lớn ,  tối  đa  % llu
+ quá  nhiều  inode  -  tối  đa  là  512
+ không  đủ  chỗ  trống ,  cần  ít  nhất  % llu  khối
+ Thiết  bị :  % s
+ Khối  tin :   <  \ % \ -6s  >
+ Tên  hệ  thống  tập  tin :   <  \ % \ -6s  >
+ Kích  cỡ  khối :  % d
+ Khối :  % lld
+ Kết  thúc  inode :  % d ,  Kết  thúc  dữ  liệu :  % d
+ lỗi  ghi  nhớ  siêu  khối
+ lỗi  ghi  inode  gốc
+ lỗi  ghi  inode
+ lỗi  di  chuyển  vị  trí  đọc
+ lỗi  ghi  mục  nhập  chấm  ( . )
+ lỗi  ghi  mục  nhập  chấm  đôi  ( .. )
+ lỗi  đóng  % s
+ mkfs  ( % s )
+ cách  dùng :  % s  [ -h ]  [ -v ]  [ -b  cỡ _ khối ]  [ -e  phiên _ bản ]  [ -N  kiểu-xếp-byte ]  [ -i  tập _ tin ]  [ -n  tên ]  tên _ thư _ mục  tập _ tin _ ra   -h          hiển  thị  trợ  giúp  này   -v          xuất  chi  tiết   -E          làm  cho  mọi  cảnh  báo  là  lỗi  ( trạng  thái  thoát  khác  số  không )   -b  cỡ _ khối  dùng  kích  cỡ  khối  này  ( phải  bằng  với  kích  cỡ  trang )   -e  bản _ in   đặt  số  thứ  tự  bản  in  ( phần  của  fsid )   -N  thứ-tự-byte  đặt  tình  trạng  cuối  cramfs :                      *  big       byte  lớn  đứng  trước                      *  little    byte  nhỏ  đứng  trước                      *  host      theo  máy  đang  dùng ( mặc  định )   -i  tập _ tin  chèn  một  ảnh  tập  tin  vào  hệ  thống  tập  tin  ( cần  ≥ 2.4.0 )   -n  tên      đặt  tên  của  hệ  thống  tập  tin  cramfs   -p          đệm  theo  % d  byte  cho  mã  khởi  động   -s          sắp  xếp  các  mục  nhập  thư  mục  ( tùy  chọn  cũ  thì  bị  lờ  đi )   -z          tạo  các  lỗ  dứt  khoát  ( cần  ≥ 2.3.39 )   tên _ thư _ mục  gốc  của  hệ  thống  tập  tin  cần  nén   tập _ tin _ ra   tập  tin  kết  xuất
+ AIEEE :  khối  " đã  nén "  thành   >   2 * bề _ dài _ khối  ( % ld )
+ % 6.2f % %  ( % + ld  byte ) \ t % s
+ Ánh  xạ  ảnh  ROM
+ Bao  gồm :  % s
+ Dữ  liệu  thư  mục :  % zd  byte
+ Mọi  thứ :  % zd  kilô  byte
+ Siêu  khối :  % zd  byte
+ CRC :  % x
+ Ảnh  ROM
+ % s  đã  được  gắn ,  sẽ  không  tạo  hệ  thống  tập  tin  ở  đây !
+ Kích  cỡ  tối  đa = % ld
+ Giá  trị  kỳ  lạ  trong  do _ check  ( làm  kiểm  tra ) :  có  thể  là  lỗi
+ % d  khối  sai
+ một  khối  sai
+ ỗi  nhập  số  khối-sai  trên  dòng  % d
+ lỗi  strtol :  không  chỉ  ra  số  khối
+ % s :  lỗi  lấy  trạng  thái
+ % s :  lỗi  mở
+ kích  cỡ  khối  nhỏ  hơn  kích  cỡ  cung  từ  vật  lý  của  % s
+ không  thể  quyết  định  kích  cỡ  của  % s
+ sẽ  không  thử  tạo  hệ  thống  tập  tin  trên  “ % s ”
+ không  nhãn , 
+ không  uuid
+ quá  nhiều  trang  sai
+ tìm  tới  không  thành  công  trong  check _ blocks  ( kiểm  tra  khối )
+ một  trang  sai
+ % lu  trang  xấu
+ không  thể  “ tua  lại ”  thiết  bị  trao  đổi
+ không  thể  cấp  phát  đoạn  dò  libblklid  mới
+ không  xoá  được  cung  từ  bit  khởi  động
+ ( % s  bảng  phân  vùng  được  tìm  thấy ) . 
+ ( biên  dịch  mà  không  có  libblkid ) . 
+ lỗi :  không  phân  tích  được  cú  pháp  của  UUID
+ Không  thể  cài  đặt  vùng  trao  đổi :  không  thể  đọc
+ Đang  cài  đặt  vùng  trao  đổi  phiên  bản  1 ,  kích  cỡ  =  % llu  KiB
+ fsync  bị  lỗi
+ không  thể  matchpathcon ( )
+ không  thể  tạo  ngữ  cảnh  SELinux  mới
+ không  thể  tính  ngữ  cảnh  SELinux
+ Không  tìm  thấy  thiết  bị  khối  «  % s  »  ( % s )
+ Không  tìm  thấy  thiết  bị  thô  «  % s  »  ( % s )
+ Thiết  bị  thô  «  % s  »  không  phải  một  thiết  bị  ký  tự
+ Thiết  bị  «  % s  »  không  phải  một  thiết  bị  thô
+\tCó một nhãn AIX hợp lệ trên đĩa này.\tKhông may là hiện tại Linux không thể điều khiển\tnhững đĩa này.  Tuy nhiên một vài\tlời khuyên:\t1. fdisk sẽ hủy hết nội dung đĩa khi ghi.\t2. Cần đảm bảo là đĩa này KHÔNG phải là phần\t   quan trọng của một nhóm đĩa. (Nói cách khác bạn có\t   thể xóa các đĩa khác, nếu không tạo gương.)\t3. Trước khi xóa bộ đĩa vật lý này, cần phải\t   xóa đĩa một cách lôgíc từ máy AIX.\t   (Nói cách khác bạn trở thành AIXpert\t\t[chơi chữ với “expert” ;) ]).
+Đĩa %s: %ld MB, %lld byte
+Các mục trong bảng phân vùng không theo thứ tự như trên đĩa
+CẢNH BÁO: thao tác đọc lại bảng phân vùng không thành công (lỗi %d): %s.Hạt nhân vẫn còn dùng bảng cũ.Bảng mới sẽ được dùng lần kế tiếp khởi động,hoặc sau khi bạn chạy công cụ partprobe(8) hay kpartx(8).
+Lỗi đóng tập tin
+Tập tin khởi động hiện thời là: %s
+\tCó một nhãn Mac hợp lệ trên đĩa này.\tKhông may là hiện tại fdisk(1) không thể điều khiển\tnhững đĩa này. Dùng hoặc pdisk hoặc partedđể sửa đổi bảng phân vùng.
+Đĩa %s (nhãn đĩa SGI): %d đầu đọc, %llu rãnh ghi, %d trụĐơn vị = %s của %d * %d byte
+Tập tin khởi động bị lỗi!\tTập tin khởi động phải là một tên đường dẫn tuyệt đối không rỗng,\tv.d. "/unix" hay "/unix.save".
+\tTập tin khởi động phải có đường dẫn đầy đủ.
+\tTập tin khởi động được thay đổi thành "%s".
+Phân vùng trao đổi không tồn tại.
+Tùy chọn:
+Đĩa này hiện thời đang được sử dụng - phân vùng lại không phải là ý muốntốt. Bỏ gắn tất cả các hệ thống tập tin, và tắt (swapoff) các phân vùng trao đổitrên đĩa này. Sử dụng `--no-reread' để bỏ kiểm tra này.
+sfdisk: dữ liệu vào kết thúc sớm
+Bị gián đoạn.
+wtmp bắt đầu %s
+Để tìm thêm thông tin, xem wipefs(8).Thông báo lỗi dịch cho http\:\/\/translationproject\.org\/team\/vi\.html
+Đoạn vùng nhớ chia sẻ shmid=%d
+Hàng đợi Thông điệp msqid=%d
+Thử lệnh trợ giúp « %s --help » để xem thông tin thêm.
+Hoàn tất chạy văn lệnh trên %s
+******** %s: Không phải tập tin văn bản ********
+Có thể thêm một tham số số nguyên vào trước hầu hết các câu lệnh.  Mặc định đặttrong dấu ngoặc đơn.Dấu sao (*) cho biết tham số sẽ thành mặc định mới.
+Không tìm thấy mẫu tìm kiếm
+...Bỏ qua 

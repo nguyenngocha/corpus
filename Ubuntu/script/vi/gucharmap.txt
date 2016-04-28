@@ -1,0 +1,67 @@
+ Bản  đồ  ký  tự
+ Chèn  ký  tự  đặc  biệt  vào  tài  liệu
+ Tất  cả
+ Khối  Unicode
+ Tách  chuẩn  tắc :
+ [ ký  tự  không  thể  in ]
+ Thuộc  tính  ký  tự  chung
+ Trong  Unicode  từ :
+ Phân  loại  Unicode :
+ Biểu  diễn  hữu  dụng  khác
+ UTF-8 :
+ UTF-16 :
+ UTF-8  được  thoát  bát  phân  C :
+ Thực  thể  thập  phân  XML :
+ Tham  chiếu  chéo  và  chú  thích
+ Tên  bí  danh :
+ Ghi  chú :
+ Xem  thêm :
+ Gần  tương  đương :
+ Tương  đương :
+ Thông  tin  chữ  viết  ghi  ý  CJK  ( Trung  quốc ,  Nhật  bản  và  Triều  tiên )
+ Định  nghĩa  tiếng  Anh :
+ Phát  âm  tiếng  Trung  quốc  phổ  thông :
+ Phát  âm  Can-ton :
+ Phát  âm  « On »  Nhật  bản :
+ Phát  âm  « Kun »  Nhật  bản :
+ Phát  âm  « Tang »
+ Phát  âm  Triều  tiên
+ _ Bảng  ký  tự
+ _ Chi  tiết  ký  tự
+ Bảng  ký  tự
+ Ký  tự  lạ ,  không  thể  định  danh .
+ Không  tìm  thấy .
+ Tìm  thấy  ký  tự .
+ Theo  chữ  _ viết
+ Theo  khối  _ Unicode
+ Chỉ  _ hiện  ký  hiệu  trong  phông  này
+ Biểu  diễn  2 ,  4 ,  8 ,  16  hoặc  32  _ cột
+ Phóng  _ to
+ Thu  _ nhỏ
+ Cỡ  _ thường
+ _ Tìm
+ Trợ  _ giúp
+ _ Giới  thiệu
+ Đón _ g  cửa  sổ
+ _ Tập  tin
+ Đón _ g
+ _ Xem
+ Tìm  _ kế
+ Tìm  _ lùi
+ Đ _ i
+ Ký  tự  _ kế
+ Ký  tự  _ trước
+ _ Nội  dung
+ Phông  chữ
+ Nhóm  phông  chữ
+ Cỡ  phông  chữ
+ Chữ  viếtCommon
+ Common
+ Thông  tin
+ Tìm
+ _ Về  trước
+ _ Kế
+ _ Tìm  kiếm :
+ Khớp  t _ oàn  từ
+ Tìm  kiếm  trong  _ chi  tiết  ký  tự
+  Clytie Siddall https://launchpad.net/~clytie  Nguyen Dinh Trung https://launchpad.net/~dinhtrung  Nguyễn Thái Ngọc Duy https://launchpad.net/~pclouds

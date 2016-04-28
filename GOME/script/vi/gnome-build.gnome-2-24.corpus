@@ -1,0 +1,138 @@
+ Kiểu  «  GbfAmConfigValue  »  ( giá  trị  cấu  hình  GbfAm )  không  hợp  lệ .
+   Chọn   gói   cần   thêm  : 
+ Thêm  _ gói
+ Thêm  _ mô-đun
+ Chung
+ Gói
+ Chọn  gói
+ Biến
+ Không  rõ
+ Nhập  mô-đun  mới
+ Mô-đun / Gói
+ Phiên  bản
+ Bạn  có  chắc  muốn  gỡ  bỏ  mô-đun  «  % s  »  cùng  với  mọi  gói  liên  quan  của  nó  không ?
+ Bạn  có  chắc  muốn  gỡ  bỏ  gói  «  % s  »  không ?
+ Nhập  biến  mới
+ Bạn  có  chắc  muốn  gỡ  bỏ  biến  «  % s  »  không ?
+ Dự  án :
+ Tên  gói :
+ Phiên  bản :
+ URL :
+ Giá  trị
+ Mô-đun  Java
+ Tên  nhóm :
+ Cờ  biên  dịch  C :
+ Cờ  tiền  xử  lý  C :
+ Cờ  biên  dịch  C + + :
+ Cờ  biên  dịch  gcj  ( đặt  sẵn ) :
+ Cờ  biên  dịch  Java  ( mới  đặt ) :
+ Cờ  biên  dịch  Fortran :
+ Thư  mục  cài  đặt :
+ Cờ  biên  dịch  C + +
+ Cờ  biên  dịch  gcj  ( đặt  sẵn )
+ Cờ  liên  kết :
+ Thư  viện :
+ Quan  hệ  phụ  thuộc :
+ Tên  đích :
+ Kiểu  :
+ Nhóm :
+ Nhóm  không  có
+ Đích  đến  không  có
+ Không  thể  cập  nhật  dự  án
+ Đường  dẫn  ở  xa  hay  đường  dẫn  không  hợp  lệ  ( chỉ  hỗ  trợ  đường  dẫn  cục  bộ )
+ Dự  án  không  tồn  tại  hoặc  đường  dẫn  không  hợp  lệ .
+ Dự  án  dạng  sai
+ Hãy  ghi  rõ  tên  nhóm
+ Tên  nhóm  chỉ  có  thể  chứa  chữ  cái ,  chữ  số ,  gạch  dưới ,  gạch  nối  hay  dấu  chấm
+ Không  có  nhóm  cha
+ Nhóm  đã  có
+ Không  thể  tạo  nhóm
+ Không  thể  gỡ  bỏ  nhóm
+ Hãy  ghi  rõ  tên  đích  đến
+ Tên  đích  đến  chỉ  có  thể  chứa  chữ  cái ,  chữ  số ,  gạch  dưới ,  gạch  nối  hay  dấu  chấm
+ Tên  đích  đến  thư  viện  chia  sẻ  phải  có  dạng  «  libxxx.la  »
+ Tên  đích  đến  thư  viện  tĩnh  phải  có  dạng  «  libxxx.a  »
+ Đích  đến  đã  có .
+ Lỗi  chung  trong  khi  tạo  đích  đến
+ Không  thể  nhận  ra  đích  đến  vừa  mới  tạo
+ Không  thể  gỡ  bỏ  đích  đến
+ Thư  viện  tĩnh
+ Thư  viện  chia  sẻ
+ Tập  tin  phần  đầu
+ Tài  liệu  Man
+ Dữ  liệu  linh  tinh
+ Chương  trình
+ Văn  lệnh
+ Tài  liệu  Info
+ Mô-đun  Python
+ Nguồn  không  có
+ Tên  tập  tin  nguồn  chỉ  có  thể  chứa  chữ  cái ,  chữ  số ,  gạch  dưới ,  gạch  nối  hay  dấu  chấm
+ Tập  tin  nguồn  đã  có  trong  đích  đến  đã  cho
+ Lỗi  chung  trong  khi  thêm  tập  tin  nguồn
+ Không  thể  nhận  ra  tập  tin  nguồn  vừa  mới  thêm
+ Không  thể  gỡ  bỏ  nguồn
+ Thư  mục  dự  án
+ Các  hành  động  được  xác  định  cho  \ \ $ ( $ { canonical } _ OBJECTS )  và  đồ  này  đều  nên  được  để  lại  cho  chỉ  automake
+ tập  tin  $ makefile  không  có
+ Thư  mục  gốc  không  hình  như  gốc  của  một 
+ Nhóm  $ group _ name  không  có
+ Đích  đến  $ op-  >  { target _ name }  không  có
+ Nhóm  $ operand  đã  có
+ Không  thể  mkdir  $ new _ dir
+ Không  thể  ghi  $ new _ dir / Makefile.am
+ Nhóm  $ operand  không  có
+ Thao  tác  sai  «  $ op  »  tới  group _ op _ handler
+ Chưa  thực  hiện  hàm  ghi  kiểu  đích  đến
+ Tên  đích  đến  trống  không  hợp  lệ
+ Kiểu  đích  đến  sai  «  $ operand  »  tới  compiled _ primary _ target _ writer
+ Thao  tác  sai  «  $ op  »  tới  program _ target _ writer
+ Một  đích  đến  bổ  sung  đã  có  cho
+ Không  thể  gỡ  bỏ  tập  tin  vì  nọ  thuộc  về  nhóm  «  $ original _ pkg  » .  Hãy  xoá  nó  trong  đó .
+ Kiểu  đích  đến  sai  «  $ operand  »  tới  simple _ primary _ target _ writer
+ Kiểu  đích  đến  có  sẵn  trong  tên  đích  đến  $ target  và  kiểu  đích  đến  đã  cho  «  $ operand  »  không  tương  ứng  với  nhau  nên  dùng  tên  có  sẵn  trong  tên  đích  đến
+ Không  thể  mở  tập  tin  nhập  liệu  «  $ input _ file  »
+ Chỉ  cho  phép  ghi  rõ  một  thư  mục / tập  tin  dự  án
+ Chỉ  cho  phép  ghi  rõ  một  thao  tác
+ Thư  mục  gốc  dự  án  không  có
+ Không  cần  làm  gì
+ Kiểu  «  GbfMkfileConfigValue  »  ( giá  trị  cấu  hình  tập  tin  Tạo  Gbf )  không  hợp  lệ .
+ Không  thể  tạo  đích  đến
+ Tập  tin  nguồn  phải  nằm  trong  thư  mục  dự  án
+ Nguồn  đã  có  trong  đích  đến
+ Không  thể  thêm  nguồn
+ Bản  bao  gồm :
+ Gặp  vòng  lặp  trong  đồ  thị  quan  hệ  phụ  thuộc
+ Không  tìm  thấy  project _ dir  hay  $ project _ dir / makefile
+ Thêm  nguồn
+ Nhóm  mới
+ Đích  mới
+ Chọn  _ đích  đến  cho  các  tập  tin  nguồn  mới :
+ Tập  tin  nguồn :
+ Xác  định  _ nơi  cần  tạo  nhóm :
+ Xác  định  _ nơi  cần  tạo  đích :
+ Tên  _ đích :
+ _ Kiểu  đích :
+ Kiểu  đích
+ Tên  _ nhóm :
+ _ Chọn  tập  tin  cần  thêm ...
+ Dự  án
+ Đối  tượng  «  GbfProject  »  ( dự  án  Gbf )
+ Chưa  nạp  dự  án
+ Không  thể  nạp  tập  tin  glade
+ Không  thể  thêm  nhóm
+ Chưa  chọn  nhóm  cha
+ Không  thể  thêm  đích  đến
+ Chưa  chọn  nhóm
+ Chọn  nguồn ...
+ Không  thể  thêm  tập  tin  nguồn
+ Chưa  chọn  đích  đến
+ Thêm  _ nguồn ...
+ _ Nhóm  mới ..
+ Đích  _ mới ...
+ _ Tập  tin
+ _ Dự  án
+ Mở  dự  án
+ Xem  Thử  dự  án
+ Không  thể  khởi  động  Bonobo  !
+ Xây  dựng  hoàn  tất
+ Thiết  lập  Biên  dịch

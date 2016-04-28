@@ -1,0 +1,71 @@
+ Nguyễn  Đình  Trung   <  nguyendinhtrung141 \ @ gmail \ .com  >  ,  2009
+ _
+ Chọn       Tập    tin       Lưu    một    bản    sao    .
+ sort
+ Bật / tắt  chế  độ  toàn  màn  hình
+ Xem  tài  liệu  dưới  dạng  trình  diễn
+ In  tài  liệu  ra  một  tập  tin  PostScript .
+ Đội  tài  liệu  GNOME
+ Nạp  lại  nội  dung  tài  liệu
+ Nhấn  nút    Lưu  .
+ Để  in  một  tài  liệu ,  chọn       Tập    tin       In    .
+ Tìm  một  từ  hoặc  cụm  từ  trong  tài  liệu
+ Mở  một  tài  liệu  khác
+ Cửa  sổ  chương  trình    Evince   bao  gồm  các  thành  phần  sau  đây :
+ Bộ  xem  tài  liệu  Evince
+ Phạm  vi  in
+ Khi  khởi  động  Evince
+ Giới  thiệu
+ Để  di  chuyển  trong  tài  liệu
+ Dùng  các  thanh  cuộn  của  cửa  sổ .
+ Nhấn  các  phím  mũi  tên  hoặc  phím  cách  trên  bàn  phím .
+ Thu  nhỏ
+ Bằng  mật  khẩu ,  tác  giả  có  thể  đặt  các  mức  bảo  vệ  sau  đối  với  tài  liệu :
+ Để  in  tài  liệu
+ Để  mở  một  tài  liệu
+ Để  mở  một  tài  liệu ,  hãy  thực  hiện  các  bước  sau :
+ Bấm  đúp  chuột  trái  lên  tên  tập  tin  trong  Bộ  quản  lý  tập  tin
+ Làm  việc  với  các  tài  liệu  được  bảo  vệ  bằng  mật  khẩu
+ Mật  khẩu  người  dùng ,  chỉ  cho  phép  người  khác  đọc  tài  liệu .
+ Hướng  trang  in  ra
+ In  tài  liệu
+ Nhấn  tổ  hợp  phím       Ctrl       O    .
+ Lưu  một  bản  sao  của  tài  liệu  hiện  thời
+ Chuyển  đến  trang  trước
+ Chọn  mục  này  để  in  tất  cả  các  trang  của  tài  liệu .
+ Tìm  tiếp
+ Chuyển  đến  trang  kế  tiếp
+ Phóng  to
+ Bạn  có  thể  di  chuyển  đến  vị  trí  bất  kỳ  trong  tài  liệu  bằng  cách  sau :
+ Thanh  công  cụ
+ @ @ image :  ' figures / evince _ start _ window.png ' ;  md5 = 7f4da5e33bcac35738a268d93d497d47
+ Hướng  dẫn  sử  dụng  bộ  xem  tài  liệu  Evince
+ Bộ  xem  tài  liệu  Evince  giúp  bạn  xem  nhiều  định  dạng  tài  liệu  như  Portable  Document  Format  ( PDF )  và  PostScript
+ 2005
+ Nickolay  V.  Shmyrev
+ 2004
+ Sun  Microsystems
+ Dự  án  Tài  liệu  GNOME
+ Được  phép  sao  chép ,  phân  phối  và / hoặc  thay  đổi  tài  liệu  này  theo  những  điều  khoản  của  Giấy  phép  Tài  liệu  Tự  do  GNU  ( GNU  Free  Documentation  License  -  GFDL ) ,  phiên  bản  1.1  hoặc  về  sau ,  được  công  bố  bởi  Free  Software  Foundation  không  kèm  Invariant  Sections ,  không  Front-Cover  Texts  và  không  Back-Cover  Texts .  Bạn  có  thể  lấy  một  bản  sao  của  GFDL  tại    liên   kết   này   hoặc  trong  tập  tin  COPYING-DOCS  phân  phối  kèm  với  tài  liệu  này .
+ Tài  liệu  này  là  một  phần  của  bộ  tài  liệu  GNOME ,  phân  phối  với  GFDL .  Nếu  bạn  muốn  phân  phối  chỉ  riêng  tài  liệu  này ,  bạn  có  thể  làm  thế  bằng  cách  thêm  một  bản  sao  giấy  phép  vào  tài  liệu ,  theo  mô  tả  ở  phần  6  của  giấy  phép .
+ Nhiều  tên  được  dùng  bởi  công  ty  để  phân  biệt  sản  phẩm  và  dịch  vụ  của  họ  là  nhãn  hiệu  thương  mại .  Những  nơi  xuất  hiện  những  tên  này  trong  tài  liệu ,  và  dự  án  tài  liệu  GNOME  biết ,  sẽ  được  viết  hoa  hoặc  chữ  đầu  viết  hoa .
+ Sun
+ Nickolay  V.
+ Shmyrev
+ nshmyrev @ yandex.ru
+ Hướng  dẫn  sử  dụng  Bộ  xem  tài  liệu  Evince  V1.1
+ 2008-04-05
+ Niels  Giesen
+ Claude  Paroz
+ Hướng  dẫn  sử  dụng  Bộ  xem  tài  liệu  Evince  V1.0
+ 2005-04-06
+ Tài  liệu  này  mô  tả  Bộ  xem  tài  liệu  Evince  phiên  bản  0.2
+ Phản  hồi
+ Để  thông  báo  lỗi  hoặc  có  đề  nghị  liên  quan  đến  ứng  dụng  Evince  hoặc  tài  liệu  này ,  vui  lòng  làm  theo  hướng  dẫn  trong    Trang   phản   hồi   GNOME  .
+ evince
+   Bộ   xem   tài   liệu   Evince   giúp  bạn  xem  nhiều  định  dạng  tài  liệu  như  Portable  Document  Format  ( PDF )  và  PostScript .    Evince   được  tích  hợp  với  môi  trường  làm  việc  theo  tiêu  chuẩn  mà  Freedesktop.org  và  dự  án  GNOME  đề  xuất .
+ Tìm  hiểu  Evince
+ Để  khởi  động  Bộ  xem  tài  liệu  Evince
+   Bộ   xem   tài   liệu   Evince   sẽ  tự  động  chạy  mỗi  khi  bạn  mở  một  tài  liệu  dạng  PDF  hoặc  PostScript .
+ Tuy  nhiên ,  bạn  có  thể  mở    Evince   bằng  nhiều  cách  khác ,  như  gõ  lệnh :    evince  .
+ Khi  chạy    Bộ   xem   tài   liệu   Evince  ,  cửa  sổ  sau  sẽ  hiện  lên .

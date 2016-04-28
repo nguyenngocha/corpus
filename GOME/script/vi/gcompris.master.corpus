@@ -1,0 +1,236 @@
+ Đi  tới  hoạt  động  đại  số
+ Nhắp  trái  con  chuột  vào  một  hoạt  động  để  chọn  nó
+ Đi  tới  hoạt  động  Tính  toán
+ Nhiều  hoạt  động  tính  khác  nhau .
+ Khám  phá  Máy  tính
+ Thức  hành  đánh  cờ
+ Đán  cờ  với  máy  tính  trong  chế  độ  học  hiểu .
+ Đi  tới  hoạt  động  màu  sắc
+ Hoạt  động  dựa  vào  màu  sắc .
+ Chơi  với  phần  ngoại  vi  của  máy  tính .
+ Đi  đến  hoạt  động  Tìm  ra
+ Màu  sắc ,  âm  thanh ,  trí  nhớ ...
+ Đi  tới  hoạt  động  đựa  trên  kinh  nghiệm
+ Nhiều  hoạt  động  khác  nhau  dựa  vào  di  chuyển  vật  lý .
+ Hãy  chạy  lệnh  «  gcompris  --experimental  »  ( thực  nghiệm )  để  xem  trình  đơn  này .
+ Đi  tới  hoạt  động  trò  vui
+ Nhiều  hoạt  động  trò  vui
+ Hình  học
+ Hoạt  động  Hình  học .
+ Đi  tới  hoạt  động  Bộ  Ăn  Số
+ Number  Munchers  ( Ăn  con  số )  là  trò  chơi  tính  toán .
+ Bảng  thao  tác  bàn  phím
+ Khám  phá  bàn  phím .
+ Toán  học
+ Hoạt  động  Toán  học .
+ Đi  đến  hoạt  động  Mê  lộ
+ Cháu  hãy  tìm  đường  ra  mê  lộ  kiểu  khác  nhau
+ Đi  đến  hoạt  động  Nhớ
+ Nhiều  hoạt  động  trí  nhớ  ( ảnh ,  chữ ,  âm  thanh ) .
+ Đi  đến  hoạt  động  trí  nhớ  toán  học  đối  với  Thâch-x
+ Hoạt  động  trí  nhớ  dựa  vào  phép  tính
+ Đi  đến  hoạt  động  trí  nhớ  toán  học
+ Trình  đơn  chính  của  GCompris
+ GCompris  là  một  tập  hợp  trò  chơi  giáo  dục  cung  cấp  nhiều  hoạt  động  khác  nhau  cho  trẻ  con  từ  2  tuổi .
+ Mục  đích  của  GCompris  là  cung  cấp  chương  trình  miễn  phí  có  thể  thay  thế  phần  mềm  trò  chơi  mang  tính  giáo  dục  phổ  biến  sở  hữu .
+ Nhấn  vào  biểu  tượng  để  tới  hoạt  động  hoặc  trình  đơn  có  nhiều  hoạt  động .  Tại  đáy  màn  hình  có  thanh  điều  khiển  của  GCompris .  Nó  hiển  thị  những  biểu  tượng  theo  đây ,  từ  bên  trái  sang  bên  phải  ( chỉ  hiển  thị  những  biểu  tượng  sẵn  sàng  trong  hoạt  động  hiện  có ) :   •  Về  —  trở  về  trình  đơn  hoặc  thoát  khỏi  hoạt  động   •  Ngón  tay  cái  —  Được ;  khẳng  định  lời  giải   •  Súc  sắc  —  hiển  thị  lớp  hiện  có ;  nhấn  nó  để  chọn  lớp  khác   •  Miệng  —  nói  lại  câu  hỏi   •  Dấu  hỏi  —  trợ  giúp   •  Công  cụ  —  trình  đơn  cấu  hình   •  Máy  bay  của  Thâch-x  —  giới  thiệu  về  GCompris   •  Đêm  —  thoát  khỏi  GCompris  Những  sao  biểu  thị  hoạt  động  thường  thích  hợp  với  trẻ  con  có  tuổi  này :   1-3  sao  đơn  giản  —  2  đến  6  tuổi   1-3  sao  phức  tạp  —  7 +  tuổi
+ Hoạt  động  lặt  vặt
+ Thời  gian ,  Địa  lý ,  ...
+ Hoạt  động  thao  tác  con  chuột .
+ Nhiều  hoạt  động  con  chuột  khác  nhau  ( nhắp ,  di  chuyển )
+ Phép  đếm
+ Hoạt  động  phép  đếm .
+ Câu  đố
+ Nhiều  câu  đố  khác  nhau .
+ Đi  tới  hoạt  động  Đọc
+ Hoạt  động  Đọc .
+ Thức  hành  đọc  theo  chiều  ngang
+ Quản  trị  GCompris
+ Cuộc  đua  đang  chạy .
+ Đăng  nhập
+ Hoạt  động
+ Trình  đơn  quản  lý  GCompris
+ Nhắp  trái  trên  chuột  để  chọn  hoạt  động
+ Nếu  bạn  muốn  điều  chỉnh  trình  GCompris  một  cách  thích  hợp  với  sự  cần  của  bạn ,  bạn  có  thể  sử  dụng  mô-đun  quản  lý  này .  Mục  đích  cuối  cùng  là  cung  cấp  phiếu  thành  tích  học  tập  đặc  trưng  cho  mỗi  trẻ  con .  Phải  có  khả  năng  này ,  cho  cha  mẹ  và  giáo  viên  theo  dõi  tiến  hành ,  sức  mạnh  và  sự  cần  của  trẻ  con .
+ Mặc  định
+ Ngày
+ Cấp
+ Lớp  phụ
+ Thời  gian
+ Xác  lập
+ Hãy  gán  tất  cả  các  nhóm  thuộc  về  xác  lập  này .
+ Bạn  cần  phải  cung  cấp  ít  nhất  một  tên  cho  xác  lập  này .
+ [ Mặc  định ]
+ Xác  lập  tên  này  đã  có .
+ Hiệu  chỉnh  Người  dung
+ Hiệu  chỉnh  Người  dung 
+ Hiệu  chỉnh  một  người  dùng  mới
+ Đăng  nhập :
+ Tên :
+ Họ  :
+ Ngày  sinh :
+ Bạn  cần  phải  cung  cấp  ít  nhất  tên  đăng  nhập  và  họ  tên  cho  mỗi  người  dùng .
+ Một  người  dùng  có  tên  đăng  nhập  này  đã  có
+ Để  nhập  một  danh  sách  người  dùng  từ  một  tập  tin ,  trước  tiên  bạn  hãy  chọn  lớp  nào .  Dạng  thức  tập  tin :  tập  tin  bạn  phải  có  dạng  thức  này :  tên _ đang _ nhập ; tên ; họ ; ngày _ sinh  Dấu  ngăn  cách  được  phát  hiện  tự  động  và  có  thể  là  một  của :  «  ,  »  «  ;  »  hay  «  :  » .
+ Một  hay  nhiều  thông  tin  đăng  nhập  không  phải  là  duy  nhất .  Bạn  cần  phải  thay  đổi  chúng :  % s .
+ Màu  sắc  cấp  cao
+ Nhắp  vào  màu  đúng
+ Có  thể  đọc
+ Học  thấy  biết  màu  sắc  không  thường .
+ Nhắp  vào  hộp  có  màu  đúng .
+ Điền  vào  chữ  còn  thiệu
+ Thức  hành  phép  tính  nhân
+ Trả  lời  một  số  bài  toán  đại  số
+ Bảng  cửu  chương
+ Cháu  hãy  tính  tích  của  hai  con  số ,  trong  thời  gian  bị  giới  hạn .
+ Cháu  sẽ  thấy  một  bài  toán  nhân  hai  con  số .  Cháu  hãy  nhập  tích  vào  bên  phải  dấu  bằng .  Có  thể  sử  dụng  mũi  tên  đi  phía  trái ,  phía  phải ,  để  sửa  đổi  tích ,  rồi  bấm  phím  Enter  để  kiểm  tra  có  phép  giải  chưa .  Nếu  không ,  chỉ  đơn  giản  thử  lại .  : )
+ Tôi  sẵn  sàng
+ Hãy  tìm  những  phép  tính  đúng  để  được  kết  quả  đã  cho .
+ Hãy  tìm  tổ  hợp  đúng  các  số  và  phép  tính ,  để  được  kết  quả  đã  xác  định .
+ Bốn  phép  tính  toán .  Phối  hợp  vài  phép  tính .
+ Hãy  sử  dụng  chiến  lược  để  sắp  xếp  bộ  toán  tử  để  tính  một  giá  trị  nào  đó .
+ Cháu  hãy  chọn  những  con  số  và  toán  tử  tại  đầu  vùng  bảng  mà  tính  kết  quả  đã  xác  định .  Có  thể  bỏ  chọn  số  nào  hoặc  toán  tử  nào  bằng  cách  nhắp  lại  vào  nó .
+ Tác  giả  Ralf  Schmode  đã  cho  chương  trình  này  quyền  sử  dụng  nhiều  ảnh  của  con  thú  vật  từ  Trang  Chụp  ảnh  con  Thú  vật  ( http : / / schmode.net / )  của  bác  ấy .  Rất  cám  ơn  bác .
+ Hãy  thức  hành  phép  tính  trừ
+ Sự  trừ  đơn  giản
+ Cháu  hãy  tính  hiệu  của  hai  con  số ,  trong  thời  gian  bị  giới  hạn .
+ Cháu  sẽ  thấy  một  bài  toán  trừ  có  hai  con  số .  Cháu  hãy  nhập  hiệu  vào  bên  phải  dấu  bằng .  Có  thể  sử  dụng  mũi  tên  đi  phía  trái ,  phía  phải ,  để  sửa  đổi  tích ,  rồi  bấm  phím  Enter  để  kiểm  tra  có  phép  giải  chưa .  Nếu  không ,  chỉ  đơn  giản  hãy  thử  lại .  : )
+ Hãy  thức  hành  phép  tính  cộng .
+ Sự  cộng  đơn  giản .  Có  thể  thấy  biết  con  số  đã  viết .
+ Cháu  hãy  tính  tổng  của  hai  con  số ,  trong  thời  gian  bị  giới  hạn .  Giới  thiệu  sự  cộng  nội  tuyến  đơn  giản .
+ Cháu  sẽ  thấy  một  bài  toán  cộng  hai  con  số .  Cháu  hãy  nhập  tổng  vào  bên  phải  dấu  bằng .  Có  thể  sử  dụng  mũi  tên  đi  phía  trái ,  phía  phải ,  để  sửa  đổi  tích ,  rồi  bấm  phím  Enter  để  kiểm  tra  có  phép  giải  chưa .  Nếu  không ,  chỉ  đơn  giản  hãy  thử  lại .  : )
+ thuật  toán
+ Hãy  hoàn  thành  danh  sách  ký  hiệu .
+ Di  chuyển  con  chuột  và  nhắp  nút
+ Hoạt  động  dạy  hợp  lý
+ Tìm  thứ  kế  tiếp  trong  danh  sách  ký  hiệu .
+ Thao  tác  con  chuột
+ Dùng  chữ  nhật
+ Dùng  hình  tròn
+ bông  hoa
+ Tạo  bản  vẽ  hoặc  hoạt  cảnh
+ Công  cụ  vẽ  và  hoạt  cảnh  tự  do .
+ Cần  phải  có  khả  năng  di  chuyển  và  nhắp  con  chuột  một  cách  dễ  dàng
+ Trong  trò  chơi  này ,  trẻ  con  có  thể  vẽ  tự  do .  Mục  đích  là  tìm  biết  cách  tạo  bản  vẽ  đẹp  dựa  vào  hình  cơ  bản :  chữ  nhật ,  bầu  dục  và  dòng .  Có  thể  gồm  bộ  ảnh  để  làm  cho  trẻ  con  có  vui  hơn .  : )
+ Cháu  hãy  chọn  công  cụ  vẽ  bên  trái ,  và  màu  tại  đáy .  Nhắp  và  kéo  vào  vùng  trắng  để  tạo  hình  mới .  Một  khi  đã  tạo  xong  hình ,  có  thể  chụp  ảnh  nó  dùng  cái  nút  «  máy  chụp  ảnh  » .  Việc  này  có  tạo  bản  sao  ảnh  đó .  Cháu  cũng  có  thể  sửa  đổi  ảnh  này  bằng  cách  di  chuyển  hoặc  thêm / xóa  bỏ  đối  tượng .  Nếu  cháu  tạo  vài  bản  vẽ  rồi  nhắp  vào  nút  «  phím  » ,  lúc  ấy  cháu  sẽ  thấy  các  ảnh  đó  đi  liên  tục  trên  mặt  ( mẫu  vòng  lặp  vô  hạn ) .  Trong  chế  độ  này ,  cũng  có  thể  giảm  /  tăng  tốc  độ  xem .  Trong  chế  độ  xem ,  chỉ  hãy  nhắp  vào  nút  «  vẽ  »  để  trở  về  chế  độ  vẽ .  Cháu  có  thể  sửa  đổi  mỗi  ảnh  trong  hoạt  cảnh ,  bằng  cách  sử  dụng  bộ  chọn  ảnh  bên  trái ,  góc  dưới .  Cũng  có  thể  lưu  và  tải  lại  hoạt  cảnh ,  bằng  nút  «  đĩa  »  và  «  thư  mục  »  riêng  từng  cái .
+ Chọn  một  nhà
+ Oware
+ Chơi  trò  chơi  chiến  lược  Oware  với  Thâ-kh-x
+ Mục  tiêu  của  trò  chơi  là  bắt  nhiều  hạt  hơn  đối  thủ .  Vì  trò  chơi  có  chỉ  48  hạt ,  bắt  25  hạt  là  đủ  để  thắng .  Vì  có  số  hạt  chẵn ,  trò  chơi  có  thể  kết  thúc  với  trận  đấu  hoà ,  mà  mỗi  người  chơi  đã  bắt  24  hạt .  Trò  chơi  xong  khi  một  người  chơi  đã  bắt  hơn  24  hạt ,  hoặc  khi  cả  hai  người  chơi  đã  bắt  24  hạt  ( trận  đấu  hoà ) .  Nếu  cả  hai  người  chơi  đồng  ý  là  trò  chơi  đã  trở  thành  một  chu  kỳ  vô  cuối ,  vậy  mỗi  người  chơi  bắt  các  hạt  trong  bên  bảng  mình .
+ Tại  đầu  lượt  chơi ,  bốn  hạt  được  để  vào  mỗi  cái  nhà .  Người  chơi  di  chuyển  hạt  lần  lượt .  Trong  mỗi  lần ,  người  chơi  chọn  một  của  sấu  nhà  mà  cháu  ấy  điều  khiển .  Sau  đó ,  cháu  gỡ  bỏ  tất  cả  các  hạt  ra  nhà  này ,  và  phân  phối  hết ,  thả  một  hạt  vào  mỗi  nhà  theo  ngược  chiều  từ  nhà  này ,  trong  tiến  trình  được  gọi  là  gieo .  Không  thể  phân  phối  hạt  vào  nhà  điểm  cuối ,  hoặc  vào  nhà  nơi  đã  lấy  hạt .  Tức  là ,  nhà  đầu  còn  lại  rỗng ;  nếu  nó  đã  chứa  12  hạt ,  nó  bị  nhảy  luôn ,  và  hạt  thứ  mười  hai  được  để  vào  nhà  kế  tiếp .  Sau  một  lần  chơi ,  nếu  hạt  cuối  cùng  được  để  vào  một  nhà  của  đối  thủ  mà  làm  điểm  tổng  là  2  hay  3  thì  mọi  hạt  trong  nhà  đó  bị  bắt  và  được  để  vào  nhà  điểm  của  người  đang  chơi  ( hoặc  để  sang  một  bên  nếu  bảng  không  có  nhà  điểm  nào ) .  Nếu  hạt  áp  chót  cũng  đã  làm  cho  nhà  đối  thủ  có  điểm  2  hay  3 ,  các  hạt  này  cũng  bị  bắt  v.v.  Tuy  nhiên ,  nếu  một  lần  chơi  sẽ  bắt  mọi  hạt  của  đối  thủ ,  việc  bắt  bị  hủy  và  các  hạt  đó  còn  lại  trên  bảng ,  vì  việc  đó  sẽ  ngăn  cản  đối  thủ  tiếp  tục  chơi .  Quy  tắc  không  cho  phép  bắt  mọi  hạt  của  đối  thủ  liên  quan  đến  một  ý  kiến  chung  hơn ,  mà  người  chơi  nên  chọn  cho  phép  đối  thủ  tiếp  tục  chơi .  Nếu  các  nhà  của  đối  thủ  là  rỗng ,  người  đang  chơi  phải  chọn  di  một  cách  đưa  ra  hạt  cho  đối  thủ .  Nếu  không  thể  làm  như  thế ,  người  đang  chơi  sẽ  bắt  mọi  hạt  trong  miền  mình ,  mà  kết  thúc  lượt  chơi  đó .  ( Nguồn :  Wikipedia   &  lt ; http : / / en.wikipedia.org / wiki / Owaregt ; )
+ Mục  khớp
+ Kéo  và  Thả  mục  để  làm  cho  khớp .
+ Điều  hợp  vận  động .  Khớp  khái  niệm .
+ Thao  tác  con  chuột :  di  chuyển ,  kéo  và  thả .  Tham  chiếu  đến  văn  hóa .
+ Trong  vùng  bảng  chính ,  cháu  có  thể  thấy  một  bộ  đối  tượng .  Trong  hộp  dọc  ( bên  trái  bảng  chính )  có  một  bộ  đối  tượng  khác ,  mỗi  mục  khớp  chính  xác  một  đối  tượng  trên  bảng  chính .  Cháu  hãy  tìm  liên  kết  hợp  lý  giữa  mỗi  đôi  đối  tượng .  Các  đối  tượng  kết  hợp  bằng  cách  nào ?  Kéo  mỗi  đối  tượng  vào  hộp  đỏ  đúng  trong  vùng  chính .
+ Hoàn  thành  câu  đố
+ Hãy  kéo  và  thả  hình  vào  đích  tương  ứng .
+ Điều  khiển  giỏi  con  chuột
+ André  Connes  đã  cung  cấp  con  chó  này  với  điều  kiến  của  Quyền  Công  Chung  GNU  ( GPL ) .
+ Cháu  hãy  tạo  câu  đố  hoàn  tất  bằng  cách  kéo  mỗi  mảnh  từ  bộ  mảnh  bên  trái ,  sang  vùng  khớp  trong  câu  đố .
+ Chào  bạn !  Tên  tôi  là  Lộc .  : )
+ Khóa  trên  cỏ .
+ Lộc  với  hình  có  màu .
+ Vincent  Van  Gogh ,  Đường  làng  ở  Auvers  —  1890
+ Cháu  có  thể  bấm  đôi  phím  Shift  đồng  thời  để  đá  bóng  một  cách  thẳng .
+ Đá  bóng  tới  Thâch-x
+ trò  chơi  thanh
+ Đừng  đá  bóng  cuối  cùng
+ Trí  óc
+ Hãy  đá  các  bóng  vào  lỗ .  Cháu  thắng  nếu  máy  tính  phải  để  bóng  cuối  cùng .  Nếu  cháu  muốn  Thâch-x  đi  trước ,  chỉ  hãy  nhắp  vào  ta .
+ Di  chuyển  con  chuột
+ Trò  chơi  bóng  đá
+ Đá  bóng  vào  khung  thành  gồm .
+ Trỏ  và  nhắp  chuột  vào  bóng  để  đặt  tốc  độ  và  phía  hướng  của  nó .  Càng  gần  hơn  trung  tâm  bạn  nhắp ,  càng  chậm  hơn  bóng  đi .
+ Đá  bóng  vào  lỗ  đen  bên  phải .
+ Xác  lập : 
+ Số
+ Đoán  số
+ đỏ
+ Thao  tác  cửa  cổng  của  sông  đào
+ Thâch-x  gặp  khó  khăn ,  ta  cần  hướng  dẫn  tàu  qua  cửa  cổng .  Cháu  hãy  giúp  đỡ  Thâch-x  nhé :  học  hiểu  cửa  cổng  hoạt  động  như  thế  nào .
+ Cháu  có  phụ  trách  cửa  cổng  sông  đào .  Hãy  mở  các  cửa  và  cửa  cổng  theo  thứ  tự  đúng ,  thì  Thâch-x  có  thể  dụ  lịch  qua  về  cả  hai  hướng .
+ Màu  sắc
+ Học  đánh  cờ
+ Cơ  chế  đánh  cờ  thuộc  về  trình  gnuchess .
+ Dạy  cháu  đánh  cờ .  Bắt  các  con  tốt  của  máy  tính  nhé .
+ Đánh  cờ  xong  với  máy  tính .
+ Chronos
+ Kéo  và  Thả  mục  để  kết  hợp  chuyện .
+ Hãy  chọn  ảnh  bên  trái  rồi  để  nó  trên  chấm  đỏ .
+ Sắp  xếp  các  ảnh  để  theo  thứ  tự  kể  câu  chuyện .
+ Kể  một  câu  chuyện  ngắn .
+ Chụp  ảnh  mặt  trăng  là  ©  bản  quyền  của  NASA .  Âm  thanh  du  hành  vũ  trụ  của  Tuxpaint  và  Vegastrike ,  mà  được  phát  hành  với  điều  kiện  của  Quyền  Công  Chung  GNU  ( GPL ) .  Những  ảnh  truyền  là  ©  bản  quyền  của  Frank  Doucet .  Ngày  truyền  đựa  vào  thông  tin  trong   <  http \ : \ / www \ .wikipedia \ .org  >  .
+ Đi  bộ  trên  mặt  trăng
+ Cả  bốn  Mùa
+ Mùa  Xuân
+ Mùa  Hè
+ Mùa  Thu
+ Mùa  Đông
+ Làm  vườn
+ Thâch-x  và  cây  trái  táo
+ Sự  chuyên  chở
+ Cháu  hãy  sắp  xếp  các  ảnh  theo  thứ  tự  ngày  phát  minh .  Chưa  chắc  thì  hãy  tra  tìm  trong  bách  khoa  Wikipedia  tại  «  http : / / www.wikipedia.org  » .  ; )
+ Pha-đi-ê  của  Cugnot  trong  năm  1769
+ Đầu  máy  Hơi  nước  Tên  lửa  của  Stephenson  trong  năm  1829
+ Khí  cầu  khí  nóng  của  anh  em  Montgolfier  trong  năm  1783
+ Ê-ô-lê  của  Clement  Ader  trong  năm  1880
+ Chuyến  bay  gốc  của  máy  bay  trư ̣ c  thăng  :  Paul  Cornu  trong  năm  1906
+ Xe-le-ri-phe  của  Comte  de  Sivrac  trong  năm  1791
+ Hành  không
+ Flyer  3  của  anh  em  Wright  trong  năm  1903
+ Louis  Bleriot  qua  Kênh  Anh  trong  năm  1909 .
+ Chuck  Yeager  vượt  qua  hàng  rào  âm  thanh  trong  năm  1947 .
+ Charles  Lindbergh  qua  Đại  Tây  Dương  trong  năm  1927 .
+ Hélène  Boucher  đặt  kỷ  lục  tốc  độ  thế  giới  là  444  cây  số  /  giờ .
+ Chiếc  xe
+ «  La  Mancelle  »  của  Léon  Bollé  trong  năm  1878 .
+ Benz  xây  dựng  chiếc  xe  gốc  chạy  bằng  dầu  xăng  thứ  nhất  trong  năm  1885 .
+ Xe
+ «  Voiturette  »  của  Renault  trong  năm  1899 .
+ Lambda  của  Lancia ,  năm  1923 .
+ Citroën  ds  199 ,  năm  1955 .
+ Nhấn  và  vẽ
+ Vẽ  hình  bằng  cách  nhấn  vào  mỗi  điểm  xanh .
+ Vẽ  hình  bằng  cách  nhấn  vào  mỗi  điểm  xanh  theo  thứ  tự .
+ Nhắp  vào  tôi
+ Nhắp-trái  chuột  vào  mỗi  con  cá  đang  bơi ,  trước  khi  nó  rời  thùng .
+ Phối  hợp  vận  động :  di  chuyển  và  nhắp  con  chuột .
+ Cháu  hãy  nhắp  nút  chuột  trái  vào  cá  đang  bơi .
+ Nhắp  vào  chữ
+ Nghe  chữ  rồi  nhắp  vào  nó
+ Thấy  biết  hình  các  chữ ;  có  thể  di  chuyển  con  chuột .
+ Thấy  biết  tên  các  chữ
+ Trình  này  nói  một  tên  chữ ,  rồi  cháu  hãy  nhắp  vào  chữ  đó  trong  vùng  chính .  Có  thể  nghe  lại  chữ  đó  vào  bất  cứ  lúc  nào ,  bằng  cách  nhắp  vào  biểu  tượng  miệng  nói ,  trong  hộp  dưới .
+ Đồng  hồ  Học
+ Học  biết  chỉ  giờ  nhé
+ Ý  niệm  giờ .  Đọc  giờ .
+ Phân  biệt  sự  khác  giữa  đơn  vị  thời  gian  giờ ,  phút  và  giây .  Lập  và  hiển  thị  giờ  trên  đồng  hồ .
+ Lập  đồng  hồ  thành  giờ  đã  cho ,  trong  đơn  vị  thời  gian  đã  hiển  thị  ( giờ : phút  hay  giờ : phút : giây ) .  Hãy  nhắp  vào  mũi  tên  khác ,  và  di  chuyển  con  chuột ,  để  làm  cho  số  tăng  hay  giảm .
+ đỏ  tươi
+ Quá  thấp
+ Có  thể  di  chuyển  con  chuột .
+ Bảng  này  dạy  cháu  thấy  biết  màu  sắc  khác  nhau .  Khi  cháu  nghe  được  tên  màu ,  hãy  nhắp  vào  con  vịt  mang  nó .
+ Khi  cháu  nghe  tên  màu ,  hãy  nhắp  vào  con  vịt  khớp .
+ Kết  nối  4  ( 2  người  chơi )
+ Xếp  bốn  cái  tiền  theo  hàng
+ Mã  nguồn  gốc  đã  được  ghi  trong  năm  2005  bởi  Laurent  Lacheny .  Trong  năm  2006 ,  Miguel  de  Izarra  đã  tạo  cuộc  chơi  cho  hai  người .  Các  ảnh  và  khả  năng  trí  tuệ  thuộc  về  dự  án  4stattack  của  Jeroen  Vloothuis .  Dự  án  gốc  nằm  ở   &  lt ; http : / / forcedattack.sourceforge.netgt ;
+ Kết  nối  Bốn  Cái
+ Laurent  Lacheny .  Các  ảnh  và  trí  khôn  nhân  tạo  thuộc  về  dự  án  4stattack  của  Jeroen  Vloothuis .  Có  thể  tìm  thấy  dự  án  gốc  tại   <  http \ : \ / \ / forcedattack \ .sourceforge \ .net  >  .
+ Xây  dựng  cùng  một  mô  hình
+ Xâu  dụng  một  cân  trục  tùy  theo  mô  hình
+ Phối  hợp  vận  động
+ Di  chuyển  những  mục  trong  khung  bên  trái ,  gốc  dưới ,  để  theo  vị  trí  nó  trong  mô  hình  bên  phải ,  gốc  trên .  Trên  cần  trục  chính  nó ,  cháu  sẽ  tìm  bốn  mũi  tên  cho  phép  di  chuyển  mục .  Để  chọn  mục  cần  di  chuyển ,  đơn  giản  hãy  nhắp  vào  nó .
+ Bảng  kế  toán  kép
+ Kéo  và  Thả  mục  vào  bảng  kế  toán  kép
+ Kỹ  năng  đếm  cơ  bản
+ Cháu  hãy  di  chuyển  mỗi  mục  bên  trái  sang  vị  trí  đúng  trong  bảng  kế  toán  kép .
+ Kéo  và  Thả  mục  vào  đích  thích  hợp .
+ Nhắp  vào  mỗi  mục  và  lắng  nghe  vị  trí  đích  của  nó
+ Công  cụ  vé  véc-tơ  đơn  giản
+ Bảng  sáng  tạo  nơi  cháu  có  thể  vẽ  một  cách  tự  do
+ Trong  trò  chơi  này ,  trẻ  con  có  thể  vẽ  một  cách  tự  do .  Mục  đích  là  chỉ  khám  phá  cách  tạo  bản  vẽ  đẹp  dựa  vào  hình  cơ  bản :  chữ  nhật ,  bầu  dục  và  đường .
+ Cháu  hãy  chọn  công  cụ  vẽ  bên  trái ,  chọn  màu  bên  dưới ,  rồi  nhắp  và  kéo  trong  vùng  trắng  để  tạo  một  hình  mới .  Để  tiết  kiệm  thời  gian ,  cháu  có  thể  nhắp  nút  giữa  trên  chuột  để  xóa  bỏ  đối  tượng  nào .
+ Vẽ  số
+ Không  tìm  thấy  bộ  mô  phỏng  điện  «  gnucap  » .  Cháu  có  thể  tải  nó  xuống :
+PhiÃªn báº£n: %sQuyá»n: GPLThÃ´ng tin thÃªm táº¡i //gcompris.net/>

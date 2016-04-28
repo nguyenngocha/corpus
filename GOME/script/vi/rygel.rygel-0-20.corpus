@@ -1,0 +1,128 @@
+ Tuỳ  chỉnh  Rygel
+ Chia  _ sẻ  đa  phương  tiện  qua  DLNA
+ _ Mạng
+ Chọn  thư  mục
+ Tuỳ  thích  UPnP / DLNA
+ Rygel
+ Dịch  vụ  UPnP / DLNA
+ Loại  không  hỗ  trợ  % s
+ Lỗi  hoàn  nguyên  giao  dịch :  % s
+ ' % s '  đã  quét
+ Lỗi  lấy  đối  tượng  ' % s '  từ  cơ  sở  dữ  liệu :  % s
+ Lỗi  tìm  trong  ' % s ' :  % s
+ Lỗi  loại  đối  tượng  khỏi  cơ  sở  dữ  liệu :  % s
+ Lỗi  mở  cơ  sở  dữ  liệu :  % d  ( % s )
+ Lỗi  loại  mục :  % s
+ Lỗi  lấy  thông  tin  tập  tin  cho  % s
+ Lỗi  thêm  mục  với  ID  % s :  % s
+ Lỗi  tạo  hộp  thoại  tuỳ  thích :  % s
+ Lỗi  truy  vấn  loại  cho  ' % s '
+ Tất  cả
+ Lỗi  tạo  mục  ở  ' % s ' :  % s
+ Không  hỗ  trợ  tốc  độ  phát
+ Năm
+ Nghệ  sĩ
+ Album
+ Thể  loại
+ Vật  chứa  của  @ REALNAME @
+ Nhạc
+ Hình
+ Video
+ Bộ  phát  GStreamer
+ Lỗi  xây  dựng  URI  cho  thư  mục  ' % s ' :  % s
+ Không  hỗ  trợ  chế  độ  di  chuyển
+ Lỗi  lấy  mọi  giá  trị  của  ' % s ' :  % s
+ Lỗi  khởi  động  dịch  vụ  Tracker :  % s .  Đã  tắt  phần  bổ  sung  này .
+ Lỗi  đếm  số  phần  tử  trong  phân  loại  ' % s ' :  % s
+ Tựa  đề
+ Đối  số  không  hợp  lệ
+ Tùy  chỉnh  kết  nối  không  hợp  lệ
+ Lỗi  ghi  thay  đổi  mô  tả  vào  % s
+ Lỗi  lấy  mức  log  từ  cấu  hình :  % s
+ Không  có  giá  trịenabled
+ Chưa  đặt  giá  trị  cho  ' % s / enabled 'title
+ Chưa  đặt  giá  trị  cho  ' % s / enabled '
+ Không  có  giá  trị  cho  ' % s / % s '
+ Có  phần  bổ  sung  mới  ' % s '
+ Lỗi  nạp  module  từ  đường  dẫn  ' % s ' :  % s
+ Lỗi  tìm  hàm  vào  ' % s '  trong  ' % s ' :  % s
+ Lỗi  hiện  nội  dung  thư  mục  ' % s ' :  % s
+ InstanceID  không  hợp  lệ
+ Không  có  chuyển  tiếp
+ Tên  không  hợp  lệ
+ Hành  động  thất  bại
+ Lỗi  duyệt  ' % s ' :  % s
+ Không  áp  dụng
+ Không  có  tập  tin  truyền  tải
+ Không  có  ảnh  mẫu
+ Khoảng  không  hợp  lệ  ' % s '
+ Yêu  cầu  không  hợp  lệ
+ Không  tìm  thấy
+ URI  không  hợp  lệ  ' % s '
+ Lỗi  dịch  chuyển  đến  vị  trí  % lld
+ Không  cho  phép  đẩy  dữ  liệu  đến  mục  không-rỗng  ' % s '
+ Không  có  URI  ghi  được  cho  % s .
+ Không  tìm  thấy  mục  yêu  cầu  ' % s '
+ Lỗi  lấy  URI  gốc  cho  ' % s ' :  % s
+ URI  ' % s '  không  hợp  lệ  để  nhập  nội  dung
+ Đã  huỷ  thành  công  đối  tượng  ' % s '
+ Lỗi  huỷ  đối  tượng  ' % s ' :  % s
+ Không  có  đối  tượng
+ Không  cho  phép  loại  bỏ  đối  tượng  % s
+ Không  cho  phép  loại  đối  tượng  % s
+ URI  xấu :  % s
+ Lỗi  dò  giao  thức  cho  URI  % s .  Đang  giả  định  ' % s '
+ Thiếu  đối  số  cho  ' yếu  tố ' .
+ Không  cho  phép  ghi  chú  trong  XML
+ Không  có  gì  trong  DIDL-Lite  từ  máy  khách :  ' % s '
+ Không  cho  phép  tạo  đối  tượng  % s
+ Không  có  phụ  đề
+ Không  có  bộ  tạo  ảnh  mẫu :  % s
+ Không  có  bộ  chuyển  đổi  cho  dạng  thức  cuối  ' % s '
+ Lỗi  gắn  % s  vào  % s
+ Lỗi  gắn  miếng  đệm  % s  vào  % s
+ Lỗi  từ  ống  % s :  % s
+ Cảnh  báo  từ  ống  % s :  % s
+ Thiếu  thành  phần  bắt  buộc  % s
+ _ Giao  tiếp
+ Phần  bổ  sung
+ Lỗi  nạp  cấu  hình  người  dùng :  % s
+ Lỗi  dừng  dịch  vụ  Rygel :  % s
+ Lỗi  tạo  bộ  tạo  thiết  bị  gốc :  % s
+ Lỗi  tạo  RootDevice  cho  % s .  Nguyên  nhân :  % s
+ Không  có  giá  trị  cho  ' % s '
+ Giá  trị  ' % s '  ngoài  mức  cho  phép
+ Lỗi  lưu  dữ  liệu  cấu  hình  vào  tập  tin  ' % s ' :  % s
+ Lỗi  bắt  đầu  dịch  vụ  Rygel :  % s
+ Đối  tượng  % s  không  phải  là  một  mục
+ Lỗi  gắn  với  tuyến  phiên  làm  việc  D-Bus :  % s
+ Không  có  bộ  trích  thông  tin .  Sẽ  không  quét .
+ Lỗi  loại  bỏ  URI :  % s
+ Lỗi  tạo  dịch  vụ  D-Bus  MediaExport :  % s
+ Lỗi  tạo  uỷ  nhiệm  D-Bus :  % s
+ Lỗi  kết  nối  với  tuyến  phiên  làm  việc :  % s
+ Di  chuyển  thất  bại
+ Lỗi  khởi  động  dịch  vụ  D-Bus :  % s
+ Không  tìm  thấy  nút  XML  ' % s ' .
+ Lỗi  tìm  thư  mục  ảnh  mẫu .
+ Lỗi  ghi  thay  đổi  mô  tả  vào  % s .
+ Chung
+ MPE _ G  TS
+ Chia  sẻ  _ hình
+ Chia  sẻ  _ phim
+ _ Tên
+ Tê _ n
+ Ghi  % u  cho  tên  người  dùng ,  % n  cho  tên  thật  và  % h  cho  tên  máy
+ _ Bật  UPnP / DLNA
+ _ LPCM
+ _ MP3
+ _ Xuất  vật  chứa
+ _ Cổng
+ _ Hỗ  trợ  chuyển  đổi
+ _ URIs
+ Mục  ' % s '  không  cung  cấp  URI
+ Thiếu  phần  bổ  sung  ' fakesink '
+ Lỗi  đọc  từ  URI :  % s :  % s
+ Lỗi  di  chuyễn  đến  % s- % s  trên  URI  % s :  % s
+ Lỗi  đọc  nội  dung  từ  URI :  % s :  % s
+ Lỗi  đóng  luồng  từ  URI  % s :  % s

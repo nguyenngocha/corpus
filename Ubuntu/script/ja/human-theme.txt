@@ -1,0 +1,3 @@
+ Ubuntu  デフォルトのテーマ
+ Human-Clearlooks
+ DarkRoom

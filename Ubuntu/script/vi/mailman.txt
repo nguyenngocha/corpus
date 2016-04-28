@@ -1,0 +1,125 @@
+ kích  cỡ  không  sẵn  sàng
+ % ( size ) i  byte 
+ tại 
+ Thư  trước :
+ Thư  kế  tiếp :
+ nhánh
+ chủ  đề
+ tác  giả
+ ngày
+   HIện   thời   không   có   kho  . 
+ Không  có  hộp  thư  chung    %  (  safelistname  )  s   như  vậy .
+ ( which ) s  sẵn  sàng  chỉ  cho  quản  trị  hộp  thư  thôi .)
+A
+ mdash; Khả năng phát bị tắt bởi người dùng\ttrong trang tùy chọn riêng của họ.                
+ mdash; Khả năng phát bị tắt bởi\tquản trị hộp thư chung.                
+ mdash; Khả năng bị tắt bởi hệ thống vì quá nhiều thư\tbị nảy về từ địa chỉ của thành viên này.                
+ mdash; Chưa biết lý do phát bị tắt.                    Trường hợp này áp dụng cho mọi tư cách thành viên\tbị tắt trong phiên bản Mail man cũ.             mdash; ChÆ°a biáº¿t lÃ½ do phÃ¡t bá» táº¯t.                    TrÆ°á»ng há»£p nÃ y Ã¡p dá»¥ng cho má»i tÆ° cÃ¡ch thÃ nh viÃªn\tbá» táº¯t trong phiÃªn báº£n Mail man cÅ©.            
+\thiển thị trợ giúp này.
+\tLấy thông tin về hộp thư chung này.
+\tXem danh sách các hộp thư chung công trên máy Mailman GNU này.
+        Hiển thị trợ giúp chi tiết này.
+    set help        Hiá»n thá» trá»£ giÃºp chi tiáº¿t nÃ y.
+    set ack off\tKhi tÃ¹y chá»n Â« ack Â» (ghi nháº­n) ÄÆ°á»£c báº­t (báº­t/táº¯t lÃ  on/off),\tbáº¡n sáº½ nháº­n má»t thÆ° bÃ¡o nháº­n\tkhi nÃ o báº¡n gá»i thÆ° cho há»p thÆ° chung nÃ y.    set digest plain    set digest mime    set digest off\tKhi tÃ¹y chá»n gá»i bÃ³ thÆ° (digest) ÄÃ£ bá» táº¯t (báº­t/táº¯t lÃ  on/off),\tbáº¡n sáº½ nháº­n má»i thÆ° ngay sau khi gá»i.\tHÃ£y dÃ¹ng Â« set digest plain Â» (Äáº·t bÃ³ thÆ° thÃ´)\tnáº¿u báº¡n muá»n nháº­n bÃ³ thÆ° Â« nháº­p thÃ´ Â» (tá»©c lÃ  digest RFC 1153).\tCÃ²n dÃ¹ng Â« set digest MIME Â» (Äáº·t bÃ³ thÆ° MIME)\tnáº¿u báº¡n muá»n nháº­n bÃ³ thÆ° kiá»u MIME.
+    set delivery off\tBáº­t/táº¯t kháº£ nÄng phÃ¡t thÆ°. Viá»c nÃ y khÃ´ng pháº£i bá» ÄÄng kÃ½ báº¡n,\tnhÆ°ng cÃ³ pháº£i bÃ¡o pháº§n má»m Mailman táº¡m thá»i khÃ´ng phÃ¡t thÆ° cho báº¡n.\tCÃ³ ich khi báº¡n Äi nghá». Tuy nhiÃªn, cáº§n pháº£i nhá» Äáº·t Â« set delivery on Â»\t(báº­t kháº£ nÄng phÃ¡t thÆ°) láº¡i khi báº¡n trá» vá». ;)
+    set myposts off\tDÃ¹ng lá»nh Â« set myposts off Â» (táº¯t cÃ¡c thÆ° mÃ¬nh)\tÄá» khÃ´ng nháº­n báº£n sao cá»§a thÆ° ÄÃ£ tá»± gá»i cho há»p thÆ° nÃ y.\tKhÃ´ng cÃ³ tÃ¡c Äá»ng náº¿u báº¡n ÄÃ£ chá»n nháº­n bÃ³ thÆ°.
+    set hide off\tDÃ¹ng lá»nh Â« set hide on Â» (báº­t áº©n) Äá» áº©n Äá»a chá» thÆ° Äiá»n tá»­ cá»§a báº¡n\tkhi ngÆ°á»i khÃ¡c yÃªu cáº§u xem danh sÃ¡ch cÃ¡c thÃ nh viÃªn.
+    set duplicates off\tDÃ¹ng lá»nh Â« set duplicates off Â» (táº¯t báº£n sao) náº¿u báº¡n muá»n bÃ¡o\tpháº§n má»m Mailman khÃ´ng gá»i cho báº¡n thÆ° cÃ³ Äá»a chá» thÆ° báº¡n\ttrong trÆ°á»ng To: (Cho :) hoáº·c Cc: (ChÃ©p Cho :). Lá»nh nÃ y cÃ³ thá» giáº£m\tsá» nhÃ¢n ÄÃ´i thÆ° báº¡n sáº½ nháº­n.
+    set reminders off\tDÃ¹ng lá»nh Â« set reminders off Â» (táº¯t lá»i nháº¯c nhá») náº¿u báº¡n muá»n táº¯t\tthÆ° nháº¯c nhá» máº­t kháº©u cho há»p thÆ° chung nÃ y.
+        Xem các thành viên không ẩn của hộp thư chung này    who mật_khẩu        Xem mọi người dùng hộp thư chung này.\tMật khẩu là mật khẩu của quản trị hay\tđiều hợp viên của hộp thư chung.
+ mdash; 
+ / alternative (đa phần, xen kẽ)sẽ được thay thế bằng chỉ điều xen kẽ thứ nhất không rỗng sau khi lọcnếu 
+ _ alternativesđược bật.
+ / plain (nhập thô)nếu 
+ (ảnh).
+Thô
+ : dứt khoát.
+ : phải không?
+ chứa mã HTML bất thườngcó thể cho phép người khác tấn công các người dùngbằng văn lệnh đa địa chỉ. Thay đổi này thì bị từ chối.Nếu bạn vẫn còn muốn làm các thay đổi này,bạn phải có khả năng truy cập qua trình baođến máy phục vụ Mailman của bạn.Thay đổi này có thể làm với « bin/withlist » hay « bin/config_list »bằng cách đặt « mlist.info ».                        
+ _ optionsurl mdash; địa chỉ URL của trang tùy chọncủa người dùng.                  mdash; Äá»a chá» URL cá»§a trang tÃ¹y chá»ncá»§a ngÆ°á»i dÃ¹ng.                 
+ : vào đầu mọi thư được gởi cho nhóm tin qua cổng ra không?
+ Ghi  chú  rằng  đây  là  hộp  thư  cái  ô ,  có  các  thành  viên   chỉ  là  hộp  thư  chung  khác .  Trong  một  số  lý  do  khác ,   có  nghĩa  là  yêu  cầu  xác  nhận  của  bạn  sẽ  được  gởi   cho  tài  khoản  «  % ( sfx ) s  »  cho  địa  chỉ  bạn .
+ lt ;  center   gt ;  
+\tKhông in ra giới hạn thông điệp « giúp đỡ ». (_im_)
+\tTrÆ°á»c háº¿t xoÃ¡ bá» kho gá»c, trÆ°á»c khi táº¡o ra láº¡i. Báº¡n thÆ°á»ng muá»nghi rÃµ Äá»i sá» nÃ y náº¿u báº¡n khÃ´ng táº¡o ra kho tá»«ng pháº§n.
+    --start=N\tBáº¯t Äáº§u viá»c chá» má»¥c táº¡i bÃ i thÆ° N, mÃ  bÃ i thÆ° 0 lÃ  thÆ° Äáº§u tiÃªntrong há»p thÆ° mbox ÄÃ³. Máº·c Äá»nh lÃ  0.
+    --end=M\tKáº¿t thÃºc viá»c chá» má»¥c táº¡i bÃ i thÆ° M. Táº­p lá»nh nÃ y khÃ´ng cÃ³ hiá»u lá»±c nhiá»utÆ°Æ¡ng á»©ng vá»i sá»± quáº£n lÃ½ bá» nhá», vÃ  cÃ³ láº½ khÃ´ng thá» chá» má»¥c hoÃ n toÃ nhá»p thÆ° mbox trong kho lá»n. VÃ¬ lÃ½ do ÄÃ³, báº¡n cÃ³ kháº£ nÄng ghi rÃµ sá» báº¥t Äáº§uvÃ  káº¿t thÃºc.
+\tTùy chọn này chỉ hoạt động cùng với tùy chọn « -r ». Hãy sử dụng điều nàynếu bạn muốn thực hiện tập lệnh trên _mọi_ hộp thư chung. Khi bạn sử dụng « -a »,bạn nên không gồm đối số tên hộp thư chung trên dòng lệnh. Biến « r » sẽ làdanh sách các kết quả.
+\tThu hồi thông điệp trạng thái nào. (_im_)
+\tIn ra _trợ giúp_ này rồi thoát.
+    config.pck.last    config.db    config.db.last    config.safety
+\tXuất chi tiết. Tính trạng của mọi tập tin đã kiểm tra có được in.Nếu không, có hiển thị chỉ tập tin bị hỏng thôi.
+        KhÃ´ng tháº­t xuáº¥t gÃ¬ (_cháº¡y thá»±c hÃ nh_).
+        In ra _trợ giúp_ này rồi thoát.
+    -r\t_Gá»¡ bá»_ Äá»a chá» cÅ© ra há»p thÆ° chung sau khi nÃ³ ÄÆ°á»£c sao nhÃ¡i theo.
+    -a\tQuÃ©t cÃ¡c Äá»a chá» _quáº£n trá»_ há»p thÆ° tÃ¬m Äá»a chá» cÅ© ÄÃ³, vÃ  cÅ©ng sao nhÃ¡i theo\thoáº·c thay Äá»i chÃºng.
+    -q\tSá»­a Äá»i _im_.
+    -n\tIn ra thao tÃ¡c ÄÃ£ Äá»nh, nhÆ°ng khÃ´ng tháº­t thá»±c hiá»n.\tTÃ¹y chá»n nÃ y thu há»i cá» Â« --quiet Â». (_khÃ´ng sá»­a Äá»i_)
+    -h\tin ra _trá»£ giÃºp_ nÃ y rá»i thoÃ¡t
+    -c\tKhi dùng tùy chọn này, hộp thư đã sửa đổi không phải thật đựơc thay đổi.Chỉ có ích cùng cới « i ». (_chỉ kiểm tra_)
+    -v\tIn ra tên của mỗi thuộc tính khi nó được thay đổi. Chỉ có ích cùng cới « i ». (_chi tiết_)
+# -*- coding: %(charset)s -*-## thiáº¿t láº­p cáº¥u hÃ¬nh cá»§a há»p thÆ° chung Â« %(listname)s Â»## báº¯t vÃ o %(when)s
+Hủy thư đã giữ lại.
+\tGiáº£ sá»­ táº­p tin chá»©a má»t marshall Python, cÃ³ quyá»n cao hÆ¡nviá»c ÄoÃ¡n tá»± Äá»ng nÃ o.
+\tGiáº£ sá»­ táº­p tin chá»©a má»t pickle Python, cÃ³ quyá»n cao hÆ¡nviá»c ÄoÃ¡n tá»± Äá»ng nÃ o.
+\tKhÃ´ng cá»  Â« in xinh Â» Äá»i tÆ°á»£ng ÄÃ³. CÃ³ Ã­ch náº¿u gáº·p khÃ³ khÄnÄá»i vá»i Äá»i tÆ°á»£ng ÄÃ³, chá» muá»n xem biá»u diá»n chÆ°a ÄÆ°á»£c pickle.CÃ³ Ã­ch cÃ¹ng vá»i Â« python -i bin/dumpdb t\á\º\­p_tin Â». Trong trÆ°á»ng há»£p nÃ y,gá»c cÃ¢y sáº½ ÄÆ°á»£c Äá» trong biáº¿n toÃ n cá»¥c tÃªn Â« msg Â». (_khÃ´ng in_)
+\tIn ra _trá»£ giÃºp_ nÃ y rá»i thoÃ¡t.
+    -w\tTìm kiếm _người sở hữu_ hộp thư, cũng như thành viên.
+\tIn ra hoáº¡t Äá»ng cá»§a táº­p lá»nh nÃ y. (_chi tiáº¿t_)
+\tBình thường, quản trị nhận thư (sau khi được nhắc) thông báohộp thư chung mới được tạo. Tùy chọn này thu hồi cả việc nhắclẫn việc thông báo. (_im_)
+    -a\tGỡ bỏ _mọi_ thành viên ra hộp thư chung này.(loại trừ lẫn nhau với « --fromall » [từ tất cả])
+\tIn ra chỉ những thành viên _chuẩn_ (không nhận bó thư).
+\tGồm có các _họ tên_ trong kết xuất.
+\tXuất các địa chỉ thành viên, bảo tồn chữ hoa/thường đã ghikhi địa chỉ này được thêm vào hộp thư chung. Nếu không có tùy chọn này,các địa chỉ được in ra chữ thường.
+\tIn ra chi những địa chỉ _không hợp lệ_ có trong danh sách thành viên.        Bỏ qua các tùy chọn « -r », « -d », « -n ».
+\tIn ra các địa chỉ được lưu dạng đối tượng Unicode,thay vào đối tượng chuỗi chuẩn.\tBỏ qua các tùy chọn « -r », « -d », « -n ».
+\tGồm có _các điều hợp viên_ của hộp thư trong kết xuất.
+\t_KhÃ´ng khá»i cháº¡y láº¡i_ qrunner nÃ o khi nÃ³ thoÃ¡t do lá»i hoáº·c do SIGINT.qrunner chÆ°a bao giá» ÄÆ°á»£c khá»i cháº¡y láº¡i khi thoÃ¡t do SIGTERM.HÃ£y sá»­ dá»¥ng tÃ¹y chá»n nÃ y chá» Äá» gá»¡ lá»i. CÃ³ Ã­ch chá» khi Äá»±a ra lá»nh Â« start Â».
+\tBÃ¬nh thÆ°á»ng, táº­p lá»nh nÃ y sáº½ khÃ´ng cháº¡y náº¿u UID (sá» nháº­n diá»n ngÆ°á»i dÃ¹ng)vÃ  GID (sá» nháº­n diá»n nhÃ³m) khÃ´ng pháº£i ÄÆ°á»£c Äáº·t thÃ nh ngÆ°á»i dÃ¹ng vÃ  nhÃ³m Â« mailman Â».Khi cháº¡y vá»i tÆ° cÃ¡ch ngÆ°á»i chá»§ (root), táº­p lá»nh nÃ y sáº½ chuyá»n Äá»i sangngÆ°á»i dÃ¹ng vÃ  nhÃ³m Â« mailman Â» trÆ°á»c khi viá»c kiá»m tra ÄÃ³ xáº£y ra.
+\tNáº¿u mailmanctl tÃ¬m má»t sá»± khoÃ¡ cÃ¡i tá»n táº¡i, bÃ¬nh thÆ°á»ng nÃ³ sáº½ thoÃ¡tvá»i thÃ´ng Äiá»p lá»i. Vá»i tÃ¹y chá»n nÃ y, mailmanctl sáº½ thá»±c hiá»n má»t cáº¥p kiá»m tra thÃªm.Náº¿u tiáº¿n trÃ¬nh nÃ o Äang cháº¡y mÃ  khá»p PID ÄÆ°á»£c diá»n táº£ trong táº­p tin khoÃ¡,mailmanctl sáº½ váº«n cÃ²n thoÃ¡t, cÃ²n náº¿u khÃ´ng tÃ¬m tiáº¿n trÃ¬nh khá»p nÃ o,mailmanctl sáº½ gá»¡ bá» sá»± khoÃ¡ cÃ³ váº» cÅ© ÄÃ³ vÃ  cá» láº¡i láº¥y sá»± khoÃ¡ cÃ¡i.
+\tĐặt mật khẩu của _người đã tạo hộp thư chung_, thay vào mật khẩu địa chỉ.Người đã tạo hộp thư có quyền tạo và gỡ bỏ hộp thư, nhưng không cóquyền hoàn toàn của quản trị địa chỉ.
+    --help\tIn ra _trá»£ giÃºp_ nÃ y rá»i thoÃ¡t.
+    --version\tHiá»n thá» thÃ´ng tin _phiÃªn báº£n_ rá»i thoÃ¡t.
+\tHiá»n thá» cÃ¡c tÃªn qrunner sáºµn sÃ ng rá»i thoÃ¡t (_liá»t kÃª_).
+\tXuáº¥t thÃ´ng tin gá»¡ lá»i thÃªm ra táº­p tin ghi lÆ°u Â« logs/qrunner Â». (_chi tiáº¿t_)
+\tTÃ¹y chá»n nÃ y nÃªn ÄÆ°á»£c dÃ¹ng chá» khi cháº¡y qrunner lÃ  _tiáº¿n trÃ¬nh con_cá»§a táº­p lá»nh khá»i cháº¡y mailmanctl. NÃ³ thay Äá»i má»t pháº§n á»©ng xá»­ thoÃ¡t-khi-gáº·p-lá»i,Äá» hoáº¡t Äá»ng khÃ¡ hÆ¡n vá»i khuÃ´n khá» ÄÃ³.
+\tGỡ bỏ những địa chỉ được ghi rõ ra mọi hộp thư chung trên hệ thống này,bất chấp miền ảo nếu có. Không thể sử dụng tùy chọn này cách « -a/--all ».Hơn nữa, bạn không nên ghi rõ tên hộp thư chung khi sử dụng tùy chọn này.    --nouserack    -n\tKhông gởi thư báo nhận cho người dùng. Nếu không ghi rõ,giá trị mặc định cho hộp thư chung có được dùng.
+    -N\tKhông gởi thư báo nhận cho quản trị. Nếu không ghi rõ,giá trị mặc định cho hộp thư chung có được dùng.
+    -n\t_KhÃ´ng thay Äá»i_ tháº­t. Thay tháº¿, in ra cÃ¡ch thay Äá»i há»p thÆ° dá»± Äá»nh.
+    -w[=yes\|no]Yes\tCÃ³No\tKhÃ´ng\tÄáº·t cÃ³ nÃªn gá»i cho má»i thÃ nh viÃªn má»i thÃªm má»t thÆ° _chÃ o ÄÃ³n_ hay khÃ´ng.TÃ¹y chá»n nÃ y cÃ³ quyá»n cao hÆ¡n thiáº¿t láº­p Â« send_welcome_msg Â» (gá»i thÆ° chÃ o ÄÃ³n)cá»§a há»p thÆ° ÄÃ³. Khi dÃ¹ng Â« -w=yes Â» hoáº·c Â« -w Â», cÃ³ gá»i thÆ° chÃ o ÄÃ³n.CÃ²n khi dÃ¹ng Â« -w=no Â», khÃ´ng gá»i thÆ° ÄÃ³.
+    -d[=yes\|no]\tÄáº·t cÃ³ nÃªn gá»i _bÃ³ thÆ°_ cho thÃ nh viÃªn má»i. Khi dÃ¹ng Â« -d=yes Â» hoáº·c Â« -d Â»,há» nháº­n bÃ³ thÆ°. CÃ²n khi dÃ¹ng Â« -d=no Â», há» nháº­n thÆ° chuáº©n.
+    -a[=yes\|no]\tÄáº·t cÃ³ nÃªn _thÃ´ng bÃ¡o quáº£n trá»_ khi nÃ o ÄÄng kÃ½ hoáº·c bá» ÄÄng kÃ½.Náº¿u báº¡n Äang thÃªm nhiá»u Äá»a chá», cháº¯c lÃ  báº¡n muá»n táº¯t tÃ¹y chá»n nÃ y.Khi dÃ¹ng Â« -a=yes Â» hoáº·c Â« -a Â», cÃ³ thÃ´ng bÃ¡o quáº£n trá». CÃ²n khi dÃ¹ng Â« -a=no Â»,khÃ´ng thÃ´ng bÃ¡o quáº£n trá». Khi khÃ´ng cÃ³ tÃ¹y chá»n Â« -a Â», giÃ¡ trá» máº·c Äá»nhcho há»p thÆ° nÃ y ÄÆ°á»£c dÃ¹ng.
+\tĐể bạn tại dấu nhắc _tương tác_ sau khi mọi việc xử lý khác là hoàn tất.Trường hợp này là mặc định, nếu tùy chọn « -r » không đựa ra.
+    -r [module.]callable\tTùy chọn này có thể được dùng để _chạy_ tập lệnh với đối tượng MailList đã mở.Nó hoạt động bằng cách cố nạp « module » (mô-đun) mà phải nằm trongcùng một thư mục chứa « withlist », hoặc nằm trên đường dẫn « sys.path »nên truy cập được, rồi gọi « callable » từ mô-đun đó. « callable » có thể làmột hạng hoặc hàm; nọ được gọi với đối tượng MailList là đối số thứ nhất.Nếu đối số thêm đựa ra trên dòng lệnh, các đối số này được gởi trả làđối số vị trí phụ đối với callable.
+    print mlist.GetListEmail()
+    print mlist.GetRequestEmail()
+Loading list: mylist (unlocked)Importing listaddr ...Running listaddr.listaddr() ...hộp_tôi@máy_tôi.com
+Loading list: mylist (unlocked)Importing listaddr ...Running listaddr.requestaddr() ...hộp_tôi-yêu_cầu@máy_tôi.com
+    try:        mlist.setMemberPassword(addr, newpasswd)        mlist.Save()    except NotAMemberError:        print 'No address matched:', addr
+\tCÅ©ng gá»i thÆ° thÃ´ng bÃ¡o cho thÃ nh viÃªn nÃ o bá» táº¯t _bá»i quáº£n trá»_/ ngÆ°á»i sá» há»¯u há»p thÆ° chung.
+\tCÅ©ng gá»i thÆ° thÃ´ng bÃ¡o cho thÃ nh viÃªn nÃ o tá»± bá» táº¯t (_bá»i ngÆ°á»i dÃ¹ng_).
+\tCÅ©ng gá»i thÆ° thÃ´ng bÃ¡o cho thÃ nh viÃªn nÃ o bá» táº¯t vÃ¬ lÃ½ do _khÃ´ng rÃµ_(thÆ°á»ng lÃ  Äá»a chá» ÄÃ£ bá» táº¯t trÆ°á»c).
+\t_KhÃ´ng_ gá»i thÆ° thÃ´ng bÃ¡o cho thÃ nh viÃªn _do thÆ° náº£y vá»_ táº¯t(máº·c Äá»nh lÃ  khÃ´ng thÃ´ng bÃ¡o thÃ nh viÃªn do náº£y vá» táº¯t).
+\tGá»i thÆ° thÃ´ng bÃ¡o cho _má»i_ thÃ nh viÃªn bá» táº¯t.
+\tGá»i ngay thÆ° thÃ´ng bÃ¡o cho thÃ nh viÃªn bá» táº¯t,báº¥t cháº¥p giá»/ngÃ y thÆ°á»ng gá»i thÃ´ng bÃ¡o.    -l há»p_thÆ°_chung    --listname=há»p_thÆ°_chung\tXá»­ lÃ½ chá» há»p thÆ° chung nÃ y, náº¿u khÃ´ng, xá»­ lÃ½ má»i há»p thÆ° chung.
+      
+(Chi tiết về 
+Bạn đã được đăng ký với hộp thư chung này với địa chỉ\tđã bảo tồn chữ hoa/thường 
+        xÃ¡c nháº­n chu\á\»\i_x\Ã\¡c_nh\á\º\­n\tXÃ¡c nháº­n hÃ nh Äá»ng ÄÃ³.\tCáº§n thiáº¿t nháº­p chuá»i xÃ¡c nháº­n, vÃ  thÃ´ng bÃ¡o xÃ¡c nháº­n\tcá»§a Mailman nÃªn cung cáº¥p nÃ³.
+    echo [các_đối_số]\tĐơn giản vọng lời báo nhận.\tCác đối số được đội lại, không có thay đổi.
+        end\tDá»«ng xá»­ lÃ½ lá»nh nÃ o. HÃ£y sá»­ dá»¥ng Äiá»u nÃ y náº¿u trÃ¬nh thÆ° mÃ¬nh\ttá»± Äá»ng thÃªm má»t táº­p tin chá»¯ kÃ½.
+    help\thiển thị trợ giúp này.
+    info\tLấy thông tin về hộp thư chung này.
+    lists\tXem danh sách các hộp thư chung công trên máy Mailman GNU này.
+        password [m\á\º\­t_kh\á\º\©u_c\Å\© m\á\º\­t_kh\á\º\©u_m\á\»\i] [address=\Ä\\á\»\a_ch\á\»\]
+        set ...\tÄáº·t hoáº·c xem cÃ¡c tÃ¹y chá»n thÃ nh viÃªn mÃ¬nh.
+    set help        Hiển thị trợ giúp chi tiết này.
+    subscribe [password] [digest|nodigest] [address=\    subscribe [password] [digest|nodigest] [address=\Ä\\á\»\a_ch\á\»\]
+    unsubscribe [mật_khẩu] [address=\    unsubscribe [máº­t_kháº©u] [address=\Ä\\á\»\a_ch\á\»\]
+    who        Xem các thành viên không ẩn của hộp thư chung này    who mật_khẩu        Xem mọi người dùng hộp thư chung này.\tMật khẩu là mật khẩu của quản trị hay\tđiều hợp viên của hộp thư chung.
+        who máº­t_kháº©u [address=\Ä\\á\»\a_ch\á\»\]
+    who password
+Để gỡ bỏ xong hộp thư chung này, bạn cần phải hiệu chỉnhtập tin lt;/etc/aliasesgt; (hoặc tương đương) bằng cách thêmnhững dòng theo đây, và có lẽ cũng chạy chương trình « newaliases ».
+— Chưa xử lý :
+— Bị bỏ qua :
+%(listname)s có kho dạng mbox cả công lẫn riêng. Vì hộp thư chung nàyhiện thời duy trì kho riêng, chương trình này đang cài đặt kho mbox riêng« %(o_pri_mbox_file)s » là kho hoạt động, và đang thay đổi tên nó từ« %(o_pub_mbox_file)s » thành « %(o_pub_mbox_file)s.preb6 ».

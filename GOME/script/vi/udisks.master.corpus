@@ -1,0 +1,33 @@
+ bootabledos-part-flag
+ systemgpt-part-flag
+ legacy  bios  bootablegpt-part-flag
+ read-onlygpt-part-flag
+ hiddengpt-part-flag
+ no  automountgpt-part-flag
+ partition-info
+ media
+ media-type
+ fs-type
+ part-type
+ USB  thumb  drivemedia-type
+ partition-subtype
+ job
+ unknown-job
+ 5  GB  Block  Devicepart-block
+ 80  GB  Disk "  or  " Partition  2  of  2  GB  Thumb  DriveINTEL  SSDSA2MH080G1GC45ABX21 / dev / sdaone-liner-drive
+ 5  GB  Loop  Devicepart-loop
+ mdraid-desc
+ 2  TB  RAID-5part-raid
+ AlphaGo2  TB  RAID-5one-liner-mdraid-no-name-not-running
+ drive-with-fixed-media
+ CD-RW  Discoptical-media
+ disk-non-rotational
+ optical-media
+ drive-with-size
+ disk-hdd
+ drive-card-reader
+ drive-with-size-and-type
+ drive-with-type
+ CD-ROM  Discoptical-media
+ 2  GB  Thumb  Drivepart-drive
+ 80  GB  DiskINTEL  SSDSA2MH080G1GC / dev / sdaone-liner-drive

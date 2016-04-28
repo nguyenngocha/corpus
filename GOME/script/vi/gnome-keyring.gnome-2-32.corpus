@@ -1,0 +1,68 @@
+ Không  tên
+ Đổi  mật  khẩu  vòng  khóa
+ Hãy  chọn  một  mật  khẩu  mới  cho  vòng  khóa  «  % s  »
+ Một  ứng  dụng  muốn  thay  đổi  mật  khẫu  cho  vòng  khoá  «  % s  » .  Hãy  chọn  mật  khẩu  cần  sử  dụng  với  nó .
+ Bạn  đã  gõ  sai  mật  khẩu  gốc
+ Mật  khẩu  vòng  khóa  mới
+ Hãy  chọn  mật  khẩu  cho  vòng  khóa  mới
+ Một  ứng  dụng  muốn  tạo  một  vòng  khóa  mới  tên  «  % s  » .  Hãy  chọn  mật  khẩu  cần  sử  dụng  với  nó .
+ Lưu  trữ  Chứng  nhận  và  Khoá
+ Vòng  Khoá  GNOME :  thành  phần  PKCS # 11
+ Dịch  vụ  lưu  trữ  mật
+ Vòng  Khoá  GNOME :  dịch  vụ  mật
+ Tác  nhân  khoá  SSH
+ Vòng  Khoá  GNOME :  SSH  Agent
+ Độ  mạnh  của  mật  khẩu  mới
+ Lỗi  lạ
+ Khoá  vòng  khoá  này  nếu  vẫn  nghỉ  sau
+ Khoá  vòng  khoá  này  khi  tôi  đang  xuất
+ Đăng  nhập
+ Thành  phần  Miền
+ Mã  số  người  dùng
+ Địa  chỉ  thư
+ Ngày  sinh
+ Nơi  sinh
+ Giới  tính
+ Quốc  gia  cấp  công  dân
+ Quốc  gia  ở
+ Tên  chung
+ Họ
+ Số  thứ  tự
+ Quốc  gia
+ Vùng
+ Tỉnh
+ Đường
+ Tổ  chức
+ Đơn  vị  tổ  chức
+ Tuổi  tác
+ Số  điện  thoại
+ Tên  hay  gọi
+ Tên  viết  tắt
+ Thế  hệ  dè  dặt
+ Tên  miền  dè  dặt
+ Biệt  hiệu
+ RSA
+ MD2  với  mã  hoá  RSA
+ MD5  với  mã  hoá  RSA
+ SHA1  với  mã  hoá  RSA
+ DSA
+ SHA1  với  mã  hoá  DSA
+ Gặp  lỗi  bất  thường  trong  «  select ( )  »  khi  đọc  dữ  liệu  từ  một  tiến  trình  con  ( % s )
+ Gặp  lỗi  bất  thường  trong  «  waitpid ( )  »  ( % s )
+   Không   phải   phần   của   chứng   nhận 
+   không   rõ 
+ Chứng  nhận  ứng  dụng  khách  SSL
+ Chứng  nhận  trình  phục  vụ  SSL
+ Chứng  nhận  người  ký  thư  điện  tử
+ Chứng  nhận  người  nhận  thư  điện  tử
+   Chứng   nhận   này   đã   được   thẩm   tra   cho   những   mục   đích   theo   đây  : 
+   Cấp   cho 
+ Tên  chung  ( TC )
+ Tổ  chức  ( O )
+ Đơn  vị  tổ  chức  ( OU )
+ Cấp  vào
+ Hết  hạn  vào
+   Cấp   bởi 
+   Vân   tay 
+ Vân  tay  SHA1
+ Vân  tay  MD5

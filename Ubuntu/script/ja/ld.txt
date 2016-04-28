@@ -1,0 +1,4 @@
+ --support-old-code           古いコードの相互利用をサポートする
+ --thumb-entry =  <  sym  >           エントリポイントを  Thumb  シンボル   <  sym  >   に設定する
+ 集合                 シンボル
+ メモリ設定

@@ -1,0 +1,48 @@
+ Nhóm  Việt  hóa  Gnome   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >
+ Khoá  Mật  mã
+ Thuật  toán
+ Giải  mã  tập  tin
+ ID  khoá
+ Chia  sẻ  khoá
+ Mật  khẩu  và  Khoá  Mật  mã
+ Cung  cấp  truy  cập  đến  các  khoá  và  mật  khẩu  nằm  trong  vòng  khoá .
+ Giới  thiệu
+ Khởi  chạy  ứng  dụng    Mật   khẩu   và   Khoá   Mật   mã 
+ Nhấn  vào  nút    Thêm   tên  .
+ Tạo  khoá  mới .
+ Chọn  mục    Khoá   PGP  ,  rồi  bấm  cái  nút    Tiếp   tục 
+ Dấu  tay  là  một  chuỗi  ký  tự  duy  nhất  nhận  diện  chính  xác  mỗi  khoá .
+ Chọn  khoá  trong  cửa  sổ  chính .
+ Chọn  thẻ    Chi   tiết  .
+ Chọn  mục  trình  đơn    Khoá   SSH  ,  rồi  bấm  nút    Tiếp   tục 
+ Tạo  và  quản  lý  các  khoá  PGP  và  SSH .
+ Tùy  chọn  cấp  cao
+ Dãn  ra  phần    Tùy   chọn   khoá   cấp   cao   để  ghi  rõ  những  tùy  chọn  theo  đây  cho  khoá  mới :
+ Kiểu  khoá
+ Dài  khoá
+ Ngày  hết  hạn
+ Xoá  khoá  phụ
+ Nhấn-phải  vào  nó  và  chọn  lệnh    Xoá   khoá   trong  trình  đơn  phụ ,  hoặc  chọn  mục  trình  đơn  chính       Sửa       Xoá    khoá    .
+ Xuất  khoá
+ Nhập  khoá
+ Nhấn  vào  nút    Ký  .
+ Nhấn  vào  nút    Hủy   bỏ  .
+ Chia  các  khoá  với  người  khác .
+ Để  tạo  một  khoá  SSH :
+ Ký  nhận  khoá
+ Nhấn  vào  nút    Xoá   bên  trái .
+ Để  thêm  UID  vào  khoá :  
+ Thêm  UID
+ Gõ  cụm  từ  mật  khẩu  mới ,  rồi  bấm  nút    OK  .
+ Thêm  khoá  phụ
+ Nhấn  vào  nút    Tạo   để  tạo  cặp  khoá  mới .
+ Hủy  bỏ  khoá  phụ
+ @ @ image :  ' figures / seahorse-window.png ' ;  md5 = d52b0902a24b89d5aadc50e64f471c7d
+ Sổ  tay  về  Mật  khẩu  và  Khoá  Mật  mã
+ 2005 ,  2006
+ Jacob  Perkins  and  Adam  Schreiber
+ Dự  án  Seahorse
+ Bạn  có  quyền  sao  chép ,  phân  phối  và / hay  sửa  đổi  tài  liệu  này  với  điều  kiện  của  Giấy  phép  Tài  Liệu  Tự  do  GNU  (   GFDL  ) ,  Phiên  bản  1.1  hay  bất  kỳ  phiên  bản  sau  nào  được  xuất  bản  bởi  Tổ  chức  Phần  mềm  Tự  do  ( FSF )  mà  không  có  Tiết  đoạn  Bất  Biến ,  không  có  Đoạn  Bìa  Trước  và  không  có  Đoạn  Bìa  Sau .  Bạn  có  thể  tìm  bản  sao  của  GFDL  ở     liên   kết   này  hay  trong  tập  tin  COPYING-DOCS  có  sẵn  với  sổ  tay  này .
+ Sổ  tay  này  thuộc  về  một  bộ  sưu  tập  các  sổ  tay  GNOME  được  phân  phối  với  GFDL .  Bạn  muốn  phân  phối  sổ  tay  này  một  cách  riêng  với  bộ  sưu  tập  thì  chỉ  cần  phải  thêm  vào  sổ  tay  một  bản  sao  của  giấy  phép  như  được  diễn  tả  trong  phần  6  của  giấy  phép .
+ Công  ty  tuyên  bố  nhãn  hiệu  cho  tên  sản  phẩm  nên  tài  liệu  GNOME  ghi  tên  như  vậy  bằng  chữ  hoa ,  hay  chữ  hoa  đầu  từ ,  miễn  là  Dự  án  Tài  liệu  GNOME  biết  được  nó  là  nhãn  hiệu .
+ Chúng  tôi  cung  cấp  tài  liệu  này 

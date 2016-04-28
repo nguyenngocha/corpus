@@ -1,0 +1,11 @@
+ Không  có  lỗi
+ Dữ  liệụ  gõ  không  đúng  tiêu  chuẩn
+ Dữ  liệu  xuất  là  mơ  hồ
+ Dữ  liệu  gõ  không  dịch  được
+ Dữ  liệu  gõ  không  hợp  lệ
+ Lỗi  mã  hóa  lại  nội   bộ
+ Tác  giả :  François  Pinard   <  pinard \ @ iro \ .umontreal \ .ca  >  .
+ Bản  quyền  ( C )  năm  1990 ,  92 ,  93 ,  94 ,  96 ,  97 ,  99  Free  Software  Foundation ,  Inc .
+ Bộ  ký  tự `%s ' là chưa được biệt hoặc mơ hồ
+ Lời  yêu  cầu `%s ' không đúng
+ Hết  bộ  nhớ  ảo  rồì

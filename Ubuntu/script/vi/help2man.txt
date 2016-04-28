@@ -1,0 +1,46 @@
+ GNU  % s  % s  Bản  quyền  ( C )  1997 ,  1998 ,  1999 ,  2000 ,  2001 ,  2002 ,  2003 ,  2004 ,  2005 ,  2009 ,  2010 ,  2011 ,  2012 ,  2013 ,  2014  Tổ  chức  Phần  mềm  Tự  do .  Đây  là  phần  mềm  miễn  phí ;  xem  trong  mã  nguồn  để  biết  các  điều  khoản  về  sao  chép .  Đây  KHÔNG  bảo  hành ;  thậm  chí  còn  có  thể  BÁN  ĐƯỢC  hay  PHÙ  HỢP  VỚI  MỤC  ĐÍCH  ĐẶC  THÙ .  Viết  bởi  Brendan  O 'Dea   <  bod \ @ debian \ .org  >
+ % s :  không  thể  mở  “ % s ”  ( % s ) NAME " ,  " SYNOPSIS
+ TÊN
+ TÓM  TẮT
+ % s :  không  tìm  thấy  thông  tin  hợp  lệ  trong  “ % s ”
+ % B  % Y
+ % s :  không  thể  bỏ  liên  kết  % s  ( % s )
+ % s :  không  thể  tạo  % s  ( % s )
+ % s  \ \ -  trang  hướng  dẫn  cho  % s  % s
+ Tiện  ích  quản  trị  hệ  thống
+ Trò  chơi
+ Các  câu  lệnhUsage "  and  " or
+ Cách  dùng
+ hoặc
+ MÔ  TẢmy  $ PAT _ something  =  _ ( ' ... ' ) ; |  + ( ? : [ \ \ w- ] +  + ) ? Report  bugs "  or  " Report  _ program _  bugs
+ Thông  báo  lỗi  + ( ? : [ \ \ w- ] *  + ) ? | Gửi  thư  + thông  + báo  + lỗi  + cho
+ Viết  + bởi
+ Tuỳ  chọn
+ Môi  trường
+ Tập  tin
+ Ví  dụ
+ Đây  + là  + phần  + mềm  + tự  + do
+ TÙY  CHỌN
+ MÔI  TRƯỜNG
+ TẬP  TIN
+ VÍ  DỤ
+ BẢN  QUYỀN
+ THÔNG  BÁO  LỖI
+ TÁC  GIẢ
+ XEM  THÊM
+ Tài  liệu  hướng  dẫn  đầy  đủ  về  .B  % s  được  bảo  trì  dưới  dạng  một  sổ  tay  Texinfo .   Nếu  chương  trình  .B  info  và  .B  % s  được  cài  đặt  đúng  ở  địa  chỉ  của  bạn  thì  câu  lệnh  .IP  .B  info  % s  .PP  nên  cho  phép  bạn  truy  cập  đến  toàn  bộ  sổ  tay .
+ % s :  gặp  lỗi  khi  đang  ghi  % s  ( % s )
+ % s :  không  thể  lấy  thông  tin  “ % s ”  từ  % s % s
+ Nếu  tuỳ  chọn  xuất  qua  đầu  lỗi  tiêu  chuẩn  thì  thử  lập  cờ  “ --no-discard-stderr ”
+ Bao  gồm  tập  tin  cho  trang  hướng  dẫn  về  help2man
+ help2man  \ \ -  tạo  một  trang  hướng  dẫn  dạng  man  kiểu  đơn  giản
+ TẬP  TIN  BAO  GỒM
+ Cũng  có  thể  bao  gồm  dữ  liệu  bổ  sung  trong  kết  xuất ,  dùng  tuỳ  chọn  .B  \ \ - \ \ -include  và  .B  \ \ - \ \ -opt \ \ -include  Có  một  định  dạng  đơn  giản :      [ phần ]      chuỗi      / mẫu /      chuỗi
+ Khối  văn  bản  định  dạng  * roff  đúng  nguyên  văn  được  chèn  vào  kết  xuất  hoặc  ở  đầu  của  phần  .BI  [  phần  ]  ( không  phân  biệt  chữ  hoa / thường ) ,  hoặc  đẳng  sau  một  đoạn  văn  tương  ứng  với  mẫu  .BI  /  mẫu  / \ \ fR .
+ Mẫu  chấp  nhận  cú  pháp  của  biểu  thức  chính  quy  Perl ,  và  cũng  cho  phép  dấu  sửa  đổi  .IR  i  ,  .I  s  hay  .I  m  ( xem  .BR  perlre  ( 1 ) ) .
+ Dòng  nào  đứng  trước  phần  đầu  tiên  hoặc  mẫu  bắt  đầu  với  “ \ \ - ”  thì  được  xử  lý  dưới  dạng  tuỳ  chọn .  Dữ  liệu  khác  ( nếu  có )  bị  bỏ  qua  mà  không  xuất  chi  tiết ,  và  có  thể  được  sử  dụng  làm  ghi  chú ,  từ  khoá  RCS  và  những  thứ  tương  tự  thế .
+ Thứ  tự  xuất  phần  ( đã  được  bao  gồm ) :
+ khác
+ Bất  cứ  phần  .B  [ NAME ]  hoặc  .B  [ SYNOPSIS ]  nào  xuất  hiện  trong  tập  tin  bao  gồm  thì  thay  thế  kết  xuất  tự  động  tạo  ( dù  bạn  vẫn  còn  có  dịp  ghi  đè  lên  phần  [ NAME ]  bằng :  .B  --name  nếu  cần ) .  NAME :  TÊN  SYNOPSIS :  TÓM  TẮT
+ Các  phần  khác  được  thêm  vào  đầu  của  kết  xuất  tự  động  sản  sinh  cho  những  phần  tiêu  chuẩn  đưa  ra  trên ,  hoặc  được  bao  gồm  tại  .I  khác  ( bên  trên )  theo  thứ  tự  gặp  trong  tập  tin  bao  gồm .
+ Thay  thế  phần  chữ  trong  “ phần ”  có  thể  yêu  cầu  rõ  ràng  bằng  cách  sử  dụng  cú  pháp  .RI  [

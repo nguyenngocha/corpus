@@ -1,0 +1,4 @@
+ Ghi  lại  chuỗi  bảo  mật  của  bạn
+ Để  mã  hóa  thư  mục  chính  hay  thư  mục  " Riêng "  của  bạn ,  cần  phải  tạo  một  mật  mã  thật  mạnh  mẽ .  Thường  thường  thư  mục  được  mở  khóa  bằng  mật  khẩu  của  người  dùng ,  nhưng  nếu  bạn  muốn  tự  hồi  phúc  nó ,  bạn  cần  dùng  mật  mã  này .  Xin  hãy  in  ra  hoặc  ghi  chép  lại ,  và  cất  giữ  vào  một  nơi  an  toàn  nào  đó .  Nếu  nhấn  " Thực  hiện  hành  động  này  ngay  bây  giờ " ,  nhập  mật  khẩu  đăng  nhập  của  bạn  ở  dấu  nhắc  " Mật  mã "  và  bạn  có  thể  thấy  được  chuỗi  mật  mã  được  khởi  tạo  ngẫu  nhiên .  Ngược  lại ,  bạn  sẽ  phải  chạy  " ecryptfs-unwrap-passphrase "  từ  trình  dòng  lệnh  để  lấy  và  lưu  mật  mã  được  khởi  tạo  của  mình .
+ Truy  cập  Dữ  liệu  Cá  nhân  của  bạn
+ Cài  đặt  thư  mục  riêng  đã  được  mã  hóa  của  bạn

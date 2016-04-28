@@ -1,0 +1,97 @@
+ Máy
+ Trình  truy  cập / quản  lý  máy  ảo
+ Truy  cập  máy  ảo
+ virtual  machine ; máy ; ảo ; may ; ao ; vm ;
+ Nhóm
+ Danh  sách  nhóm  máy  ảo
+ Quảng  nghỉ  chụp  hình
+ Khoảng  nghỉ  theo  giây  giữa  hai  lần  cập  nhật  hình  chụp
+ Kích  thước  cửa  sổ
+ Kích  thước  cửa  sổ  ( rộng  và  cao )
+ Vị  trí  cửa  sổ
+ Vị  trí  cửa  sổ  ( x  và  y )
+ Cửa  sổ  phóng  to
+ Trạng  thái  cửa  sổ  phóng  to
+ _ Tên  người  dùng
+ _ Mật  mã
+ Đăng  nhập
+ Tạo  một  cái  bằng  nút  trên  bên  trái
+ % s  -  Thuộc  tính
+ Giới  thiệu
+ Chọn  nguồn
+ Chuẩn  bị
+ Thiết  lập
+ Kiểm  tra
+ CPU :
+ I / O :
+ Mạng :
+ Buộc  tắt  máy
+ _ Quay  lại
+ Bỏ  chọn  hết
+ Chuỗi  tìm  kiếm
+ T _ hôi
+ Tạo  máy
+ _ Tạo
+ _ Tiếp  tục
+ Chọn  tất  cả
+ Chọn  chạy
+ Chọn  cài  đặt  nhanh  để  tự  động  cấu  hình  máy  với  thiết  lập  tối  ưu .
+ Cài  đặt  nhanh
+ Tên  người  dùng
+ Mật  mã
+ _ Thêm  mật  mã
+ Khoá  sản  phẩm
+ Nhập  URL
+ Chọn  tập  tin
+ Tạo  máy  là  cho  phép  bạn  dùng  một  hệ  điều  hành  khác  trực  tiếp  từ  đăng  nhập  đang  dùng .  Bạn  có  thể  kết  nối  đến  máy  đã  có       qua    mạng     hoặc  tạo       máy    ảo     chạy  nội  bộ  trên  chính  máy  của  bạn .
+ Cài  đĩa  cài  đặt  hệ  điều  hành  hoặc  chọn  nguồn  bên  dưới
+ Bất  kỳ  thương  hiệu  nào  dưới  đây  chỉ  đơn  thuần  để  định  dan  sản  phẩm  phần  mềm  bạn  đã  có  và  là  tài  sản  của  chủ  sở  hữu  tương  ứng .
+ Chuẩn  bị  tạo  máy  mới
+ Nhóm  Việt  hoá  GNOME
+ Ứng  dụng  GNOME  3  đơn  giản  để  truy  cập  hệ  thống  ảo  hoặc  từ  xa
+ Mới
+ Giới  thiệu  Máy
+ Thoát
+ Số  phiên  bản  hiển  thị
+ Mở  toàn  màn  hình
+ Kiểm  kha  khả  năng  ảo  hoá
+ Mở  bằng  UUID
+ URI  đến  display ,  broker  hoặc  installer  media
+ -  Ứng  dụng  đơn  giản  để  truy  cập  máy  ảo  hoặc  máy  ở  xa
+ Quá  nhiều  đối  số  dòng  lệnh  được  xác  định .
+ Đã  xoá  máy  ' % s '
+ Mới  và  gần  đây
+ ( nhấn  phím  Ctrl + Alt  để  nhả )
+ Hệ  thống
+ Tên
+ Trình  ảo  hoá
+ URI
+ Chẩn  đoán  log
+ Lưu  log
+ Chép  vào  bảng  tạm
+ Lỗi  lưu :  % s
+ Thuộc  tính
+ Thêm  hỗ  trợ  cho  máy  khách
+ Hỗ  trợ  thiết  bị  USB
+ Hỗ  trợ  Smartcard
+ rỗng
+ CD / DVD
+ Chọn
+ Loại  bỏ
+ chọn  thiết  bị  hoặc  tập  tin  ISO
+ Bộ  nhớ
+ Kích  cỡ  đĩa  tối  đa
+ Dữ  liệu  sẽ  bị  mật  khi  buộc  tắt  máy .
+ Phục  hồi  % s  từ  đĩa
+ Khởi  động  % s
+ Khởi  động  ' % s '  quá  lâu .  Buộc  tắt  máy  đó  nhé ?
+ Không  tìm  thấy  máy
+ Kết  nối  đến  % s
+ Lỗi  kết  nối  đến  ' % s '
+ Đang  lưu ...
+ Khởi  động  lại
+ CPU  có  khả  năng  ảo  hoá :  % s
+ Môđun  KVM  đã  nạp :  % s
+ •  Libvirt  KVM  guest  sẵn  sàng :  % s
+ •  Ngữ  cảnh  SELinux  là  mặc  định :  % s
+ Thông  báo  lỗi  ( tiếng  Anh )  cho 

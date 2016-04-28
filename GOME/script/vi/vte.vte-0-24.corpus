@@ -1,0 +1,20 @@
+ Không  thể  chuyển  đổi  các  ký  tự  từ  % s  thành  % s .
+ Thử  đặt  bảng  đồ  NRC  không  hợp  lệ  ' % c ' .identified  coding  system
+ Hệ  thống  mã  hóa  định  danh  không  xác  định
+ Thử  đặt  bảng  đồ  NRC  rộng  không  hợp  lệ  ' % c ' .
+ không  thể  chạy  % s
+ Nhân  đôi  ( % s / % s ) !
+ Không  thể  mở  console .
+ Không  thể  phân  tích  đặc  tả  toạ  độ  từ  đối  số  --geometry
+ Lỗi  khi  biên  dịch  biểu  hiện  quy  tắc  " % s " .
+ Lỗi  khi  đọc  từ  child :  % s .
+ Không  thể  gửi  dữ  liệu  sang  tiến  trình  con ,  bộ  chuyển  đổi  bãng  mã  không  hợp  lệ
+ Lỗi  ( % s )  khi  chuyển  đổi  dữ  liệu  cho  child ,  bỏ .
+ Lỗi  khi  đọc  kích  thước  PTY ,  sử  dụng  mặc  định :  % s .
+ _ vte _ iconv _ open ( )  không  lập  được  các  ký  tự  từ
+ Lỗi  khi  tạo  signal  pipe .
+ Không  có  trình  quản  lý  nào  được  chỉ  định  cho  sequence `%s '.
+ Lỗi  khi  lập  kích  thước  PTY :  % s .
+ Nhận  sequence  không  mong  muốn  ( key ? ) `%s '.
+ Chế  độ  pixel  lạ  % d .
+ Không  thể  tìm  thấy  phông  chữ  phù  hợp  cho  ký  tự  U + % 04x .

@@ -1,0 +1,45 @@
+ Sử  dụng :  % s  [ tùy _ chọn ... ]  [ địa _ chỉ ... ) ]
+ Chuyển  đổi  địa  chỉ  sang  cặp  số  thứ  tự  dòng / tên  tập  tin .
+ Không  ghi  rõ  địa  chỉ  trên  dòng  lệnh  thì  đọc  từ  đầu  vào  tiêu  chuẩn
+ Tùy  chọn :    @    t \
+ Ãnh xáº¡ Pháº§n Äáº¿n PhÃ¢n Äoáº¡n:
+    Äá»a chá»    DÃ i
+  KhÃ´ng cÃ³ kÃ½ hiá»u
+  MÃ£ thao tÃ¡c:
+  Báº£ng ThÆ° Má»¥c váº«n trá»ng
+ Bảng Tên Tập Tin trống:
+    Bù\tTên
+    Địa chỉ           Dài
+        Äá»a chá»    DÃ i
+Bảng CU:
+Bảng TU:
+Bảng địa chỉ:
+Bảng ký hiệu:
+Chỉ mục kho lưu:
+  Nhá»¯ng cÃ¡i chuyá»n theo ÄÃ¢y váº«n tÃ¹y chá»n:
+Việc rã phần %s:
+%s:    định dạng tập tin %s
+  Đầu các dòng đầu chương trình:          
+Không có dòng đầu chương trình trong tập tin này.
+Dòng đầu chương trình:
+      [Đang yêu cầu bộ giải dịch chương trình: %s]
+  Ãnh xáº¡ Pháº§n Äáº¿n PhÃ¢n Äoáº¡n:
+Không có phần trong tập tin này.
+Dòng đầu phần:
+Không có phần cho nhóm trong tập tin này.
+Không có nhóm phần trong tập tin này.
+Tái định vị ảnh
+Không có việc định vị lại động trong tập tin này.
+Tháo chỉ số bảng '%s' tại khoảng bù 0x%lx chứa %lu các mục:
+Không có phần động trong tập tin này.
+Phần định nghĩa phiên bản "%s" chứa %u mục nhập:
+Phần phiên bản cần thiết "%s" chứa %u mục nhập:
+Không tìm thấy thông tin phiên bản trong tập tin này.
+Bảng ký hiệu cho ảnh:
+Bảng ký hiệu '%s' có một sh_entsize số không!
+Biểu đồ tần xuất cho chiều dài danh sách xô (tổng số %lu xô):
+Biểu đồ tần xuất cho chiều dài danh sách xô ".gnu.hash" (tổng số %lu xô):
+Việc đổ thanh ghi của phần %s
+Việc đổ thập lục của phần "%s":
+Phần "%s" chứa %d mục nhập:
+Tập tin: %s

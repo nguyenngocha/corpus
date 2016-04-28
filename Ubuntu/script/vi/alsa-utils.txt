@@ -1,0 +1,67 @@
+ Card  âm  thanh
+ ( mặc  định )
+ không  thể  liệt  kê  card  âm  thanh
+ nhập  tên  thiết  bị ...
+ Sử  dụng :  alsamixer  [ tùy  chọn ]
+ Tùy  chọn  hữu  ích :    -h ,  --help               trợ  giúp  này    -c ,  --card = SỐ            số  hay  id  card  âm  thanh    -D ,  --device = TÊN         tên  thiết  bị  trộn    -V ,  --view = CHẾ _ ĐỘ        khởi  động  chế  độ  xem :  playback / capture / all
+ Tùy  chọn  gỡ  lỗi :    -g ,  --no-color           bật / tắt  sử  dụng  màu    -a ,  --abstraction = TÊN    cấp  ảo  hóa  bộ  trộn :  none / basic
+ chỉ  mục  card  không  hợp  lệ :  % s
+ lớp  ảo  hóa  không  rõ :  % s
+ tùy  chọn  không  rõ :  % c
+ thử `alsamixer --help ' để biết thêm thông tin
+ Tên  thiết  bị :
+ % s :  % s
+ Card :
+ Chip :
+ Xem :
+ Mục :
+ F1 :   Trợ  giúp
+ F2 :   Thông  tin  hệ  thống
+ F6 :  Chọn  card  âm  thanh
+ Esc :  Thoát
+ ( chưa  cắm )
+ Phát
+ Thu
+ Tất  cả
+ câm
+ tăng  dB :
+ [ % s  % s ,  % s ]
+ Tắt
+ Bật
+ Thiết  bị  âm  thanh  chưa  cắm  vào .
+ Nhấn  F6  để  chọn  một  card  âm  thanh  khác .
+ Thiết  bị  âm  thanh  này  không  có  bất  kỳ  điều  khiển  phát  lại  nào .
+ Thiết  bị  âm  thanh  này  không  có  bất  kỳ  điều  khiển  thu  nào .
+ Thiết  bị  âm  thanh  này  không  có  bất  kỳ  điều  khiển  nào .
+ Mleft
+ Lright
+ R
+ THU
+ Trước
+ Sau
+ Trung  tâm
+ Loa  trầm
+ Bên
+ không  thể  mở  bộ  trộn
+ không  thể  nạp  điều  khiển  bộ  trộn
+ Không  thể  mở  thiết  bị  trộn  ' % s ' .
+ Esc      Thoát
+ F1  ?  H   Trợ  giúp
+ F2  /     Thông  tin  hệ  thống
+ F3       Hiện  điều  khiển  phát  lại
+ F4       Hiện  điều  khiển  thu
+ F5       Hiện  tất  cả  điều  khiển
+ Tab      Chuyển  chế  độ  xem  ( F3 / F4 / F5 )
+ F6  S     Chọn  card  âm  thanh
+ L        Vẽ  lại  màn  hình
+ Trái     Chuyển  sang  điều  khiển  trước
+ Phải    Chuyển  sang  điều  khiển  tiếp
+ Lên / Xuống   Thay  đổi  âm  lượng
+ +  -         Thay  đổi  âm  lượng
+ Page  Up / Dn  Thay  đổi  âm  lượng  nhanh  hơn
+ End         Đặt  âm  lượng  về  0 %
+ 0-9         Đặt  âm  lượng  từ  0 % -90 %
+ Q  W  E       Tăng  âm  lượng  kênh  trái / cả  hai / phải
+ Z  X  C       Giảm  âm  lượng  trái / cả  hai / phải
+ B           Cân  bằng  âm  lượng  kênh  trái  và  phải
+ M           Bật / tắt  âm  thanh

@@ -1,0 +1,54 @@
+ Chụp  hình
+ / _ Cửa  sổ
+ Yêu  cầu  thông  tin  cửa  sổ  không  rõ  :  % d
+ " % s "  không  trả  lời .
+ Bạn  có  thể  chọn  chờ  một  lúc  trước  khi  buộc  chấm  dứt  ứng  dụng .
+ _ Chờ
+ _ Buộc  thoát
+ Lỗi  lấy  tên  máy :  % s
+ Thiếu  phần  mở  rộng  % s  cần  thiết  để  sắp  thành  phần
+ Lỗi  mở  bộ  trình  bày  Hệ  thống  Cửa  sổ  X  " % s " .
+ Mất  liên  kết  với  bộ  trình  bày  " % s " ;  thường  là  do  trình  phục  vụ  X  bị  ngừng  hoạt  động  hoặc   bạn  đã  buộc  chấm  dứt  hoạt  động  bộ  quản  lý  cửa  sổ .
+ Lỗi  nhập / xuất  nghiêm  trọng  % d  ( % s )  trên  bộ  trình  bày  " % s " .
+ Một  chương  trình  khác  đã  dùng  phím  " % s "  với  phím  bổ  trợ  " % x "  làm  tổ  hợp .
+ Gặp  lỗi  khi  chạy    %  s  :  % s
+ Không  có  lệnh  " % d "  nào  được  định  nghĩa .
+ Không  có  lệnh  thiết  bị  cuối  nào  được  định  nghĩa .
+ metacity  % s  Tác  quyền  ©  2001-2008  của  Havoc  Pennington ,  Red  Hat ,  Inc . ,  và  người  khác .  Chương  trình  này  là  phần  mềm  tự  do ;  xem  mã  nguồn  để  tìm  điều  kiện  sao  chép .  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .
+ Vô  hiệu  hóa  kết  nối  với  bộ  quản  lý  phiên  làm  việc
+ Thay  thế  bộ  quản  lý  cửa  sổ  đang  chạy  bằng  Metacity
+ Ghi  rõ  ID  quản  lý  phiên  làm  việc
+ Bộ  trình  bày  X  cần  dùng
+ Khởi  động  phiên  làm  việc  từ  tập  tin  lưu
+ In  phiên  bản
+ Khiến  các  lời  gọi  X  đồng  bộ  với  nhau
+ Bật  sắp  thành  phần
+ Tắt  sắp  thành  phần
+ Lỗi  quét  thư  mục  sắc  thái :  % s
+ Không  tìm  thấy  sắc  thái .  Hãy  bảo  đảm  % s  tồn  tại  và  chứa  những  sắc  thái  bình  thường .
+ Lỗi  khởi  động  lại :  % s
+ Khóa  GConf  «  % s  »  được  đặt  giá  trị  không  hợp  lệ
+ % d  được  lưu  trong  khoá  GConf  % s  nằm  ở  ngoại  phạm  vi  % d  đến  % d
+ Khóa  GConf  «  % s  »  được  đặt  kiểu  sai
+ Khả  năng  chỉnh  sửa  cho  các  ứng  dụng  không  theo  chuẩn  đã  đã  tắt .  Vài  ứng  dụng  có  thể  sẽ  xử  sự  không  đúng .
+ Không  thể  phân  tách  mô  tả  phông  chữ  «  % s  »  từ  khóa  GConf  «  % s  » .
+ Tìm  thấy  «  % s  »  trong  cơ  sở  dữ  liệu  cấu  hình  không  phải  giá  trị  hợp  lệ  cho  bộ  biến  đổi  nút  chuột .
+ Gặp  lỗi  khi  đặt  số  vùng  làm  việc  là  % d :  % s
+ Vùng  làm  việc  % d
+ Tìm  thấy  «  % s  »  trong  cơ  sở  dữ  liệu  cấu  hình  không  phải  giá  trị  hợp  lệ  cho  tổ  hợp  phím  «  % s  » .
+ Gặp  lỗi  khi  đặt  tên  cho  vùng  làm  việc  « % d »  thành  «  % s  » :  % s
+ Gặp  lỗi  khi  đặt  trạng  thái  về  công  cụ  sắp  thành  phần :  % s
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  không  hợp  lệ .
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  đã  có  bộ  quản  lý  cửa  sổ  rồi ;  hãy  thử  dùng  tùy  chọn  « --replace »  để  _ thay  thế _  bộ  quản  lý  cửa  sổ  đang  dùng .
+ Không  thể  lấy  vùng  chọn  bộ  quản  lý  cửa  sổ  trên  Màn  hình  % d  trên  bộ  trình  bày  «  % s  » .
+ Màn  hình  % d  trên  bộ  trình  bày  «  % s  »  đã  có  bộ  quản  lý  cửa  sổ .
+ Không  thể  giải  phóng  Màn  hình  % d  trên  bộ  trình  bày  «  % s  » .  Control " ,  " Shiftdisabled
+ Tổ  hợp  phím  dùng  để  đóng  cửa  sổ .  Dạng  thức  tương  tự  như  " lt ; Controlgt ; a "  hoặc  " lt ; Shiftgt ; lt ; Altgt ; F1 " .  Bộ  phân  tích  hiểu  cả  chữ  hoa  lẫn  chữ  thường ,  và  cả  những  từ  viết  tắt  như  " lt ; Ctlgt ; "  và  " lt ; Ctrlgt ; " .  Nếu  bạn  đặt  tùy  chọn  là  chuỗi  đặc  biệt  « disabled »  thì  sẽ  không  có  tổ  hợp  phím  nào  thực  hiện  hành  động  này .
+ Không  thể  tạo  thư  mục  «  % s  » :  % s
+ Không  thể  mở  tập  tin  phiên  làm  việc  «  % s  »  để  ghi :  % s
+ Gặp  lỗi  khi  ghi  tập  tin  phiên  làm  việc  «  % s  » :  % s
+ Gặp  lỗi  khi  đóng  tập  tin  phiên  làm  việc  «  % s  » :  % s
+ Lỗi  phân  tích  tập  tin  phiên  làm  việc  đã  lưu :  % s
+ Thấy  thuộc  tính   <  metacity _ session  >  ,  nhưng  đã  có  session  ID .
+ Không  nhận  ra  thuộc  tính  % s  trên  phần  tử 
+ phải xác định cho kiểu dáng khung này.

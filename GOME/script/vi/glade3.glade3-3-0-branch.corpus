@@ -1,0 +1,163 @@
+ Giao  diện  người  dùng  Gnome
+ Tùy  chọn  của  bộ  xây  dựng  GUI  Glade
+ không  tìm  thấy  cách  hỗ  trợ  gmodule ,  mà  cần  thiết  cho  trình  glade  hoạt  động
+ Không  thể  mở  «  % s  »  vì  tập  tin  đó  không  tồn  tại .
+ Mở
+ Mới  lưu  dự  án  «  % s  » .
+ Không  có  dự  án  đang  mở  cần  lưu .
+ Lưu
+ Lưu  dạng ...
+   Lưu   các   thay   đổi   trong   dự   án   «   %  s   »   trước   khi   đóng   chứ  ?  Nếu  bạn  không  lưu  các  thay  đổi  này ,  chúng  sẽ  bị  mất  hoàn  toàn .
+ _ Đóng  mà  không  lưu
+ Lưu  ...
+ Bảng  chọn
+ Thuộc  tính
+ _ Bung  hết
+ Th _ u  gọn  hết
+ Trình  Glade  là  một  Bộ  Xây  dựng  Giao  diện  Người  dùng  cho  GTK +  và  Gnome .  Phiên  bản  này  là  bản  tạo  lại  của  phiên  bản  Glade  2.0.0 ,  tác  giả  gốc  là  Damon  Chaplin .
+ _ Hiệu  chỉnh ...
+ Dự  án
+ Không  thể  tạo  một  dự  án  mới .
+ Hộp  thoại  giới  thiệu
+ Đóng
+ _ Hồi  lại
+ hành  động  cuối  cùng
+ _ Làm  lại
+ Chế  độ  chọn
+ Chọn  chế  độ  chọn
+ Dán  % s
+ Không  có  ô  điều  khiển  được  chọn  trên  bảng  tạm
+ Chọn  tập  tin
+ Tên  của  ô  điều  khiển .
+ Hồi  lại :  % s
+ Làm  lại :  % s
+ •  Chưa  chọn  ô  điều  khiển .  •
+ Không  thể  dán  nhiều  ô  điều  khiển
+ Không  thể  dán  ô  điều  khiển  % s  vào  mẹ  % s
+ Không  đủ  bộ  giữ  chỗ  trong  bộ  bao  bọc  đích
+ Đối  tượng
+ Danh  sách  các  đối  tượng
+ Danh  sách  thuộc  tính  Glade
+ Chuỗi
+ Strv
+ Mảng  chuỗi
+ Tên  :
+ Ô  điều  khiển
+ Tạo  % s
+ Không  thể  mở  mô-đun  % s .
+ Hạng  tài  sản
+ Đặt  cờ
+ Sửa  đổi  thuộc  tính  chữ
+ _ Chữ  :
+ _ Dịch  được
+ Có  _ tiền  tố  ngữ  cảnh
+ Ghi  _ chú  cho  người  dịch :
+ Không
+ Tên
+ Hạng
+ Đối  tượng :
+ Không  có
+ Tín  hiệu
+ _ Tín  hiệu
+ Đặt  lại  Thuộc  tính  Ô  điều  khiển
+ _ Chung
+ _ Nén
+ _ Hay  dùng
+ Hạng  :
+ Chung
+ Hay  dùng
+ Th _ uộc  tính :
+ _ Chọn  hết
+ _ Bỏ  chọn  hết
+ Thuộc  tính  rộng
+ Thuộc  tính  cao
+ Bộ  chọn
+ Không  tìm  thấy  tập  tin  Glade  % s
+ _ Chọn
+ Có  vùng  chọn
+ Ghi  chú
+ Ghi  chú  cho  người  dịch
+ Dịch  được
+ Có  ngữ  cảnh
+ Bộ  quản  lý
+ Dữ  liệu  người  dùng
+ Tra  tìm
+ Sau
+ Không  tìm  thấy  ký  hiệu  «  % s  »
+ Không  thể  lấy  kiểu  từ  «  % s  »
+ Tên  nội  bộ
+ Tên  nội  bộ  của  ô  điều  khiển .
+ Đối  tượng  tương  ứng
+ Hạng  của  ô  điều  khiển  gtk +  tương  ứng
+ Dự  án  Glade  mà  ô  điều  khiển  này  thuộc  về  nó .
+ Mẹ
+ Bộ  trỏ  tới  GladeWidget  ( ô  điều  khiển )  mẹ .
+ ( % s  nội  bộ )
+ Chuỗi  1
+ Chuỗi  2
+ Tên  tập  tin
+ Đồ  chứa
+ _ Hồi  lại  chuyển
+ _ Làm  lại  chuyển
+ Chọn  _ hết
+ Lượt  chơi  _ mới
+ Thiết  _ lập
+ _ Lượt
+ Chuỗi  mẹo  công  cụ  cho  ô  điều  khiển  nàyGtkPlug "  generic-name = " plug "  _ title = " PlugGtkSocket "  generic-name = " socket "  _ title = " Socket
+ Chọn  màu
+ Tổ  hợp
+ Tạo  thư  mục
+ Cạnh
+ Bung
+ Bộ  bung
+ Chọn  phông  chữ
+ Khung
+ Ô  móc  kéo
+ Bắc
+ Số  mục
+ Số  trang
+ Đổi  thuộc  tính
+ Tỷ  lệ
+ Chọn  thư  mục
+ Nhỏ  hơn
+ Bắt  đầu
+ Chữ
+ Khung  xem  chữ
+ Số  mục  trong  hộp
+ Vị  trí  của  mục  trình  đơn  trong  hệ  vỏ  trình  đơn
+ Chuỗi  của  mục  trình  đơn
+ Cảnh  báo
+ Tây
+ Kiểu  của  hộp  thông  điệp
+ Định  vị
+ Giống  loài
+ Lưu  tối  đa
+ Đệm
+ Người  dùng
+ Ô  điều  khiển  người  dùng
+ Nổi
+ Đơn
+ Sửa  được  chữ
+ Số  điểm  ảnh  giữa  hai  hàng  biểu  tượng
+ Số  điểm  ảnh  giữa  nhãn  và  biểu  tượng
+ Số  điểm  ảnh  tương  ứng  với  một  đơn  vị
+ Thiết  kế  giao  diện  người  dùng
+ Bộ  xây  dựng  GUI  Glade  3.0
+ Bộ  xây  dựng  GUI  Glade
+ Bộ  xây  dựng  GUI  Glade-3
+ Mở ...
+ Lưu ...
+ Fatih  Demir   <  kabalak \ @ gtranslator \ .org  >  Christian  Rose   <  menthos \ @ menthos \ .com  >  Pablo  Saratxaga   <  pablo \ @ mandrakesoft \ .com  >  Duarte  Loreto   <  happyguy _ pt \ @ hotmail \ .com  >  Zbigniew  Chyla   <  cyba \ @ gnome \ .pl  >  Hasbullah  Bin  Pit   <  sebol \ @ ikhlas \ .com  >  Takeshi  AIHANA   <  aihana \ @ gnome \ .gr \ .jp  >
+ Đặt  _ lại ...
+ Không  đủ  bộ  nhớ .
+ Tài  sản  này  không  áp  dụng  cho  % s
+      Thuộc    tính    ảnh    nội    bộ   
+ Tạo  mục  % s
+      Thuộc    tính   
+ Có  một  bộ  hiệu  chỉnh  thanh  trình  đơn  đang  chạy  cho  «  % s  » .  Không  thể  khởi  chạy  nhiều  bộ  hiệu  chỉnh  cho  cùng  một  thanh  trình  đơn .
+ không  rõ
+ GTK +  Bổ  sung
+ Gtk +  Cơ  bản
+ Gtk +  Hộp  thoại  chuẩn
+ Cỡ
+ Số  mục  trong  thanh  công  cụ

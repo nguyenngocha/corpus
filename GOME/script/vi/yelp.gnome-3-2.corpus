@@ -1,0 +1,113 @@
+ Dữ  liệu  nén  không  hợp  lệ
+ Không  đủ  bộ  nhớ
+ Không  tìm  thấy  trang  ' % s '  trong  tài  liệu  ' % s ' .
+ Tập  tin  không  tồn  tại .
+ Tập  tin  ' % s '  không  tồn  tại .
+ Không  thể  phân  tích  tập  tin  ' % s '  vì  nó  chứa  XML  không  đúng  định  dạng .
+ Không  thể  phân  tích  tập  tin  ' % s '  vì  nó  bao  gồm  nhiều  tài  liệu  XML  không  đúng  định  dạng .
+ Không  rõ
+ Không  tìm  thấy  trang  đã  yêu  cầu  trong  tài  liệu  ' % s ' .
+ Đánh  chỉ  mục
+ Nội  dung  tài  liệu  đã  được  lập  chỉ  mục
+ URI  tài  liệu
+ Địa  chỉ  xác  định  tài  liệu
+ Kết  quả  tìm  kiếm  “ % s ”
+ Không  tìm  thấy  trang  trợ  giúp  trùng  khớp  trong  " % s " .
+ Không  tìm  thấy  trang  trợ  giúp  nào  khớp .
+ Có  một  lỗi  không  xác  định  được .
+ Tất  cả  tài  liệu  trợ  giúp
+ Không  thể  phân  tích  tập  tin  ' % s '  vì  nó  không  phải  trang  thông  tin  đúng  định  dạng .
+ Xem
+ Thể  hiện  YelpView  để  điều  khiển
+ Đánh  dấu
+ Bản  cài  đặt  YelpBookmarks
+ Bật  tìm  kiếm
+ Có  dùng  ô  nhập  vị  trí  để  tìm  kiếm  không
+ Tìm  kiếm ...
+ Làm  trống  khung  tìm  kiếm
+ Đánh  dấu  trang  này
+ Gỡ  bỏ  đánh  dấu
+ Đang  nạp
+ Thư  mục  ' % s '  không  tồn  tại .
+ Thiết  lập  Gtk
+ Đối  tượng  GtkSettings  để  lấy  thiết  lập
+ GtkIconTheme
+ Đối  tượng  GtkIconTheme  để  lấy  biểu  tượng
+ Điều  chỉnh  phông  chữ
+ Điều  chỉnh  kích  thước  để  thêm  vào  phông  chữ
+ Hiện  con  trỏ  văn  bản
+ Hiện  con  trỏ  văn  bản  hoặc  dấu  nháy  để  định  hướng  truy  cập
+ Chế  độ  soạn  thảo
+ Bật  các  tính  năng  hữu  ích  cho  trình  soạn  thảo
+ Tên  tập  tin  Cơ  sở  dữ  liệu
+ Tên  tập  tin  của  cơ  sở  dữ  liệu  sqlite
+ XSLT  Stylesheet
+ Vị  trí  của  XSLT  stylesheet
+ Bảng  tính  kiểu  XSLT  ' % s '  bị  thiếu  hoặc  không  hợp  lệ .
+ Không  tìm  thấy  thuộc  tính  href  trên  yelp : document
+ _ In ...
+ _ Lùi
+ Tiế _ p
+ _ Trang  trước
+ Tr _ ang  tiếp  theo
+ Yelp  URI
+ YelpUri  với  vị  trí  hiện  thời
+ Trạng  thái  nạp
+ Trạng  thái  nạp  của  quan  sát
+ Mã  số  trang
+ Mã  số  trang  gốc  của  trang  được  xem
+ Tên  gốc
+ Tên  trang  gốc  của  trang  được  xem
+ Tên  trang
+ Tên  trang  được  xem
+ Mô  tả  trang
+ Mô  tả  của  trang  được  xem
+ Biểu  tượng  trang
+ Biểu  tượng  của  trang  được  xem
+ Bạn  không  có  PackageKit .  Các  liên  kết  cài  đặt  gói  yêu  cầu  PackageKit .
+ Lưu  hình  ảnh
+ Lưu  mã
+ Gửi  email  đến  % s
+ Mở  _ liên  kết
+ Mở  liê _ n  kết  trong  cửa  sổ  mới
+ _ Lưu  ảnh  vào ...
+ _ Lưu  video  vào ...
+ _ Gửi  ảnh  đến ...
+ _ Gửi  video  đến ...
+ _ Chép  văn  bản
+ Sa _ o  chép  khối  mã
+ Lưu  _ khối  mã  vào ...
+ Không  thể  nạp  một  tài  liệu  ' % s '
+ Không  thể  nạp  một  tài  liệu
+ Không  tìm  thấy  Tài  liệu
+ Không  tìm  thấy  trang
+ Không  thể  đọc
+ Lỗi  không  rõ
+ Tìm  kiếm  các  gói  có  chứa  tài  liệu  này .
+ Đường  dẫn  URI  ' % s '  không  trỏ  đến  một  trang  hợp  lệ .
+ URI  không  trỏ  đến  một  trang  hợp  lệ .
+ Không  thể  phân  tích  đường  dẫn  URI  ' % s ' .
+ Bật  chế  độ  soạn  thảo
+ Chữ  _ lớn  hơn
+ Tăng  kích  thước  chữ
+ Chữ  _ nhỏ  hơn
+ Giảm  kích  thước  chữ
+ Trợ  giúp
+ Hiện  _ con  trỏ  văn  bản
+ _ Trang
+ _ Hiển  thị
+ Đế _ n
+ Đánh  _ dấu
+ _ Cửa  sổ  mới
+ Đón _ g
+ _ Tất  cả  Tài  liệu
+ Thê _ m  đánh  dấu
+ _ Gỡ  bỏ  đánh  dấu
+ Tìm  trong  trang ...
+ Mở  địa  chỉ
+ Một  Ứng  dụng  Yelp  điều  khiển  cửa  sổ  này
+ Đọc  sau
+ _ Tìm :
+ Không  có  kết  quả  trùng  khớp
+ Nhận  trợ  giúp  với  GNOME
+ Trang  thông  tin  GNU

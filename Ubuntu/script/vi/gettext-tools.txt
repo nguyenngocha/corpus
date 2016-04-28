@@ -1,0 +1,59 @@
+ đối  sô  không  hợp  lệ  % s  cho  % s
+ đối  số  mơ  hồ  % s  cho  % s
+ Đối  số  hợp  lệ  là :
+ không  tìm  thấy  thư  mục  tạm  thời ,  hãy  thử  đặt  biến  $ TMPDIR
+ không  thể  tạo  thư  mục  tạm  thời  bằng  cách  dùng  mẫu  “ % s ”
+ không  thể  xóa  bỏ  tập  tin  tạm  thời  % s
+ không  thể  xóa  bỏ  thư  mục  tạm  thời  % s
+ lỗi  ghi
+ đang  bảo  tồn  quyền  hạn  cho  % s
+ gặp  lỗi  khi  mở  % s  để  đọc
+ không  thể  mở  tập  tin  sao  lưu  % s  để  ghi
+ lỗi  đọc  % s
+ lỗi  ghi  % s
+ gặp  lỗi  sau  khi  đọc  % s
+ fdopen ( )  thất  bại
+ Không  tìm  thấy  trình  biên  dịch  C #  nên  hãy  cố  cài  đặt  pnet .
+ Không  tìm  thấy  máy  ảo  C #  nên  hãy  cố  cài  đặt  pnet .
+ Không  biết  lỗi  hệ  thống  ấy .
+ Tiến  trình  con  % s  thất  bại
+ % s :  tùy  chọn  “ % s ”  chưa  rõ  ràng ;  khả  năng  là :
+ % s :  tùy  chọn  “ -- % s ”  không  cho  phép  đối  số
+ % s :  tùy  chọn  “ % c % s ”  không  cho  phép  đối  số
+ % s :  tùy  chọn  “ % s ”  yêu  cầu  một  đối  số
+ % s :  không  nhận  ra  tùy  chọn  “ -- % s ”
+ % s :  không  nhận  ra  tùy  chọn  “ % c % s ”
+ % s :  tùy  chọn  không  hợp  lệ  --  “ % c ”
+ % s :  tùy  chọn  cần  một  đối  số  --  “ % c ”
+ % s :  tùy  chọn  “ -W  % s ”  chưa  rõ  ràng
+ % s :  tùy  chọn  “ -W  % s ”  không  cho  phép  đối  số
+ % s :  tùy  chọn  “ -W  % s ”  yêu  cầu  một  đối  số
+ đối  số  “ source _ version ”  ( phiên  bản  nguồn )  không  hợp  lệ  đối  với  “ compile _ java _ class ”  ( biên  dịch  lớp  Java )
+ đối  số  “ target _ version ”  ( phiên  bản  đích )  không  hợp  lệ  đối  với  “ compile _ java _ class ”  ( biên  dịch  lớp  Java )
+ không  tạo  " % s "  được
+ gặp  lỗi  khi  ghi  tập  tin  " % s "
+ Không  tìm  thấy  trình  biên  dịch  Java  nên  hãy  cố  cài  đặt  gcj  hoặc  lập  $ JAVAC .
+ Không  tìm  thấy  trình  máy  ảo  Java  nên  hãy  cố  cài  đặt  gcj  hoặc  lập  $ JAVAC .
+ lỗi  gõ / xuất  trong  tiến  trình  con  % s
+ cạn  bộ  nhớ
+ việc  tạo  tuyến  trình  gặp  lỗi
+ không  ghi  vào  tiến  trình  con  % s  được
+ gặp  lỗi  khi  đọc  từ  tiến  trình  con  % s
+ không  thể  cài  đặt  V / R  không  chặn  đối  với  tiến  trình  con  % s
+ gặp  lỗi  khi  liên  lạc  với  tiến  trình  con  % s
+ tiến  trình  con  % s  đã  kết  thúc  với  mã  thoát  % d`'like this` " and "'
+ ”
+ đang  thiết  lập  quyền  hạn  cho  % s
+ không  tạo  được  ống  dẫn
+ _ open _ osfhandle  đã  thất  bại
+ không  phục  hồi  được  bộ  mô  tả  tập  tin  % d :  dup2  gặp  lỗi
+ Tiến  trình  con  % s
+ Tiến  trình  con  % s  nhận  tín  hiệu  nghiệm  trọng  % d .
+ gặp  lỗi  khi  mở  " % s "  để  ghi
+ “ % s ”  không  phải  là  một  chuỗi  định  dạng  % s  đúng ,  không  giống  với  “ % s ” .  Lý  do :  % s
+ một  đặc  tả  định  dạng  cho  đối  số  % u ,  như  trong  “ % s ” ,  không  tồn  tại  trong  “ % s ”
+ trong  ' % 2 $ s '  không  có  đặc  tả  định  dạng  cho  đối  số  % 1 $ u
+ đặc  tả  định  dạng  trong  “ % s ”  và  “ % s ”  cho  đối  số  % u  không  phải  trùng  nhau
+ Chỉ  thị  số  % u  bắt  đầu  với  ký  hiệu  ống  dẫn  “ | ”  nhưng  không  kết  thúc  với  “ | ” .
+ Trong  số  chỉ  thị  % u ,  hiệu  bài  sau  «  <  »  không  phải  là  tên  của  mac-rô  đăc  tả  định  dạng .  Có  danh  sach  các  tên  mac-rô  hợp  lệ  trong  ISO  C  99  phần  7.8.1 .
+ Trong  số  chỉ  thị  % u ,  hiệu  bài  sau  «

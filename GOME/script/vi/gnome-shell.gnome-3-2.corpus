@@ -1,0 +1,191 @@
+ GNOME  Shell
+ Quản  lý  cửa  sổ  và  chạy  ứng  dụng
+ Bật  công  cụ  nội  bộ ,  hữu  dụng  với  người  phát  triển  và  kiểm  thử ,  qua  Alt-F2
+ Cho  phép  truy  cập  công  cụ  theo  dõi  và  tìm  lỗi  nội  bộ  qua  hộp  thoại  Alt-F2 .
+ UUID  của  phần  mở  rộng  cần  bật
+ Phần  mở  rộng  GNOME  Shell  có  thuộc  tính  uuid .  Khoá  này  liệt  kê  danh  sách  phần  mở  rộng  cần  phải  nạp.  disabled-extensions  ghi  đè  vào  khóa  này  đối  với  những  phần  mở  rộng  có  mặt  ở  cả  hai  danh  sách .
+ Có  thu  thập  thống  kê  sử  dụng  ứng  dụng  không
+ GNOME  Shell  bình  thường  sẽ  theo  dõi  các  ứng  dụng  tích  cực  để  thể  hiện  phù  hợp  ( ví  dụ ,  bộ  phóng ) .  Mặc  dù  thông  tin  này  là  riêng  tư ,  bạn  vẫn  có  thể  tắt  vì  lý  do  cá  nhân .  Chú  ý  là  làm  vậy  sẽ  không  xoá  bỏ  những  dữ  liệu  đã  có .
+ Danh  sách  ID  tập  tin  desktop  của  ứng  dụng  yêu  thích
+ Ứng  dụng  tương  ứng  với  những  định  danh  này  sẽ  được  hiển  thị  ở  vùng  ưa  thích .
+ Phần  cung  cấp  OpenSearch  bị  tắt
+ Hộp  thoại  lịch  sử  lệnh  ( Alt-F2 )
+ Lịch  sử  hộp  thoại  looking  glass
+ Hiện  tuần  trên  lịch
+ Nếu  đúng  ( true ) ,  hiện  tuần  ISO  trong  lịch .
+ Loại  bàn  phím  cần  dùng
+ Loại  bàn  phím  cần  dùng .
+ Hiện  giây
+ Nếu  đúng  ( true ) ,  hiện  giây .
+ Hiện  ngày  trên  đồng  hồ
+ Nếu  đúng  ( true ) ,  hiện  ngày  trên  đồng  hồ ,  bên  cạnh  giờ .
+ Tốc  độ  khung  dùng  lưu  screencast .
+ Tốc  độ  khung  của  screencast  lưu  bởi  bộ  thu  GNOME  Shell  theo  số  khung  mỗi  giây .
+ Ống  dẫn  gstreamer  để  thu  screencast
+ Đặt  ống  dẫn  GStreamer  dùng  để  thu  hình .  Tuân  theo  cú  pháp  gst-launch .  Ống  dẫn  nên  có  pad  sink  không  kết  nối ,  nơi  bắt  đầu  thu .  Bình  thường  cũng  nên  có  source  pad  không  kết  nối ;  đầu  ra  từ  pad  sẽ  được  ghi  vào  tập  tin  kết  quả .  Tuy  nhiên  ống  dẫn  có  thể  tự  lưu  đầu  ra  riêng  -  có  thể  hữu  dụng  để  gửi  kết  quả  đến  máy  chủ  icecast  thông  qua  shout2send  hoặc  tương  tự .  Nếu  bỏ  chọn  hoặc  đặt  giá  trị  rỗng ,  ống  dẫn  mặc  định  sẽ  được  dùng ,  hiện  thời  là  ' videorate  !  vp8enc  quality = 10  speed = 2  threads = % T  !  queue  !  webmmux '  và  lưu  ở  dạng  WEBM  dùng  VP8  codec .  % T  được  dùng  để  thế  chỗ  cho  số  thread  dự  đoán  tối  ưu  cho  hệ  thống .
+ Phần  mở  rộng  dùng  để  lưu  screencast
+ Tên  tập  tin  cho  screencast  được  lưu  sẽ  là  tên  độc  nhất  dự  trên  ngày  hiện  thời ,  và  dùng  phần  mở  rộng  này .  Khi  lưu  ở  định  dạng  khác  nhau  thì  tên  này  cũng  nên  khác  nhau .
+ Phiên  làm  việc ... title
+ Đăng  nhập
+ ( hoặc  quẹt  ngón  tay )
+ Không  có  trong  danh  sách ?
+ Thôibutton
+ Cửa  sổ  đặt  nhập
+ Ngưng
+ Khởi  động  lại
+ Tắt  máy
+ Không  tìm  thấy  lệnh
+ Không  thể  phân  tích  lệnh :
+ Lỗi  thực  hiện  ' % s ' :
+ Tất  cả
+ ỨNG  DỤNG
+ THIẾT  LẬP
+ Cửa  sổ  mới
+ Bỏ  đánh  dấu  ưa  thích
+ Đánh  dấu  ưa  thích
+ Đã  được  đánh  dấu  ưa  thích  cho  % s .
+ Đã  bỏ  đánh  dấu  ưa  thích  cho  % s
+ Thiết  bị  di  động
+ Mở  bằng  % s
+ Đẩy  raevent  list  time
+ Cả  ngàyevent  list  time
+ % H : % Mevent  list  time
+ % l : % M  % pS  M  T  W  T  F  Sgrid  sunday
+ T7
+ T2list  tuesday
+ T3list  wednesday
+ T4list  thursday
+ T6list  saturday
+ CNlist  monday
+ T5list  friday
+ Không  có  lịch  hẹncalendar  heading
+ % A ,  % d  % Bcalendar  heading
+ % A ,  % d  % B  % Y
+ Hôm  nay
+ Ngày  mai
+ Tuần  này
+ Tuần  tới
+ Không  biết
+ Có  mặt
+ Vắng  mặt
+ Bận
+ Ngoại  tuyến
+ LIÊN  LẠC
+ Loại  bỏ
+ Thiết  lập  ngày  giờ
+ Mở  lịch
+ % a  % R : % S ,  % e  % b
+ % a  % R ,  % e  % b
+ % a  % R : % S
+ % a  % R
+ % a  % e  % b ,  % l : % M : % S  % p
+ % a  % e  % b ,  % l : % M  % p
+ % a  % l : % M : % S  % p
+ % a  % l : % M  % pTue  9 : 29  AM
+ % A  % e  % B ,  % Y
+ MỤC  GẦN  ĐÂY
+ Đăng  xuất  % s
+ Đăng  xuất
+ Nhấn  Đăng  xuất  để  thoát  những  ứng  dụng  này  và  đăng  xuất  khỏi  hệ  thống .
+ Đang  xuất  khỏi  hệ  thống .
+ Nhấn  Tắt  máy  để  thoát  những  ứng  dụng  này  và  tắt  máy .
+ Tắt  máy .
+ Nhấn  Khởi  động  lại  để  thoát  những  ứng  dụng  này  và  khởi  động  lại  hệ  thống .
+ Khởi  động  lại  hệ  thống .
+ Cài  đặt
+ Tải  và  cài  đặt  ' % s '  từ  extensions.gnome.org  chứ ?
+ khay
+ Bàn  phím
+ Chưa  cài  phần  mở  rộng
+ Bật
+ Tắt
+ Lỗi
+ Hết  hạn
+ Đang  tải  về
+ Xem  mã  nguồn
+ Trang  Web
+ Mở
+ Thông  tin  hệ  thống
+ Kết  nối
+ Mật  khẩu : 
+ Khoá : 
+ Tên  người  dùng : 
+ Định  danh : 
+ Mật  khẩu  khoá  riêng : 
+ Dịch  vụ : 
+ Mạng  không  dây  cần  xác  thực
+ Cần  mật  mã  hoặc  khoá  mã  để  truy  cập  mạng  không  dây  ' % s '
+ Xác  thực  Wired  802.1X
+ Tên  mạng : 
+ Xác  thực  DSL
+ Cần  mã  PIN
+ Thiết  bị  di  động  băng  thông  rộng  cần  mã  PIN
+ PIN : 
+ Mật  khẩu  mạng  băng  thông  rộng
+ Cần  mật  khẩu  để  kết  nối  đến  ' % s ' .
+ Hoàn  lại
+ Cửa  sổ
+ Ứng  dụng
+ Neo  ứng  dụng
+ Thoát  % sActivitiesOverview
+ Hoạt  động
+ Thanh  đỉnh
+ Lỗi  bỏ  gắn  kết  ' % s '
+ Thử  lại
+ Kết  nối  đến ...
+ ĐỊA  ĐIỂM   &   THIẾT  BỊ
+ Cần  xác  thực
+ Quản  trị
+ Xác  thựcthat  didn 't  work
+ Rất  tiếc ,  không  được .  Vui  lòng  thử  lại .
+ Mật  khẩu :
+ toggle-switch-intl
+ Vui  lòng  nhập  lệnh :
+ Đang  tìm ...
+ Không  tìm  thấy .
+ Chép
+ Dán
+ Hiện  chữ
+ Ẩn  chữ
+ Nhập  sai  mật  khẩu ,  xin  hãy  thử  lại
+ Phóng  to
+ Bàn  phím  màn  hình
+ Cảnh  báo  trực  quan
+ Phím  dính
+ Phím  chậm
+ Phím  dội
+ Phím  chuột
+ Thiết  lập  hỗ  trợ  truy  cập
+ Tương  phản  cao
+ Chữ  lớn
+ Bluetooth
+ Tầm  nhìn
+ Gửi  tập  tin  đến  thiết  bị ...
+ Thiết  lập  thiết  bị  mới ...
+ Thiết  lập  Bluetooth
+ tắt  bởi  phần  cứng
+ đang  ngắt  kết  nối ...
+ đang  kết  nối ...
+ Gửi  tập  tin ...
+ Duyệt  tập  tin ...
+ Lỗi  duyệt  tập  tin
+ Không  thể  duyệt  thiết  bị  yêu  cầu  ,  lỗi  là  ' % s '
+ Thiết  lập  bàn  phím
+ Thiết  lập  chuột
+ Thiết  lập  âm  thanh
+ Yêu  cầu  cấp  quyền  từ  % s
+ Thiết  bị  % s  muốn  truy  cập  dịch  vụ  ' % s '
+ Luôn  cho  phép
+ Chỉ  cho  phép  lần  này
+ Từ  chối
+ Xác  nhận  kết  nối  cho  % s
+ Thiết  bị  % s  muốn  kết  nối  với  máy  tính  này
+ Vui  lòng  xác  nhận  PIN  ' % s '  khớp  với  số  trên  thiết  bị .
+ Khớp
+ Không  khớp
+ Yêu  cầu  kết  nối  cho  % s
+ Vui  lòng  nhập  số  PIN  ghi  trên  thiết  bị .
+ OK
+ Hiện  bố  trí  bàn  phím
+ Thiết  lập  Lãnh  thổ  và  Ngôn  ngữ
+ d  % B, %Y

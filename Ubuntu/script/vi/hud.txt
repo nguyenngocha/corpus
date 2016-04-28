@@ -1,0 +1,20 @@
+ Có  lưu  giữ  dữ  liệu  sử  dụng  không
+ Khi  HUD  thực  thi  các  thao  tác  nó  lưu  giữ  việc  thực  thi  để  làm  cho  kết  quả  sau  này  tốt  hơn .  Một  vài  người  dùng  có  thể  không  muốn  lưu  giữ  dữ  liệu  này .  Nếu  đúng  vậy  họ  cần  vô  hiệu  hóa  thuộc  tính  này .
+ Điểm  tính  cho  một  mục  trình  đơn  có  trong  một  chỉ  thị
+ Để  các  mục  trình  đơn  của  ứng  dụng  xuất  hiện  cao  hơn  trong  kết  quả  tìm  kiếm ,  một  điểm  tính  nhỏ  được  cộng  cho  các  mục  trình  đơn  chỉ  thị .  Giá  trị  này  thể  hiện  tỷ  lệ  của  điểm  tính  đó  nên  số  ' 50 '  có  nghĩa  là  50 %  thêm  vào  quãng  cách  tính  toán .
+ Điểm  tính  cho  các  ký  tự  dư  được  thêm  vào  việc  tìm  kiếm
+ Điểm  tính  cho  mỗi  ký  tự  dư  trong  chuỗi  tìm  kiếm  mà  không  có  trong  câu  văn  của  một  mục  trình  đơn .  Ví  dụ ,  điểm  tính  này  sẽ  được  sử  dụng  nếu  người  dùng  gõ  " tập  tiin "  khi  tìm  mục  trình  đơn  " Tập  tin " .
+ Điểm  tính  được  áp  dụng  nếu  một  ký  tự  bị  bỏ  sót
+ Điểm  tính  cho  mỗi  ký  tự  bị  bỏ  sót  trong  chuỗi  tìm  kiếm ,  khi  so  với  câu  văn  của  một  mục  trình  đơn .  Điều  này  chỉ  áp  dụng  cho  những  ký  tự  nào  không  ở  cuối  mục  tìm  kiếm .  Ví  dụ ,  điểm  tính  này  sẽ  được  áp  dụng  nếu  người  dùng  gõ  " tập  tn "  khi  tìm  mục  trình  đơn  " Tập  tin " .
+ Điểm  tính  được  áp  dụng  nếu  một  ký  tự  bị  bỏ  sót  ở  cuối
+ Điểm  tính  cho  mỗi  ký  tự  thiếu  ở  cuối  mục  tìm  kiếm .  Ví  dụ  điểm  tính  này  sẽ  được  áp  dụng  nếu  người  dùng  gõ  " tập  ti "  khi  tìm  mục  trình  đơn  " Tập  tin " .
+ Điểm  tính  được  áp  dụng  khi  các  ký  tự  không  chính  xác
+ Điểm  tính  cho  mỗi  ký  tự  thay  thế  trong  mục  tìm  kiếm .  Ví  dụ  điểm  tính  này  sẽ  được  áp  dụng  nếu  người  dùng  gõ  " tậo  tin "  khi  tìm  mục  trình  đơn  " Tập  tin " .
+ Giá  trị  quãng  cách  cao  nhất  được  hiện  trong  kết  quả
+ Sau  khi  các  quãng  cách  được  tính  toán  ( bao  gồm  điểm  tính  chỉ  báo )  thì  tất  cả  các  giá  trị  lớn  hơn  giá  trị  tối  đa  này  sẽ  bị  loại  bỏ .  Điều  này  có  nghĩa  là  lịch  sử  của  các  đầu  mục  đó  cũng  không  được  tìm .
+ Chỉ  báo  Vô  danh  ( % s )
+ Ngày
+ Thiết  bị
+ Các  người  dùng
+ Âm  thanh
+ Tin  nhắn

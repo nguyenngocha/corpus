@@ -1,0 +1,575 @@
+ Không  biết  lỗi
+ Lỗi  loại  bỏ  tập  tin  ' % s ' :  % s
+ Lỗi  tạo  thư  mục  % s :  % s
+ Lỗi  tạo  liên  kết  cứng  đến  tài  nguyên  ' % s ' :  % s
+ Đang  nạp ...
+ Đang  tìm  kiếm ...
+ Đang  truy  vấn  cho  liên  lạc  được  cập  nhật …
+ Truy  vấn  nhóm  đã  cập  nhật …
+ Tạo  liên  lạc  mới …
+ Mặt  sau  không  hỗ  trợ  xoá  hàng  loạt
+ Xoá  liên  lạc …
+ Mặt  sau  không  hỗ  trợ  sửa  hàng  loạt
+ Sửa  liên  lạc …
+ Đang  nạp …
+ Cá  nhânCategoryName
+ Bạn  bè
+ Gia  đình
+ Đồng  nghiệp
+ Chưa  kết  nối
+ Dùng  tên  phân  biệt  ( TB )
+ Dùng  địa  chỉ  thư
+ Đang  tái  kết  nối  tới  máy  phục  vụ  LDAP ...
+ Cú  pháp  DN  không  hợp  lệ
+ Đang  thêm  liên  lạc  vào  máy  phục  vụ  LDAP ...
+ Đang  gỡ  bỏ  liên  lạc  khỏi  máy  phục  vụ  LDAP ...
+ Đang  sửa  đổi  liên  lạc  từ  máy  phục  vụ  LDAP ...
+ Đang  nhận  kết  quả  tìm  kiếm  LDAP ...
+ Gặp  lỗi  khi  tìm  kiếm
+ Đang  tải  về  các  liên  lạc  ( % d ) ... 
+ Lỗi  lấy  DN  cho  người  dùng  ' % s '
+ Lỗi  mở  sổ  địa  chỉ  tại  ' % s ' :  % s
+ Lỗi  tạo  tài  nguyên  ' % s '  với  mã  trạng  thái  HTTP :  % d  ( % s )
+ Lỗi  HTTP  DELETE ,  mã  trạng  thái  % d
+ Lỗi  thay  đổi  liên  lạc  với  mã  HTTP :  % d  ( % s )
+ Nạp  tóm  tắt  sổ  địa  chỉ ...
+ Lỗi  HTTP  PROPFIND ,  mã  trạng  thái  % d  ( % s )
+ Đang  nạp  liên  lạc  ( % d % % ) ... 
+ Không  có  sổ  như  vậy
+ Không  tìm  thấy  liên  lạc
+ ID  liên  lạc  đã  có  rồi
+ Không  có  nguồn  như  vậy
+ Hết  chỗ  chứa
+ Lỗi  chạy  book  factory
+ Không  thể  lấy  kết  nối  để  xem
+ ID  duy  nhất
+ Ghi  lưu  là
+ UID  Sách
+ Tên  đầy  đủ
+ Tên
+ Họ
+ Tên  hiệu
+ Thư  điện  tử  1
+ Thư  điện  tử  2
+ Thư  điện  tử  3
+ Thư  điện  tử  4
+ Trình  thư
+ Nhãn  địa  chỉ  nhà
+ Nhãn  địa  chỉ  làm  việc
+ Nhãn  địa  chỉ  khác
+ Điện  thoại  phụ  tá
+ Điện  thoại  kinh  doanh
+ Điện  thoại  kinh  doanh  2
+ Điện  thư  kinh  doanh
+ Số  gọi  lại
+ Điện  thoại  xe
+ Điện  thoại  công  ty
+ Điện  thoại  nhà
+ Điện  thoại  nhà  2
+ Điện  thư  ở  nhà
+ ISDN
+ Điện  thoại  di  động
+ Điện  thoại  khác
+ Điện  thư  khác
+ Số  nhắn  tin
+ Điện  thoại  chính
+ Rađiô
+ Telex
+ TTY
+ Tổ  chức
+ Đơn  vị  tổ  chức
+ Văn  phòng
+ Tựa  đề
+ Vai  trò
+ Quản  lý
+ Phụ  tá
+ Địa  chỉ  trang  chủ  Mạng
+ Địa  chỉ  sổ  ký  sự  Mạng
+ Phân  loại
+ URI  lịch
+ URL  Rảnh / Bận
+ Lịch  ICS
+ Địa  chỉ  hội  thảo  trực  tuyến
+ Tên  vợ / chồng
+ Ghi  chú
+ Tên  màn  hình  AIM  ở  nhà  1
+ Tên  màn  hình  AIM  ở  nhà  2
+ Tên  màn  hình  AIM  ở  nhà  3
+ Tên  màn  hình  AIM  ở  chỗ  làm  1
+ Tên  màn  hình  AIM  ở  chỗ  làm  2
+ Tên  màn  hình  AIM  ở  chỗ  làm  3
+ Tên  màn  hình  GroupWise  ở  nhà  1
+ Tên  màn  hình  GroupWise  ở  nhà  2
+ Tên  màn  hình  GroupWise  ở  nhà  3
+ Tên  màn  hình  GroupWise  ở  chỗ  làm  1
+ Tên  màn  hình  Groupwise  ở  chỗ  làm  2
+ Tên  màn  hình  GroupWise  ở  chỗ  làm  3
+ ID  Jabber  ở  nhà  1
+ ID  Jabber  ở  nhà  2
+ ID  Jabber  ở  nhà  3
+ ID  Jabber  ở  chỗ  làm  1
+ ID  Jabber  ở  chỗ  làm  2
+ ID  Jabber  ở  chỗ  làm  3
+ Tên  màn  hình  Yahoo  ở  nhà  1
+ Tên  màn  hình  Yahoo  ở  nhà  2
+ Tên  màn  hình  Yahoo  ở  nhà  3
+ Tên  màn  hình  Yahoo  ở  chỗ  làm  1
+ Tên  màn  hình  Yahoo  ở  chỗ  làm  2
+ Tên  màn  hình  Yahoo  ở  chỗ  làm  3
+ Tên  màn  hình  MSN  ở  nhà  1
+ Tên  màn  hình  MSN  ở  nhà  2
+ Tên  màn  hình  MSN  ở  nhà  3
+ Tên  màn  hình  MSN  ở  chỗ  làm  1
+ Tên  màn  hình  MSN  ở  chỗ  làm  2
+ Tên  màn  hình  MSN  ở  chỗ  làm  3
+ ID  ICQ  ở  nhà  1
+ ID  ICQ  ở  nhà  2
+ ID  ICQ  ở  nhà  3
+ ID  ICQ  ở  chỗ  làm  1
+ ID  ICQ  ở  chỗ  làm  2
+ ID  ICQ  ở  chỗ  làm  3
+ Sửa  đổi  mới  nhất
+ Tên  hoặc  Tổ  chức
+ Danh  sách  địa  chỉ
+ Địa  chỉ  nhà
+ Địa  chỉ  làm  việc
+ Địa  chỉ  khác
+ Danh  sách  phân  loại
+ Ảnh
+ Biểu  hình
+ Danh  sách  thư  điện  từ
+ Danh  sách  tên  màn  hình  AIM
+ Danh  sách  ID  GroupWise
+ Danh  sách  ID  Jabber
+ Danh  sách  tên  màn  hình  Yahoo
+ Danh  sách  tên  màn  hình  MSN
+ Danh  sách  ID  ICQ
+ Muốn  thư  dạng  HTML
+ Danh  sách
+ Danh  mục  hiện  địa  chỉ
+ Ngày  sinh
+ Kỷ  niệmCategoryName
+ Chứng  nhận  X.509
+ ID  Gadu-Gadu  ở  nhà  1
+ ID  Gadu-Gadu  ở  nhà  2
+ ID  Gadu-Gadu  ở  nhà  3
+ ID  Gadu-Gadu  ở  chỗ  làm  1
+ ID  Gadu-Gadu  ở  chỗ  làm  2
+ ID  Gadu-Gadu  ở  chỗ  làm  3
+ Danh  sách  ID  Gadu-Gadu
+ Thông  tin  Địa  lý
+ Điện  thoại
+ Tên  Skype  ở  nhà  1
+ Tên  Skype  ở  nhà  2
+ Tên  Skype  ở  nhà  3
+ Tên  Skype  ở  chỗ  làm  1
+ Tên  Skype  ở  chỗ  làm  2
+ Tên  Skype  ở  chỗ  làm  3
+ Danh  sách  tên  Skype
+ Địa  chỉ  SIP
+ Google  Talk  ở  nhà  1
+ Google  Talk  ở  nhà  2
+ Google  Talk  ở  nhà  3
+ Google  Talk  ở  chỗ  làm  1
+ Google  Talk  ở  chỗ  làm  2
+ Google  Talk  ở  chỗ  làm  3
+ Danh  sách  tên  Google  Talk
+ Danh  sách  tên  Twitter
+ Danh  sách  vô  danh
+ Thuộc  tính  sổ  lạ  ' % s '
+ Không  thể  thay  đổi  thuộc  tính  sổ  ' % s '
+ Không  đủ  bộ  nhớ
+ Không  tìm  thấy  liên  lạc  ' % s '
+ Truy  vấn  không  hợp  lệ : 
+ Thành  công
+ Hậu  phương  quá  bận
+ Kho  ngoại  tuyến
+ Không  đủ  quyền  truy  cập
+ Xác  thực  thất  bại
+ Cần  xác  thực
+ Trường  không  được  hỗ  trợ
+ Phương  pháp  xác  thực  không  được  hỗ  trợ
+ TLS  không  sẵn  sàng
+ Sổ  địa  chỉ  không  tồn  tại
+ Đã  bỏ  sổ
+ Không  hoạt  động  ngoại  tuyến
+ Vượt  quá  giới  hạn  kích  cỡ  tìm  kiếm
+ Vượt  quá  thời  hạn  tìm  kiếm
+ Truy  vấn  không  hợp  lệ
+ Truy  vấn  bị  từ  chối
+ Không  thể  huỷOther  errorOther  error
+ Phiên  bản  trình  phục  vụ  không  hợp  lệ
+ Đối  số  không  hợp  lệ
+ Chưa  hỗ  trợ
+ Hậu  phương  chưa  mở
+ Lỗi  khác
+ Không  thể  lấy  liên  lạc : 
+ Truy  vấn  rỗng : 
+ Không  thể  thêm  liên  lạc : 
+ Không  thể  sửa  liên  lạc : 
+ Không  thể  mở  sổ : 
+ Không  thể  bỏ  sổ : 
+ Không  thể  cập  nhật  sổ : 
+ Không  thể  lấy  thuộc  tính  hậu  phương : 
+ Không  thể  đặt  thuộc  tính  hậu  phương : 
+ Không  thể  lấy  danh  sách  liên  lạc : 
+ Không  thể  lấy  UID  danh  sách  liên  lạc : 
+ Không  thể  bỏ  liên  lạc : 
+ Không  có  mặt  sau  cho  trong  nguồn  ' % s '
+ Thiếu  UID  nguồn
+ Không  có  nguồn  cho  UID  ' % s '
+ Không  thể  tiếp  cận  máy  chủ  ( % s )
+ Lỗi  kết  nối  tới  máy  chủ  dùng  SSL :  % s
+ Nhận  được  mã  trạng  thái  HTTP  không  mong  đợi  % d  ( % s )
+ Chưa  nạp  mặt  sau  CalDAV
+ URL  tái  định  hướng  không  hợp  lệ
+ Không  thể  tiếp  cận  máy  chủ ,  lịch  mở  trong  chế  độ  chỉ  đọc .  Thông  báo  lỗi :  % s
+ Không  thể  tạo  kho  lưu  trữ  cục  bộ
+ Không  thể  tạo  thư  mục  cache  cục  bộ :  ' % s '
+ Không  thể  tạo  synch  slave  thread
+ CaldAV  không  hỗ  trợ  thêm  hàng  loạt
+ CalDAV  không  hỗ  trợ  sửa  hàng  loạt
+ CalDAV  không  hỗ  trợ  xoá  hàng  loạt
+ Lịch  không  hỗ  trợ  Bận / Rảnh
+ Ngày  sinhCategoryName
+ Ngày  sinh :  % s
+ Kỷ  niệm :  % s
+ Không  thể  lưu  dữ  liệu  lịch :  URI  dạng  sai .
+ Không  thể  lưu  dữ  liệu  lịch
+ URI  hư :  % s
+ Tái  định  hướng  đến  URI  không  hợp  lệ
+ Định  dạng  tập  tin  sai .
+ Không  phải  lịch .
+ Không  thể  tạo  tập  tin  nhớ  tạm
+ Không  thể  lấy  dữ  liệu  thời  tiết :  % s
+ Thời  tiết :  sương  mù
+ Thời  tiết :  đêm  đầy  mây
+ Thời  tiết :  đầy  mây
+ Thời  tiết :  u  ám
+ Thời  tiết :  mưa  rào
+ Thời  tiết :  tuyết
+ Thời  tiết :  đêm  rõ
+ Thời  tiết :  trời  nắng
+ Thời  tiết :  bão  kèm  sấm
+ Dự  báo
+ Không  có  lịch  như  vậy .
+ Không  tìm  thấy  đối  tượng
+ Đối  tượng  không  hợp  lệ
+ URI  chưa  được  tải
+ URI  đã  được  tải
+ Không  biết  người  dùng
+ ID  đối  tượng  đã  tồn  tại
+ Chưa  hỗ  trợ  giao  thức  này
+ Thao  tác  bị  hủy  bỏ
+ Không  thể  hủy  bỏ  tác  vụ
+ Cần  thiết  xác  thực
+ Một  lỗi  ngoại  lệ  D-Bus  đã  xảy  ra
+ Không  có  lỗi
+ Người  dùng  lạ
+ Phạm  vi  không  hợp  lệ
+ Lỗi  chạy  calendar  factory
+ Cuộc  hẹn  không  tên
+ Ngày  1
+ Ngày  2
+ Ngày  3
+ Ngày  4
+ Ngày  5
+ Ngày  6
+ Ngày  7
+ Ngày  8
+ Ngày  9
+ Ngày  10
+ Ngày  11
+ Ngày  12
+ Ngày  13
+ Ngày  14
+ Ngày  15
+ Ngày  16
+ Ngày  17
+ Ngày  18
+ Ngày  19
+ Ngày  20
+ Ngày  21
+ Ngày  22
+ Ngày  23
+ Ngày  24
+ Ngày  25
+ Ngày  26
+ Ngày  27
+ Ngày  28
+ Ngày  29
+ Ngày  30
+ Ngày  31Priority
+ CaoPriority
+ Bình  thườngPriority
+ ThấpPriority
+ Chưa  định  nghĩa
+ Không  thể  xử  lý ,  hậu  phương  lịch  đang  mở
+ Thuộc  tính  lịch  lạ  ' % s '
+ Không  thể  thay  đổi  giá  trị  thuộc  tính  lịch  ' % s '
+ " % s "  không  cần  đến  có  tham  số
+ " % s "  cần  đến  một  tham  số
+ " % s "  cần  đến  tham  số  đầu  tiên  là  chuỗi
+ " % s "  cần  đến  tham  số  đầu  tiên  là  chuỗi  ngày / giờ  theo  ISO  8601
+ " % s "  cần  đến  hai  tham  số
+ " % s "  cần  đến  tham  số  đầu  tiên  là  time _ t
+ " % s "  cần  đến  tham  số  thứ  hai  là  số  nguyên
+ " % s "  cần  hai  hoặc  ba  tham  số
+ " % s "  cần  đến  tham  số  thứ  hai  là  time _ t
+ " % s "  cần  tham  số  thứ  ba  là  chuỗi
+ " % s "  cần  hai  tham  số  hoặc  không  có  tham  số
+ " % s "  cần  đến  tham  số  thứ  hai  là  chuỗi
+ " % s "  cần  đến  đối  số  thứ  nhất  là  " any "  ( bất  kỳ ) ,  " summary "  ( tóm  tắt ) ,  " description "  ( mô  tả ) ,  " location "  ( vị  trí ) ,  " attendee "  ( người  tham  dự ) ,  " organizer "  ( người  tổ  chức )  hoặc  " classification "  ( phân  loại ) .
+ " % s "  cần  đến  ít  nhất  một  tham  số
+ " % s "  cần  đến  mọi  đối  số  đều  là  chuỗi  hoặc  chỉ  có  một  đối  số  và  đối  số  đó  là  boolean  không  thật  ( # f )
+ Phương  pháp  không  được  hỗ  trợ
+ Lịch  không  tồn  tại
+ Không  thể  mở  lịch : 
+ Không  thể  bỏ  lịch : 
+ Không  thể  cập  nhật  lịch : 
+ Không  thể  nhận  thuộc  tính  hậu  phương : 
+ Không  thể  nhận  đường  dẫn  đối  tượng  lịch : 
+ Không  thể  nhận  danh  sách  đường  dẫn  đối  tượng  lịch : 
+ Không  thể  nhận  danh  sách  bận / rảnh : 
+ Không  thể  tạo  đối  tượng  lịch : 
+ Không  thể  thay  đổi  đối  tượng  lịch : 
+ Không  thể  bỏ  đối  tượng  lịch : 
+ Không  thể  nhận  đối  tượng  lịch : 
+ Không  thể  lưu  đối  tượng  lịch : 
+ Không  thể  nhận  URI  đồ  đính  kèm : 
+ Không  thể  huỷ  nhắc  nhở : 
+ Không  thể  lấy  đường  dẫn  khung  xem  lịch : 
+ Không  thể  lấy  múi  giờ  lịch : 
+ Không  thể  thêm  múi  giờ  lịch : 
+ Lời  gọi  không  hợp  lệ
+ Loại  mã  này  không  hỗ  trợ  ký  tên
+ Loại  mã  này  không  hỗ  trợ  xác  minh
+ Loại  mã  này  không  hỗ  trợ  mã  hóa
+ Loại  mã  này  không  hỗ  trợ  giải  mã
+ Bạn  không  thể  nập  khóa  bằng  loại  mã  này
+ Bạn  không  thể  xuất  khóa  bằng  loại  mã  này
+ Đang  ký  thư
+ Đang  mã  hóa  thư
+ Đang  giải  mã  thư
+ Không  thể  tạo  đường  dẫn  nhớ  tạm
+ Không  thể  loại  bỏ  mục  nhớ  tạm :  % s :  % s
+ Không  thể  ghi  mục  bản  ghi :  % s  Các  thao  tác  sau  nữa  trên  máy  phục  vụ  này  sẽ  không  được  thực  hiện  lại  khi  bạn  tái  kết  nối  vào  mạng .
+ Không  thể  mở `%s ':  % s Các thay đổi được tạo ra trong thư mục này sẽ không thể được tái đồng bộ.
+ Đang  tái  đồng  bộ  với  máy  phục  vụ
+ Đang  tải  về  các  thư  cho  chế  độ  ngoại  tuyến
+ Đang  chuẩn  bị  thư  mục  ' % s '  để  dùng  ngoại  tuyến
+ Sao  chép  nội  dung  thư  mục  về  máy  địa  phương  để  phục  vụ  các  thao  tác  _ ngoại  tuyến
+ Bạn  phải  đang  hoạt  động  trực  tuyến  mới  có  thể  hoàn  tất  thao  tác  này .
+ Bị  thôi
+ Lỗi  tạo  tiến  trình  con  ' % s ' :  % s
+ Nhận  luồng  thư  không  hợp  lệ  từ  % s :  % s
+ Đang  đồng  bộ  những  thư  mục
+ Lỗi  phân  tích  bộ  lọc :  % s :  % s
+ Lỗi  thực  hiện  bộ  lọc :  % s :  % s
+ Không  thể  mở  thư  mục  hàng  đợi
+ Không  thể  xử  lý  thư  mục  hàng  đợi
+ Đang  lấy  thông  diệp  % d  ( % d % % )
+ Lỗi  trên  thư  % d
+ Đang  đồng  bộ  thư  mục
+ Hoàn  tất
+ Đang  lấy  thư  % d  trên  % d
+ Lỗi  tại  thư  % d  trên  % d
+ Lỗi  nhận  thư
+ Đối  số  không  hợp  lệ  đối  với  ( system-flag :  cờ  hệ  thống )
+ Đối  số  không  hợp  lệ  đối  với  ( user-tag :  thẻ  người  dùng )
+ Lỗi  thực  hiện  tìm  kiếm  bộ  lọc :  % s :  % s
+ Đang  di  chuyển  thư
+ Đang  chép  thư
+ Đang  xoá  dọn  thư  mục  ' % s '
+ Đang  nhận  thư  ' % s '  trong  % s
+ Đang  lấy  thông  tin  chỉ  tiêu  cho  ' % s '
+ Đang  nạp  lại  thư  mục  ' % s '
+ Không  thể  phân  tích  biểu  thức  tìm  kiếm :  % s :  % s
+ Lỗi  thực  hiện  tìm  kiếm  theo  biểu  thức :  % s :  % s
+ ( % s )  cần  thiết  một  kết  quả  đúng / sai  riêng  lẻ
+ ( % s )  không  được  phép  bên  trong  % s
+ ( % s )  cần  thiết  một  chuỗi  khớp  kiểu  ( match  type )
+ ( % s )  mong  đợi  một  kết  quả  mảng
+ ( % s )  cần  thiết  đặt  thư  mục
+ Lỗi  thực  hiện  GPG :  % s
+ Không  biết
+ Gặp  thư  trạng  thái  GnuPG  không  mong  đợi :  % s
+ Lỗi  phân  tích  chỉ  dẫn  GPG  UserID .
+ Lỗi  phân  tích  yêu  cầu  cụm  từ  mật  khẩu  của  GPG .
+ Bạn  cần  một  mã  PIN  để  mở  khóa  cho  thẻ  thông  minh  của  bạn :  " % s "
+ Bạn  cần  một  cụm  từ  mật  khẩu  để  mở  khóa  cho  người  dùng :  " % s "
+ Nhận  yêu  cầu  không  mong  đợi  từ  GnuPG  cho  " % s "
+ Lỗi  mở  khóa  bí  mật :  đã  cho  3  cụm  từ  mật  khẩu  sai .
+ Tín  hiệu  trả  lời  không  mong  đợi  từ  GnuPG :  % s
+ Lỗi  mã  hóa :  chưa  xác  định  người  nhận .
+ Không  thể  phát  sinh  dữ  liệu  ký  nhận : 
+ Lỗi  thực  hiện  GPG .
+ Không  thể  xác  minh  chữ  ký  thư :  dạng  thức  thư  không  đúng
+ Không  thể  xác  minh  chữ  ký  thư : 
+ Không  thể  phát  sinh  dữ  liệu  mật  mã  hóa : 
+ Đây  là  một  phần  thư  có  mật  mã  hóa  số
+ Không  thể  giải  mật  mã  thư :  dạng  thức  thư  không  đúng
+ Lỗi  giải  mật  mã  phần  MIME :  lỗi  giao  thức
+ Nội  dung  bị  mật  mã  hóa
+ Không  thể  tạo  tóm  tắt  thư  mục  cho  % s
+ Không  thể  tạo  vùng  lưu  trữ  tạm  ( cache )  cho  % s : 
+ _ Lọc  thư  cho  thư  mục  này
+ Máy  chủ  ngắt  kết  nối
+ Lỗi  ghi  vào  luồng  trữ  tạm  ( cache ) : 
+ Chưa  xác  thực
+ Lỗi  thực  hiện  IDLE
+ Lỗi  kết  nối  tới  máy  phục  vụ  IMAP  % s  trong  chế  độ  an  toàn :  % s
+ Chưa  hỗ  trợ  STARTTLS
+ Lỗi  kết  nối  tới  máy  phục  vụ  IMAP  % s  trong  chế  độ  an  toàn : 
+ Máy  phục  vụ  IMAP  % s  không  hỗ  trợ  xác  thực  % s
+ Không  hỗ  trợ  xác  thực  % s
+ Không  thể  xác  thực  mà  không  có  tên  người  dùng
+ Không  có  mật  khẩu  xác  thực
+ Lỗi  lấy  thư
+ Lỗi  chép  tập  tin  tạm
+ Lỗi  đóng  luồng  tạm
+ Lỗi  chép  thư
+ Lỗi  nối  thư
+ Đang  lấy  thông  tin  tóm  tắt  cho  các  thư  mới  trong  ' % s '
+ Đang  quét  tìm  các  thư  thay  đổi  trong  ' % s '
+ Lỗi  lấy  thư  mới
+ Lỗi  khi  lấy  thư
+ Lỗi  nạp  lại  thư  mục
+ Lỗi  xóa  hẳn  thư  cũ
+ Lỗi  lấy  thư  mục
+ Lỗi  đă _ ng  ký  thư  mục
+ Lỗi  tạo  thư  mục
+ Lỗi  xoá  thư  mục
+ Lỗi  đổi  tên  thư  mục
+ Lỗi  thực  hiện  NOOP
+ Không  thể  lấy  thư  có  mã  số  thư  % s :  % s
+ Không  có  thư  như  vậy .
+ Không  thể  tạo  tập  tin  spool : 
+ Máy  phục  vụ  IMAP  % s
+ Dịch  vụ  IMAP  cho  % s  trên  % s
+ Mật  khẩu
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  phục  vụ  IMAP  bằng  mật  khẩu  thô  ( không  mật  mã ) .
+ Không  có  thư  mục  % s .
+ Hộp  nhận
+ Đang  lấy  danh  sách  thư  mục  cho  % s
+ Không  có  thư  mục  như  vậy :  % s
+ Tên  thư  mục  " % s "  không  hợp  lệ  vì  chứa  ký  tự  " % c " .
+ Thư  mục  cha  lạ :  % s
+ Thư  mục  mẹ  không  được  phép  chứa  các  thư  mục  con
+ Luồng  nguồn  không  trả  về  dữ  liệu
+ Luồng  nguồn  không  sẵn  sàng
+ Không  thể  tạo  tập  tin  khóa  cho  % s :  % s
+ Quá  hạn  thử  lấy  tập  tin  khóa  trên  % s .  Sẽ  thử  lại  sau .
+ Lỗi  lấy  khóa  bằng  fcntl ( 2 ) :  % s
+ Lỗi  lấy  khóa  bằng  flock ( 2 ) :  % s
+ Không  thể  xây  dựng  ống  dẫn  hỗ  trợ  khoá :  % s
+ Không  thể  tạo  tiến  trình  hỗ  trợ  khóa :  % s
+ Không  thể  khóa  ' % s ' :  lỗi  giao  thức  với  bộ  hỗ  trợ  khóa  ( lock-helper )
+ Không  thể  khóa  ' % s '
+ Không  thể  kiểm  tra  tập  tin  thư  % s :  % s
+ Không  thể  mở  tập  tin  thư  % s :  % s
+ Không  thể  mở  tập  tin  thư  tạm  % s :  % s
+ Lỗi  lưu  thư  vào  tập  tin  tạm  % s :  % s
+ Không  thể  tạo  ống  dẫn :  % s
+ Không  thể  tạo  tiến  trình :  % s
+ Lỗi  chương  trình  movemail  ( chuyển  di  thư ) :  % s
+ ( Lỗi  lạ )
+ Lỗi  đọc  tập  tin  thư :  % s
+ Lỗi  ghi  tập  tin  thư  tạm :  % s
+ Lỗi  sao  chép  tập  tin  thư  tạm :  % s
+ Không  có  nội  dung
+ Không  có  chữ  ký
+ lỗi  phân  tích
+ Đang  phân  giải :  % s
+ Lỗi  tra  cứu  máy  phục  vụ :  không  tìm  thấy  máy  phục  vụ
+ Lỗi  tra  cứu  máy  phục  vụ :  % s :  % s  ( không  tìm  thấy  máy  phục  vụ )
+ Đang  phân  giải  địa  chỉ
+ Lỗi  tra  cứu  máy  phục  vụ  tên
+ Lỗi  tra  cứu  máy  phục  vụ  tên :  % s
+ Không  thể  kết  nối  tới  % s : 
+ Đang  đồng  bộ  thư  trong  thư  mục `%s ' vào đĩa
+ Không  thể  tạo  thư  mục  ' % s ' :  % s
+ Bộ  cung  cấp  thư  mục  ảo
+ Để  đọc  thư  như  là  một  truy  vấn  của  một  tập  các  thư  mục  khác
+ Không  thể  tải  % s :  hệ  thống  này  chưa  hỗ  trợ  tính  năng  tải  mô  đun .
+ Không  thể  tải  % s :  % s
+ Không  thể  tải  % s :  không  có  mã  khởi  động  trong  mô  đun
+ Không  có  bên  nào  cung  cấp  giao  thức `%s '
+ Vô  danh
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  phục  vụ  bằng  cách  đang  nhập  vô  danh .
+ Xác  thực  thất  bại .
+ Thông  tin  truy  tìm  địa  chỉ  thư  không  hợp  lệ :  % s
+ Thông  tin  truy  tìm  địa  chỉ  bí  hiểm  không  hợp  lệ :  % s
+ Thông  tin  truy  tìm  không  hợp  lệ :  % s
+ CRAM-MD5
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  phục  vụ  dùng  mật  khẩu  an  toàn  CRAM-MD5 ,  nếu  máy  chủ  có  hỗ  trợ .
+ DIGEST-MD5
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  phục  vụ  bằng  mật  khẩu  an  toàn  DIGEST-MD5 ,  nếu  máy  phục  vụ  có  hỗ  trợ .
+ Lệnh  thách  thức  máy  phục  vụ  quá  dài  ( trên  2048  octet ) .
+ Lệnh  thách  thức  máy  phục  vụ  không  hợp  lệ .
+ Lệnh  thách  thức  máy  phục  vụ  chứa  hiệu  bài  " Quality  of  Protection "  ( mức  bảo  vệ )  không  hợp  lệ .
+ Hồi  đáp  của  máy  phục  vụ  không  chứa  dữ  liệu  để  xác  thực .
+ Hồi  đáp  của  máy  phục  vụ  chứa  dữ  liệu  xác  thực  không  hoàn  chỉnh .
+ Hồi  đáp  của  máy  phục  vụ  không  khớp .
+ GSSAPI
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  chu  bằng  cơ  chế  xác  minh  Kerberos  5 .
+ Cơ  chế  xác  định  không  được  hỗ  trợ  do  thông  tin  xác  thực  đã  cung  cấp ,  hoặc  không  được  chấp  nhận  do  cách  thực  hiện .
+ Tham  số  target _ name  ( tên  đích )  được  cung  cập  có  dạng  thức  sai .
+ Tham  số  target _ name  ( tên  đích )  chứa  loại  tên  không  hỗ  trợ  hoặc  không  hợp  lệ .
+ Tham  số  input-token  ( hiệu  bài  gõ )  chứa  thẻ  đóng  kết  kênh  khác  với  điều  do  tham  số  input-chan-bindings  ( thẻ  đóng  kết  kênh  gõ )  xác  định .
+ Tham  số  input _ token  ( hiệu  bài  gõ  chứa  chữ  ký  không  hợp  lệ ,  hoặc  chữ  ký  không  được  xác  nhận .
+ Thông  tin  xác  thực  không  hợp  lệ  để  khởi  động  ngữ  cảnh ,  hoặc  móc  nó  không  tham  chiếu  đến  thông  tin  xác  thực  nào .
+ Móc  ngữ  cảnh  được  cung  cấp  không  tham  chiếu  đến  một  ngữ  cảnh  hợp  lệ .
+ Thao  tác  kiểm  tra  đồng  bộ  được  thực  hiện  trên  input _ token  ( hiệu  bài  gõ )  đã  thất  bại .
+ Thao  tác  kiểm  tra  đồng  bộ  được  thực  hiện  trên  thông  tin  xác  thực  đã  thất  bại .
+ Đã  tham  chiếu  đến  thông  tin  xác  thực  đã  hết  hạn .
+ Trả  lời  xác  thực  sai  từ  máy  phục  vụ .
+ Tầng  bảo  mật  chưa  được  hỗ  trợ .
+ Đăng  nhập
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  phục  vụ  bằng  mật  khẩu  đơn  giản .
+ Trạng  thái  xác  thực  lạ .
+ NTLM  /  SPA
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  phục  vụ  dựa  vào  Windows  dùng  NTLM  /  SPA
+ THÔ
+ POP  trước  SMTP
+ Tùy  chọn  này  sẽ  xác  thực  kết  nối  POP  trước  khi  thử  SMTP
+ UID  nguồn  POP
+ Xác  thực  POP  trước  SMTP  dùng  truyền  tải  lạ
+ Đã  thử  xác  thực  POP  trước  SMTP  với  dịch  vụ  % s
+ Biên  dịch  biểu  thức  chính  quy  thất  bại :  % s :  % s
+ GType  không  hợp  lệ  đăng  ký  cho  giao  thức  ' % s '
+ Xác  thực  % s  thất  bại
+ Không  hỗ  trợ  chuyển  tiếp  thư
+ % sHãy  gõ  mật  khẩu  POP  cho  % s  trên  máy  % s
+ Không  thể  tìm  chứng  nhận  cho  ' % s '
+ Không  thể  tạo  thư  CMS
+ Không  thể  tạo  dữ  liệu  có  chữ  ký  CMS
+ Không  thể  đính  kèm  dữ  liệu  có  chữ  ký  CMS
+ Không  thể  đính  kèm  dữ  liệu  CMS
+ Không  thể  tạo  thông  tin  Chữ  ký  CMS
+ Không  thể  tìm  dây  chứng  nhận
+ Không  thể  thêm  thời  gian  ký  nhận  CMS
+ Chứng  nhận  mã  hóa  cho  " % s "  không  tồn  tại
+ Không  thể  thêm  thuộc  tính  SMIMEEncKeyPrefs  ( sở  thích  khóa  mã  hóa  S / MIME )
+ Không  thể  thêm  thuộc  tính  MS  SMIMEEncKeyPrefs  ( sở  thích  khóa  mã  hóa  S / MIME  MS )
+ Không  thể  thêm  chứng  nhận  mã  hóa
+ Không  thể  thêm  thông  tin  Chữ  ký  CMS
+ Chưa  thẩm  tra
+ Chữ  ký  tốt
+ Chữ  ký  sai
+ Nội  dung  bị  giả  mạo  hay  bị  thay  đổi  trong  khi  truyền
+ Không  tìm  thấy  chứng  nhận  ký  tên
+ Chứng  nhận  ký  tên  không  đáng  tin
+ Không  biết  thuật  toán  chữ  ký
+ Không  hỗ  trợ  thuật  toán  chữ  ký
+ Chữ  ký  dạng  thức  sai
+ Lỗi  xử  lý
+ Không  có  dữ  liệu  có  ký  tên  trong  chữ  ký
+ Thiếu  điều  tóm  tắt  thư  trong  dữ  liệu  được  bao
+ Không  thể  tính  những  điều  tóm  tắt
+ Không  thể  đặt  những  điều  tóm  tắt  thư
+ Lỗi  nạp  chứng  nhận
+ Chứng  nhận  là  toàn  thư ;  không  thể  thẩm  tra  chứng  nhận
+ Chứng  nhận  là  toàn  thư ;  các  chứng  nhận  được  nạp  và  được  thẩm  tra
+ Không  tìm  thấy  điều  tóm  tắt  chữ  ký
+ Ký  tên  do  :  % s 

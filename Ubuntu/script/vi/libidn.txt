@@ -1,0 +1,39 @@
+ Thành  công
+ Chuẩn  bị  chuỗi  gặp  lỗi
+ punycode  ( mã  yếu  đuối )  gặp  lỗi
+ Dữ  liệu  nhập  chứa  ký  tự  khác  chữ  số / chữ / dấu  gạch  nối
+ Không  cho  phép  dấu  gạch  nối  (`- ') đi trước hay theo sau
+ Dữ  liệu  xuất  sẽ  quá  lớn  hay  quá  nhỏ
+ Dữ  liệu  nhập  không  bắt  đầu  bằng  tiền  tố  ACE  (`xn-- ')
+ Chuỗi  không  tránh  nhân  lên  dưới  ToASCII
+ Dữ  liệu  nhập  đã  sẵn  chứa  tiền  tố  ACE  (`xn-- ')
+ Lỗi  iconv  hệ  thống
+ Không  thể  cấp  phát  bộ  nhớ
+ Lỗi  dlopen  hệ  thống
+ Lỗi  không  rõ
+ Chuỗi  không  không  thay  đổi  giá  trị  ( sau  khi  tự  nó  nhân  lên )  dưới  sự  tiêu  chuẩn  hoá  NFKC  Unicode
+ Dữ  liệu  nhập  không  hợp  lệ
+ Dữ  liệu  xuất  sẽ  vượt  quá  dung  lượng  bộ  nhớ  đệm  đã  cung  cấp
+ Giới  hạn  kích  cỡ  chuỗi  bị  vượt  quá
+ Cấm  gán  điểm  mã  trong  dữ  liệu  nhập
+ Dữ  liệu  nhập  chứa  điểm  mã  cấm
+ Dữ  liệu  nhập  chứa  tài  sản  hai  hướng  xung  đột
+ Chuỗi  thuận  nghịch  có  dạng  sai
+ Dữ  liệu  nhập  chứa  điểm  mã  hai  hướng  cấm
+ Lỗi  trong  định  nghĩa  hồ  sơ  stringprep  ( chuẩn  bị  chuỗi )
+ Cờ  xung  dột  với  hồ  sơ
+ Hồ  sơ  lạ
+ Lỗi  tiêu  chuẩn  hoá  Unicode  ( lỗi  nội  bộ )
+ Điểm  mã  bị  cấm  bởi  miền  cấp  đầu
+ Thiếu  dữ  liệu  nhập
+ Không  tìm  thấy  miền  cấp  đầu  trong  dữ  liệu  nhập
+ Bộ  ký  tự  " % s " .
+ Gõ  mỗi  chuỗi  nhập  trên  một  đường  riêng ,  kết  thúc  bằng  ký  tự  dòng  mới .
+ stringprep _ profile :  % s
+ punycode _ encode :  % s
+ malloc
+ punycode _ decode :  % s
+ idna _ to _ ascii _ 4z :  % s
+ idna _ to _ unicode _ 8z4z  ( TLD ) :  % s
+ tld _ check _ 4z :  % s
+ idna _ to _ unicode _ 8z4z :  % s

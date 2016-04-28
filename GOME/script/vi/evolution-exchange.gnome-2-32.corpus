@@ -1,0 +1,74 @@
+ Xác  định  khoảng  thời  gian  giữa  hai  lần  cập  nhật  Bộ  nhớ  tạm  GAL .
+ Khoá  này  xác  định  số  ngày  giữa  hai  lần  cập  nhật  bộ  nhớ  tạm  GAL .  Đặt  giá  trị  này  thành  số  không ,  nếu  bạn  không  muốn  cập  nhật  GAL ,  vẫn  muốn  sử  dụng  bộ  nhớ  tạm  hiện  thời  từ  giờ  trở  đi .  Thiết  lập  này  sẽ  hoạt  động  được  chỉ  nếu  bạn  đã  bật  khả  năng  lưu  tạm  ngoại  tuyến  cho  GAL .
+ Đang  tìm  kiếm ...
+ Đang  kết  nối  lại  tới  máy  phục  vụ  LDAP ...
+ Đang  nhận  kết  quả  tìm  kiếm  LDAP ...
+ Lỗi  thực  hiện  tìm  kiếm
+ Nguồn  «  % s  »  bận  trong  khoảng  thời  gian  đã  chọn .
+ Không  có  Chủ  đề
+ Thư  này  không  sẵn  sàng  trong  chế  độ  ngoại  tuyến .
+ Không  thể  lấy  thư  mới
+ Không  thể  xoá  hẳn  trong  chế  độ  ngoại  tuyến .
+ Đang  di  chuyển  thư ...
+ Đang  sao  chép  thư ...
+ Không  thể  tạo  thư  mục  % s :  % s
+ Không  thể  tải  bản  tóm  tắt  cho  % s
+ Không  thể  tạo  bộ  nhớ  tạm  cho  % s
+ Không  thể  tạo  nhật  ký  cho  % s
+ Đang  quét  tìm  thư  đã  thay  đổi
+ Đang  lấy  thông  tin  tóm  tắt  về  các  thư  mới
+ Không  tìm  thấy  tên  thư  mục
+ Thư  mục  không  tồn  tại
+ Không  thể  phụ  thêm  thư  trong  chế  độ  ngoại  tuyến :  không  có  sẵn  bộ  nhớ  tạm
+ Không  thể  phụ  thêm  thư  trong  chế  độ  ngoại  tuyến :  % s
+ Mật  khẩu  kiểu  Nhập  thô  hay  Bảo  mật
+ Mật  khẩu  nhập  thôSecure  Password  Authentication
+ Mật  khẩu  bảo  mật
+ Đang  kiểm  tra  có  thư  mới  chưa
+ Kiểm  tra  có  t _ hư  mới  chưa  trong  mọi  thư  mụcUser _ name
+ Tê _ n  người  dùng  Windows :
+ Danh  sách  địa  chỉ  toàn  cục / Thư  mục  hoạt  độngGlobal  Catalog
+ Tên  máy  phục  vụ  Danh  bạ  t _ oàn  cục :
+ Giới  hạn  số  đáp  ứng  GA _ L :  % s
+ Cách  xác  _ thực :
+ Cho  phép  _ duyệt  qua  GAL  đến  khi  tới  giới  hạn  tải  xuống
+ Tùy  chọn
+ Giai  đoạn  cảnh  báo  hết  hạn  dùng  _ mật  khẩu  :  % s
+ Tự  động  đồng  bộ  h _ oá  nội  bộ  tài  khoản
+ Á _ p  dụng  các  bộ  lọc  cho  thư  mới  trong  hộp  Đến  trên  máy  phục  vụ  này
+ Kiểm  tra  có  đoạn  _ Rác  trong  thư  mới
+ Chỉ  kiểm  tr _ a  có  thư  Rác  trong  thư  mục  hộp  Đến
+ Microsoft  Exchange
+ Để  thao  tác  thư  ( và  các  dữ  liệu  khác )  trên  máy  phục  vụ  kiểu  Microsoft  ExchangeNTLM
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  phục  vụ  Exchange  sử  dụng  việc  xác  thực  với  mật  khẩu  bảo  mật  ( NTLM ) .
+ Tùy  chọn  này  sẽ  kết  nối  tới  máy  phục  vụ  Exchange  sử  dụng  việc  xác  thực  với  mật  khẩu  nhập  thô  chuẩn .
+ Máy  phục  vụ  Exchange  % s
+ Tài  khoản  Exchange  cho  % s  trên  % s
+ Không  thể  xác  thực  tới  máy  phục  vụ .  ( Mật  khẩu  sai ? )
+ Không  có  thư  mục  như  vậy  % s
+ Không  thể  tạo  thư  mục  trong  chế  độ  ngoại  tuyến .
+ Không  thể  xoá  bỏ  thư  mục  trong  chế  độ  ngoại  tuyến .
+ Không  thể  thay  đổi  tên  của  thư  mục  trong  chế  độ  ngoại  tuyến .
+ Không  thể  đăng  ký  thư  mục  trong  chế  độ  ngoại  tuyến .
+ Không  thể  hủy  đăng  ký  thư  mục  trong  chế  độ  ngoại  tuyến .
+ Truyền  tải  Exchange  có  thể  dùng  chủ  với  nguồn  thư  Exchange
+ Không  thể  gửi  thư  :  một  hoặc  vài  người  nhận  không  hợp  lệ
+ Không  tìm  thấy  địa  chỉ  «  Từ  »  trong  thư
+ Không  thể  mở  thư  mục
+ Không  thể  mở  thư  mục :  không  đủ  quyền
+ Không  có  thư  mục  như  vậy
+ Không  đủ  quyền
+ Không  thể  tạo  thư  mục .
+ Không  thể  mở  thư  mục  Đã  xoá  bỏ
+ Không  thể  đổ  thư  mục  Đã  xoá  bỏ
+ Không  đủ  quyền  truy  cập .  Không  thể  xoá  một  số  thư  nào  đó .
+ Không  thể  phụ  thêm  thư ;  hộp  thư  vượt  quá  giới  hạn
+ Không  thể  phụ  thêm  thư
+ Không  có  thư  như  vậy
+ Thư  đã  bị  xoá  bỏ
+ Lỗi  lấy  thư
+ Hộp  thư  không  hỗ  trợ  khả  năng  tìm  kiếm  kiểu  đoạn  chữ  đầy  đủ
+ Không  thể  di  chuyển / sao  chép  thư
+ Không  có  địa  chỉ  URI  đệ  trình  thư  dành  cho  hộp  thư  này
+ Máy  phục  vụ  không  chấp  nhận  thư  qua  truyền  tải  Exchange
+ Tài  khoản  của  bạn  không  có  quyền  sử  dụng 

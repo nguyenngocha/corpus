@@ -1,0 +1,466 @@
+ ディスク ・ ユーティリティ
+ ドライブとメディアの管理
+ ディスク通知
+ ディスクに関する通知を行います
+ データの破損を防ぐため 、 作業が終わるまで待ってからメディアを外したり 、 デバイスを切断したりしてださい 。
+ デバイス
+ ダイアログに表示するデバイス
+ テキスト
+ 表示するテキスト
+ ディスク ・ ユーティリティを起動する際にエラーが発生しました
+ フォーマットするデバイス
+ DEVICE
+ 操作をキャンセルしました
+ Gnome  ディスク ・ ユーティリティ  フォーマットツール
+ % 2 $ s  ( % 3 $ s )  の  % 1 $ d  パーティションをフォーマット
+ % 2 $ s  ( % 3 $ s )  の  % 1 $ d  パーティションをフォーマット中です
+ % s  をフォーマット  ( % s )
+ % s  をフォーマット中  ( % s )
+ % s  のボリューム  ( % s )  をフォーマット
+ % s  のボリューム  ( % s )  をフォーマット中
+ 準備しています ...
+ アンマウント中 ...
+ ' % s '  をフォーマットできません
+ フォーマット中 ...
+ キャンセル中 ...
+ 論理ボリュームの削除中にエラーが発生しました
+ ボリュームをアンマウント ( _ M )
+ デバイスのマウント中にエラーが発生しました
+ キーリングにパスフレーズを格納中にエラーが発生しました
+ % s  にスペアを追加
+ RAIDアレイ  " % 2 $ s "  ( % 3 $ s )  を拡張して  % 1 $ s  を利用するデバイスを1つ以上選択してください
+ Read  Error  Retry  Rate
+ ディスクからrawデータを読み出す際のエラーの頻度です 。 値が0でない場合 、 ディスク表面または読み書きヘッドのどちらかに問題があります 。
+ Throughput  Performance
+ ディスクの平均的な効率
+ Spinup  Time
+ ディスクのスピンアップに必要な時間です 。
+ Start / Stop  Count
+ スピンドルモータが回転 / 停止した回数
+ Reallocated  Sector  Count
+ リマッピング処理が適用されたセクタ数 。 ハードディスクがリード ・ ライト ・ ベリファイ中にエラーを発見すると 、 そのセクタは 「 リマップ 」 としてマークされ 、 データはリマップ用の予約領域 ( リマップ領域 ) へ移動されます 。
+ Read  Channel  Margin
+ データ読み込み時のチャンネルのマージンです 。
+ Seek  Error  Rate
+ 位置決めの際のエラーの頻度です 。
+ Seek  Timer  Performance
+ ヘッド移動オペレーションにかかった時間の平均
+ Power-On  Hours
+ パワーオンステートになってからの経過時間です 。
+ Spinup  Retry  Count
+ スピンアップを試みたリトライの回数
+ Calibration  Retry  Count
+ スピンアップを試みたリトライの回数
+ Power  Cycle  Count
+ パワーオン ・ イベントの回数
+ Soft  Read  Error  Rate
+ ディスクからの読み込みの際に発生した  ' プログラム '  エラーの頻度です 。
+ Reported  Uncorrectable  Errors
+ ハードウェア  ECC  を利用しても回復できないエラーの回数です 。
+ High  Fly  Writes
+ 記録ヘッドが通常の動作領域からずれた回数です
+ Airflow  Temperature
+ ドライブのエアフロー温度
+ G-sense  Error  Rate
+ 外部からの衝撃によって発生したオペレーション失敗の頻度
+ Load / Unload  Cycle  Count
+ Temperature
+ Reallocation  Count
+ 代替処理を行った回数です 。 この属性の生の値は 、 代替セクタから空き領域にデータを移動を試みた  ( 成功 / 失敗の両方の )  総数を表しています 。
+ Uncorrectable  Sector  Count
+ セクタの読み書きの際に発生した回復不可能なエラーの総数です 。 この属性の値が上昇した場合 、 ディスクの表面や機械的な部分 、 もしくはその両方に不具合が発生していることを表しています 。
+ UDMA  CRC  Error  Rate
+ UDMA  モード時に発生した  CRC  エラーの回数
+ Write  Error  Rate
+ ディスク書き込み時のエラー発生回数  ( または )  multi-zone  errorの発生率  ( または )  ヘッド距離
+ オフトラック ・ エラーの回数
+ Data  Address  Mark  Errors
+ データアドレスマーク  ( DAM )  エラーの回数  ( または )  ベンダ固有値
+ Run  Out  Cancel
+ ECC  エラーの回数
+ Soft  ECC  correction
+ ディスク表面上のヘッドの高度です
+ ドライブのスピンアップ時に使用した高電流量です
+ Disk  Shift
+ プラッタのズレは 、 ディスクの保存中に落下や過酷な温度条件などの大きな負荷がかかった場合に現れることがあります
+ Loaded  Hours
+ パワーオンステートになってからの経過時間です 。
+ Good  Block  Rate
+ ディスクから読み取りの際に発生したエラー数
+ 属性  % d  の説明はありません 。
+ 正規化値 :
+ 最悪値 :
+ しきい値 :
+ 値 :
+ N / A
+ Failed  in  the  past
+ 警告
+ Good
+ SMART  セルフテストを選択Run  self-test
+ 短時間  ( およそ10分以下 ) ( _ S )
+ 詳細  ( およそ数十分 ) ( _ E )
+ 伝送テスト  ( およそ10分以下 ) ( _ O ) Run  self-test  dialog
+ セルフテストを実行 ( _ R ) 1.0  TB  Hard  DiskATA  WDC  WD1001FALS-00J7B1
+ % s  ( % s )  –  SMART  データ
+ 更新 :
+ パワーオン :
+ 温度 :
+ バッドセクタ :
+ 自己評価 :
+ 総合評価 :
+ 更新 ( _ R )
+ 属性 ( _ A )
+ ID
+ 属性
+ 評価
+ 値
+ ディスクが故障している場合に警告をしない ( _ W ) Don 't  warn  me  if  disk  is  failing
+ % .1f  年
+ % .1f  日
+ % .1f  時間
+ % .1f  分
+ % .1f  秒
+ % s  ミリ秒
+ % .0f °  C  /  % .0f °  F ( Pre-Fail )
+ 故障検知は 、 近い将来にディスクが故障するであろうという予測です ( Pre-Fail ) ( Old-Age )
+ 故障検知は 、 寿命によるものです ( Old-Age ) ( Online )
+ 常にデータを収集 ( オンライン ) ( Not  Online )
+ タイプ :  % s  更新 :  % s  Raw :  0x % 02x % 02x % 02x % 02x % 02x % 02xOverall  Assessment
+ デバイスが選択されていませんOverall  Assessment
+ SMART  はサポートされていませんOverall  Assessment
+ SMART  データは収集されませんOverall  Assessment
+ SMART  データがフォーマットに従っていませんSelf-assessmentBad  SectorsPowered  OnPower  CyclesTemperatureSelf-tests
+ 不明
+ 合格Self-assessment
+ 故障中Bad  Sectors
+ 失敗  ( 取扱い時のダメージの疑いあり ) Self-tests
+ 表示 ( _ B ) ... Browse ...
+ 他のマシンのストレージデバイスを管理するには 、 アドレスを入力して  " 接続 "  を押してください 。   セキュア  ・  シェル   プロトコルを使って接続します 。 Server  Address
+ サーバアドレス ( _ A ) : User  Name
+ 最大サイズ
+ アレイの名前 ( _ N ) : New  RAID  Array
+ チェックした場合 、 選択されたディスク全体が  RAID  アレイとして使用されます 。 チェックしない場合 、 パーティションが作成されます 。 RAID-1
+ ベンチマーク ( _ B ) Fedora "  or  " 1.0  TB  Hard  Disk158  GB  RAID-0  ArrayATA  WDC  WD1001FALS-00J7B1
+ % 3g  msLast  Benchmark
+ キャンセルCancel
+ 現在実行中のベンチマークをキャンセルしますPartition  1  of  ATA  INTEL  SSDSA2MH080G1GC
+ 容量 :
+ 割り当て済
+ 状態 :
+ スペア ( Spare )
+ ディスク ・ ユーティリティ ( _ U ) Disk  Utility
+ 名前 ( _ N ) : New  Volume
+ 暗号化はファイルシステムを使用可能状態にする前にパスフレーズの入力を要求し 、 あなたのデータを保護します 。 パフォーマンスが低下する可能性と 、 他のオペレーションシステムでこのメディアを使用する際に互換性がない可能性があります 。
+ ターミナル ・ ページャ  ( less ) application  name
+ パスフレーズが一致しません
+ パスフレーズが変わっていません
+ パスフレーズは空にできません
+ パスフレーズの変更 ( _ P )
+ ロック解除 ( _ U )
+ 暗号化デバイスを作成するには 、 保護するためのパスフレーズを選択してください 。
+ パスフレーズを変更するには 、 現在のものと新しいパスフレーズの両方を入力してください 。
+ このデバイス上のデータは 、 パスフレーズで保護された暗号化形式で保存されています 。
+ このデバイス上のデータは 、 パスフレーズで保護された暗号化形式で保存されます 。
+ このデバイス上のデータは 、 パスフレーズで保護された暗号化形式で保存されています 。
+ データを利用可能な状態にするには 、 デバイスのパスフレーズを入力してください 。
+ パスフレーズが間違っています 。 もう一度試してください 。
+ 現在のパスフレーズ ( _ U ) :
+ 新しいパスフレーズ ( _ N ) :
+ パスフレーズの確認 ( _ V ) :
+ パスフレーズ ( _ P ) :
+ すぐにパスフレーズを忘れる ( _ F )
+ ログアウトするまでパスワードを記憶する ( _ L )
+ 永久に記憶する ( _ R )
+ パスフレーズの入力
+ UUID  % s  の  LUKS  パスフレーズ
+ 空です  ( ファイルシステムを作成しません )
+ 未使用領域
+ 拡張パーティション
+ マスターブートレコード
+ GUID  パーティションテーブル
+ パーティション分割しない
+ Apple  パーティションテーブル
+ パーティションスキーム
+ 選択されたパーティションスキーム
+ スキーム ( _ S ) :
+ 現在選択されているもののサイズ
+ 最小サイズ
+ 選択可能な最小サイズ
+ 選択可能な最大サイズ
+ 1  分以内
+ ドライブ
+ RAID  アレイは停止中です
+ メディアは検出されていません
+ 拡張領域のサイズ :
+ 暗号化済み
+ フォーマット ( _ F ) ...
+ 選択したデバイスに新しいファイルシステムを作成
+ コンパクトフラッシュ
+ スマートメディア
+ SD  メモリカード
+ フロッピー
+ Zip
+ CD
+ DVD
+ Blu-Ray
+ HD  DVDDrive42  GB "  or  " 5  KB
+ ファイルシステムのラベルを編集 ( _ L )
+ % s  ドライブ
+ % s  % s  ドライブ
+ % s  ハードディスク
+ ハードディスク
+ % s  SSD
+ % s  メディア
+ MBR  パーティションテーブル
+ パーティション分けされています
+ パーティション分けされていません
+ LVM2  ボリュームグループ未割り当て領域
+ % s  % s  アレイ
+ % s  アレイ
+ RAID  アレイ  % s  ( % s )
+ RAID  デバイス  % sRAID  Level  fallback
+ RAID
+ RAID  アレイLinux  MD  slave  state
+ 接続されていませんLinux  MD  slave  state
+ 故障 ( Faulty ) Linux  MD  slave  state
+ 部分的に同期していますLinux  MD  slave  state
+ Write-mostlyモードLinux  MD  slave  state
+ ブロック ( Blocked ) Linux  MD  slave  state
+ ローカルストレージ
+ % s  のストレージ
+ デバイスの一覧を作成する際にエラー :  % s
+ ポートの一覧を作成する際にエラー :  % s
+ アドレス `localhost:%d ' をlistenする際にエラーが発生しました: %s: %s
+ ローカル  TCP  サーバの作成時にエラーが発生しました 。 localhost  の  9000-10000  番ポートでのバインドを試してください 。
+ 論理ボリューム名の設定中にエラーが発生しました
+ コマンドライン `%s ' のパースに失敗しました (アドレス間違い?):  % s
+ ssh  プログラムを起動できませんでした :  % s
+ 標準エラー出力の読み込み中にエラー :  % s
+ 標準エラー出力の読み込み中にエラー :  内容なし
+ ログイン中にエラーが発生しました
+ 予期せぬ標準エラー出力  - `udisks-tcp-bridge: Waiting for secret ' を予期していましたが `%s' でした。
+ 認証用の秘密鍵の受け渡しでエラーが発生しました :  % s
+ 標準エラーを以下より読み込み中にエラー :  % s
+ % s  ( % s  バイト )
+ FAT  ( 12ビット )
+ FAT
+ FAT  ( 16ビット )
+ FAT  ( 32ビット )
+ NTFS  ( バージョン  % s )
+ NTFS
+ HFS
+ HFS +
+ LUKS
+ Ext2  ( バージョン  % s )
+ Ext2
+ ext2
+ Ext3  ( バージョン  % s )
+ Ext3
+ ext3
+ jbd
+ Ext4
+ ext4
+ XFS  ( バージョン  % s )
+ XFS
+ xfs
+ ReiserFS  ( バージョン  % s )
+ ReiserFS
+ reiserfs
+ ISO  9660
+ iso9660
+ udf
+ スワップ領域
+ スワップ
+ lvm2 _ pv
+ raid
+ Minix
+ minix
+ ファイルシステムを作成中
+ ファイルシステムをマウント中
+ ファイルシステムをアンマウント中
+ ファイルシステムをチェック中
+ LUKS  デバイスを作成中
+ LUKS  デバイスをロック解除中
+ LUKS  デバイスをロック中
+ パーティションテーブルを作成中
+ パーティションを削除中
+ パーティションを作成中
+ パーティションを変更中
+ デバイスのラベルを設定中
+ 暗号化  LUKS  デバイスのパスフレーズを変更中
+ RAID  アレイにコンポーネントを追加中
+ RAID  アレイからコンポーネントを取り外し中
+ RAID  アレイを停止中
+ RAID  アレイを開始中
+ RAID  アレイをチェック中
+ RAID  アレイを修復中
+ メディアの取り出し中にエラーが発生しました
+ デバイスを取り外し中
+ 強制的にファイルシステムをアンマウント中
+ 強制的に  LUKS  デバイスをロック中
+ Linux  基本データパーティション
+ Linux  RAID  パーティション
+ Linux  スワップ ・ パーティション
+ Linux  LVM  パーティション
+ Linux  予約パーティション
+ MBR  パーティションスキーム
+ EFI  システムパーティション
+ BIOS  起動パーティション
+ Microsoft  予約パーティション
+ Microsoft  基本データパーティション
+ パーティションを作成 ( _ C )
+ FAT  12
+ FAT  16
+ FAT  32
+ FAT  16  ( Windows )
+ FAT  32  ( Windows )
+ Empty  ( 0x00 )
+ FAT12  ( 0x01 )
+ FAT16   <  32M  ( 0x04 )
+ 拡張  ( 0x05 )
+ FAT16  ( 0x06 )
+ HPFS / NTFS  ( 0x07 )
+ W95  FAT32  ( 0x0b )
+ W95  FAT32  ( LBA )  ( 0x0c )
+ W95  FAT16  ( LBA )  ( 0x0e )
+ OPUS  ( 0x10 )
+ 隠し属性付きFAT12  ( 0x11 )
+ パーティションマジック  ( 0x3c )
+ Minix  ( 0x81 )
+ Linux  スワップ  ( 0x82 )
+ Linux  ( 0x83 )
+ FreeBSD  ( 0xa5 )
+ OpenBSD  ( 0xa6 )
+ Mac  OS  X  ( 0xa8 )
+ Mac  OS  X  ( 0xaf )
+ Solaris  ( 0xbf )
+ BeOS  BFS  ( 0xeb )
+ SkyOS  SkyFS  ( 0xec )
+ EFI  GPT  ( 0xee )
+ EFI  ( FAT-12 / 16 / 32  ( 0xef )
+ 不明  ( % d )
+ % .1f  KB / s
+ % .1f  MB / s
+ % .1f  GB / s
+ SATA
+ eSATA
+ PATA
+ ATA
+ SCSI
+ USB
+ Firewire
+ SDIO
+ 仮想connection  name
+ % s  % sRAID  level
+ LVM2  物理ボリューム  % sRAID  level
+ RAID-0RAID  level
+ RAID-1RAID  level
+ RAID-4RAID  component  type
+ RAID-5RAID  component  type
+ RAID-6RAID  component  type
+ RAID-10RAID  level
+ リニア
+ ディスクが故障しかけていますblank
+ CD-ROM  ディスク
+ 空の  CD-ROM  ディスク
+ CD-R  ディスク
+ 空の  CD-R  ディスク
+ CD-RW  ディスク
+ 空の  CD-RW  ディスク
+ DVD-ROM  ディスク
+ 空の  DVD-ROM  ディスク
+ DVD-RW  ディスク
+ 空の  DVD-RW  ディスク
+ DVD-RAM  ディスク
+ 空の  DVD-RAM  ディスク
+ DVD + R  ディスク
+ 空の  DVD + R  ディスク
+ DVD + RW  ディスク
+ 空の  DVD + RW  ディスク
+ DVD + R  DL  ディスク
+ 空の  DVD + R  DL  ディスク
+ DVD + RW  DL  ディスク
+ 空の  DVD + RW  DL  ディスク
+ Blu-Ray  ディスク
+ 空の  Blu-Ray  ディスク
+ Blu-Ray  R  ディスク
+ 空の  Blu-Ray  R  ディスク
+ Blu-Ray  RW  ディスク
+ 空の  Blu-Ray  RW  ディスク
+ HD  DVD  ディスク
+ 空の  HD  DVD  ディスク
+ HD  DVD-R  ディスク
+ 空の  HD  DVD-R  ディスク
+ HD  DVD-RW  ディスク
+ 空の  HD  DVD-RW  ディスク
+ MO  ディスク
+ 空の  MO  ディスク
+ MRW  ディスク
+ 空の  MRW  ディスク
+ MRW / W  ディスク
+ 空の  MRW / W  ディスク
+ 空の光学ディスク
+ % s  拡張領域
+ 論理パーティションを含んでいます
+ 暗号化パーティション  % s
+ 光学ディスク
+ パーティションテーブル  % s
+ マルチパスドライブLocationSAS  Host  Adapter
+ % 2 $ s  の  PHY  % 1 $ dLocationSATA  Host  Adapter
+ % 2 $ s  の  ポート  % 1 $ dWrite  Cache
+ 有効Write  Cache
+ 無効Rotation  Rate
+ % d  RPMRotation  Rate
+ モデル名 :
+ シリアルナンバー :
+ ファームウェアバージョン : World  Wide  Name " ,  please  include  the  abbreviation  " WWN
+ ボリューム名 :
+ 位置 :
+ 回転速度 :
+ 接続 :
+ パーティション :
+ 取り出し ( _ E )
+ ドライブのパフォーマンスを計測Number  of  Ports
+ パラレル  ATA
+ シリアル  ATA
+ ベンダ :
+ リビジョン :
+ ドライバ :
+ ポート数 :
+ RAID  アレイの作成中にエラーが発生しました
+ 削除 ( _ R )
+ 停止中
+ 部分的に実行中
+ 実行中LVM2  LV  State
+ 名前 :
+ デグレード状態RAID  status
+ 停止中です 。 部分的に構築されています 。 RAID  status
+ 停止中RAID  status
+ 再構築中RAID  action
+ リシンク中RAID  action
+ 修復中RAID  action
+ リカバリ中RAID  action
+ チェック中RAID  action
+ アイドル
+ 開始 ( _ S )
+ RAID  アレイでコンポーネントの作成中にエラーが発生しました
+ レベル :
+ マウントポイント : LVM2  LV  State
+ ブート可能
+ 必要
+ 読み込み許可
+ 書き込み許可
+ ファイルシステム
+ % s  は以下でマウント
+ マウントされていません
+ パーティション ・ タイプやラベルやフラグを変更
+ パーティションを削除 ( _ E )
+ パーティションを削除
+ 新規論理ボリュームを作成
+ % s  —  ディスク ・ ユーティリティ
+ % s  ( % s )  [ % s ]  @  % s  —  ディスク ・ ユーティリティ
+ % s  ( % s )  @  % s  —  ディスク ・ ユーティリティ
+ % s  ( % s )  [ % s ]  —  ディスク ・ ユーティリティ
+ % s  ( % s )  —  ディスク ・ ユーティリティ
+ “ % s ”  に接続中にエラーが発生しました
+ 草野  貴之     AE5T \ -KSN \ @ asahi \ -net \ .or \ .jp    日本GNOMEユーザー会 

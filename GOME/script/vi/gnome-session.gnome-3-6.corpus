@@ -1,0 +1,96 @@
+ Chọn  câu  lệnh
+ Thêm  chương  trình  chạy  lúc  khởi  động
+ Sửa  chương  trình  chạy  lúc  khởi  động
+ Không  cho  phép  tạo  lệnh  khởi  động  rỗng
+ Lệnh  khởi  động  không  hợp  lệ
+ Bật
+ Biểu  tượng
+ Chương  trình
+ Tuỳ  chọn  ứng  dụng  khởi  chạy
+ Không  tên
+ Không  mô  tả
+ Phiên  bản  của  ứng  dụng
+ Không  thể  hiện  tài  liệu  trợ  giúp
+ GNOME  phòng  bị
+ GNOME
+ Phiên  chạy  này  sẽ  đăng  nhập  bạn  vào  GNOME
+ Vài  chương  trình  vẫn  đang  chạy :
+ Đang  chờ  chương  trình  kết  thúc .  Ngắt  những  chương  trình  này  có  thể  dẫn  đến  mất  dữ  liệu .
+ Ứng  dụng  Khởi  chạy
+ Hãy  chọn  những  ứng  dụng  nào  cần  khởi  chạy  khi  bạn  đăng  nhập
+ _ Chương  trình  khởi  động  thêm :
+ Chương  trình  khởi  động
+ _ Tự  động  nhớ  các  ứng  dụng  đang  chạy  khi  đăng  xuất
+ _ Nhớ  ứng  dụng  đang  chạy
+ Tùy  chọn
+ Duyệt …
+ C _ hú  thích :
+ Lệ _ nh :
+ _ Tên :
+ Tập  tin  không  phải  là  một  tập  tin  .desktop  hợp  lệ
+ Không  nhận  ra  tập  tin  màn  hình  nền  phiên  bản  ' % s '
+ Đang  khởi  chạy  % s
+ Ứng  dụng  không  chấp  nhận  tài  liệu  thông  qua  dòng  lệnh
+ Không  nhận  ra  tùy  chọn  khởi  chạy :  % d
+ Không  thể  gởi  địa  chỉ  URI  của  tài  liệu  cho  một  mục  nhập  màn  hình  nền  «  Kiểu = Liên _ kết  »
+ Không  phải  một  mục  có  thể  khởi  chạy
+ Tắt  kết  nối  với  trình  quản  lý  phiên  chạy
+ Ghi  rõ  tập  tin  chứa  cấu  hình  đã  lưu
+ TẬP _ TIN
+ Xác  định  ID  quản  lý  phiên  chạy
+ ID
+ Tùy  chọn  quản  lý  phiên  chạy :
+ Hiện  tùy  chọn  quản  lý  phiên  chạy
+ Không  thấy  biểu  tượng  ' % s '
+ Chưa  xác  định
+ Một  chương  trình  vẫn  đang  chạy :
+ Vẫn  chuyển  đổi  người  dùng
+ Vẫn  đăng  xuất
+ Vẫn  Ngưng
+ Vẫn  Ngủ  đông
+ Vẫn  tắt  máy
+ Vẫn  cứ  khởi  động  lại
+ Khoá  màn  hình
+ Thôi
+ Hiện  bạn  đăng  nhập  với  tên  " % s "
+ Đăng  xuất  ra  hệ  thống  này  ngay  bây  giờ  ?
+ Đổ _ i  người  dùng
+ Đăng  _ xuất
+ Tắt  hệ  thống  này  ngay  bây  giờ ?
+ N _ gưng
+ _ Ngủ  đông
+ _ Khởi  chạy  lại
+ _ Tắt  máy
+ Khởi  động  lại  hệ  thống  này  ngay  bây  giờ ?
+ Ồ  không !   Có  cái  gì  đó  bị  hỏng  rồi .
+ Hệ  thống  gặp  vấn  đề  không  thể  phục  hồi .  Vui  lòng  liên  lạc  quản  trị  hệ  thống .
+ Hệ  thống  gặp  vấn  đề  không  thể  phục  hồi .  Mọi  phần  mở  rộng  đã  bị  tắt  để  đề  phòng .
+ Hệ  thống  gặp  vấn  đề  không  thể  phục  hồi .  Hãy  đăng  xuất  và  thử  lại .
+ Lỗi  nạp  GNOME  3
+ Rất  tiếc  không  thể  khởi  động  GNOME  3  nên  đang  chạy  trong    chế   độ   phòng   bị  .  Nhiều  khả  năng  hệ  thống  của  bạn  ( phần  cứng  đồ  hoạ  hoặc  trình  điều  khiển )  không  đủ  khả  năng  chạy  GNOME  3 .
+ Tìm  hiểu  thêm  về  GNOME  3
+ Không  trả  lời
+ Ứng  dụng  đã  nhớ
+ Chương  trình  này  đang  ngăn  cản  đăng  xuất .
+ Đang  từ  chối  kết  nối  khách  mới  vì  phiên  chạy  đang  bị  tắt
+ Không  thể  tạo  ổ  cắm  lắng  nghe  ICE :  % s
+ Không  thể  khởi  chạy  phiên  đăng  nhập  ( và  không  thể  kết  nối  đến  X  server )
+ Đè  thư  mục  autostart  chuẩn
+ AUTOSTART _ DIR
+ Phiên  làm  việc  cần  dùng
+ SESSION _ NAME
+ Bật  mã  hỗ  trợ  tìm  lỗi
+ Đừng  nạp  ứng  dụng  do  người  dùng  xác  định
+ Hiện  cửa  sổ  cá  voi  thất  bại  để  kiểm  tra
+ Đăng  xuất
+ Tắt  máy
+ Khởi  động  lại
+ Bỏ  qua  các  ứng  dụng  ngăn  cản
+ Không  yêu  cầu  xác  nhận
+ Không  thể  kết  nối  với  trình  quản  lý  phiên  chạy
+ Chương  trình  được  gọi  với  tuỳ  chọn  xung  đột
+   Vài   chương   trình   vẫn   đang   hoạt   đọng  : 
+ Thoát  với  mã  % d
+ Bị  buộc  thoát  bởi  tín  hiệu  % d
+ Bị  dừng  bởi  tín  hiệu  % d
+ Gặp  vấn  đề  với  trình  phục  vụ  cấu  hình .  ( % s  đã  thoát  với  trạng  thái  % d )

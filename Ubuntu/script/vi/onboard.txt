@@ -1,0 +1,25 @@
+ Chung
+ Đoạn  mã
+ _ Xem  biểu  tượng  tình  trạng
+ Kết  hợp  Màn  hình  nền
+ Thiết  _ lập
+ Đoạn  mã  là  những  đoạn  văn  bản  sẽ  được  điền  vào  sau  khi  đã  nhấn  vào  nút  tương  tác  trên  onBoard .
+ Không  có  trình  duyệt  tệp  để  mở  thư  mục  chứa  kiểu  bàn  phím
+ Snippet  n ,  unassigned
+ Phím  Alt
+ Phím  Alt  Gr
+ Phím  CAPS  ( hoặc  CAPSLOCK )
+ Phím  Ctrl
+ Del
+ End
+ Ent
+ Phím  Home
+ Phím  Ins
+ Phím  Menu
+ Pause
+ Prnt
+ Phím  Enter
+ Scroll
+ Phím  Tab
+ Phím  Win
+ Thiết  lập

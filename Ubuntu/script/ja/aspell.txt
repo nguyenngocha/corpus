@@ -1,0 +1,4 @@
+ 0  と  1  の間の数
+ "  <  name  >  <  value  >  "  の形式
+Aspell %s.  Copyright 2000-2011 by Kevin Atkinson.
+    %s ãã£ã«ã¿: %s

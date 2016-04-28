@@ -1,0 +1,44 @@
+ Cách  sử  dụng :  iconv  [ -c ]  [ -s ]  [ -f  từ _ mã ]  [ -t  đến _ mã ]  [ tập _ tin  ... ]
+ hoặc :     iconv  -l
+ Hãy  thử  lệnh  trợ  giúp  «  % s  --help  »  để  xem  thông  tin  thêm .
+ Cách  sử  dụng :  % s  [ TÙY _ CHỌN ... ]  [ -f  BẢNG _ MÃ ]  [ -t  BẢNG _ MÃ ]  [ TẬP _ TIN _ NHẬP ... ]
+ hoặc :     % s  -l
+ Chuyển  đổi  văn  bản  từ  bảng  mã  này  sang  bảng  mã  khác .
+ Các  tùy  chọn  điều  khiển  định  dạng  nhập  vào  và  xuất  ra :
+ -f  BẢNG _ MÃ ,  --from-code = BẢNG _ MÃ                                bảng  mã  của  kết  nhập
+ -t  BẢNG _ MÃ ,  --to-code = BẢNG _ MÃ                                bảng  mã  của  kết  xuất
+ Các  tùy  chọn  điều  khiển  vấn  đề  chuyển  đổi :
+ -c                           hủy  Các  ký  tự  không  thể  chuyển  đổi
+ --unicode-subst = CHUỖI _ ĐỊNH _ DẠNG                                thay  thế  các  ký  tự  Unicode  không  thể  chuyển  đổi
+ --byte-subst = CHUỖI _ ĐỊNH _ DẠNG  \ t \ t \ t \ t \ t \ tthay  thế  các  byte  không  thể  chuyển  đổi
+ --widechar-subst = CHUỖI _ ĐỊNH _ DẠNG                               \ t \ tthay  thế  các  ký  tự  rộng  không  thể  chuyển  đổi
+ Các  tùy  chọn  điều  khiển  kết  xuất  lỗi :
+ -s ,  --silent                 thu  hồi  các  thông  điệp  về  vấn  đề  chuyển  đổi
+ Xuất  thông  tin :
+ -l ,  --list                   Liệt  kê  các  bảng  mã  được  hỗ  trợ
+ --help                       Hiển  thị  trợ  giúp  này  rồi  thoát
+ --version                    hiển  thị  thông  tin  về  phiên  bản  rồi  thoát  Report  translation  bugs  to   <  \ . \ . \ .  >
+ Thông  báo  lỗi  cho   <  bug \ -gnu \ -libiconv \ @ gnu \ .org  >  .
+ Tác  giả :  % s .
+ Đối  số  % s :  ở  đây  không  cho  phép  chỉ  thị  định  dạng  có  độ  rộng  thay  đổi .
+ Đối  số  % s :  ở  đây  không  cho  phép  chỉ  thị  định  dạng  có  độ  chính  xác  thay  đổi .
+ Đối  số  % s :  ở  đây  không  cho  phép  chỉ  thị  định  dạng  có  kích  cỡ .
+ Đối  số  % s :  chuỗi  kết  thúc  ở  giữa  chỉ  thị .
+ Đối  số  % s :  ký  tự  «  % c  »  không  phải  là  bộ  xác  định  chuyển  đổi  hợp  lệ .
+ Đối  số  % s :  ký  tự  kết  thúc  chỉ  thị  định  dạng  không  phải  là  bộ  xác  định  chuyển  đổi  hợp  lệ .
+ không  thể  chuyển  đổi  sự  thay  thế  byte  sang  Unicode :  % s
+ không  thể  chuyển  đổi  sự  thay  thế  Unicode  sang  bảng  mã  đích :  % s
+ không  thể  chuyển  đổi  sự  thay  thế  byte  sang  chuỗi  rộng :  % s
+ không  thể  chuyển  đổi  sự  thay  thế  ký  tự  rộng  sang  bảng  mã  đích :  % s
+ không  thể  chuyển  đổi  sự  thay  thế  byte  sang  bảng  mã  đích :  % s
+ % s : % u : % u :  không  thể  chuyển  đổishift  sequencestateful
+ % s : % u : % u :  dây  kiểu  ký  tự  hay  dịch  chưa  hoàn  thành
+ % s : % u : % u
+ % s :  lỗi  V / R
+ không  hỗ  trợ  khả  năng  chuyển  đổi  từ  % s
+ không  hỗ  trợ  khả  năng  chuyển  đổi  sang  % s
+ không  hỗ  trợ  khả  năng  chuyển  đổi  từ  % s  sang  % s
+ hãy  thử  lệnh  «  % s  -l  »  để  xem  danh  sách  các  bảng  mã  được  hỗ  trợ
+ ( thiết  bị  nhập  chuẩn )
+ % s
+ Lỗi  V / R

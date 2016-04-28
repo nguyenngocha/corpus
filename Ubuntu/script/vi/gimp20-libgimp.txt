@@ -1,0 +1,393 @@
+ thành  công
+ lỗi  thực  thi
+ lỗi  gọi
+ bị  huỷ
+ Vùng  chọn  chỗi  vẽ
+ _ Duyệt
+ Phần  bổ  sung  % s  không  thể  xử  lý  lớp
+ Trộn  các  lớp  hiển  thị
+ Phần  bổ  sung  % s  không  thể  xử  lý  các  độ  dịch ,  kích  cỡ  hay  độ  đục  của  lớp
+ Phần  bổ  sung  % s  có  thể  xử  lý  các  lớp  chỉ  như  là  các  khung  hoạt  cảnh
+ Lưu  dạng  hoạt  cảnh
+ Làm  phẳng  ảnh
+ Phần  bổ  sung  % s  không  thể  xử  lý  độ  trong  suốt
+ Phần  bổ  sung  % s  không  thể  xử  lý  mặt  nạ  lớp
+ Áp  dụng  mặt  nạ  lớp
+ Phần  bổ  sung  % s  có  thể  xử  lý  chỉ  các  ảnh  kiểu  RGB
+ Chuyển  đổi  sang  RGB
+ Phần  bổ  sung  % s  có  thể  xử  lý  chỉ  ảnh  kiểu  mức  xám
+ Chuyển  đổi  sang  mức  xám
+ Phần  bổ  sung  % s  có  thể  xử  lý  chỉ  ảnh  phụ  lục
+ Chuyển  đổi  thành  Phụ  Lục  bằng  các  thiết  lập  mặc  định  ( tự  làm  để  chỉnh  kết  quả )
+ Phần  bổ  sung  % s  có  thể  xử  lý  chỉ  ảnh  phụ  lục  kiểu  mảng  ảnh  ( hai  màu )
+ Chuyển  đổi  thành  Phụ  Lục  bằng  các  thiết  lập  mảng  ảnh  mặc  định  ( tự  làm  để  chỉnh  kết  quả )
+ Phần  bổ  sung  % s  chỉ  có  thể  xử  lý  ảnh  kiểu  RGB  hay  mức  xám
+ Phần  bổ  sung  % s  có  thể  xử  lý  chỉ  ảnh  kiểu  RGB  hay  phụ  lục
+ Phần  bổ  sung  % s  có  thể  xử  lý  chỉ  ảnh  phụ  lục  hay  mức  xám
+ Phần  bổ  sung  % s  cần  một  kênh  anfa
+ Thêm  kênh  anfa
+ Xác  nhận  Lưu
+ Xác  nhận
+ Xuất  ra  tập  tin
+ Bỏ  _ qua
+ _ Xuất
+ Ảnh  nên  được  xuất  ra  trước  khi  nó  được  lưu  dạng  % s ,  vì  những  lý  do  sau  :
+ Việc  chuyển  đổi  khi  xuất  ra  sẽ  không  sửa  đổi  ảnh  gốc  của  bạn .
+ Bạn  sắp  lưu  một  mặt  nạ  lớp  dạng  % s .  Việc  này  sẽ  không  lưu  các  lớp  hiển  thị .
+ Bạn  sắp  lưu  một  kênh  ( vùng  chọn  được  lưu )  dạng  % s .  Việc  này  sẽ  không  lưu  các  lớp  hiển  thị .
+ Chọn  phông
+ Không  chân
+ Chọn  gradientnothing  selected  and  nothing  to  select
+ ( Rỗng )
+ Chọn  mẫu
+ theo  tên
+ theo  mô  tả
+ theo  trợ  giúp
+ theo  tác  giả
+ theo  tác  quyền
+ theo  ngày
+ theo  kiểu
+ Không  tìm  thấy
+ Đang  tìm  kiếm
+ Đang  tìm  kiếm  theo  tên
+ Đang  tìm  kiếm  theo  mô  tả
+ Đang  tìm  kiếm  theo  trợ  giúp
+ Đang  tìm  kiếm  theo  tác  giả
+ Đang  tìm  kiếm  theo  tác  quyền
+ Đang  tìm  kiếm  theo  ngày
+ Đang  tìm  kiếm  theo  kiểu
+ Tham  số
+ Giá  trị  trả  lại
+ Thông  tin  thêm
+ Tác  giả :
+ Ngày :
+ Tác  quyền :
+ phần  trăm
+ T _ rắng  ( đục  tuyệt  đối )
+ Đ _ en  ( trong  suốt  tuyệt  đối )
+ Kênh  _ anfa  của  lớp
+ _ Truyền  kênh  anfa  của  lớp
+ _ Vùng  chọn
+ Bản  sao  mức  _ xám  của  lớp
+ Kên _ h
+ Cảnh  gần  thành  nền  ( RGB )
+ Cảnh  gần  thành  nền  ( HSV )
+ Cảnh  gần  thành  trong  suốt
+ Dốc  tự  chọn
+ Màu  tô  cảnh  gần
+ Màu  tô  nền
+ Điền  mẫu
+ Thêm  vào  vùng  chọn  hiện  thời
+ Loại  khỏi  vùng  chọn  hiện  thời
+ Thay  thế  vùng  chọn  hiện  thời
+ Cắt  chéo  với  vùng  chọn  hiện  thời
+ Đỏ
+ Xanh  lá  cây
+ Xanh  dương
+ Xám
+ Chỉ  mục
+ Anfa
+ Nhỏ
+ Vừatext-hint-style
+ Lớn
+ Đối  sánh  nhạt
+ Đối  sánh  nửa  sắc
+ Đối  sánh  tối
+ Chỉ  màu  trắng
+ Chỉ  màu  xám
+ Chỉ  màu  đen
+ Ảnh
+ Mẫu
+ Độ  nhạt
+ Độ  sáng
+ Trung  bình
+ Tránh
+ Đốt
+ Tuyến  tính
+ Tuyến  kép
+ Toả  tròn
+ Vuông
+ Chóp  nón  ( đối  xứng )
+ Chóp  nón  ( không  đối  xứng )
+ Vỡ  hình  ( ở  góc )
+ Vỡ  hình  ( hình  cầu )
+ Vỡ  hình  ( nhiều  trũng )
+ Xoắn  ốc  ( xuôi  chiều )
+ Xoắn  ốc  ( ngược  chiều )
+ Giao  ( chấm )
+ Giao  ( chữ  thập  mảnh )
+ Gạch  gạch
+ Gạch  đôi
+ Đặc
+ ID  chuẩn
+ Bộ  đệm  điểm  ảnh  trực  tiếp
+ Tập  tin  ảnh
+ Màu  RGB
+ Mức  xám
+ Màu  chỉ  mục
+ RGB
+ RGB-anfa
+ Mức  xám-anfa
+ Chỉ  mục-anfa
+ Không  có
+ Khối
+ Sinc  ( Lanczos3 )
+ Hằng  số
+ Tăng  dần
+ Sóng  răng  cưa
+ Sóng  tam  giác
+ Chạy  tương  tác
+ Chạy  không  tương  tác
+ Chạy  với  các  giá  trị  mới  dùng
+ Điểm  ảnh
+ Điểm
+ Bóng
+ Nửa  sắc
+ Nổi  bật
+ Bình  thường  ( Tới ) transform-direction
+ transform-resize
+ Điều  chỉnhtransform-resize
+ Xéntransform-resize
+ Thủ  tục  GIMP  nội  bộ
+ Phần  bổ  sung  GIMP
+ Phần  mở  rộng  GIMP
+ Thủ  tục  tạm  thờitext-direction
+ text-direction
+ Nhẹ
+ Đầytext-justification
+ Canh  tráitext-justification
+ Canh  phải
+ Giữatext-justification
+ Điền  đầy
+ ( chuỗi  UTF-8  không  hợp  lệ )
+ Chế  độ  thao  tác  quản  lý  màu  sắc .
+ Hồ  sơ  màu  của  màn  hình  ( chính )  của  bạn .
+ Khi  bật ,  GIMP  sẽ  thử  dùng  hồ  sơ  màu  bộ  trình  bày  từ  hệ  thống  cửa  sổ .  Hồ  sơ  bộ  trình  bày  đã  cấu  hình  thì  chỉ  dùng  là  sự  chọn  phòng  bị .
+ Hồ  sơ  màu  vùng  làm  việc  RGB  mặc  định .
+ Hồ  sơ  màu  CMYK  dùng  để  chuyển  đổi  giữa  RGB  và  CMYK .
+ Hồ  sơ  dùng  để  mô  phỏng  phiên  bản  đã  in  ( xem  thử  mềm ) .
+ Đặt  cách  ánh  xạ  màu  cho  bộ  trình  bày  của  bạn .
+ Đặt  cách  chuyển  đổi  màu  từ  vùng  làm  việc  sang  thiết  bị  mô  phỏng  in .
+ Bật  tùy  chọn  này  thì  tiến  trình  mô  phỏng  in  sẽ  đánh  dấu  mỗi  màu  không  đại  diện  được  trong  vùng  màu  đích .
+ Màu  cần  dùng  để  đánh  dấu  màu  ở  ngoại  phạm  vi .
+ Không  quản  lý  màu
+ Bộ  trình  bày  có  màu  đã  quản  lý
+ Mô  phỏng  in
+ Dựa  vào  nhận  thức
+ Đo  màu  tượng  ứng
+ Độ  bão  hòa
+ Đo  màu  tuyệt  đối
+ giá  trị  cho  hiệu  bài  % s  không  phải  là  chuỗi  UTF-8  hợp  lệ
+ ngờ  «  có  »  ( yes )  hay  «  không  »  ( no )  cho  hiệu  bài  luận  lý  % s ,  còn  nhận  «  % s  »
+ giá  trị  không  hợp  lệ  «  % s  »  cho  hiệu  bài  % s
+ giá  trị  không  hợp  lệ  «  % ld  »  cho  hiệu  bài  % s
+ trong  khi  phân  tách  hiệu  bài  «  % s  » :  % s
+ lỗi  phân  tách  nghiêm  trọng
+ Không  thể  mở  rộng  $ { % s }
+ Gặp  lỗi  khi  ghi  vào  «  % s  » :  % s
+ Không  thể  tạo  tập  tin  tạm  thời  cho  «  % s  » :  % s
+ Không  thể  mở  «  % s  »  để  ghi :  % s
+ Gặp  lỗi  khi  ghi  vào  tập  tin  tạm  thời  cho  «  % s  » :  % s  Tập  tin  gốc  chưa  được  đụng .
+ Gặp  lỗi  khi  ghi  vào  tập  tin  tạm  thời  cho  «  % s  » :  % s  Chưa  tạo  tập  tin  nào .
+ Không  thể  tạo  «  % s  » :  % s
+ chuỗi  UTF-8  không  hợp  lệ
+ chờ  ' yes '  ( có )  hay  ' no '  ( không )  cho  hiệu  bài  luận  lý ,  nhận  được  ' % s '
+ Gặp  lỗi  khi  phân  tách  «  % s  »  trên  dòng  % d :  % s
+ Lỗi  tải  mô-đun  «  % s  » :  % s
+ Lỗi  mô-đun
+ Đã  tải
+ Lỗi  tải
+ Chưa  tải
+ Không  thể  quyết  định  thư  mục  chính  hợp  lệ .  Nư  thế  thì  chác  hình  thu  nhỏ  sẽ  được  lưu  vào  thư  mục  cho  tập  tin  tạm  thời  ( % s )  thay  thế .
+ Lỗi  tạo  thư  mục  hình  thu  nhỏ  «  % s  » .
+ Ảnh  mẫu  không  chứa  thẻ  «  Thumb : : URI  »
+ Không  thể  tạo  hình  thu  nhỏ  cho  % s :  % s
+ Tìm  _ kiếm :
+ Màu  cảnh  _ gần
+ Màu  _ nền
+ Đ _ en
+ T _ rắng
+ Chọn  hồ  sơ  màu  sắc  từ  đĩa ...
+ Tỷ  lệ
+ Hiện  thời :
+ Cũ  :
+ Cách  ghi  màu  thập  lục  như  dạng  HTML  và  CSS .  Mục  nhập  này  cũng  chấp  nhận  tên  màu  kiểu  CSS .
+ Cách  _ ghi  HTML :
+ Mở  hộp  chọn  tập  tin  để  duyệt  qua  các  thư  mục  của  bạn
+ Mở  hộp  chọn  tập  tin  để  duyệt  qua  các  tập  tin  của  bạn
+ Chọn  thư  mục
+ Chọn  tập  tin
+ Kilo-byte
+ Mega-byte
+ Giga-byte
+ Chưa  chọn  gì
+ Chọn  _ hết
+ Chọn  _ phạm  vị :
+ Mở  t _ rang  dạng
+ Trang  % d
+ Một  trang  đã  chọn
+ Có  thể  ghi
+ Thư  mục
+ Hãy  nhấn  vào  ống  nhỏ  giọt ,  rồi  nhấn  vào  bất  cứ  nơi  nào  trên  màn  hình ,  để  chọn  màu  đó .
+ _ Xem  thử
+ Kiểm  tra  cỡ
+ Kiểm  trả  kiểu  dáng
+ Neo
+ G _ iữa
+ _ Nhân  đôi
+ _ Sửa
+ Đã  nối  kết
+ Dán  làm  mới
+ Dán  vào
+ Đặt  _ lại
+ Hiển  thị
+ _ Nét
+ Kh _ oảng  cách  chữ
+ Khoảng  cách  _ dòng
+ Đổ _ i  cỡ
+ _ Co  dãn
+ _ Xén
+ Chu _ yển  dạng
+ _ Xoay
+ _ Kéo  cắt
+ Thêm ...
+ Chọn  đơn  vị
+ Đơn  vị
+ Hệ  số
+ Hãy  dùng  giá  trị  này  để  gieo  trình  sinh  số  ngẫu  nhiên  —  điều  này  cho  bạn  có  khả  năng  nhắc  lại  hoạt  động  «  ngẫu  nhiên  »  đưa  ra .
+ Hạt  _ mới
+ Gieo  trình  sinh  số  ngẫu  nhiên  bằng  số  ngẫu  nhiên  được  tạo  ra
+ Để  ngẫ _ u  nhiên
+ Tắt
+ Màn  hìnhinput-mode
+ Cửa  sổ
+ Chân  dungaspect-type
+ Phong  cảnh
+ _ H
+ Sắc  màu
+ _ S
+ _ V
+ Giá  trị
+ _ R
+ _ G
+ _ B
+ _ A
+ Lớp
+ Phóng  to
+ Thu  nhỏ
+ CMYK
+ _ X
+ _ T
+ _ MĐ
+ Xanh  lông  mòng
+ Đỏ  tươi
+ Vàng
+ Đen
+ Hồ  sơ :  ( không  có )
+ Hồ  sơ :  % s
+ Bộ  chọn  màu  CMYK
+ Kéo  _ ra  đen :
+ Phần  trăm  màu  đen  cần  kéo  ra  các  mực  màu .
+ Bộ  chọn  màu  kiểu  dáng  màu  nước
+ Màu  nước
+ Áp  lực
+ Thiết  bị :
+ Tên  thiết  bị  từ  đó  cần  đọc  các  sự  kiện  nhập .
+ DirectX  DirectInput
+ Nút  % d
+ Nhấn  nút  % d
+ Nhả  nút  % d
+ Chuyển  X  sang  trái
+ Chuyển  X  sang  phải
+ Y  chuyển  ra
+ Y  chuyển  vào
+ Đem  lên  2
+ Đem  xuống  2
+ Trục  X  nghiêng  ra
+ Trục  X  nghiêng  vào
+ Trục  Y  nghiêng  sang  phải
+ Trục  Y  nghiêng  sang  trái
+ Tăng  con  trượt  % d
+ Giảm  con  trượt  % d
+ Điểm  nhìn  % d  xem  theo  X
+ Điểm  nhìn  % d  xem  theo  Y
+ Điểm  nhìn  % d  trả  về
+ Chưa  cấu  hình  thiết  bị  nào
+ Thiết  bị  không  sẵn  sàng
+ Nút  0
+ Nút  1
+ Nút  2
+ Nút  3
+ Nút  4
+ Nút  5
+ Nút  6
+ Nút  7
+ Nút  8
+ Nút  9
+ Chuột  nút
+ Nút  trái
+ Nút  phải
+ Nút  giữa
+ Nút  bên
+ Nút  nữa
+ Nút  tới
+ Nút  lùi
+ Nút  tác  vụ
+ Bánh  xe  nút
+ Cơ  chế  nút  Xuống
+ Cơ  chế  nút  Lên
+ Chuyển  Y  ngược
+ Trục  X  nghiêng  tiếp
+ Trục  X  nghiêng  ngược
+ Bánh  xe  nằm  ngang  xoay  ngược
+ Bánh  xe  nằm  ngang  xoay  tiếp
+ La  bàn  quay  trái
+ La  bàn  quay  phải
+ Bánh  xe  quay  trái
+ Bánh  xe  quay  phải
+ Bộ  điều  khiển  sự  kiện  nhập  Linux
+ Tên  thiết  bị  từ  đó  cần  đọc  các  sự  kiện  Nhập  Linux .
+ Nhập  Linux
+ Sự  Kiện  Nhập  Linux
+ Đang  đọc  từ  % s
+ Thiết  bị  không  sẵn  sàng :  % s
+ Kết  thúc  tập  tin
+ Bộ  điều  khiển  sự  kiện  MIDI
+ Tên  của  thiết  bị  từ  đó  cần  đọc  các  sự  kiện  MIDI .
+ Hãy  nhập  «  alsa  »  để  sử  dụng  bộ  sắp  xếp  dãy  ALSA .
+ Kênh :
+ Kênh  MIDI  từ  đó  cần  đọc  các  sự  kiện .  Hãy  đặt  nó  là  -1  để  đọc  từ  mọi  kênh  MIDI .
+ MIDI
+ Ghi  chú  % 02x  bật
+ Ghi  chú  % 02x  tắt
+ Bộ  điều  khiển  % 03d
+ Sự  Kiện  MIDI
+ GIMP
+ Bộ  điều  khiển  nhận  MIDI
+ Không  nhạy  cảm  màu  đỏ
+ Không  nhạy  cảm  màu  xanh  lá  cây
+ Không  nhạy  cảm  màu  xanh  dương
+ Bộ  lọc  mô  phỏng  không  nhạy  cảm  màu  ( thuật  toán  Brettel-Vienot-Mollon )
+ Nhìn  thiếu  màu
+ Kiể _ u  thiếu  màu  :
+ Bộ  lọc  hiển  thị  màu  gamma  ( γ )
+ Gamma  ( γ )
+ _ Gamma  ( γ ) :
+ Bộ  lọc  hiển  thị  màu  có  độ  tương  phản  cao
+ Độ  tương  phản
+ Ch _ u  kỳ  tương  phản :
+ Bộ  lọc  trình  bày  quản  lý  màu ,  dùng  xác  lập  màu  ICC
+ Quản  lý  màu
+ Bộ  lọc  này  bắt  cấu  hình  từ  phần  Quản  Lý  Màu  trong  hộp  thoại  «  Tùy  thích  » .
+ Chế  độ  thao  tác :
+ Hồ  sơ  ảnh :
+ Xác  lập  bộ  trình  bày :
+ Hồ  sơ  mô  phỏng  in :
+ Bộ  lọc  xem  thử  màu  dùng  hồ  sơ  màu  ICC
+ Xem  thử  màu
+ Chọn  hồ  sơ  màu  ICC
+ Mọi  tập  tin  ( * . * )
+ Tập  tin  hồ  sơ  ICC  ( * .icc ;  * .icm )
+ Hồ  _ sơ :
+ Địn _ h :
+ _ Bù  điểm  đen

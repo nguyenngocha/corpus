@@ -1,0 +1,129 @@
+ Bạn  có  muốn  ghi  đè  tập  tin  " % s "  không ?
+ Lỗi  tạo  yếu  tố  % s ;  hãy  kiểm  tra  lại  bản  cài  đặt
+ Lỗi  phát  lại  không  xác  định
+ Thê _ m  nếu  thoả  bất  kì  tiêu  chuẩn  nào
+ Tạo  danh  mục  nhạc  tự  động  cập  nhật  mà :
+ GB
+ MB
+ Phút
+ _ Hạn  chế : 
+ _ Khi  sắp  xếp  theo :
+ bài  nhạc
+ *
+ Rhythmbox  quản  lí  mọi  bài  nhạc  của  bạn  trong  một  thư  viện  âm  nhạc  trung  tâm ,  giúp  bạn  có  thể  dễ  dàng  xem ,  tìm ,  tổ  chức  nó .  Để  dùng  tính  năng  này ,  bạn  cần  cho  Rhythmbox  biết  nơi  lưu  các  bài  nhạc  của  bạn .  Bạn  có  thể  chọn  bỏ  qua  bước  này ;  bạn  có  thể  thêm  nhạc  vào  thư  viện  sau  đó .  Vui  lòng  chọn  một  trong  những  tuỳ  chọn  sau :
+ _ Duyệt ...
+ _ Gõ  địa  điểm :
+ Đường  _ dẫn :
+ _ Bỏ  qua  bước  này :
+ _ Tập  nhạc
+ Khung  duyệt
+ Ngà _ y  thêm
+ Mặc  định  -  Nhãn  dưới  biểu  tượng  Nhãn  ở  cạnh  biểu  tượng  Chỉ  biểu  tượng  Chỉ  nhãn
+ _ Thể  loại ,  nghệ  sĩ  và  tập  nhạc
+ Thờ _ i  lượng
+ Nhãn  nút  thanh  công  cụ
+ Số  rã _ nh
+ Cột  hiển  thị
+ Nghệ  _ sĩ
+ _ Nghệ  sĩ  và  tập  nhạc
+ _ Thể  loại
+ T _ hể  loại  và  nghệ  sĩ
+ _ Phát  lần  cuối
+ _ Số  lần  phát
+ _ Chất  lượng
+ Đánh  _ giá
+ _ Năm
+ Nghệ  sĩ / Nghệ  sĩ  —  Tập / Nghệ  sĩ  ( Tập )  —  01  —  Bài.ogg
+ Câ _ y  thư  mục :
+ Cấu  trúc  thư  viện
+ _ Sửa ...
+ _ Tên  tập  tin :
+ Địa  điểm  thư  _ viện
+ Dạng  thức  ư _ u  tiên :
+ Th _ eo  dõi  thư  viện  để  tìm  tập  tin  mới
+   Định   dạng   danh   mục   nhạc 
+ Theo  phần  mở  rộng
+ Lưu  danh  mục  nhạc
+ Chọn  định  dạng  danh  mục  nhạc :
+ Tác  giả :
+ Cấ _ u  hình ...
+ Tác  quyền :
+ Mô  tả :
+ Bổ  sung  Rhythmbox
+ Địa  chỉ :
+ -
+ Cơ  bản
+ Chi  tiết
+ Ngôn  ngữ :
+ Tình  tiết  cuối :
+ Lần  cập  nhật  cuối :
+ Nguồn :
+ Tiêu  đề :
+   Bộ   quản   lí   tải   về 
+ Kiểm  tra  tì _ nh  tiết  mới :
+ Mỗi  giờ  Hàng  ngày  Hàng  tuần  Thủ  công
+ Chọn  thư  mục  cho  Podcast
+ Địa  điểm  tải  _ về :
+ Tỉ  lệ  bit :
+ Ngày :
+ Địa  điểm  tải  về :
+ Thời  lượng :
+ Lần  phát  cuối :
+ Số  lần  phát :
+ Đánh  _ giá :
+ _ Tập  nhạc :
+ Nghệ  _ sĩ :
+ _ Số  hiệu  đĩa :
+ Thể  l _ oại :
+ _ Năm :
+ Thông  điệp  lỗi
+ Tên  tập  tin :
+ Cỡ  tập  tin :
+ Địa  điểm :
+ _ Tựa :
+ Số  _ rãnh :
+ Nhập  địa  điểm  ( _ URI )  của  tập  tin  cần  thêm :
+ Mở  từ  URI
+ Điểm  cao
+ Mới  thêm
+ Mới  phát
+ Bộ  phát  nhạc
+ Phát  nhạc  và  tổ  chức  các  tập  nhạc  của  bạn .
+ Bộ  phát  nhạc  Rhythmboxfriendly  time "  string  for  the  current  day ,  strftime  format.  like  " Today  12 : 34  am
+ Hôm  nay  % I : % M  % pfriendly  timeYesterday  12 : 34  am
+ Hôm  qua  % I : % M  % pfriendly  timeWed  12 : 34  am
+ % a  % I : % M  % pfriendly  timeFeb  12  12 : 34  am
+ % d  % b  % I : % M  % pfriendly  timeFeb  12  1997
+ % b  % d  % Y
+ Không  rõ
+ Lỗi  cấu  hình  uỷ  nhiệm  HTTP
+ Rhythmbox  không  hỗ  trợ  khả  năng  cấu  hình  uỷ  nhiệm  mạng  tự  động
+ % d : % 02d
+ % d : % 02d : % 02d
+ còn  lại  % d : % 02d / % d : % 02d
+ còn  lại  % d : % 02d : % 02d / % d : % 02d : % 02d
+ % d : % 02d / % d : % 02d
+ % d : % 02d : % 02d / % d : % 02d : % 02d
+ Vấn  đề  GStreamer  nội  bộ ;  vui  lòng  thông  báo  lỗi  này
+ Lỗi  liên  lạc  D-BUS
+ Không  tìm  thấy  những  phần  bổ  sung  GStreamer  để  giải  mã  tập  tin  kiểu  " % s " .
+ Tập  tin  chứa  một  luồng  kiểu  % s ,  loại  không  thể  giải  mã  được
+ Lỗi  tạo  phần  tử  nguồn ;  hãy  kiểm  tra  lại  bản  cài  đặt .
+ Lỗi  GStreamer :  chưa  thay  đổi  tình  trạng
+ Không  thể  nhận  diện  kiểu  MIME  của  tập  tin  này
+ Loại  tập  tin  không  được  hỗ  trợ :  % s
+ Không  thể  tạo  yếu  tố  ghi  thẻ
+ Quá  giờ  khi  đặt  ống  dẫn  về  NULL
+ Tập  tin  bị  hỏng  khi  ghi
+ Ảnh  bìa
+ Lấy  ảnh  bìa  tập  nhạc  từ  Internet
+ Máy  chơi  CD  Nhạc
+ Hỗ  trợ  khả  năng  chơi  đĩa  CD  nhạc  từ  danh  mục  nhạc
+ Tìm  thấy  nhiều  tập  nhạc
+ CD  này  có  thể  nhiều  hơn  một  tập  nhạc .  Vui  lòng  chọn  tập  nhạc  bên  dưới  và  nhấn    Tiếp   tục  .
+ _ Tiếp  tục
+$6 US$7 US$8 US (bình thường)$9 US$10 US (hơn trung bình)$11 US$12 US (hào phóng)$13 US$14 US$15 US (rất hào phóng)$16 US$17 US$18 US (chúng tôi yêu bạn)
+0203040506070809101112
+FLACWAVVBR MP3128K MP3
+$6$7$8 (bình thường)$9$10 (tốt hơn trung bình)$11$12 (hào phóng)$13$14$15 (RẤT hào phóng!)$16$17$18 (Chúng tôi yêu bạn!)
+ s

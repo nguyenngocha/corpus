@@ -1,0 +1,28 @@
+ Hiện  thời  gian  trong  Thanh  trình  đơn
+ Chọn  hiện  hay  không  hiện  giờ  trong  thanh  trình  đơn .
+ Khi  nào  thì  hiện  tình  trạng  pin  trong  thanh  trình  đơn .
+ Các  lựa  chọn  khi  nào  thì  hiện  tình  trạng  pin .  Các  lựa  chọn  có  thể  là  " hiện  diện " ,  " nạp  điện " ,   và  " không  bao  giờ " .
+ Dây  nguồn
+ Pin
+ UPS
+ Điện  kế
+ Chuột
+ Bàn  phím
+ PDA
+ Điện  thoại  di  động
+ Máy  nghe  nhạc
+ Máy  tính  bảng
+ Máy  tính
+ 1 : 30  to  charge
+ 1 : 30  left
+ X  ( hour , hours )  Y  ( minute , minutes )  to  charge1  hour  10  minutes  to  charge
+ X  ( hour , hours )  Y  ( minute , minutes )  left1  hour  10  minutes  left
+ Y  ( minute , minutes )  left59  minutes  left
+ battery  ( charged )
+ % s  ( đã  đầy ) battery  ( time  remaining )
+ ( 0 : 59 ,  33 % )
+ ( 0 : 59 )
+ ( 33 % )
+ ( % .0lf % % )
+ Hiện  thời  gian  trong  thanh  trình  đơn
+ Thiết  lập  về  năng  lượng ...

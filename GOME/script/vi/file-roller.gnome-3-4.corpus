@@ -1,0 +1,332 @@
+ Tập  tin  .desktop  không  hợp  lệ
+ Không  nhận  phiên  bản  tập  tin  .desktop  ' % s '
+ Đang  khởi  chạy  % s
+ Ứng  dụng  không  chấp  nhận  tài  liệu  trên  dòng  lệnh
+ Không  nhận  ra  tùy  chọn  khởi  chạy :  % d
+ Không  thể  di  chuyển  tài  liệu  tới  phần  tử  desktop  này
+ Không  phải  là  một  mục  có  thể  khởi  chạy
+ Tắt  kết  nối  tới  trình  quản  lý  phiên  làm  việc
+ Xác  định  tập  tin  chứa  cấu  hình  đã  lưu
+ TẬP  TIN
+ Xác  định  mã  số  quản  lý  phiên  làm  việc
+ Mã  số
+ Tùy  chọn  quản  lý  phiên  làm  việc :
+ Hiển  thị  các  tùy  chọn  quản  lý  phiên  làm  việc
+ Bộ  quản  lý  kho
+ Tạo  và  sửa  đổi  kho
+ Cách  sắp  xếp  tập  tin
+ Tiêu  chuẩn  để  sắp  xếp  tập  tin .  Các  giá  trị  có  thể :  name  ( tên ) ,  size  ( cỡ ) ,  type  ( kiểu ) ,  time  ( thời  gian ) ,  path  ( đường  dẫn ) .
+ Kiểu  sắp  xếp
+ Sắp  xếp  theo  thứ  tự  tăng  hay  giảm  dần .  Giá  trị  có  thể :  ascending  ( tăng  dần ) ,  descending  ( giảm  dần ) .
+ Chế  độ  danh  sách
+ Dùng  ' all-files '  ( mọi  tập  tin )  để  xem  danh  sách  các  kho  trong  danh  sách  đơn ,  dùng  ' as-folder '  ( dạng  thư  mục ' ) để  xem  kho  nén  dưới  dạng  thư  mục .
+ Hiện  kiểu
+ Hiện  cột  kiểu  ở  cửa  sổ  chính .
+ Hiển  thị  cỡ
+ Hiện  cột  cỡ  ở  cửa  sổ  chính .
+ Hiện  thời  gian
+ Hiện  cột  thời  gian  ở  cửa  sổ  chính .
+ Hiện  đường  dẫn
+ Hiển  thị  cột  đường  dẫn  ở  cửa  sổ  chính .
+ Dùng  biểu  tượng  MIME
+ Nếu  " đúng " ,  sẽ  hiện  biểu  tượng  tùy  theo  kiểu  tập  tin  ( chậm  hơn ) ,  nếu  không ,  sẽ  hiện  chung  một  loại  biểu  tượng  ( nhanh  hơn ) .
+ Chiều  ngang  cột  tên
+ Chiều  ngang  cố  định  của  cột  tên  trong  danh  sách  tập  tin .
+ Lượng  lịch  sử  tối  đa
+ Số  " các  tập  tin  mở  gần  đây "  nhiều  nhất .
+ Xem  thanh  công  cụ
+ Hiển  thị  thanh  công  cụ ?
+ Xem  thanh  trạng  thái
+ Hiển  thị  thahh  trạng  thái ?
+ Xem  ô  cửa  sổ  thư  mục
+ Hiển  thị  khung  thư  mục
+ Trình  soạn  thảo
+ Danh  sách  chương  trình  nhâp  trong  hộp  thoại  " Mở  tập  tin "  nhưng  không  ứg  với  loại  tập  tin  nào .
+ Mức  nén
+ Mức  nén  có  thể  dùng  khi  thêm  file  vào  kho .  Giá  trị  cho  phép :  very-fast  ( rất  nhanh  nhanh ) ,  fast  ( nhanh ) ,  normal  ( bình  thường ) ,  maximum  ( tối  đa ) .
+ Mã  hóa  phần  đầu  tập  tin  nén
+ Có  mã  hóa  phần  đầu  kho  nén  hay  không .  Nếu  phần  đầu  được  mã  hóa  thì  cần  nhập  mật  khẩu  cho  cả  phần  đầu  và  phần  chính  ( nội  dung )  của  kho  nén .
+ Ghi  đè  tập  tin  tồn  tại
+ Không  ghi  đè  tập  tin  mới
+ Tạo  lại  thư  mục  được  lưu  trong  kho
+ Cỡ  khối  mặc  định
+ Cỡ  mặc  định  cho  kho .
+ Nạp  tùy  chọn
+ Nén
+ _ Tên  tập  tin :
+ _ Vị  trí :
+ Vị  tríFile
+ _ Mật  khẩu :
+ _ Mã  hoá  cả  danh  sách  tập  tinsplit  into  volumes  of  10.0  MB
+ Chia  thành  nhiều  _ phần
+ MB
+ Tùy  chọn  _ khác
+   Cần   nhập   mật   khẩu 
+ Xóa
+ _ Tập  tin :
+ ví  dụ  :  * .txt ;  * .doc
+ _ Mọi  tập  tin
+ Tập  tin  đã  _ chọn
+ Mật  khẩu
+ _ Mã  hoá  danh  sách  tập  tin
+      Ghi    chú   :     mật   khẩu   sẽ   được   dùng   để   mật   mã   hoá   tập   tin   được   thêm   vào   kho   hiện   thời  ,   cũng   như   để   giải   mã   các   tập   tin   trong   quá   trình   giải   nén   chúng.Khi   đóng   kho  ,   mật   khẩu   sẽ   được   xoá  . 
+ Cậ _ p  nhật
+ C _ họn  những  tập  tin  cần  cập  nhật :
+ Giải  nén  vào  đây
+ Giải  nén  kho  đã  chọn  vào  vị  trí  hiện  tại
+ Giải  nén  vào ...
+ Giải  nén  kho  đã  chọn
+ Nén ...
+ Tạo  một  kho  nén  chứa  những  đối  tượng  được  chọn
+ Không  thể  tạo  kho
+ Cần  phải  đặt  tên  cho  kho .
+ Bạn  không  có  quyền  tạo  kho  trong  thư  mục  này
+ Không  hỗ  trợ  kiểu  kho  đó .
+ Không  thể  xóa  kho  cũ .
+ Mở
+ Mọi  kho
+ Mọi  tập  tin
+ Tác  quyền  ©  năm  2001-2010  của  Tổ  chức  Phần  mềm  Tự  do .
+ Trình  quản  lý  kho  của  GNOME .
+ Nhóm  Việt  hóa  GNOME  ( http : / / gnomevi.sourceforge.net )
+ Không  thể  thêm  tập  tin  vào  kho
+ Bạn  không  có  đủ  quyền  để  đọc  tập  tin  nằm  trong  thư  mục  «  % s  »
+ Thêm  tập  tin
+ Chỉ  thê _ m  tập  tin  mới  hơn
+ Thêm  thư  mục
+ _ Gồm  cả  thư  mục  con
+ Bỏ  qua  các  liên  kết  _ tượng  trưng
+ ví  dụ :  * .o ;  * .bak
+ _ Gồm  các  tập  tin :
+ Bỏ  _ qua  các  tập  tin :
+ Bỏ  qua  các  thư  _ mục :
+ Nạp  tùy  _ chọn
+ _ Lưu  tùy  chọn
+ Đặt  lạ _ i  các  tuỳ  chọn
+ Lưu  tùy  chọn
+ Tên  _ tùy  chọn :
+ Xác  định  mật  khẩu  cho  kho  ' % s ' .
+ Tên  «  % s  »  không  hợp  lệ  vì  không  cho  phép  nó  chứa  ký  tự :  % s  % s
+ Hãy  chọn  tên  khác .
+ Bạn  không  có  đủ  quyền  để  tạo  kho  trong  thư  mục  đích .
+ Thư  mục  đích  «  % s  »  không  tồn  tại .  Bạn  có  muốn  tạo  nó  không ?
+ Tạo  thư  _ mục
+ Không  thể  tạo  thư  mục  đích :  % s .
+ Chưa  tạo  kho .
+ Kho  đã  có .  Bạn  có  muốn  ghi  đè  lên  nó  không ?
+ _ Ghi  đè
+ Chưa  giải  nén
+ Bạn  không  có  đủ  quyền  để  giải  nén  kho  nằm  trong  thư  mục  «  % s  »
+ Giải  nén
+ Hành  động
+ Tạ _ o  lại  thư  mục
+ Ghi  đè  _ lên  tập  tin  đã  có
+ Không  _ giải  nén  tập  tin  cũ  hơnFile
+ MớiFile
+ Lưu
+ Gặp  lỗi  nội  bộ  trong  khi  thử  tìm  kiếm  ứng  dụng :
+ Không  có  lệnh  nào  được  cài  đặt  để  xử  lý  tập  tin  dạng  % s .  Bạn  có  muốn  tìm  kiếm  một  lệnh  có  khả  năng  mở  tập  tin  này  không ?
+ Không  thể  mở  tập  tin  kiểu  này
+ _ Lệnh  tìm  kiếm
+ Vị  trí : File
+ Tên :
+ Thuộc  tính  của  % s
+ Ngày  sửa  đổi :
+ Kích  thước  kho :
+ Kích  thước  nội  dung :
+ Tỷ  lệ  nén :
+ Số  tập  tin :
+ Cập  nhật  tập  tin  «  % s  »  trong  kho  lưu  «  % s  »  không ?
+ Cập  nhật  các  tập  tin  trong  kho  lưu  «  % s  »  không ?
+ Định  _ dạng  tập  tin :  % s
+ Mọi  tập  tin  được  hỗ  trợ
+ Theo  phần  mở  rộng
+ Định  dạng  Tập  tin
+ Phần  mở  rộng
+ Chương  trình  này  không  thể  quyết  định  định  dạng  tập  tin  nào  bạn  muốn  sử  dụng  cho  «  % s  » .  Hãy  kiểm  tra  lại  bạn  sử  dụng  một  phần  mở  rộng  đúng  cho  tập  tin  đó ,  hoặc  tự  chọn  một  định  dạng  tập  tin  trong  danh  sách  dưới  đây .
+ Không  nhận  ra  định  dạng  tập  tin
+ Không  tìm  thấy  tập  tin .
+ Không  tìm  thấy  kho  lưu
+ Bạn  không  có  đủ  quyền  truy  cập .
+ Kho  loại  này  không  thể  bị  thay  đổi
+ Bạn  không  thể  thêm  một  kho  vào  chính  nó .
+ Đang  thêm  tập  tin : 
+ Đang  giải  nén  tập  tin : 
+ Đang  gỡ  bỏ  tập  tin : 
+ Không  tìm  thấy  khối :  % s
+ Đang  xóa  bỏ  tập  tin  khỏi  kho
+ Đang  nén  lại  kho
+ Đang  giải  nén  kho
+ 7-Zip  ( .7z )
+ Tar  nén  bằng  7z  ( .tar.7z )
+ Ace  ( .ace )
+ Ar  ( .ar )
+ Arj  ( .arj )
+ Tar  nén  bằng  bzip2  ( .tar.bz2 )
+ Tar  nén  bằng  bzip  ( .tar.bz )
+ Cabinet  ( .cab )
+ Rar  Archived  Comic  Book  ( .cbr )
+ Zip  Archived  Comic  Book  ( .cbz )
+ Tar  nén  bằng  gzip  ( .tar.gz )
+ Ear  ( .ear )
+ Zip  tự  giải  nén  ( .exe )
+ Jar  ( .jar )
+ Lha  ( .lzh )
+ Lrzip  ( .lrz )
+ Tar  nén  bằng  lrzip  ( .tar.lrz )
+ Tar  nén  bằng  lzip  ( .tar.lz )
+ Tar  nén  bằng  lzma  ( .tar.lzma )
+ Tar  nén  bằng  lzop  ( .tar.lzo )
+ Windows  Imaging  Format  ( .wim )
+ Rar  ( .rar )
+ Tar  chưa  nén  ( .tar )
+ Tar  nén  bằng  compress  ( .tar.Z )
+ War  ( .war )
+ Xz  ( .xz )
+ Tar  nén  bằng  xz  ( .tar.xz )
+ Zoo  ( .zoo )
+ Zip  ( .zip )
+ Tạ _ o
+ Thê _ m
+ _ Giải  nén
+ Thư  mục
+ [ chỉ  đọc ]
+ Không  thể  hiển  thị  thư  mục  «  % s  »
+ Đang  tạo  kho
+ Đang  nạp  kho
+ Đang  đọc  kho
+ Đang  kiểm  tra  kho
+ Đang  lấy  danh  sách  tập  tin
+ Đang  sao  chép  danh  sách  tập  tin
+ Đang  thêm  tập  tin  vào  kho
+ Đang  giải  nén  tập  tin  khỏi  kho
+ Đang  lưu  kho
+ Mở  kh _ o
+ _ Hiện  các  tập  tin
+ Kho :
+ Hoàn  tất  giải  nén
+ Đã  tạo  kho  thành  công
+ vui  lòng  đợi …
+ Lệnh  đã  kết  thúc  bất  thường .
+ Gặp  lỗi  khi  giải  nén  tập  tin .
+ Không  thể  mở  «  % s  »
+ Gặp  lỗi  khi  nạp  kho .
+ Gặp  lỗi  khi  xóa  bỏ  tập  tin  khỏi  kho .
+ Gặp  lỗi  khi  thêm  tập  tin  vào  kho .
+ Gặp  lỗi  khi  kiểm  tra  kho .
+ Gặp  lỗi  khi  lưu  kho .
+ Gặp  lỗi .
+ Không  tìm  thấy  lệnh .
+ Kết  quả  kiểm  tra
+ Không  thể  thực  hiện  thao  tác
+ Bạn  có  muốn  thêm  tập  tin  này  vào  kho  hiện  thời ,  hoặc  mở  nó  như  là  một  kho  mới  không ?
+ Bạn  có  muốn  tạo  kho  mới  bằng  các  tập  tin  này  không ?
+ Tạo  _ kho
+ Thư  mụcFile
+ CỡFile
+ KiểuFile
+ Ngày  sửa  đổiFile
+ Tên
+ Tìm :
+ Đóng  ô  cửa  sổ  thư  mụcopen  recent  file
+ Mở  _ gần  đây
+ Mở  kho  đã  dùng  gần  đây
+ Không  thể  lưu  kho  «  % s  »
+ Thay  thế  tập  tin  " % s "  chứ ?
+ Tập  tin  tên  " % s "  đã  có .
+ Thay  thế  _ tất  cả
+ _ Bỏ  qua
+ Th _ ay  thế
+ Kết  xuất  cuối
+ Tên  không  hợp  lệ ,  vui  lòng  nhập  lại .
+ Tên  mới  trùng  với  tên  cũ ,  vui  lòng  nhập  tên  khác .
+ Tên  " % s "  không  hợp  lệ  vì  chứa  ký  tự  không  cho  phép  sau :  % s ,  vui  lòng  nhập  tên  khác .
+ Một  thư  mục  tên  " % s "  đã  có .  % s
+ Một  tập  tin  tên  «  % s  »  đã  có .  % s
+ Thay  tên
+ Tên  thư  mục  _ mới :
+ Tên  tập  tin  _ mới :
+ Th _ ay  tên
+ Không  thể  thay  đổi  tên  của  thư  mục
+ Không  thể  thay  đổi  tên  của  tập  tin
+ Dán  vùng  chọn
+ Thư  mục  đí _ ch :
+ Thêm  tập  tin  vào  kho
+ Giải  nén  khoDate  Modified
+ % d  % B  % Y ,  % H : % M
+ Kết  xuất  dòng  _ lệnh
+ Không  thể  hiển  thị  trợ  giúp
+ Thêm  tập  tin  vào  kho  đã  xác  định  rồi  thoát  khỏi  chương  trình
+ KHO
+ Thêm  tập  tin  yêu  cầu  đặt  tên  cho  kho  rồi  thoát  khỏi  chương  trình
+ Giải  nén  kho  vào  thư  mục  đã  xác  định  rồi  thoát  khỏi  chương  trình
+ THƯ  MỤC
+ Giải  nén  kho ,  yêu  cầu  thư  mục  đích ,  rồi  thoát  khỏi  chương  trình
+ Giải  nén  nội  dung  của  kho  nén  vào  thư  mục  chứa  kho  nén ,  sau  đó  thoát  khỏi  chương  trình
+ Thư  mục  mặc  định  dùng  cho  lệnh  «  --add  »  ( thêm )  và  «  --extract  »  ( giải  nén )
+ Tạo  thư  mục  đích ,  không  yêu  cầu  phải  xác  nhận
+ -  Tạo  và  sửa  kho
+ Trình  quản  lí  kho  File  Roller
+ _ Kho :
+ _ Sửa
+ _ Xem
+ Trợ  g _ iúp
+ _ Sắp  xếp  tập  tin
+ Thông  tin  về  chương  trình
+ _ Thêm  tập  tin …
+ Thêm  t _ hư  mục …
+ Thêm  thư  mục  vào  kho
+ Đóng  kho  đang  mở
+ Nội  dung
+ Xem  hướng  dẫn  sử  dụng  Trình  quản  lý  kho
+ Sao  chép  vùng  chọn
+ Cắt  vùng  chọn
+ Dán  bảng  nháp
+ Đổ _ i  tên …
+ Đổi  tên  của  mục  được  chọn
+ Xóa  bỏ  mục  được  chọn  khỏi  kho
+ _ Bỏ  chọn  tất  cả
+ Bỏ  chọn  mọi  tập  tin
+ _ Giải  nén …
+ Giải  nén  tập  tin  khỏi  kho
+ Tìm …
+ Mới …
+ Tạo  kho  mới
+ Mở …
+ Mở  kho
+ Mở  _ bằng …
+ Mở  các  tập  tin  được  chọn  bằng  một  ứng  dụng
+ _ Mật  khẩu …
+ Xác  định  mật  khẩu  cho  kho  này
+ Hiển  thị  thuộc  tính  kho
+ Tải  lại  kho  hiện  thời
+ Lưu  mới …
+ Lưu  kho  hiện  thời  với  tên  khác
+ Chọn  tất  cả  các  tập  tin
+ Dừng  thao  tác  hiện  thời
+ _ Kiểm  tra  tính  toàn  vẹn
+ Kiểm  tra  xem  kho  có  bị  lỗi  không
+ Mở  tập  tin  đã  chọn
+ Mở  thư  mục  đã  chọn
+ Đi  về  vị  trí  đã  đến  lúc  trước
+ Đi  tới  vị  trí  đã  đến  kế  tiếp
+ Lên  một  mức
+ Về  vị  trí  gốc
+ _ Thanh  công  cụ
+ Xem  thanh  công  cụ  chính
+ Thanh  t _ rạng  thái
+ Thứ  tự  _ ngược  lại
+ Đảo  ngược  lại  thứ  tự  của  danh  sách
+ Thư  _ mục
+ Xem  tất  cả  tậ _ p  tin
+ Xem  dạng  thư  _ mục
+ theo  tê _ n
+ Sắp  xếp  danh  sách  tập  tin  theo  tên
+ theo  _ cỡ
+ Sắp  xếp  danh  sách  tập  tin  theo  kích  cỡ
+ theo  _ kiểu
+ Sắp  xếp  danh  sách  tập  tin  theo  kiểu
+ theo  n _ gày  sửa  đổi
+ Sắp  xếp  danh  sách  tập  tin  theo  thời  gian  sửa  đổisort  by  file  location
+ theo  _ vị  trí
+ Sắp  xếp  danh  sách  tập  tin  theo  vị  trí

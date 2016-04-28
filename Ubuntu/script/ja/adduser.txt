@@ -1,0 +1,101 @@
+ rootだけがシステムにユーザーまたはグループを追加できます 。
+ 1つまたは2つの名前だけが許可されます 。
+ このモードでは1つだけ名前を指定してください 。
+ --group ,  --ingroup ,  --gid  オプションは同時に複数指定できません 。
+ ホームディレクトリは絶対パスでなければなりません 。
+ 警告 :  指定されたホームディレクトリ  % s  はすでに存在しています 。
+ 警告 :  指定されたホームディレクトリ  % s  にアクセスできません :  % s
+ グループ `%s ' はシステムグループとしてすでに存在しています。終了します。
+ グループ `%s ' はすでに存在しており、システムグループではありません。終了します。
+ グループ `%s ' はすでに存在していますが、異なるグループ ID を持っています。終了します。
+ グループ  ID `%s ' はすでに使用されています。
+ % d- % d  ( FIRST _ SYS _ GID  -  LAST _ SYS _ GID )  の範囲で利用できる  GID  がありません 。
+ グループ `%s ' (GID  %d) を追加しています...
+ 完了 。
+ グループ `%s ' はすでに存在しています。
+ % d- % d  ( FIRST _ GID  -  LAST _ GID )  の範囲で利用できる  GID  がありません 。
+ ユーザー `%s ' が存在しません。
+ グループ `%s ' が存在しません。
+ ユーザー `%s ' はすでにグループ ` % s ' のメンバーです。
+ ユーザー `%s ' をグループ ` % s ' に追加しています...
+ システムユーザー `%s ' はすでに存在します。終了します。
+ ユーザー `%s ' はすでに存在します。終了します。
+ ユーザー `%s ' はすでに異なるユーザー ID で存在します。終了します。
+ % d- % d  ( FIRST _ SYS _ UID  -  LAST _ SYS _ UID )  の範囲で利用できるUID / GIDペアがありません 。
+ ユーザー `%s ' は作成されませんでした。
+ % d- % d  ( FIRST _ SYS _ UID  -  LAST _ SYS _ UID )  の範囲では利用できるUIDがありません 。
+ 内部エラー
+ システムユーザー `%s ' (UID  %d) を追加しています...
+ 新しいグループ `%s ' (GID  %d) を追加しています...
+ 新しいユーザー `%s ' (UID  %d) をグループ `% s ' に追加しています...
+ % s  は戻り値  15  で失敗しました 。 shadow  は有効でなく 、 パスワードの時効は設定できません 。 継続します 。
+ ユーザー `%s ' を追加しています...
+ 範囲  % d- % d  ( FIRST _ UID  -  LAST _ UID )  の範囲には利用可能な  UID / GID  のペアがありません 。
+ 範囲  % d- % d  ( FIRST _ UID  -  LAST _ UID )  の範囲には利用可能な  UID  がありません 。
+ 新しいグループ `%s ' ( %d) を追加しています...
+ 新しいユーザー `%s ' ( %d) をグループ `% s ' に追加しています...
+ 権限がありません
+ 無効なオプションの組み合わせです
+ 予期せぬ失敗です 。 何も行われませんでした
+ 予期せぬ失敗です 。 パスワードファイルがありません
+ passwd  ファイルがビジーです 。 再試行してください
+ オプションへの無効な引数です  locale  noexpr
+ もう一度試しますか ?  [ y / N ]  locale  yesexpr
+ 以上で正しいですか ?  [ Y / n ] 
+ 新しいユーザー `%s ' を補助グループ群に追加しています...
+ ユーザー `%s ' のquotaにユーザー ` % s ' の値を設定しています...
+ ホームディレクトリ `%s ' を作成しません。
+ ホームディレクトリ `%s ' はすでに存在します。` % s ' からのコピーを行いません。
+ 警告 :  ホームディレクトリ `%s ' は、現在作成中のユーザーの所属になっていません。
+ ホームディレクトリ `%s ' を作成しています...
+ ホームディレクトリ `%s ' を作成できませんでした:  % s
+ 暗号化を設定しています …
+ ユーザー `%s ' はすでに存在しており、システムユーザーではありません。
+ ユーザー `%s ' はすでに存在しています。
+ ユーザー  ID  % d  はすでに使用されています 。
+ グループ  ID  % d  はすでに使用されています 。
+ グループ  ID  % d  は存在しません 。
+ % s  を処理できません 。  ディレクトリでもファイルでもシンボリックリンクでもありません 。
+ % s :  問題を避けるため 、 ユーザー名は ( IEEE  標準  1003.1-2001  で定義されているように )  英字アルファベット 、 数字 、 下線  ( _ ) 、 ピリオド 、 @ 、 ダッシュ ( ' )  で構成し 、 かつ  ダッシュで始まらないようにすべきです 。 Samba  マシンアカウントとの互換性のために 、  ユーザー名の最後に  $  を置くこともサポートされています 。
+ 不審なユーザー名の使用を許可しています 。
+ % d  から  % d  の範囲でユーザーID  を選択しています ...
+ グループIDを  % d  から  % d  の範囲で選択しています ...
+ 停止しました :  % s
+ ディレクトリ `%s ' を削除しています...
+ ユーザー `%s ' を削除しています...
+ グループ `%s ' を削除しています...
+ SIG % s  を受け取りました 。
+ adduser  バージョン  % s
+ システムにユーザーまたはグループを追加します 。  Copyright  ( C )  1997 ,  1998 ,  1999  Guy  Maor   <  maor \ @ debian \ .org  >  Copyright  ( C )  1995  Ian  Murdock   <  imurdock \ @ gnu \ .ai \ .mit \ .edu  >  ,                     Ted  Hajek   <  tedhajek \ @ boombox \ .micro \ .umn \ .edu  >
+ This  program  is  free  software ;  you  can  redistribute  it  and / or  modify  it  under  the  terms  of  the  GNU  General  Public  License  as  published  by  the  Free  Software  Foundation ;  either  version  2  of  the  License ,  or  ( at  your  option )  any  later  version .  This  program  is  distributed  in  the  hope  that  it  will  be  useful ,  but  WITHOUT  ANY  WARRANTY ;  without  even  the  implied  warranty  of  MERCHANTABILITY  or  FITNESS  FOR  A  PARTICULAR  PURPOSE .   See  the  GNU  General  Public  License ,  / usr / share / common-licenses / GPL ,  for  more  details .
+ adduser  [ --home  DIR ]  [ --shell  SHELL ]  [ --no-create-home ]  [ --uid  ID ]  [ --firstuid  ID ]  [ --lastuid  ID ]  [ --gecos  GECOS ]  [ --ingroup  GROUP  |  --gid  ID ]  [ --disabled-password ]  [ --disabled-login ]  [ --encrypt-home ]  USER     通常ユーザーを追加する  adduser  --system  [ --home  DIR ]  [ --shell  SHELL ]  [ --no-create-home ]  [ --uid  ID ]  [ --gecos  GECOS ]  [ --group  |  --ingroup  GROUP  |  --gid  ID ]  [ --disabled-password ]  [ --disabled-login ]  USER     システムユーザーを追加する  adduser  --group  [ --gid  ID ]  GROUP  addgroup  [ --gid  ID ]  GROUP     ユーザーグループを追加する  addgroup  --system  [ --gid  ID ]  GROUP     システムグループを追加する  adduser  USER  GROUP     既存のグループに既存のユーザーを追加する  一般的なオプション :    --quiet  |  -q  標準出力にプロセス情報を与えない    --force-badname  設定変数にマッチしないユーザー名を許可する                      NAME _ REGEX [ _ SYSTEM ]  が設定変数になる    --help  |  -h  使い方の通知    --version  |  -v  バージョン番号と著作権の通知    --conf  |  -c  FILE  ファイル  FILE  を設定ファイルとして使用する  --help "  and  " --version
+ root  だけがシステムからユーザーまたはグループを削除できます 。
+ 名前のあとにオプションを付けることはできません 。
+ 削除するグループ名を入力してください : 
+ 削除するユーザー名を入力してください : 
+ --remove-home ,  --remove-all-files ,  --backup  の機能を使うには 、 `perl-modules ' パッケージをインストールする必要があります。これを行うには、 apt-get install  perl-modules を実行してください。
+ ユーザー `%s ' はシステムユーザーではありません。終了します。
+ ユーザー `%s ' は存在しませんが、--system が与えられました。終了します。
+ 警告 :  あなたは  root  アカウント  ( ユーザー  ID  0 )  を削除しようとしています
+ これは全システムを使用不可能にしてしまう恐れがあり 、 普通は必要性はまったくありません
+ あなたが本当にこれを行いたいのであれば 、 --force  パラメータ付きで  deluser  を呼び出してください
+ どのアクションも行わずにすぐに中止しています
+ バックアップ / 削除するファイルを探しています ...
+ マウントポイントを解析するための `mount ' の fork に失敗しました: %s
+ コマンド `mount ' のパイプをクローズできませんでした: %s
+ 特殊ファイル  % s  を操作できません
+ 削除されるファイルを  % s  にバックアップしています ...
+ ファイルを削除しています ...
+ crontab  を削除しています ...
+ 警告 :  グループ `%s ' にはもうメンバーはいません。
+ getgrnam `%s ' に失敗しました。これは本来起こらないはずです。
+ グループ `%s ' はシステムグループではありません。終了します。
+ グループ `%s ' は空ではありません!
+ ユーザーを 、 そのユーザーが属する優先グループから削除することはできません 。
+ ユーザー `%s ' はグループ ` % s ' のメンバーではありません。
+ ユーザー `%s ' をグループ ` % s ' から削除しています...
+ deluser  バージョン  % s
+ ユーザーとグループをシステムから削除します 。
+ Copyright  ( C )  2000  Roland  Bauerschmidt   <  roland \ @ copyleft \ .de  >
+ deluser  は 、 Guy  Maor   <  maor \ @ debian \ .org  >  、 Ian  Murdock   <  imurdock \ @ gnu \ .ai \ .mit \ .edu  >  、  Ted  Hajek   <  tedhajek \ @ boombox \ .micro \ .umn \ .edu  >   による  adduser  を元にしています 。
+ deluser     \

@@ -1,0 +1,169 @@
+ Finch
+ % s .  Chạy  ' % s  -h '  để  biết  thêm  thông  tin .
+ % s  Cách  sử  dụng :  % s  [ OPTION ] ...    -c ,  --config = THƯ _ MỤC     dùng  thư  mục  này  để  tìm  các  tập  tin  cấu  hình    -d ,  --debug          hiển  thi  các  thông  điệp  gỡ  lỗi  ra  stderr    -h ,  --help           hiển  thị  trợ  giúp  này ,  sau  đó  thoát    -n ,  --nologin        không  tự  động  đăng  nhập    -v ,  --version        hiển  thị  phiên  bản  hiện  thời ,  sau  đó  thoát
+ % s  đã  gặp  lỗi  khi  nâng  cấp  thiết  lập  của  bạn  từ  % s  lên  % s .  Hãy  kiểm  tra  và  nâng  cấp  xong  bằng  tay .  Vui  lòng  thông  báo  lỗi  này  ở  http : / / developer.pidgin.im
+ Lỗi
+ Tài  khoản  chưa  sửa
+ Tài  khoản  chưa  thêm
+ Tên  người  dùng  của  tài  khoản  không  thể  là  chuỗi  rỗng .
+ Không  thay  đổi  được  giao  thức  của  tài  khoản  khi  đang  kết  nối .
+ Không  thay  đổi  được  tên  người  dùng  khi  đang  kết  nối  tới  server .
+ Thông  báo  thư  mới
+ Nhớ  mật  khẩu
+ Chưa  cài  đặt  phần  bổ  sung  giao  thức  nào .
+ ( Có  thể  bạn  quên  chạy  lệnh  ' make  install ' . )
+ Sửa  tài  khoản
+ Tài  khoản  mới
+ Giao  thức :
+ Tên  người  dùng :
+ Mật  khẩu  :
+ Biệt  hiệu :
+ Tạo  tài  khoản  này  trên  máy  chủ
+ Hủy
+ Lưu
+ Chắc  chắn  xóa  % s  không ?
+ Xoá  tài  khoản
+ Xoá
+ Tài  khoản
+ Bạn  có  thể  bật / tắt  tài  khoản  trong  danh  sách  này .
+ Thêm
+ Sửa
+ % s % s % s % s  đã  đặt  % s  là  bạn  chát  của  % s % s
+ Có  thêm  bạn  chát  vào  danh  sách  không ?
+ % s % s % s % s  muốn  thêm  % s  vào  danh  sách  bạn  bè  % s % s
+ Bạn  có  đồng  ý  thêm  người  này  vào  danh  sách  bạn  chát ?
+ Cho  phép
+ Từ  chối
+ Trực  tuyến :  % d  Tổng :  % d
+ Tài  khoản :  % s  ( % s )
+ Gặp  lần  cuối :  % s  qua
+ Mặc  định
+ Bạn  cần  phải  cung  cấp  một  tên  người  dùng  cho  bạn  chát .
+ Bạn  cần  phải  cung  cấp  một  nhóm .
+ Bạn  cần  phải  chọn  một  tài  khoản .
+ Tài  khoản  đã  chọn  hiện  không  trực  tuyến .
+ Gặp  lỗi  khi  thêm  bạn  chát
+ Tên  đăng  nhập
+ Bí  danh  ( tùy  chọn )
+ Thông  điệp  mời  ( tùy  chọn )
+ Thêm  vào  nhóm
+ Thêm  bạn  chát
+ Hãy  nhập  thông  tin  về  bạn  chát .
+ Chát
+ Tên
+ Biệt  hiệu
+ Nhóm
+ Tự  động  tham  gia
+ Thêm  Chat
+ Sau  này  bạn  có  thể  thêm  nhiều  thông  tin  hơn  bằng  cách  dùng  trình  đơn  ngữ  cảnh .
+ Gặp  lỗi  khi  thêm  nhóm
+ Bạn  cần  phải  nhập  tên  cho  nhóm  cần  thêm .
+ Thêm  nhóm
+ Hãy  nhập  tên  của  nhóm
+ Sửa  Chat
+ Hãy  cập  nhật  các  trường  cần  thiết .
+ Sửa  thiết  lập
+ Thông  tin
+ Đang  lấy ...
+ Lấy  thông  tin
+ Thêm  thông  báo  bạn  chát
+ Gửi  tập  tin
+ Bị  chặn
+ Hiện  khi  ngoại  tuyến
+ Hãy  nhập  tên  mới  cho  % s
+ Thay  tên
+ Đặt  bí  danh
+ Gõ  chuỗi  rỗng  để  đặt  lại  tên .
+ Gỡ  bỏ  liên  lạc  này  sẽ  gỡ  bỏ  mọi  bạn  chát  trong  liên  lạc
+ Gỡ  bỏ  nhóm  này  thì  cũng  gỡ  bỏ  mọi  bạn  chát  trong  nhóm
+ Bạn  chắc  chắn  muốn  gỡ  bỏ  % s  không ?
+ Xác  nhận  gỡ  bỏ
+ Bỏ
+ Danh  sách  bạn  bè
+ Nơi  có  thẻ
+ Bật / tắt  thẻ
+ Xem  nhật  ký
+ Tên  hiệu
+ Nghỉ
+ Dùng  di  động
+ Mới ...
+ Đã  lưu ...
+ Phần  bổ  sung
+ Chặn / Bỏ  chặn
+ Chặn
+ Bỏ  chặn
+ Hãy  nhập  tên  người  dùng  hay  bí  danh  của  người  mà  bạn  muốn  Chặn  hay  Bỏ  chặn .
+ OK
+ Tin  nhắn  mới
+ Hãy  nhập  tên  người  dùng  hay  bí  danh  của  người  với  họ  bạn  muốn  trò  chuyện  bằng  Nhắn  Tin .
+ Kênh
+ Tham  gia  Chat
+ Hãy  nhập  tên  của  cuộc  chat  bạn  muốn  tham  gia .
+ Tham  gia
+ Hãy  nhập  tên  người  dùng  hay  bí  danh  của  người  mà  bạn  muốn  xem  sổ  theo  dõi  về  họ.Options
+ Tùy  chọn
+ Gửi  tin  nhắn ...
+ Chặn / Bỏ  chặn ...
+ Tham  gia  Chat ...
+ Xem  nhật  ký ...
+ Xem  tất  cả  nhật  ký
+ Hiện
+ Nhóm  rỗng
+ Bạn  chát  ngoại  tuyến
+ Sắp  xếp
+ Theo  trạng  thái
+ Theo  abc
+ Theo  kích  cỡ  sổ  theo  dõi
+ Bạn  chat
+ Nhập  chứng  nhận
+ Ghi  rõ  tên  máy
+ Gõ  tên  máy  cho  đó  có  chứng  nhận  này .
+ Tập  tin  % s  không  thể  được  nhập  khẩu .  Hãy  kiểm  tra  xem  tập  tin  có  khả  năng  đọc  và  theo  định  dạng  PEM .
+ Lỗi  nhập  khẩu  chứng  nhận
+ Lỗi  nhập  khẩu  chứng  nhận  X.509
+ Chọn  chứng  nhận  PEM
+ Lỗi  xuất  khẩu  ra  tập  tin  % s .  Hãy  kiểm  tra  xem  bạn  có  quyền  ghi  vào  đường  dẫn  đích
+ Lỗi  xuất  khẩu  chứng  nhận
+ Lỗi  xuất  khẩu  chứng  nhận  X.509
+ Xuất  khẩu  chứng  nhận  X.509  PEM
+ Chứng  nhận  cho  % s
+ Tên  chung :  % s  Vân  tay  SHA1 :  % s
+ Chứng  nhận  máy  SSL
+ Thực  sự  xoá  chứng  nhận  cho  % s  không ?
+ Xác  nhận  xoá  chứng  nhận
+ Bộ  Quản  lý  Chứng  nhận
+ Tên  máy
+ Đóng
+ % s  ( % s )
+ % s  đã  ngắt  kết  nối .
+ % s  Finch  sẽ  không  thử  tái  kết  nối  tài  khoản  đến  khi  bạn  sửa  chữa  lỗi  này  và  hiệu  lực  lại  tài  khoản .
+ Bật  lại  tài  khoản
+ Không  có  lệnh  như  vậy .
+ Lỗi  cú  pháp :  bạn  đã  gõ  sai  số  đối  số  của  lệnh  đó .
+ Lệnh  của  bạn  bị  lỗi  do  một  nguyên  nhân  chưa  xác  định .
+ Lệnh  đó  chỉ  có  tác  dụng  trong  phòng  chát ,  không  có  trong  tin  nhắn  nhanh  ( IM ) .
+ Lệnh  đó  chỉ  có  tác  dụng  trong  tin  nhắn  nhah ,  không  có  trong  chát .
+ Lệnh  đó  không  có  tác  dụng  trong  giao  thức  này .
+ Tin  nhắn  chưa  gửi  đi  được  vì  bạn  chưa  đăng  nhập .
+ % s  ( % s  --  % s )
+ % s  [ % s ]
+ % s  đang  gõ  phím ...
+ Bạn  đã  rời  cuộc  chat  này .
+ Tài  khoản  đã  ngắt  kết  nối  nên  bạn  không  còn  tham  gia  cuộc  chat  này .  Tài  khoản  tái  kết  nối  thì  bạn  tham  gia  lại  một  cách  tự  động .
+ Đã  mở  ghi  lưu .  Sắp  tới ,  những  thông  điệp  trong  cuộc  trao  đổi  này  sẽ  được  ghi  lại .
+ Ngừng  ghi  lưu .  Sắp  tới ,  những  thông  điệp  trong  cuộc  trao  đổi  này  sẽ  không  được  ghi  lại .
+ Gửi  cho
+ Cuộc  thoại
+ Gột  vùng  cuộn  ngược
+ Hiện  nhãn  thời  gian
+ Thêm  thông  báo  bạn  chát ...
+ Mời ...
+ Bật  theo  dõi
+ Bật  âm  thanh
+ Bạn  không  có  kết  nối .
+   T \
+ s
+Tại %s từ lúc %s
+Chủ đề:  %s
+%s đã ngừng gõ phím
+Mô tả:  

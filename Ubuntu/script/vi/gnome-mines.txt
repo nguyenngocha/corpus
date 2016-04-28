@@ -1,0 +1,40 @@
+ Mìn
+ Xóa  mọi  mìn  bị  ẩn  ra  vùng  mìn
+ minesweeper ; dò ; mìn ;
+ Dùng  cờ  «  không  rõ  »
+ Đặt  là  thật  để  có  thể  đánh  dấu  hộp  là  chưa  biết .
+ Cảnh  báo  về  quá  nhiều  cờ
+ Bật  tự  động  để  cờ
+ Số  cột  trong  lượt  chơi  riêng
+ Số  hàng  trong  lượt  chơi  riêng
+ Số  mìn  trong  lượt  chơi  riêng
+ Cỡ  bảng
+ Kích  cơ  bảng  ( 0-2 = nhỏ-lớn ,  3 = tự  chọn )
+ Chiều  rộng  cửa  sổ  theo  điểm  ảnh
+ Chiều  cao  cửa  sổ  theo  điểm  ảnh
+ Lượt  chơi  _ mới
+ Đ _ iểm
+ _ Tùy  thích
+ Trợ  _ giúp
+ _ Giới  thiệu
+ T _ hoát
+ Tự  chọn
+ _ Ngang :
+ _ Dọc :
+ _ Số  mìn :
+ _ Chơi
+ Bạn  có  muốn  bắt  đầu  một  lượt  chơi  mới  không ?
+ Giữ  lượt  chơi  hiện  thời
+ Trò  chơi  chính :
+ Điểm :
+ Thay  đổi  cỡ  và  hỗ  trợ  SVG :
+ Mặt :
+ Đồ  họa :
+ Nhóm  Việt  hóa  GNOME  ( http : / / gnomevi.sourceforge.net )  Launchpad  Contributions :    Nguyễn  Thái  Ngọc  Duy  https : / / launchpad.net / ~ pclouds
+ Tùy  thích  cho  Dò  Mìn
+ _ Dùng  cờ  «  Chưa  chắc  » .
+ Đã  tạm  dừng
+ Lượt  chơi  mới
+ Cỡ :
+ Ngày
+ Thời  gian

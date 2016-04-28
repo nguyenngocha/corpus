@@ -1,0 +1,117 @@
+ Ứng  dụng  không  tên
+ Bộ  chuyển  Vùng  làm  việc
+ Công  cụ  để  chuyển  đổi  giữa  các  vùng  làm  việc
+ Nhấn  vào  đây  để  chuyển  qua  vùng  làm  việc  % s
+ Nhấn  vào  để  bắt  đầu  kéo  «  % s  »
+ Vùng  làm  việc  đang  dùng :  «  % s  »
+ Nhấn  vào  để  chuyển  qua  «  % s  »
+ Chưa  mở  cửa  sổ
+ Bộ  chọn  cửa  sổ
+ Công  cụ  để  chuyển  giữa  các  cửa  sổ
+ Danh  sách  cửa  sổ
+ Công  cụ  để  chuyển  giữa  các  cửa  sổ  hiện  rõ
+ Thu  _ nhỏ  tất  cả
+ _ Bỏ  thu  nhỏ  tất  cả
+ _ Phóng  to  tất  cả
+ _ Bỏ  phóng  to  tất  cả
+ Đón _ g  tất  cả
+ Bỏ  thu  _ nhỏ
+ Thu  _ nhỏ
+ Bỏ  phóng  t _ o
+ Phóng  t _ o
+ Vùng  làm  việc  % d
+ Vùng  làm  việc  1 _ 0
+ Vùng  làm  việc  % s % d
+ _ Di  chuyển
+ Đổi  _ cỡ
+ Luôn  ở  _ trên
+ _ Luôn  trong  Vùng  làm  việc  hiện  rõ
+ Chỉ  trong  Vùng  làm  việc  _ này
+ Chuyển  sang  vùng  làm  việc  bên  t _ rái
+ Chuyển  sang  vùng  làm  việc  bên  _ phải
+ Chuyển  sang  vùng  làm  việc  bên  _ trên
+ Chuyển  sang  vùng  làm  việc  bên  _ dưới
+ Chuyển  sang  vùng  làm  việc  _ khác
+ Đón _ g
+ Cửa  sổ  không  tên
+ ID  cửa  sổ  X  của  cửa  sổ  cần  kiểm  tra  hay  sửa  đổi
+ XIDowner
+ ID  cửa  sổ  X  của  nhóm  đầu  của  ứng  dụng  cần  kiểm  trafamily
+ Tài  nguyên  hạng  của  nhóm  hạng  cần  kiểm  tra
+ HẠNG
+ SỐ  hiệu  của  vùng  làm  việc  cần  kiểm  tra  hay  sửa  đổi
+ SỐ
+ SỐ  hiệu  của  màn  hình  cần  kiểm  tra  hay  sửa  đổi
+ Bí  danh  của  «  --window  » family
+ Liệt  kê  các  cửa  sổ  của  ứng  dụng / nhóm  hạng / vùng  làm  việc / màn  hình  ( định  dạng  xuất :  «  XID :  Window  Name  » )
+ Liệt  kê  các  vùng  làm  việc  của  màn  hình  ( định  dạng  xuất :  «  Number :  Workspace  Name  » )
+ Thay  đổi  số  vùng  làm  việc  của  màn  hình  thành  SỐ
+ Thay  đổi  bố  trí  vùng  làm  việc  của  màn  hình  để  sử  dụng  SỐ  hàng
+ Thay  đổi  bố  trí  vùng  làm  việc  của  màn  hình  để  sử  dụng  SỐ  cột
+ Hiện  màn  hình  nền
+ Dừng  hiện  màn  hình  nền
+ Di  chuyển  cổng  xem  của  vùng  làm  việc  đang  dùng  thành  toạ  độ  X  X
+ X
+ Di  chuyển  cổng  xem  của  vùng  làm  việc  đang  dùng  thành  toạ  độ  Y  Y
+ Y
+ Thu  nhỏ  cửa  sổ
+ Bỏ  thu  nhỏ  cửa  sổ
+ Phóng  to  cửa  sổ
+ Bỏ  phóng  to  cửa  sổ
+ Phóng  to  cửa  sổ  theo  chiều  ngang
+ Bỏ  phóng  to  cửa  sổ  theo  chiều  ngang
+ Phóng  to  cửa  sổ  theo  chiều  dọc
+ Bỏ  phóng  to  cửa  sổ  theo  chiều  dọc
+ Bắt  đầu  di  chuyển  cửa  sổ  bằng  bàn  phím
+ Bắt  đầu  thay  đổi  kích  cỡ  của  cửa  sổ  bằng  bàn  phím
+ Kích  hoạt  cửa  sổ
+ Đóng  cửa  sổ
+ Làm  cho  cửa  sổ  chiếm  toàn  màn  hình
+ Làm  cho  cửa  sổ  rời  chế  độ  toàn  màn  hình
+ Làm  cho  cửa  sổ  luôn  nằm  ở  trên
+ Làm  cho  cửa  sổ  luôn  không  nằm  ở  trên
+ Làm  cho  cửa  sổ  nằm  bên  dưới  các  cửa  sổ  khác
+ Làm  cho  cửa  sổ  không  nằm  bên  dưới  các  cửa  sổ  khác
+ Tạo  bóng  trên  cửa  sổ
+ Bỏ  bóng  cửa  sổ
+ Làm  cho  cửa  sổ  có  vị  trí  cố  định  trong  tầm  nhìn
+ Làm  cho  cửa  sổ  không  có  vị  trí  cố  định  trong  tầm  nhìn
+ Làm  cho  cửa  sổ  xuất  hiện  trong  bộ  chuyển  màn  hình
+ Làm  cho  cửa  sổ  không  xuất  hiện  trong  bộ  chuyển  màn  hìnhtasklist
+ Làm  cho  cửa  sổ  không  xuất  hiện  trong  danh  sách  tác  vụtasklist
+ Làm  cho  cửa  sổ  xuất  hiện  trong  danh  sách  tác  vụ
+ Làm  cho  cửa  sổ  hiện  rõ  trên  mọi  vùng  làm  việc
+ Làm  cho  cửa  sổ  hiện  rõ  chỉ  trên  vùng  làm  việc  đang  dùng
+ Chuyển  cửa  sổ  sang  vùng  làm  việc  SỐ  ( vùng  làm  việc  thứ  nhất  là  0 )
+ Thay  đổi  toạ  độ  X  của  cửa  sổ  thành  X
+ Thay  đổi  toạ  độ  Y  của  cửa  sổ  thành  Y
+ Thay  đổi  độ  rộng  của  cửa  sổ  thành  RỘNG
+ RỘNG
+ Thay  đổi  độ  rộng  của  cửa  sổ  thành  CAO
+ CAOnormal ,  desktop ,  dock ...
+ Thay  đổi  kiểu  cửa  sổ  thành  KIỂU  ( giá  trị  hợp  lệ :   •  normal \ t \ tchuẩn   •  desktop \ tmàn  hình  nền   •  dock \ t \ tneo   •  dialog \ t \ thộp  thoại   •  toolbar \ tthanh  công  cụ   •  menu \ t \ ttrình  đơn   •  utiity \ t \ ttiện  ích   •  splash \ t \ t ( màn  hình )  chào  mừng
+ KIỂU
+ Thay  đổi  tên  của  vùng  làm  việc  thành  TÊN
+ TÊN
+ Kích  hoạt  vùng  làm  việc
+ Giá  trị  không  hợp  lệ  «  % s  »  cho  «  -- % s  »
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  màn  hình  % d  nên  nhận  sự  kiện  tương  tác ,  nhưng  «  -- % s  »  đã  được  dùng
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  các  cửa  sổ  hay  vùng  làm  việc  của  màn  hình  % d  nên  được  liệt  kê ,  nhưng  «  -- % s  »  đã  được  dùng
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  vùng  làm  việc  % d  nên  nhận  sự  kiện  tương  tác ,  nhưng  «  -- % s  »  đã  được  dùng
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  các  cửa  sổ  của  vùng  làm  việc  % d  nên  được  liệt  kê ,  nhưng  «  -- % s  »  đã  được  dùng
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  một  ứng  dụng  nên  nhận  sự  kiện  tương  tác ,  nhưng  «  -- % s  »  đã  được  dùng
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  các  cửa  sổ  của  một  ứng  dụng  nên  được  liệt  kê ,  nhưng  «  -- % s  »  đã  được  dùng  family
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  nhóm  hạng  «  % s  »  nên  nhận  sự  kiện  tương  tác ,  nhưng  «  -- % s  »  đã  được  dùng  family
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  các  cửa  sổ  của  nhóm  hạng  «  % s  »  nên  được  liệt  kê ,  nhưng  «  -- % s  »  đã  được  dùng
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  một  cửa  sổ  nên  nhận  sự  kiện  tương  tác ,  nhưng  «  -- % s  »  đã  được  dùng
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  «  -- % s  »  và  «  -- % s  »
+ Đối  số  không  hợp  lệ  «  % d  »  cho  «  -- % s  » :  đối  số  phải  là  số  dương  chính  xác
+ Đối  số  không  hợp  lệ  «  % d  »  cho  «  -- % s  » :  đối  số  phải  là  số  dương
+ Có  các  tùy  chọn  xung  đột  với  nhau  :  «  -- % s  »  hay  «  -- % s  » ,  và  «  -- % s  »
+ Đối  số  không  hợp  lệ  «  % s  »  cho  «  -- % s  » :  giá  trị  hợp  lệ  là :  % s
+ Không  thể  thay  đổi  bố  trí  vùng  làm  việc  trên  màn  hình :  bố  trí  đã  bị  sở  hữu
+ Không  thể  di  chuyển  cổng  xem :  vùng  làm  việc  đang  dùng  không  chứa  cổng  xem
+ Không  thể  di  chuyển  cổng  xem :  không  có  vùng  làm  việc  đang  dùng
+ Hành  động  không  được  phép
+ Cửa  sổ  không  thể  được  di  chuyển  sang  vùng  làm  việc  % d :  vùng  làm  việc  không  tồn  tại  something  has  not  been  set
+none" here means "no startup IDstartupID

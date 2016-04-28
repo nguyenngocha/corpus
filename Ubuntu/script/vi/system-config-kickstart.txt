@@ -1,0 +1,96 @@
+ Hệ  thống  X  Window
+ Biên  soạn
+ Khoa  học  kỹ  thuật
+ Mạng  hình
+ Mạng  chữ
+ Văn  Phòng
+ Hình  ảnh  và  âm  thanh
+ Hình  ảnh
+ Trò  chơi  giải  trí
+ Biên  soạn  và  xuất  bản
+ Dụng  Cụ  Cấu  Hình  Máy  Chủ  ( chỉ  có  AS  và  ES )
+ Máy  Truyền  Mạng
+ Máy  Truyền  thơ
+ Máy  Truyền  Tệp  Windows
+ Máy  Truy  Cập  Tên  DNS
+ Máy  chủ  FTP
+ Máy  Dữ  Liệu  SQL
+ Máy  Truyền  Tin
+ Máy  Chủ  Mạng  ( chỉ  có  AS  và  ES )
+ Dụng  Cụ  Lập  Trình
+ Lập  Trình  Lõi ( Kernel )
+ Lập  Trình  X  Windows
+ Lập  Trình  GNOME
+ Lập  Trình  KDE
+ Dụng  Cụ  Quản  Lý
+ Dụng  Cụ  Chỉnh  Máy
+ Trợ  Giúp  In  Ấn
+ Mật  mã  của  Người  Quản  Lý  ( root  user )  không  đúng .
+ Lỗi
+ Xin  chọn  mật  mã  mới  cho  Người  Quản  Lý . ( root )
+ Các  thông  số  của  Bootloader  không  phù  hợp  với  máy  % s
+ Mật  mã  của  Grub  không  đúng .   Xin  hãy  đăng  nhập  lại .
+ Thiết  bị  đáng  tin :
+ Dịch  vụ  đáng  tin :
+ Cổng  khác :
+ Xin  điền  tên  Máy  Chủ  NFS .
+ Xin  điền  tên  một  thư  mục  NFS .
+ Xin  điền  tên  một  Máy  chủ  FTP .
+ Xin  điền  tên  một  thư  mục  FTP .
+ Xin  điền  tên  người  xử  dụng  FTP .
+ Xin  điền  mật  mã .
+ Xin  điền  tên  máy  chủ  mạng  HTTP .
+ Xin  điền  thư  mục  của  máy  chủ  mạng  HTTP .
+ Xin  điền  tên  thư  mục  trên  dĩa  cứng .
+ Xin  điền  tên  Vùng ( partition )  dĩa  cứng .
+ Cài  đặt  tự  dộng
+ Tạo  Tệp  Tự  Cài ( KickStart )
+ Phần  Phụ
+ Cấu  Hình  Cơ  Bản
+ Phương  Thức  Cài  Đặt
+ Cấu  Hình  Của  Bộ  Khởi  Động
+ Thông  Tin  Những  Vùng  Dĩa  Cứng
+ Cấu  Hình  Mạng
+ Chứng  Nhận
+ Cấu  Hình  Màng  Lửa
+ Cấu  Hình  Bộ  Hiển  Thị
+ Chọn  Gói
+ Trình  Chạy  Trước  Khi  Cài
+ Trình  Chạy  Sau  Khi  Cài
+ Kickstart  Configurator  @ VERSION @   Copyright  ( c )  2000-2002  Red  Hat ,  Inc .   Copyright  ( c )  2000-2002  Brent  Fox   <  bfox \ @ redhat \ .com  >   Copyright  ( c )  2000-2002  Tammy  Fox   <  tfox \ @ redhat \ .com  >   Giao  Diện  giúp  tạo  lập  một  Trình  Tự  Cài
+ Sơ  Lược  Về  Bộ  Cấu  Hình  Tự  Cài
+ Không  có  phần  Trợ  Giúp .
+ Không  mở  được  Tệp  " % s " .
+ Thiết  Bị
+ Loại  Mạng
+ IP  Tĩnh
+ Xin  điền  các  thông  số  của  mạng
+ Đã  có  một  thiết  bị  cùng  tên  % s  trên  mạng .   Xin  chọn  tên  khác  Tên  Thiết  Bị
+ ext2
+ ext3physical  volume  ( LVM ) " ) : " lvm
+ RAID  mềm
+ swap
+ vfat
+ PPC  PReP  Boot
+ Đúng
+ Sai
+ Tự  Động
+ Dĩa  Cứng
+ Xin  chĩ  rõ  Thư  Mục  nào  dùng  để  gắn  Vùng  Dĩa  Nầy .
+ Thư  Mục  " % s "  đã  được  dùng .   Xin  chọn  Thư  Mục  khác .
+ Để  tạo  một  Vùng  Dĩa  RAID  mới ,  bạn  phải  chỉ  định  tên  của  một  dĩa  cứng  hoặc  một  Vùng  Dĩa ( partition )  cứng  hiện  có .
+ Chỉ  định  1  dĩa  cứng  đễ  tạo  Vùng  mới .
+ Tên  của  Thiết  Bị  mà  bạn  chỉ  định  không  hợp  lệ .   Xin  dùng  các  tênhợp  lệ  như  là   " hda1 "  hoặc  " sda3 " .
+ Tên  Thiết  Bị  bạn  chỉ  định  không  được  kết  thúc  bằng  1  chữ  số .   Mọi  Vùng  Dĩa  phãi  kết  thúc  bằng  số ,  thí  dụ  như   " hda1 "  hoặc  " sda3 " .
+ Vùng  Dĩa  bạn  chỉ  định  không  bắt  đầu  bằng   " hd "  hoặc  " sd " .   Mỗi  Vùng  cần  phải  có  tên  1  Thiết  Bị  hợp  lệ  và  số  Vùng  như  " hda1 "  hoặc  " sda3 " .
+ Thiết  Bị /  Vùng  Dĩa  Cứng  SốMount  Point /  RAID / Volume
+ Nơi  Gắn  Tệp /  RAID
+ Loại
+ Định  Khuôn  Dạng
+ Cỡ  ( MB )
+ Xin  chọn  1  Vùng  Dĩa  từ  danh  sách .
+ Hiện  tại  bạn  có  % d  Vùng  RAID  mềm  có  thễ  dùng .
+ Bạn  cần  phải  chọn  ít  nhất  2  Vùng  Dĩa  mới  có  thể  dùng  RAID  % s
+ Bạn  cần  phải  chọn  ít  nhất  3  Vùng  Dĩa  mới  có  thể  dùng  RAID  % s
+ Thiết  Bị  Raid
+ Cách  Dùng :  system-config-kickstart  [ --help ]  [ --generate     T \

@@ -1,0 +1,17 @@
+ " Tiện  ích  cấu  hình  PPP  của  GNU / Linux "
+ Không  có  giao  diện  đồ  họa
+ Câ ̀ n  quyê ̀ n  root  để  chạy  chương  trình  này .
+ % s  không  tồn  tại .
+ Không  đóng  được  WTR  trong  tiến  trình  mẹ : 
+ Không  đóng  được  RDR  trong  tiến  trình  mẹ : 
+ không  tạo  đươ ̣ c  tiến  trình  con : 
+ Không  đóng  được  RDR  trong  tiến  trình  con : 
+ Không  chuyển  hướng  được  tơ ́ i  stderr : 
+ Exec  ( thực  hiện )  không  thành  công : 
+ Lỗi  nội  bộ : 
+ Tạo  một  kết  nối
+ Thay  đổi  kết  nối  có  tên  % s
+ Tạo  một  kết  nối  với  tên  % s
+ Đây  là  tiện  ích  cấu  hình  PPP .  Nó  không  kết  nối  tới  ISP  ( nhà  cung  cấp  dịch  vu  Mạng )  của  bạn ,  mà  chỉ  cấu  hình  giao  thức  ppp  để  chúng  ta  có  thể  kết  nối  bằng  một  tiện  ích  khác  như  pon .   Nó  sẽ  hỏi  tên  người  dùng ,  mật  khẩu ,  và  số  điện  thoại  mà  ISP  đã  cung  cấp .  Nếu  ISP  của  bạn  sử  dụng  phương  pháp  PAP  hay  CHAP ,  thì  đó  là  tất  cả  những  gì  cần  nhập .   Nếu  cần  có  một  tập  lệnh  chat ,  thì  còn  cần  phải  biết  cách  ISP  hỏi  nhắc  tên  người  dùng  và  mật  khẩu .   Nếu  không  biết  ISP  dùng  gì  thì  hãy  thử  PAP .   Dùng  phím  mũi  tên  lên  và  xuống  để  di  chuyển  giữa  các  trình  đơn .   Bấm  phím  ENTER  để  chọn .   Dùng  phím  TAB  để  chuyển  từ  trình  đơn  sang  « Được »  sang  « Thôi »  và  ngược  lại .   Để  chuyển  sang  trình  đơn  tiếp  theo ,  chuyển  tới  « Được »  và  gõ  ENTER .  Để  quay  lại  trình  đơn  trước ,  đi  tới  « Thôi »  và  gõ  ENTER .
+ Hãy  nhập  địa  chỉ  IP  cho  nameserver  chi ́ nh .
+ Ngươ ̀ i  du ̀ ng  không  tô ̀ n  ta ̣ i  % s . 

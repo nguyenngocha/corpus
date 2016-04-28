@@ -1,0 +1,21 @@
+ Trở  về  ( b ) 
+ Chọn  bộ  đệm 
+ Chọn  Tab  ( t ) 
+ Xem  mã  nguồn  ( v ) 
+ Sửa  mã  nguồn  ( e ) 
+ Lưu  mã  nguồn  ( S ) 
+ Nạp  lại  ( r ) 
+ ---------------- 
+ Đến  liên  kết  ( a ) 
+ trên  Tab  mới  ( n ) 
+ Lưu  liên  kết  ( A ) 
+ Xem  hình  ảnh  ( i ) 
+ Lưu  hình  ảnh  ( l ) 
+ Xem  khung  ( f ) 
+ Đánh  dấu  chọn  ( B ) 
+ Trợ  giúp  ( h ) 
+ Lựa  chọn  ( o ) 
+ Thoát  ( q ) 
+ Số  lượng  pixel  cho  mỗi  kỹ  tự  ( 4.0 ... 32.0 )
+ Số  lượng  pixel  cho  mỗi  dòng  ( 4.0 ... 64.0 )
+ ja ; q = 1.0 ,  en ; q = 0.5

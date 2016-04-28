@@ -1,0 +1,10 @@
+ ARGP _ HELP _ FMT :  giá  trị  % s  nhỏ  hơn  hoặc  bằng  % s
+ % . * s :  tham  số  “ ARGP _ HELP _ FMT ”  cần  được  gán  giá  trị
+ % . * s :  tham  số  “ ARGP _ HELP _ FMT ”  phải  là  số  dương
+ % . * s :  Không  biết  tham  số  “ ARGP _ HELP _ FMT ”
+ Gặp  rác  trong  “ ARGP _ HELP _ FMT ” :  % s
+ Các  đối  số  là  bắt  buộc  hay  chỉ  là  tùy  chọn  khi  dùng  với  tùy  chọn  dài  thì  tùy  chọn  ngắn  tương  ứng  cũng  vậy .
+ Cách  dùng :
+ hoặc : 
+ [ TÙY _ CHỌN ... ]
+ Hãy  thông  báo  lỗi  cho  % s .

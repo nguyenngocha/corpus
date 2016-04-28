@@ -1,0 +1,39 @@
+ Xếp  carô
+ Phóng
+ Giữa
+ Tỉ  lệ
+ Lấp  đầy
+ Dãn
+   Hình   nền 
+ Thay  đổi  liên  tục  trong  ngày
+ Thêm  ảnh  nền
+ Bỏ  ảnh  nền
+ Thêm  dấu  chấm
+   Giao   diện 
+   Kích   thước   Thanh   khởi   chạy 
+ Diện  mạo
+   Tự   động   ẩn   Thanh   khởi   chạy 
+   Thanh   khởi   chạy   sẽ   hiện   ra   khi   bạn   di   con   trỏ   đến   điểm   định   sẵn  . 
+ Vị  trí  hiện :
+ Bên  trái
+ Góc  trên  bên  trái
+ Khu  vực  khác
+ Độ  nhạy
+   Cao 
+   Thấp 
+ Một  số  thiết  lập  đã  bị  ghi  đè  bởi  phần  mềm  bên  ngoài .  Xin  hãy  nhấn  nút  " Khôi  phục  hành  vi "  để  khôi  phục  lại  hành  vi  gốc  và  quay  lại  bảng  điều  khiển  này .
+ Khôi  phục  hành  vi
+ Hành  vi
+ Dốc  ngang
+ Dốc  dọc
+ Màu  đặc
+ nhiều  kích  cỡx
+ % d  ×  % d
+ Không  có  ảnh  nền
+ Duyệt  thêm  ảnh
+ Ảnh  nền  hiện  tại
+ mặc  định
+ Ảnh  nền
+ Thư  mục  ảnh
+ Màu  và  dốc
+ Flickr

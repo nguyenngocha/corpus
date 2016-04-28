@@ -1,0 +1,16 @@
+ Đừng  chạy  seahorse-daemon  ở  chế  độ  nền
+ không  thể  tạo  tiến  trình  con
+ không  thể  tạo  nhóm  tiến  trình  mới
+ Trình  nền  mã  hoá  ( Seahorse )
+ Kiểu  khoá  không  hợp  lệ  hay  không  được  nhận  ra :  % s
+ Kiểu  khoá  này  không  được  hỗ  trợ :  % s
+ Tính  năng  này  không  được  chọn  hỗ  trợ  lúc  biên  dịch
+ Khoá  không  hợp  lệ  hay  không  được  nhận  ra :  % s
+ Ký  bởi         hết    hạn     vào  % s .
+ Chữ  ký  không  hợp  lệ
+ Ký  bởi       vào  % s    đã   hết   hạn  .
+ Chữ  ký  đã  hết  hạn
+ Ký  bởi         đã    hủy    bỏ     vào  % s .
+   Quyền   hạn  : 
+      Ảnh    chụp    quá    lớn    Kích  cỡ  khuyến  khích  của  ảnh  chụp  trên  khoá  là  % d  ×  % d  điểm  ảnh .
+   Tùy   chọn   khoá   cấp   c  _  ao 

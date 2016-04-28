@@ -1,0 +1,40 @@
+ GNOME  マインスイーパー
+ 地雷原から見えない地雷を除去してください
+ minesweeper ; マインスイーパー ; game ; ゲーム ; logic ; ロジック ; 論理 ; puzzle ; パズル ; Mines ; 地雷 ;
+ 不明なフラグを使う
+ 不明なエリアをマークできるようにする場合は  true  にしてください 。
+ フラグを置きすぎたら警告する
+ フラグを自動的に置くかどうか
+ カスタマイズしたゲームでの盤面の桁数
+ カスタマイズしたゲームでの盤面の行数
+ カスタムゲームでの地雷の数
+ 盤の大きさ
+ ボードの大きさ  ( 0-2  =  小さい 〜 大きい 、 3 = その他 )
+ ウィンドウの幅  ( ピクセル単位 )
+ ウィンドウの高さ  ( ピクセル単位 )
+ 新しいゲーム ( _ N )
+ 得点 ( _ S )
+ 設定 ( _ P )
+ ヘルプ ( _ H )
+ このアプリケーションについて ( _ A )
+ 終了 ( _ Q )
+ カスタム
+ 水平 ( _ O ) :
+ 垂直 ( _ V ) :
+ 地雷の数 ( _ N ) :
+ プレイする ( _ P )
+ 新しいゲームを開始しますか ?
+ 現在のゲームを継続
+ メインゲーム :
+ 得点 :
+ サイズ変更と  SVG  サポート :
+ フェイス :
+ グラフィックス :
+ 相花  毅   <  takeshi \ .aihana \ @ gmail \ .com  >  佐藤  暁   <  ss \ @ gnome \ .gr \ .jp  >  KAMAGASAKO  Masatoshi   <  emerald \ @ gnome \ .gr \ .jp  >  草野  貴之   <  AE5T \ -KSN \ @ asahi \ -net \ .or \ .jp  >  Yuusuke  Tahara   <  tahara \ @ gnome \ .gr \ .jp  >  Akira  Higuchi   <  a \ -higuti \ @ math \ .sci \ .hokudai \ .ac \ .jp  >  Yukihiro  Nakai   <  Nakai \ @ technologist \ .com  >  松澤  二郎   <  jmatsuzawa \ @ gnome \ .org  >  日本GNOMEユーザー会   <  http \ : \ / \ / www \ .gnome \ .gr \ .jp  >  Launchpad  Contributions :    Jiro  Matsuzawa  https : / / launchpad.net / ~ jmatsuzawa    MANABE  Akinari  https : / / launchpad.net / ~ maaanaari    OKANO  Takayoshi  https : / / launchpad.net / ~ kano    Shushi  Kurose  https : / / launchpad.net / ~ kuromabo
+ GNOME  マインスイーパーの設定
+ " 確認していません "  フラグを使う ( _ U )
+ 一時停止
+ 新しいゲーム
+ 大きさ :
+ 日付
+ タイム

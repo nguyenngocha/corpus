@@ -1,0 +1,10 @@
+ % . * s :  tham  số  “ ARGP _ HELP _ FMT ”  cần  có  một  giá  trị
+ % . * s :  Không  hiểu  tham  số  “ ARGP _ HELP _ FMT ”
+ Gặp  rác  trong  “ ARGP _ HELP _ FMT ” :  % s
+ Các  đối  số  là  bắt  buộc  hay  chỉ  là  tùy  chọn  khi  dùng  với  tùy  chọn  dài  thì  tùy  chọn  ngắn  tương  ứng  với  nó  cũng  vậy .
+ Cách  dùng :
+ hoặc : 
+ [ TÙY _ CHỌN ... ]
+ Hãy  chạy  lệnh  “ % s  --help ”  ( trợ  giúp )  hay  “ % s  --usage ”  ( cách  dùng )  để  xem  thông  tin  thêm .
+ Hãy  thông  báo  lỗi  cho  % s  Thông  báo  lỗi  dịch  cho :   <  http \ : \ / \ / translationproject \ .org \ / team \ / vi \ .html  >  .
+Bộ nhớ tạm %s:

@@ -1,0 +1,12 @@
+ Máy  in
+ Tạm  dừng
+ Vấn  đề  In  ấn
+ _ Xác  lập …
+ Máy  in  “ % s ”  gần  hết  giấy .
+ Máy  in  “ % s ”  hết  giấy .
+ Máy  in  “ % s ”  gần  hết  mực .
+ Máy  in  “ % s ”  hết  mực .
+ Nắp  của  máy  in  “ % s ”  đang  bị  mở  ra .
+ Cứa  máy  in  “ % s ”  đang  bị  mở  ra .
+ Không  thể  sử  dụng  máy  in  “ % s ”  vì  thiếu  phần  mềm  cần  thiết .
+ Máy  in  “ % s ”  hiện  đang  ngoại  tuyến .

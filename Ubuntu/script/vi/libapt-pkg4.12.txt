@@ -1,0 +1,113 @@
+ Các  tập  tin  trống  rỗng  không  phải  là  kho  lưu  hợp  lệ
+ Không  thể  mở  ống  dẫn  cho  % s
+ Gặp  lỗi  đọc  từ  tiến  trình  % s
+ Gặp  lỗi  khi  lấy  thống  kê
+ Gặp  lỗi  khi  đặt  giờ  sửa  đổi
+ Không  thể  đọc  cơ  sở  dữ  liệu  đĩa  CD-ROM  % s
+ Hãy  sử  dụng  lệnh  “ apt-cdrom ”  để  làm  cho  APT  chấp  nhận  đĩa  CD  này .  Không  thể  sử  dụng  lệnh  “ apt-get  update ”  ( cập  nhật  cơ  sở  dữ  liệu )  để  thêm  đĩa  CD  mới .
+ CD-ROM  sai
+ Không  thể  bỏ  gắn  đĩa  CD-ROM  trong  % s .  Có  lẽ  nó  vẫn  đang  được  dùng .
+ Không  tìm  thấy  đĩa .
+ Không  tìm  thấy  tập  tin
+ Địa  chỉ  URI  không  hợp  lệ ,  URI  nội  bộ  không  thể  bắt  đầu  bằng  “ / / ”
+ Đang  đăng  nhập  vào
+ Không  thể  quyết  định  tên  ngang  hàng
+ Không  thể  phân  giải  tên  cục  bộ
+ Máy  phục  vụ  đã  từ  chối  kết  nối ,  và  đã  nói :  % s
+ Lệnh  USER  ( người  dùng )  đã  thất  bại :  máy  chủ  nói :  % s
+ Lệnh  PASS  ( mật  khẩu )  đã  thất  bại :  máy  chủ  nói :  % s
+ Đã  ghi  rõ  máy  phục  vụ  ủy  nhiệm ,  nhưng  mà  chưa  ghi  rõ  tập  lệnh  đăng  nhập .  “ Acquire : : ftp : : ProxyLogin ”  là  rỗng .
+ Văn  lệnh  đăng  nhập  “ % s ”  đã  thất  bại :  máy  chủ  nói :  % s
+ Lệnh  TYPE  ( kiểu )  đã  thất  bại :  máy  chủ  nói :  % s
+ Thời  hạn  kết  nối
+ Máy  phục  vụ  đã  đóng  kết  nối
+ Lỗi  đọc
+ Một  trả  lời  đã  tràn  bộ  đệm .
+ Giao  thức  bị  hỏng
+ Lỗi  ghi
+ Không  thể  tạo  ổ  cắm
+ Không  thể  kết  nối  ổ  cắm  dữ  liệu ,  kết  nối  đã  quá  giờ
+ Gặp  lỗi
+ Không  thể  kết  nối  ổ  cắm  bị  động .
+ getaddrinfo  ( lấy  thông  tin  địa  chỉ )  không  thể  lấy  ổ  cắm  lắng  nghe
+ Không  thể  ràng  buộc  ổ  cắm
+ Không  thể  lắng  nghe  trên  ổ  cắm  đó
+ Không  thể  quyết  định  tên  ổ  cắm  đó
+ Không  thể  gửi  lệnh  PORT  ( cổng )
+ Không  biết  họ  địa  chỉ  % u  ( AF _ * )
+ Lệnh  EPRT  ( thông  báo  lỗi )  đã  thất  bại :  máy  chủ  nói :  % s
+ Quá  giờ  kết  nối  ổ  cắm  dữ  liệu
+ Không  thể  chấp  nhận  kết  nối
+ Gặp  vấn  đề  băm  tập  tin
+ Không  thể  lấy  tập  tin :  máy  phục  vụ  nói  “ % s ”
+ Ổ  cắm  dữ  liệu  đã  quá  giờ
+ Việc  truyền  dữ  liệu  bị  lỗi :  máy  phục  vụ  nói  “ % s ”
+ Truy  vấn
+ Không  thể  gọi 
+ Đang  kết  nối  đến  % s  ( % s )
+ [ Địa  chỉ  IP :  % s  % s ]
+ Không  thể  tạo  ổ  cắm  cho  % s  ( f = % u  t = % u  p = % u )
+ Không  thể  khởi  tạo  kết  nối  đến  % s : % s  ( % s ) .
+ Không  thể  kết  nối  đến  % s : % s  ( % s ) ,  kết  nối  bị  quá  giờ
+ Không  thể  kết  nối  đến  % s : % s  ( % s ) .
+ Đang  kết  nối  đến  % s
+ Không  thể  phân  giải  “ % s ”
+ Việc  phân  giải  “ % s ”  bị  lỗi  tạm  thời
+ Một  số  hư  hỏng  đã  xảy  ra  khi  phân  giải  “ % s : % s ”  ( % i  -  % s )
+ Không  thể  kết  nối  đến  % s :  % s :
+ Lỗi  nội  bộ :  Chữ  ký  đúng ,  nhưng  không  thể  xác  định  vân  tay  của  khóa ? !
+ Gặp  ít  nhất  một  chữ  ký  không  hợp  lệ .
+ Không  thể  thực  hiện  “ gpgv ”  để  thẩm  tra  chữ  ký  ( gpgv  đã  được  cài  đặt  chưa ? )
+ Gặp  lỗi  không  rõ  khi  thực  hiện  gpgv
+ Những  chữ  ký  theo  đây  không  hợp  lệ :
+ Không  thể  kiểm  chứng  những  chữ  ký  theo  đây ,  vì  khóa  công  không  sẵn  có :
+ Đang  đợi  phần  đầu  dữ  liệu ...
+ Đã  lấy  một  dòng  đầu  riêng  lẻ  chứa  hơn  % u  ky  tự
+ Dòng  đầu  sai
+ Máy  phục  vụ  HTTP  đã  gửi  một  dòng  đầu  trả  lời  không  hợp  lệ
+ Máy  phục  vụ  HTTP  đã  gửi  một  dòng  đầu  Content-Length  ( độ  dài  nội  dung )  không  hợp  lệ
+ Máy  phục  vụ  HTTP  đã  gửi  một  dòng  đầu  Content-Range  ( phạm  vi  nội  dung )  không  hợp  lệ
+ Máy  phục  vụ  HTTP  không  hỗ  trợ  tải  một  phần  tập  tin
+ Không  rõ  định  dạng  ngày
+ Việc  chọn  bị  lỗi
+ Kết  nối  đã  quá  giờ
+ Gặp  lỗi  khi  ghi  vào  tập  tin  đầu  ra
+ Gặp  lỗi  khi  ghi  vào  tập  tin
+ Gặp  lỗi  khi  đọc  từ  máy  phục  vụ :  Máy  chủ  đã  đóng  kết  nối
+ Gặp  lỗi  khi  đọc  từ  máy  phục  vụ
+ Dữ  liệu  phần  đầu  sai
+ Kết  nối  bị  lỗi
+ Gặp  lỗi  nội  bộ
+ Không  thể  mmap  ( ánh  xạ  bộ  nhớ )  tập  tin  rỗng
+ Không  thể  nhân  đôi  bộ  mô  tả  tập  tin  % i
+ Không  thể  tạo  mmap  ( ánh  xạ  bộ  nhớ )  kích  cỡ  % llu  byte
+ Không  thể  đóng  mmap  ( ánh  xạ  bộ  nhớ )
+ Không  thể  động  bộ  hoá  mmap  ( ánh  xạ  bộ  nhớ )
+ Không  thể  tạo  mmap  ( ánh  xạ  bộ  nhớ )  kích  cỡ  % lu  byte
+ Gặp  lỗi  khi  cắt  ngắn  tập  tin
+ Dynamic  MMap  ( ảnh  xạ  bộ  nhớ  động )  đã  hết  sức  chứa .  Hãy  tăng  kích  cỡ  của  «  APT : : Cache-Limit  »  ( giới  hạn  vùng  nhớ  tạm  Apt ) .  Giá  trị  hiện  thời :   % lu .  ( man  5  apt.conf )
+ Không  thể  tăng  kích  cỡ  của  ánh  xạ  bộ  nhớ ,  vì  đã  tới  giới  hạn  % lu  byte .
+ Không  thể  tăng  kích  cỡ  của  ánh  xạ  bộ  nhớ ,  vì  chức  năng  tự  động  tăng  bị  người  dùng  tắt  đi .
+ % li  ngày  % li  giờ  % li  phút  % li  giây
+ % li  giờ  % li  phút  % li  giây
+ % li  phút  % li  giây
+ % li  giây
+ Không  tìm  thấy  vùng  chọn  % s
+ Không  chấp  nhận  kiểu  viết  tắt :  “ % c ”
+ Đang  mở  tập  tin  cấu  hình  % s ...
+ Gặp  lỗi  cú  pháp  % s : % u :  Khối  bắt  đầu  không  có  tên .
+ Gặp  lỗi  cú  pháp  % s : % u :  Sai  dạng  thẻ
+ Gặp  lỗi  cú  pháp  % s : % u :  Có  rác  sau  giá  trị
+ Gặp  lỗi  cú  pháp  % s : % u :  Chỉ  có  thể  thực  hiện  chỉ  thị  mức  đầu
+ Gặp  lỗi  cú  pháp  % s : % u :  Quá  nhiều  chỉ  thị  bao  gồm  lồng  nhau
+ Gặp  lỗi  cú  pháp  % s : % u :  Đã  được  bao  gồm  từ  đây
+ Gặp  lỗi  cú  pháp  % s : % u :  Chưa  hỗ  trợ  chỉ  thị  “ % s ”
+ Gặp  lỗi  cú  pháp  % s : % u :  Chỉ  thị  “ clear ”  thì  yêu  cầu  một  cây  tuỳ  chọn  làm  đối  số
+ Gặp  lỗi  cú  pháp  % s : % u :  Gặp  rác  tại  kết  thúc  tập  tin
+ % c % s ...  Lỗi !
+ % c % s ...  Xong
+ Không  hiểu  tùy  chọn  dòng  lệnh  “ % c ”  [ từ  % s ] .
+ Không  hiểu  tùy  chọn  dòng  lệnh  % s
+ Tùy  chọn  dòng  lệnh  % s  không  phải  dạng  lôgíc  ( đúng / sai )
+ Tùy  chọn  % s  yêu  cầu  một  đối  số .
+ Tùy  chọn  % s :  Đặc  tả  mục  cấu  hình  phải  có  một  “ =    gi \

@@ -1,0 +1,203 @@
+ Dasher
+ Nhập  văn  bản  dự  đoán
+ Nhập  văn  bản  mà  không  có  bàn  phím
+ _ Tập  tin
+ _ Sửa
+ Chép  _ tất  cả
+ _ Tuỳ  chọn
+ _ Sửa  phông
+ Phông  _ Dasher
+ Cỡ  phông  _ Dasher
+ Chuẩn
+ Lớn
+ Rất  lớn
+ Đặt  _ lại  phông
+ Trợ  g _ iúp
+ _ Giới  thiệu
+ Chọn  tập  tin
+ Chọn  phông
+ Tuỳ  thích  Dasher
+ Chọn  bảng  chữ  cái
+ Lược  đồ  Màu
+ Lược  đồ  màu  tự  chọn :
+ Bảng  chữ  cái
+ Tốc  độ
+ Tự  động  thích  nghi  tốc  độ
+ Điều  khiển
+ Kích  cỡ  Hiển  thị
+ Mở  rộng  cửa  sổ  nhập
+ Hướng
+ Bảng  chữ  cái  mặc  định
+ Tự  chọn
+ Trái  sang  phải
+ Phải  sang  trái
+ Đỉnh  xuống  đáy
+ Dưới  lên  Trên
+ Xem
+ Mẫu  ngôn  ngữ
+ Trang  mỗi  phút  dựa  vào  kí  tự  chuẩn
+ Mẫu  dựa  vào  từ
+ Mẫu  trộn  ( PPM / từ  điển )
+ Tiếng  Nhật
+ Thích  nghi
+ Loại  ngôn  ngữ  thích  ứng  khi  bạn  viết .
+ Làm  mịn
+ Dự  đoán
+ P
+ Hãy  đợi ...
+ Hình  vòng  giữa
+ Hãy  sử  dụng  điều  khiển  này  để  điều  chỉnh  kích  cỡ  tương  đối  ô  ký  tự .  Lưu  ý  rằng  việc  chọn  giá  trị  cao  sẽ  giảm  tốc  độ  viết .
+ Ngôn  ngữ
+ Kiểu  dáng  Điều  khiển
+ Tuỳ  chọn
+ Thiết  bị  nhập
+ Khởi / Dừng  chạy
+ Bắt  đầu  khi  bấm  nút  trái  trên  chuột
+ Bắt  đầu  khi  bấm  phím  khoảng  trắng
+ Bắt  đầu  với  vị  trí  chuột :
+ Tạm  dừng  bên  ngoài  bản  vẽ
+ Tuỳ  chọn  Diện  mạo
+ Hiện  vị  trí  chuột
+ Vẽ  đường  giữa  dấu  chữ  thập  và  con  chuột
+ Tăng  độ  rộng  đường
+ Vẽ  nét  ngoài  hộp
+ Phông  Dasher
+ Chọn  phông  Dasher
+ Phông  chữ  nhỏ
+ Phông  chữ  lớn 
+ Phông  chữ  rất  lớn
+ Diện  mạo
+ Tuỳ  chọn  Ứng  dụng
+ Nhãn  giờ  trên  tập  tin  mới
+ Hiện  thanh  công  cụ
+ Hiện  con  trượt  tốc  độ
+ Chế  độ  điều  khiển
+ Phông  soạn  thảo
+ Chọn  phông  soạn  thảo
+ Kiểu  dáng  Ứng  dụng
+ Độc  lập
+ Hợp  thành
+ Nhập  trực  tiếp
+ Toàn  màn  hình
+ Ứng  dụng
+ Tập  tin  mới
+ Mở  tập  tin
+ Lưu  tập  tin
+ Lưu  tập  tin  là
+ _ Phụ  thêm  vào  tập  tin ...
+ Nhập  _ văn  bản  huấn  luyện ...
+ Thoát
+ Cắt
+ Chép
+ Dán
+ T _ uỳ  thích ...
+ Tuỳ  thích
+ Mụ _ c  lục ...
+ Trợ  giúp
+ _ Giới  thiệu ...
+ Chế  độ  trình  đơn
+ Tốc  độ :
+ Bảng  chữ  cái :
+ GameTextFile
+ Lấy  toàn  cục  dữ  kiện  bàn  phím
+ Chế  độ  trực  tiếp  xen  kẽ
+ Khoảng  thời  gian  quét  ở  chế  độ  trình  đơn  ( 0  thì  không  quét )
+ Số  hộp
+ Hạn  chế  an  toàn
+ Hộp  khác  nhau
+ Hệ  số  thu  phóng  tối  đaguides
+ Chế  độ  nhấn
+ Thu  phóng  bên  phải
+ Chế  độ  la  bàn
+ Điều  khiển  chuẩn
+ _ Nạp  văn  bản  huấn  luyện
+ Thời  gian  bấm  lâu
+ Thời  gian  bấm  đôi
+ Bật  nút  lùi  ra
+ Khởi  chạy  chậm
+ Thời  gian  khởi  chạy
+ Phần  trăm  theo  đó  cần  tự  động  tăng  tốc
+ Khoảng  thời  gian  sau  đó  cần  tự  động  tăng  tốc  ( giây )
+ Phần  trăm  theo  đó  cần  giảm  tốc  vào  lúc  đảo  ngược
+ Chế  độ  động  một  cái  nút
+ Khoảng  thời  gian  quét  ( về  mỗi  hướng ) ,  theo  mili-giây
+ Khoảng  đợi  trước  khi  người  dùng  thật  bấm  nút  ( mili-giây )
+ Chế  độ  một  chiều
+ đúng
+ sai--options  foo = VALVAL
+ giá  trị  lôgic  thì  phải  được  ghi  rõ  là  «  đúng  »  hay  «  sai  » .--options
+ không  rõ  tùy  chọn ,  hãy  dùng  cờ  «  --help-options  »  để  xem  thêm  thông  tin .
+ Cổng :
+ Nhãn  X :
+ Tối  thiểu  X :
+ Tối  đa  X :
+ Nhãn  Y :
+ Tối  thiểu  Y :
+ Tối  đa  Y :
+ In  vào  bàn  giao  tiếp  thông  tin  gỡ  lỗi  liên  quan  đến  ổ  cắm :
+ Ổ  cắm  nhập  vào
+ Nhập  ổ  cắm  dasher :  lỗi  khi  khởi  chạy  mạch  đọc .
+ Điều  khiển  bút  trâm
+ Không  thể  mở  tập  tin  trợ  giúp
+ Độ  dời  cái  nút
+ Thời  gian  đa  bấm
+ Bật  các  nút  lùi  lại  và  chạy / dừng
+ Đảo  ngược  các  nút  lên  và  xuống
+ Nhấn  đôi  ngược  với  lên / xuống  —  nhấn  ba  để  đảo  ngược  lại
+ Chế  độ  động  hai  cái  nút
+ Khoảng  bù  cho  nút  ngoài  ( thứ  hai )
+ Dung  sai  cho  đếm  thời  gian  không  chính  xác  các  cú  bấm  nút  ( theo  mili-giây )
+ Thời  gian  khởi  chạy  chậm
+ Tham  số  lôgic
+ Mặc  định
+ Mô  tả
+ Tham  số  kiểu  số  nguyên
+ Tham  số  chuỗi =
+ thiết  lập  tùy  chọn  còn  thiếu  «  =  »
+ Đã  ghi  rõ  một  chuỗi  tùy  chọn  sai
+ Bạn  có  muốn  lưu  các  thay  đổi  vào  % s  không ?  Nếu  bạn  không  lưu ,  các  thay  đổi  sẽ  bị  mất  hoàn  toàn .
+ Bạn  có  muốn  lưu  các  thay  đổi  không ?  Nếu  bạn  không  lưu ,  các  thay  đổi  sẽ  bị  mất  hoàn  toàn .
+ Không  lưu
+ Không  thoát
+ Lưu  rồi  thoát
+ Bạn  có  chắc  muốn  thoát  không ?
+ Dasher  là  một  ứng  dụng  nhập  đoạn  chữ  dự  đoán
+ Nhóm  Việt  hóa  GNOME  ( http : / / gnomevi.sourceforge.net )
+ Không  thể  khởi  tạo  phần  hỗ  trợ  tiếng  nói
+ Cảnh  báo :  không  thể  đặt  các  tham  số  tiếng  nói
+ Không  thể  khởi  tạo  giọng  nói
+ Tùy  chọn  Mô-đun  Dasher
+ Tuỳ  chọn  % s :
+ Chuột  nhập  vào
+ Điểm  ảnh  chiếm  phạm  vi  Y
+ Chuột  nhập  vào  một  chiều
+ Hành  độngtimedata " ,  ' w ' ,  0 ,  G _ OPTION _ ARG _ NONE ,   &  timedata ,  " Write  basic  timing  information  to  stdoutpreferences " ,  ' p ' ,  0 ,  G _ OPTION _ ARG _ NONE ,   &  preferences ,  " Show  preferences  window  onlytextentry " ,  ' o ' ,  0 ,  G _ OPTION _ ARG _ NONE ,   &  textentry ,  " Onscreen  text  entry  modepipe " ,  ' s ' ,  0 ,  G _ OPTION _ ARG _ NONE ,   &  stdoutpipe ,  " Pipe  text  to  stdout--appstyle
+ Kiểu  ứng  dụng :   •  traditional      truyền  thống   •  direct             trực  tiếp   •  compose        soạn  thảo   •  fullscreen       toàn  màn  hình--options
+ Ghi  đè  lên  các  tùy  chọn  đã  lưu--help-options
+ Diễn  tả  «  --options  » --help
+ —  Một  ứng  dụng  nhập  văn  bản  mà  hỗ  trợ  khả  năng  truy  cập
+ _ Trợ  lý  Dasher
+ _ Tuỳ  thích
+ Mụ _ c  lục
+ Minh  hoạ  !
+ Minh  hoạ  đầy  đủ
+ Khởi  chạy  chế  độ  Trò  chơi  và  Minh  hoạ  của  Dasher  !
+ Cấp :
+ Câu  mới
+ Điểm :
+ Hành  động
+ Neo  cửa  sổ  ứng  dụng
+ Bước  thu  phóng
+ Hay  quá  !
+ Tự  động  định  chuẩn
+ Chế  độ  theo  mắt
+ Khoảng  cách  cho  nút  thứ  nhất  LÊN
+ Khoảng  cách  cho  nút  thứ  nhất  XUỐNG
+ Hiện  nút
+ Tự  động  khi  dừng
+ Gõ  văn  bản
+ Văn  lệnh
+ Nói
+ Tất  cả
+ Cuối
+ Lặp  lại

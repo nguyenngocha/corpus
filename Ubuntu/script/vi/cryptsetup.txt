@@ -1,0 +1,12 @@
+ Nhập  bất  cứ  cụm  từ  mật  khẩu  nào : 
+ Khe  khoá  % d  không  đúng .
+ Khe  khoá  % d  không  được  dùng .
+ Thiết  bị  % s  đã  sẵn  có .
+ Thiết  bị  không  đúng  % s .
+ Thẩm  tra  cụm  từ  mật  khẩu : 
+ Hai  cụm  từ  mật  khẩu  không  trùng  nhau .
+ Gặp  lỗi  khi  mở  tập  tin  khoá .
+ Lỗi  đọc  cụm  từ  mật  khẩu .
+ Thiết  bị  % s  có  kích  cỡ  quá  nhỏ .
+ Thiết  bị  % s  % s % s
+ Không  thể  mở  thiết  bị  % s .

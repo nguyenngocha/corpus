@@ -1,0 +1,8 @@
+ Trình  cài  đặt  Mozilla  Firefox
+ Cài  đặt
+ Thoát
+ Mozilla  Firefox  là  một  trình  duyệt  web  phổ  biến ,  được  sử  dụng  bởi  hàng  triệu  người ,  do  sự  đơn  giản  của  nó ,  tính  bảo  mật  và  rất  nhiều  tiện  ích  ( addons ) .
+ ( C )  2010  Harald  Sitter
+ Harald  Sitter
+ Jonathan  ThomasThis  is  the  description  of  a  command  line  argument
+ Cài  đặt  Mozilla  Firefox  ngay

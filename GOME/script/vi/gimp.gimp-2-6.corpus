@@ -1,0 +1,1050 @@
+ GIMP
+ Chương  Trình  Thao  Tác  Ảnh  GNU
+ Tác  quyền  ©  năm  1995-2006  của  Spencer  Kimball ,  Peter  Mattis  và  Nhóm  Phát  Triển  GIMP .
+ Chương  trình  này  là  phần  mềm  tự  do ;  bạn  có  thể  phát  hành  lại  nó  và / hoặc  sửa  đổi  nó  với  điều  kiện  của  Giấy  Phép  Công  Cộng  GNU  như  được  xuất  bản  bởi  Tổ  Chức  Phần  Mềm  Tự  Do ;  hoặc  phiên  bản  2  của  Giấy  Phép  này ,  hoặc  ( tùy  chọn )  bất  kỳ  phiên  bản  sau  nào .  Chương  trình  này  được  phát  hành  vì  mong  muốn  nó  có  ích ,  nhưng  KHÔNG  CÓ  BẢO  HÀNH  GÌ  CẢ ,  THẬM  CHÍ  KHÔNG  CÓ  BẢO  ĐẢM  ĐƯỢC  NGỤ  Ý  KHẢ  NĂNG  BÁN  HAY  KHẢ  NĂNG  LÀM  ĐƯỢC  VIỆC  DỨT  KHOÁT .  Xem  Giấy  Phép  Công  Cộng  GNU  để  biết  thêm  chi  tiết .  Bạn  đã  nhận  một  bản  sao  của  Giấy  Phép  Công  Cộng  GNU  cùng  với  chương  trình  này ;  nếu  không ,  hãy  viết  thư  cho  Tổ  Chức  Phần  Mềm  Tự  Do ,  Free  Software  Foundation ,  Inc . ,  51  Franklin  Street ,  Fifth  Floor ,  Boston ,  MA   02110-1301 ,  USA .
+ Không  thể  mở  một  tập  tin  trao  đổi  thử .  Để  tránh  mất  dữ  liệu ,  vui  lòng  kiểm  tra  vị  trí  và  quyền  truy  cập  của  thư  mục  trao  đổi  được  định  nghĩa  trong  Tùy  thích  của  bạn  ( hiện  thời  «  % s  » ) .
+ Chưa  xác  định  bộ  giải  thích  bó  nên  dùng  mặc  định  «  % s  » .
+ Bộ  thông  dịch  bó  «  % s  »  không  sẵn  sàng  nên  chế  độ  bó  bị  tất .
+ Hiển  thị  thông  tin  phiên  bản  rồi  thoát .
+ Hiển  thị  thông  tin  phiên  bản  rồi  thoát
+ Xuất  chi  tiết
+ Mở  ảnh  dạng  lớp
+ Chạy  không  có  giao  diện  người  dùng
+ Không  tải  các  bút  vẽ ,  dốc ,  mẫu  ...
+ Không  tải  phông  chữ  nào
+ Không  hiển  thị  cửa  sổ  khởi  chạy
+ Không  dùng  bộ  nhớ  chia  sẻ  giữa  GIMP  và  bổ  sung
+ Không  dùng  hàm  tăng  tốc  độ  CPU  đặc  biệt .
+ Dùng  một  tập  tin  «  sessionrc  »  ( tài  nguyên  phiên  chạy )  thay  thế .
+ Dùng  một  tập  tin  «  gimprc  »  ( tài  nguyên  GIMP )  thay  thế .
+ Dùng  một  tập  tin  «  gimprc  »  ( tài  nguyên  GIMP )  hệ  thống  thay  thế .
+ Lệnh  bó  cần  chạy  ( có  thể  dùng  nó  nhiều  lần )
+ Thủ  tục  cần  dùng  khi  xử  lý  lệnh  bó
+ Gởi  các  thông  điệp  cho  bàn  giao  tiếp  thay  vì  hiển  thị  thoại .
+ Chế  độ  tương  thích  PDB :   •  off \ t \ ttắt   •  on \ t \ tbật   •  warn  \ tcảnh  báo .
+ Gỡ  lỗi  trong  trường  hợp  đổ  vỡ :   •  never \ t \ tkhông  bao  giờ   •  query \ t \ thỏi   •  always  \ tluôn .
+ Hiệu  lực  bộ  quản  lý  tín  hiệu  gỡ  lỗi  không  nghiêm  trọng
+ Đặt  mọi  cảnh  báo  là  nghiêm  trọng
+ Xuất  một  tập  tin  «  gimprc  »  ( tài  nguyên  GIMP )  có  thiết  lập  mặc  định
+ [ TẬP _ TIN | URI ... ]
+ GIMP  không  thể  khởi  tạo  giao  diện  người  dùng  đồ  họa .  Hãy  đảm  bảo  thiết  lập  đúng  cho  môi  trường  hiển  thị  đang  có .
+ Không  thể  chuyển  đổi  bảng  mã  tên  tập  tin  đã  cấu  hình  sang  dạng  thức  UTF-8 :  % s  Hãy  kiểm  tra  giá  trị  của  biến  môi  trường  «  G _ FILENAME _ ENCODING  »  [ G  bảng  mã  tên  tập  tin ] .
+ Không  thể  chuyển  đổi  sang  bộ  ký  tự  UTF-8  tên  thư  mục  chứa  cấu  hình  người  dùng  GIMP :  % s  Rất  có  thể  vì  hệ  thống  tập  tin  bạn  cất  giữ  tập  tin  bằng  một  bộ  ký  tự  khác  với  UTF-8 ,  và  bạn  chưa  báo  GLib  như  thế .  Hãy  đặt  biến  môi  trường  «  G _ FILENAME _ ENCODING  »  ( bảng  mã  tên  tập  tin  G ) .
+ % s  phiên  bản  % s
+ Bộ  sửa  bút  vẽ
+ Bút  vẽ
+ Bộ  đệm
+ Bố  trí  màu
+ Cấu  hình  tài  nguyên
+ Ngữ  cảnh
+ Thông  tin  con  trỏ
+ Gỡ  lỗi
+ Hộp  thoại
+ Neo
+ Cụ  neo  được
+ Lược  sử  Tài  liệu
+ Vẽ  được
+ Hiệu  chỉnh
+ Bàn  giao  tiếp  Lỗi
+ Tập  tin
+ Phông  chữ
+ Bộ  sửa  độ  dốc
+ Độ  dốc
+ Trợ  giúp
+ Ảnh
+ Bộ  sửa  bảng  chọn
+ Bảng  chọn
+ Mẫu
+ Mặt  nạ  nhanh
+ Chọn
+ Biểu  mẫu
+ Bộ  sửa  chữ
+ Tùy  chọn  công  cụ
+ Công  cụ
+ Đường  dẫn
+ Xem
+ Cửa  sổ  ảnh
+ Trình  đơn  sửa  đổi  bút  vẽ
+ Sửa  đổi  bút  vẽ  hoạt  động
+ Trình  đơn  Bút  vẽ
+ Mở  _ bút  vẽ  dạng  ảnh
+ Mở  bút  vẽ  này  dạng  ảnh .
+ Bút  vẽ  _ mới
+ Tạo  một  bút  vẽ  mới .
+ _ Nhân  đôi  bút  vẽ
+ Nhân  đôi  bút  vẽ  này
+ Chép  _ vị  trí  bút  vẽ
+ Sao  chép  vị  trí  của  tập  tin  bút  vẽ  vào  bảng  tạm
+ _ Xóa  bỏ  bút  vẽ
+ Xóa  bỏ  bút  vẽ  này .
+ _ Cập  nhật  các  bút  vẽ
+ Cập  nhật  các  bút  vẽ
+ _ Sửa  bút  vẽ ...
+ Sửa  đổi  bút  vẽ  này .
+ Trình  đơn  Bộ  đệm
+ _ Dán  bộ  đệm
+ Dán  bộ  đệm  được  chọn .
+ Dán  bộ  đệm  _ vào
+ Dán  bộ  đệm  được  chọn  vào  vùng  chọn .
+ Dá _ n  bộ  đệm  dạng  mới
+ Dán  bộ  đệm  được  chọn  có  dạng  ảnh  mới .
+ _ Xóa  bỏ  bộ  đệm
+ Xóa  bỏ  bộ  đệm  được  chọn .
+ Trình  đơn  Kênh
+ _ Sửa  thuộc  tính  kênh ...
+ Sửa  đổi  tên ,  màu  và  độ  mờ  đục  của  kênh
+ Kê _ nh  mới ...
+ Tạo  kênh  mới
+ Kê _ nh  mới
+ Tạo  kênh  mới  với  các  giá  trị  dùng  cuối  cùng
+ N _ hân  đôi  kênh
+ Tạo  một  bản  sao  của  kênh  này ,  và  thêm  nó  vào  ảnh
+ _ Xóa  bỏ  kênh
+ Xoá  bỏ  kênh  này
+ Nân _ g  kênh
+ Nâng  kênh  này  lên  một  bước  trong  đống  kênh
+ Nâng  kênh  lên  _ trên
+ Nâng  kênh  này  lên  trên  đống  kênh
+ _ Hạ  kênh
+ Hạ  thấp  kênh  này  một  bước  trong  đống  kênh
+ Hạ  kênh  xuống  _ dưới
+ Hạ  thấp  kênh  này  xuống  dưới  đống  kênh
+ Kênh  tới  vùng  _ chọn
+ Thay  thế  vùng  chọn  bằng  kênh  này
+ Thê _ m  vào  vùng  chọn
+ Thêm  kênh  này  vào  vùng  chọn  hiện  có
+ _ Trừ  khỏi  vùng  chọn
+ Trừ  kênh  này  ra  vùng  chọn  hiện  có
+ Cắt  chéo  vớ _ i  vùng  chọn
+ Cắt  chéo  kênh  này  với  vùng  chọn  hiện  có
+ Thuộc  tính  kênh
+ Sửa  thuộc  tính  kênh
+ Sửa  màu  kênh
+ Độ  _ mờ  đục  tô  đầy :
+ Tùy  chọn  kênh  mới
+ Màu  kênh  mới
+ % s  Kênh  Chép
+ Kênh  tới  vùng  chọn
+ Trình  đơn  Bố  trí  màu
+ _ Sửa  màu ...
+ Sửa  đổi  màu  này .
+ Thê _ m  màu  từ  cảnh  gần
+ Thêm  màu  cảnh  gần  hiện  có
+ Thê _ m  màu  từ  nền
+ Thêm  màu  nền  hiện  có
+ Sửa  đổi  mục  nhập  bố  trí  màu  # % d
+ Sửa  mục  nhập  bố  trí  màu
+ Ngữ  _ cảnh
+ Màu  sắ _ c
+ Độ  _ mờ  đục :
+ Chế  độ  _ sơn
+ _ Công  cụ
+ _ Bút  vẽ
+ _ Mẫu
+ _ Bảng  chọn
+ Độ  _ dốc
+ _ Phông
+ _ Hình
+ _ Bán  kính
+ Chôn _ g
+ Độ  _ cứng
+ Khí _ a  cạnh
+ _ Góc
+ Màu  sắc  _ mặc  định
+ Đặt  màu  cảnh  gần  thành  đen ,  màu  nền  thành  trắng
+ Tr _ ao  đổi  màu  sắc
+ Trao  đổi  màu  cảnh  gần  và  nền
+ Trình  đơn  thông  tin  con  trỏ
+ _ Mẫu  đã  trộn
+ Mẫu  đã  trộn
+ Việc  mở  «  % s  »  thất  bại :  % s
+ Xoá  bỏ  đối  tượng
+ Bạn  có  chắc  muốn  xóa  bỏ  «  % s  »  ra  danh  sách  và  ra  đĩa  không ?
+ Tù _ y  chọn  công  cụ
+ Mở  thoại  chọn  phông  chữ
+ Trạng  thái  _ thiết  bị :
+ Mở  thoại  chọn  độ  dốc
+ _ Lớp
+ Mở  thoại  chọn  mẫu
+ _ Kênh
+ Đường  _ dẫn :
+ Bố  trí _ màu
+ Biểu  đồ  tần  _ xuất
+ Mở  thoại  chọn  bút  vẽ
+ Bộ  _ sửa  vùng  chọn
+ Cách  chu _ yển
+ Lược  sử  _ Hủy  bước
+ Con  trỏ
+ Điểm  _ mẫu
+ Màu  _ sắc
+ Mẫ _ u
+ _ Dốc
+ Bản _ g  chọn
+ Mở  thoại  chọn  bảng  chọn
+ Bộ  đệ _ m
+ Ả _ nh
+ Hộp  thoại  mở  ảnh
+ Lược  sử  Tà _ i  liệu
+ _ Biểu  mẫu
+ Côn _ g  cụ
+ Bà _ n  giao  tiếp  lỗi
+ Xóa  bàn  giao  tiếp  lỗi
+ Tù _ y  thích
+ _ Phím  tắt
+ _ Lưu  các  phím  tắt  khi  thoát
+ _ Mẹo  của  hôm  nay
+ _ Giới  thiệu
+ Thoát  khỏi  GIMP
+ Chu _ yển  sang  màn  hình
+ Đóng  Neo
+ _ Mở  bộ  trình  bày ...
+ Kết  nối  đến  một  bộ  trình  bày  khác
+ _ HIện  vùng  chọn  ảnh
+ Tự  động  th _ eo  ảnh  hoạt  động
+ Trình  đơn  Hộp  thoại
+ Thêm  th _ anh
+ Cỡ  _ xem  thử
+ Kiểu  _ thanh
+ Đón _ g  thanh
+ Gỡ  _ ra  thanh
+ _ Tí  tị
+ _ Rất  nhỏ
+ _ Nhỏ
+ _ Vừa
+ _ Lớn
+ Rấ _ t  lớn
+ Lớn  _ quá
+ Kếch  _ xù
+ _ Khổng  lồ
+ B _ iểu  tượng
+ T _ rạng  thái  hiện  có
+ _ Chữ
+ Hình  và  _ Chữ
+ Trạn _ g  thái  và  Chữ
+ Hiện  thanh  _ nút
+ Xem  kiểu  _ danh  sách
+ Xem  kiểu  _ lưới
+ Trình  đơn  Tài  liệu
+ _ Mở  ảnh
+ Mở  mục  nhập  được  chọn .
+ Nâng  h _ ay  Mở  ảnh
+ Nâng  cửa  sổ  lên  nếu  đang  mở .
+ _ Hộp  thoại  Mở  tập  tin
+ Chép  _ vị  trí  ảnh
+ Sao  chép  vị  trí  ảnh  vào  bảng  tạm
+ Gỡ  _ bỏ  mục  nhập
+ Gỡ  bỏ  mục  nhập  đã  chọn
+ _ Xoá  lược  sử
+ Xóa  toàn  lược  sử  của  tài  liệu
+ Tạo  lại  _ xem  thử
+ Tạo  lại  ô  xem  thử
+ Tải  lại  _ mọi  xem  thử
+ Tải  lại  mọi  ô  xem  thử
+ Gỡ  bỏ  mục  nhập  lủ _ ng  lẳng
+ Gỡ  bỏ  các  mục  nhập  còn  lủng  lẳng
+ Xóa  lược  sử  tài  liệu
+ Việc  xóa  lược  sử  tài  liệu  thì  sẽ  gỡ  bỏ  vĩnh  viễn  mọi  mục  nhập  được  liệt  kê  hiện  có .
+ Làm  _ bằng
+ Tăng  cường  độ  tương  phản  tự  động
+ Đả _ o
+ Đảo  màu
+ Cân  bằng  t _ rắng
+ Sửa  tự  động  cân  bằng  trắng
+ _ Hiệu ...
+ Dịch  các  điểm  ảnh ,  tùy  chọn  cũng  cuộn  tại  viền
+ Đã  _ kết  nối
+ Bật / tắt  tình  trạng  đã  liên  kết
+ H _ iển  thị
+ Bật / tắt  khả  năng  hiển  thị
+ Lật  _ ngang
+ Lật  ngang
+ Lật  _ dọc
+ Lật  dọc
+ Xoay  90 °  xuôi  _ chiều
+ Xoay  90 °  sang  phải
+ Xoay  _ 180 °
+ Quay  từ  trên  xuống
+ Xoay  90 °  n _ gược  chiều
+ Xoay  90 °  sang  trái
+ Việc  làm  bằng  không  hoạt  động  trên  lớp  đã  phụ  lục .
+ Việc  đảo  không  hoạt  động  trên  lớp  đã  phụ  lục .
+ Việc  cân  bằng  trắng  hoạt  động  chỉ  trên  lớp  màu  RGB .
+ _ Sửa
+ _ Dán  dạng
+ _ Bộ  đệm
+ Trình  đơn  Lược  sử  Hủy  bước
+ _ Hủy  bước
+ Hủy  bước  thao  tác  cuối  cùng
+ Bước  _ lại
+ Làm  lại  thao  tác  cuối  cùng  bị  hủy  bước
+ Hủy  toàn  bước 
+ Hủy  bước  thao  tác  cuối  cùng ,  bỏ  qua  các  thay  đổi  cách  hiển  thị
+ Toàn  bước  lại
+ Làm  lại  thao  tác  cuối  cùng  bị  hủy  bước ,  bỏ  qua  các  thay  đổi  cách  hiển  thị
+ Xóa  lượ _ c  sử  Hủy  bước
+ Gỡ  bỏ  mọi  thao  tác  ra  lược  sử  hủy  bước
+ Cắ _ t
+ Chuyển  các  điểm  ảnh  đã  chọn  vào  bảng  tạm
+ _ Chép
+ Sao  chép  các  địa  điểm  đã  chọn  vào  bảng  tạm
+ Chép  _ hiển  thị
+ Không  thể  nổi  vùng  chọn  vì  vùng  được  chọn  rỗng .
+ _ Dán
+ Dán  nội  dung  của  bảng  tạm
+ Dán  _ vào
+ Dán  nội  dung  của  bảng  tạm  vào  vùng  chọn  hiện  có
+ Bảng  tạm
+ Tạo  một  ảnh  mới  từ  nội  dung  của  bảng  tạm
+ Ả _ nh  mới
+ Cắ _ t  có  tên ...
+ _ Chép  có  tên ...
+ Chép  _ hiển  thị  có  tên ...
+ Sao  chép  vùng  chọn  vào  bảng  tạm
+ _ Dán  có  tên ...
+ X _ oá
+ Xoá  các  điểm  ảnh  đã  chọn
+ Tô  _ bằng  màu  cảnh  gần
+ Tô  đầy  vùng  chọn  bằng  màu  cảnh  gần
+ Tô  bằn _ g  màu  nền
+ Tô  đầy  vùng  chọn  bằng  màu  nền
+ Tô  bằng  _ mẫu
+ Tô  đầy  vùng  chọn  bằng  mẫu  hoạt  động
+ _ Hủy  bước  % s
+ Bước  _ lại  % s
+ Lư _ u  dạng ...
+ Xóa  lược  sử  Hủy  bước
+ Thật  sự  xóa  lược  sử  hủy  bước  của  ảnh  này  không ?
+ Việc  xóa  lược  sử  hủy  bước  của  ảnh  này  sẽ  giải  phóng  thêm  bộ  nhớ  % s .
+ Cắt  có  tên
+ Hãy  nhập  tên  cho  bộ  đệm  này .
+ Chép  có  tên
+ Chép  hiển  thị  có  tên 
+ Không  có  lớp  hoạt  động  hoặc  kênh  nào  từ  đó  cần  cắt .
+ ( Bộ  đệm  không  tên )
+ Không  có  lớp  hoạt  động  hoặc  kênh  nào  từ  đó  cần  sao  chép .
+ Trình  đơn  Bàn  giao  tiếp  Lỗi
+ _ Xoá
+ Chọn  Tất  _ cả
+ Chọn  mọi  lỗi
+ _ Lưu  bản  ghi  lỗi  vào  tập  tin ...
+ Lưu  bản  ghi  lỗi
+ Lưu  _ vùng  chọn  vào  tập  tin ...
+ Lưu  vùng  chọn
+ Không  thể  lưu  vì  chưa  chọn  gì .
+ Lưu  bản  ghi  lỗi  vào  tập  tin
+ Gặp  lỗi  khi  ghi  tập  tin  «  % s  » :  % s
+ _ Tập  tin
+ Mở  _ gần  đây
+ _ Mở ...
+ Mở  dạng  _ lớp ..
+ Mở  đị _ a  chỉ ...
+ Lưu  dạng  _ biểu  mẫu ...
+ Tạo  một  biểu  mẫu  mới  bằng  ảnh  này
+ H _ oàn  nguyên
+ Tải  lại  ảnh  từ  đĩa
+ Đóng  hết
+ Đóng  mọi  ảnh  đã  mở
+ T _ hoát
+ Thoát  khỏi  Chương  Trình  Thao  Tác  Ảnh  GNU
+ _ Lưu
+ Xóa  bỏ  ảnh  này .
+ Lưu  bản  _ sao ...
+ Đóng  cửa  sổ  ảnh  này
+ Mở  ảnh
+ Đang  lưu  ảnh
+ Việc  lưu  «  % s  »  bị  lỗi :  % s .
+ Lưu  ảnh
+ Lưu  một  bản  sao  của  ảnh
+ Tạo  biểu  mẫu  mới
+ Hãy  n.hập  tên  cho  biểu  mẫu  này
+ Việc  hoàn  nguyên  thất  bại  vì  chưa  liên  quan  tên  tập  tin  nào  với  ảnh  này .
+ Hoàn  nguyên  ảnh
+ Hoàn  nguyên  «  % s  »  thành  «  % s  »  không ?
+ Bằng  cách  hoàn  nguyên  ảnh  này  thành  tính  trạng  được  lưu  trên  đĩa ,  bạn  sẽ  mất  toàn  bộ  các  thay  đổi  đã  làm  cũng  như  thông  tin  hoàn  tác .
+ ( Biểu  mẫu  không  tên )
+ Việc  hoàn  nguyên  thành  «  % s  »  thất  bại :  % s
+ Trình  đơn  Phông  chữ
+ _ Quết  lại  danh  sách  phông
+ Quết  lại  danh  sách  các  phông
+ Trình  đơn  Bộ  sửa  độ  dốc
+ Kiểu  màu  trái
+ Tải  màu  bên  t _ rái  từ
+ _ Lưu  màu  bên  trái  vào
+ Kiểu  màu  phải
+ Tải  màu  bên  _ phải  từ
+ Lưu  màu  bên  phải  _ vào
+ Màu  điểm  cuối  trá _ i ...
+ Màu  đ _ iểm  cuối  phải ...
+ Hợp  _ nhau  cả  màu  điểm  cuối
+ Hợp  nh _ au  cả  độ  đục  điểm  cuối
+ Sửa  độ  dốc  hoạt  động
+ Điểm  phải  của  hàng  xóm  t _ rái
+ Điểm  cuối  _ phải
+ Màu  cảnh  _ gần
+ Màu  _ nền
+ Điểm  t _ rái  của  hàng  xóm  phải
+ Điểm  cuối  t _ rái
+ _ Cố  định
+ Màu  cảnh  gần  ( T _ rong  suốt )
+ Màu  _ nền  ( Trong  suốt )
+ T _ uyến
+ Hình  _ cong
+ Dạng  _ sin
+ Hình  cầu  ( _ tăng )
+ Hình  cầu  ( _ giảm )
+ ( Biến  đổi )
+ _ RGB
+ HSV  ( sắc  độ  ngượ _ c  chiều )
+ HSV  ( sắc  độ  xuôi  c _ hiều )
+ Phóng  to
+ Thu  nhỏ
+ Phóng  hết
+ Hàm  _ hợp  nhau  cho  đoạn
+ _ Kiểu  phối  màu  cho  đoạn
+ _ Lật  đoạn
+ _ Sao  lại  đoạn ...
+ Chia  đoạn  ra  tại  điể _ m  giữa
+ Chia  đoạn  ra  cùng  kiể _ u ...
+ _ Xóa  bỏ  đoạn
+ G _ iữa  lại  điểm  tâm  của  đoạn
+ P _ hân  phối  lại  các  móc  trong  đoạn
+ Kiểu  _ tô  màu  cho  đoạn
+ _ Lật  vùng  chọn
+ _ Sao  lại  vùng  chọn ...
+ Chia  các  đoạn  ra  tại  điể _ m  giữa
+ Chia  các  đoạn  ra  cùng  kiể _ u ...
+ _ Xóa  bỏ  vùng  chọn
+ Giữa  lại  điểm  tâm  trong  vùng  _ chọn
+ P _ hân  phối  lại  các  móc  trong  vùng  chọn
+ Màu  điểm  cuối  trái
+ Màu  của  điểm  cuối  bên  trái  của  đoạn  dốc .
+ Màu  điểm  cuối  phải
+ Màu  của  điểm  cuối  bên  phải  của  đoạn  dốc .
+ Sao  lại  đoạn
+ Sao  lại  đoạn  dốc
+ Sao  lại  vùng  chọn
+ Sao  lại  vùng  chọn  dốc
+ Sao  lại
+ Hãy  chọn  số  lần  cần  sao  lại  đoạn  được  chọn .
+ Hãy  chọn  số  lần  cần  sao  lại  Vùng  chọn .
+ Chia  đoạn  ra  cùng  kiểu
+ Chia  đoạn  ra  dốc  cùng  kiểu
+ Chia  các  đoạn  ra  cùng  kiểu
+ Chia  các  đoạn  ra  dốc  cùng  kiểu
+ Chia  ra
+ Hãy  chọn  số  phần  cùng  kiểu  cần  chia  đoạn  được  chọn  ra .
+ Hãy  chọn  số  phần  cùng  kiểu  cần  chia  các  đoạn  ra  trong  vùng  chọn .
+ Trình  đơn  Độ  dốc
+ Độ  dốc  _ mới
+ Độ  dốc  mới
+ N _ hân  đôi  độ  dốc
+ Nhân  đôi  độ  dốc
+ Chép  _ vị  trí  độ  dốc
+ Sao  chép  địa  điểm  của  tập  tin  độ  dốc  vào  bảng  tạm .
+ Lưu  dạng  _ POV-Ray ...
+ Lưu  độ  dốc  dạng  POV-Ray .
+ Xóa  bỏ  độ  _ dốc
+ Xóa  bỏ  độ  dốc
+ _ Cập  nhật  các  độ  dốc
+ Cập  nhật  các  độ  dốc
+ _ Sửa  độ  dốc ...
+ Sửa  đổi  độ  dốc  này .
+ Lưu  «  % s  »  dạng  POV-Ray
+ Trợ  _ giúp
+ Trợ  giúp  ngữ  _ cảnh
+ Trình  đơn  Ảnh
+ _ Chế  độ
+ Chu _ yển  dạng
+ Nét  _ dẫn
+ Thô _ ng  tin
+ _ Tự  động
+ Ánh  _ xạ
+ Thành  _ phần
+ _ Mới ...
+ Tạo  ảnh  mới
+ Cỡ  _ vùng  vẽ ...
+ Chỉnh  các  chiều  ảnh
+ Vừa  vùng  vẽ  _ khít  các  lớp
+ Thay  đổi  kích  cỡ  ảnh  để  vây  quanh  mọi  lớp
+ _ Mặt  nạ  khớp  vùng  chọn
+ Xén  ảnh  thành  vùng  chọn
+ Cỡ  _ in ...
+ Chỉnh  độ  phân  giải  in
+ _ Co  dãn  ảnh ...
+ Thay  đổi  kích  cỡ  của  nội  dung  ảnh
+ Anfa  khớ _ p  vùng  chọn
+ N _ hân  đôi
+ Tạo  bản  sao  của  ảnh  này
+ Trộn  các  _ lớp  hiển  thị ...
+ Hoà  trộn  mọi  lớp  hiển  thị  thành  cùng  một  lớp
+ Làm  _ phẳng  ảnh
+ Hoà  trộn  mọi  lớp  thành  một  lớp ,  và  gỡ  bỏ  khả  năng  trong  suốt
+ Cấu  hình  _ lưới ...
+ Cấu  hình  lưới  cho  ảnh  này
+ Thuộc  tính  ảnh
+ Hiển  thị  thông  tin  về  ảnh  này
+ Cân  bằn _ g  xám
+ Chuyển  đổi  ảnh  sang  mức  xám
+ Đã  _ phụ  lục ...
+ Chuyển  đổi  ảnh  thành  màu  phụ  lục
+ Lật  ngang  ảnh
+ Lật  dọc  ảnh
+ Xoay  ảnh  này  90  độ  sang  phải
+ Quay  ảnh  từ  trên  xuống
+ Xoay  ảnh  90  độ  sang  trái
+ Đặt  cỡ  vùng  vẽ  ảnh
+ Đang  đổi  kích  cỡ
+ Đặt  độ  phân  giải  in  ảnh
+ Đang  lật
+ Đang  xoay
+ Không  thể  xén  gì  vì  hiện  có  vùng  chọn  rỗng .
+ Đổi  cỡ  in
+ Đang  tỷ  lệ
+ Nâng  ô  _ xem
+ Nâng  các  khung  hiển  thị  ảnh  này  lên .
+ Ô  xem  _ mới
+ Tạo  ô  hiển  thị  mới  cho  ảnh  này .
+ _ Xóa  bỏ  ảnh
+ Trình  đơn  Lớp
+ Đốn _ g
+ Chữ  tới  _ vùng  chọn
+ _ Mặt  nạ
+ Độ  tr _ ong  suốt
+ Tài  _ sản
+ Chế  độ  lớ _ p
+ Công  cụ  _ Chữ
+ Kích  hoạt  công  cụ  chữ  trên  lớp  văn  bản  này
+ _ Sửa  thuộc  tính  lớp ...
+ Sửa  đổi  tên  của  lớp  đó
+ Lớp  _ mới ...
+ Tạo  lớp  mới  và  thêm  nó  vào  ảnh
+ Lớp  _ mới
+ Tạo  lớp  mới  với  các  giá  trị  dùng  cuối  cùng
+ N _ hân  đôi  lớp
+ Tạo  bản  sao  của  lớp  đó  và  thêm  nó  vào  ảnh
+ _ Xóa  bỏ  lớp
+ Xóa  bỏ  lớp  này
+ Nâng  lớ _ p
+ Nâng  lớp  này  một  bước  trong  đống  lớp
+ Lớp  đến  _ trên
+ Đem  lớp  này  lên  trên  đống  lớp
+ _ Hạ  lớp
+ Hạ  thấp  lớp  này  một  bước  trong  đống  lớp
+ Hạ  xuống  _ dưới
+ Đem  lớp  này  xuống  dưới  đống  lớp
+ N _ eo  lớp
+ Neo  lớp  trôi  nổi
+ Trộn  _ xuống
+ Hoà  trộn  lớp  này  với  điều  dưới  nó
+ Trộn  các  lớp  h _ iển  thị ...
+ _ Hủy  thông  tin  chữ
+ Chuyển  đổi  lớp  văn  bản  này  thành  lớp  chuẩn
+ Chữ  tới  đường  _ dẫn
+ Tạo  một  đường  dẫn  từ  lớp  chữ  này
+ Chữ  theo  đườn _ g  dẫn
+ Làm  oằn  các  chữ  của  lớp  này  theo  đường  dẫn  hiện  có
+ Cỡ  _ ranh  giới  lớp ...
+ Chỉnh  các  chiều  của  lớp
+ Lớp  _ khớp  cỡ  ảnh
+ Thay  đổi  kích  cỡ  của  lớp  thành  kích  cỡ  của  ảnh
+ Co  _ dãn  lớp ...
+ Thay  đổi  kích  cỡ  của  nội  dung  lớp
+ Xén  lớp  thành  vùng  chọn
+ Thê _ m  mặt  nạ  lớp ...
+ Thêm  một  mặt  nạ  cho  phép  sửa  đổi  độ  trong  suốt  một  cách  không  phá
+ T _ hêm  kênh  anfa
+ Thêm  thông  tin  độ  trong  suốt  vào  lớp
+ Gỡ  _ bỏ  kênh  anfa
+ Gỡ  bỏ  thông  tin  độ  trong  suốt  ra  lớp
+ Khóa  kênh  _ anfa .
+ Bảo  vệ  thông  tin  độ  trong  suốt  trên  lớp  này  chống  sự  sửa  đổi
+ _ Sửa  mặt  nạ  lớp
+ Thao  tác  mặt  nạ  lớp
+ _ Hiện  mặt  nạ  lớp
+ _ Tắt  mặt  nạ  lớp
+ Tắt  hiệu  ứng  của  mặt  nạ  lớp
+ Áp  dụng  _ mặt  nạ  lớp
+ Áp  dụng  hiệu  ứng  của  mặt  nạ  lớp  và  gỡ  bỏ  nó
+ _ Xóa  bỏ  mặt  nạ  lớp
+ Gỡ  bỏ  mặt  nạ  lớp  và  hiệu  ứng  của  nó
+ Thay  thế  vùng  chọn  bằng  mặt  nạ  lớp
+ Thêm  mặt  nạ  lớp  vào  vùng  chọn  hiện  có
+ Trừ  mặt  nạ  lớp  ra  vùng  chọn  hiện  có
+ Cắt  chéo  mặt  nạ  lớp  với  vùng  chọn  hiện  có
+ Thay  thế  vùng  chọn  bằng  kênh  anfa  của  lớp
+ Thêm  kênh  anfa  của  lớp  vào  vùng  chọn  hiện  có
+ Trừ  kênh  anfa  của  lớp  ra  vùng  chọn  hiện  có
+ Cắt  chéo  kênh  anfa  của  lớp  với  vùng  chọn  hiện  có
+ Chữ  vào  _ vùng  chọn
+ Thay  thế  vùng  chọn  bằng  nét  ngoài  của  lớp
+ Thêm  nét  ngoài  của  lớp  chữ  vào  vùng  chọn  hiện  có
+ Trừ  nét  ngoài  của  lớp  chữ  ra  vùng  chọn  hiện  có
+ Cắt  chéo  nét  ngoài  của  lớp  chữ  với  vùng  chọn  hiện  có
+ Chọn  lớp  _ trên
+ Chọn  lớp  _ dưới
+ Chọn  lớ _ p  trước
+ Chọ _ n  lớp  kế
+ Đặt  độ  mờ  đục
+ Thuộc  tính  lớp
+ Sửa  thuộc  tính  lớp
+ Tạo  lớp  mới
+ Đặt  cỡ  ranh  giới  lớp
+ Co  dãn  lớp
+ Xén  lớp
+ Mặt  nạ  lớp  khớp  vùng  chọn
+ Hãy  chọn  kênh  trước
+ Trình  đơn  Bộ  sửa  bảng  chọn
+ _ Xóa  bỏ  màu
+ Xóa  bỏ  màu
+ Sửa  bảng  chọn  hoạt  động
+ Màu  mới  từ  cảnh  _ gần
+ Màu  mới  dựa  vào  màu  cảnh  gần
+ Màu  mới  từ  _ nền
+ Màu  mới  dựa  vào  màu  nền
+ Phóng  _ to
+ Thu  _ nhỏ
+ Phóng  _ hết
+ Sửa  màu  bảng  chọn
+ Sửa  mục  nhập  bảng  chọn  màu
+ Trình  đơn  Bảng  chọn
+ Bả _ ng  chọn  mới
+ Bảng  chọn  mới
+ Nhậ _ p  bảng  chọn ...
+ Nhập  bảng  chọn
+ N _ hân  đôi  bảng  chọn
+ Nhân  đôi  bảng  chọn  đó
+ T _ rộn  các  bảng  chọn ...
+ Trộn  các  bảng  chọn  đó
+ Chép  _ vị  trí  bảng  chọn
+ Sao  chép  địa  điểm  của  tập  tin  bảng  chọn  vào  bảng  tạm
+ _ Xóa  bỏ  bảng  chọn
+ Xóa  bỏ  bảng  chọn  đó
+ _ Cập  nhật  các  bảng  chọn
+ Cập  nhật  các  bảng  chọn  đó .
+ _ Sửa  bảng  chọn ...
+ Sửa  đổi  bảng  chọn  đó .
+ Trộn  bảng  chọn
+ Hãy  nhập  tên  cho  bảng  chọn  đã  trộn  này .
+ Trình  đơn  Mẫu
+ _ Mở  mẫu  dạng  ảnh
+ Mở  mẫu  này  dạng  ảnh .
+ Mẫu  _ mới
+ Tạo  một  mẫu  mới .
+ Nhân  đôi  mẫ _ u
+ Nhân  đôi  mẫu  này
+ Chép  _ vị  trí  câu  mẫu
+ Sao  chép  địa  điểm  của  tập  tin  câu  mẫu  vào  bảng  tạm
+ _ Xóa  bỏ  mẫu
+ Xóa  bỏ  mẫu  này
+ _ Cập  nhật  các  mẫu
+ Cập  nhật  các  mẫu  này
+ _ Sửa  mẫu ...
+ Sửa  đổi  mẫu  này
+ Bộ  _ lọc
+ Vừa  dùng
+ _ Mờ
+ Ồn  á _ o
+ Phá _ t  hiện  cạnh
+ _ Tăng  cường
+ _ Kết  hợp
+ Chun _ g
+ _ Sáng  và  bóng
+ _ Méo  mó
+ Kiểu  nghệ  _ sĩ
+ _ Vẽ
+ Mâ _ y
+ Tự  _ nhiên
+ _ Mạng
+ H _ oạt  ảnh
+ Đặt  lại  mọi  bộ  _ lọc
+ Đặt  thiết  lập  mặc  định  cho  mọi  bổ  sung
+ Lập  lại  điều  t _ rước
+ Chạy  lại  bổ  sung  vừa  dùng ,  với  cùng  thiết  lập
+ H _ iện  lại  điều  trước
+ Hiện  lại  hộp  thoại  bổ  sung  vừa  dùng
+ Lậ _ p  lại  «  % s  »
+ H _ iện  lại  «  % s  »
+ Lập  lại  điều  trước
+ HIện  lại  điều  trước
+ Đặt  lại  mọi  bộ  lọc
+ Bạn  thật  sự  muốn  đặt  lại  mọi  bộ  lọc  là  giá  trị  mặc  định  không ?
+ Trình  đơn  Mặt  nạ  Nhanh
+ _ Cấu  hình  Màu  và  Độ  mờ  đục ...
+ Bật / tắt  _ Mặt  nạ  Nhanh
+ Bật / tắt  mặt  nạ  nhanh
+ Mặt  nạ  các  _ vùng  chọn
+ Mặt  nạ  các  vùng  _ không  chọn
+ Thuộc  tính  Mặt  nạ  Nhanh
+ Sửa  thuộc  tính  Mặt  nạ  Nhanh
+ Sửa  màu  Mặt  nạ  Nhanh
+ Độ  mờ  đục  _ mặt  nạ
+ Trình  đơn  Điểm  mẫu
+ Trình  đơn  Bộ  sửa  vùng  chọn
+ _ Chọn
+ Tất  _ cả
+ Chọn  mọi  gì
+ Khô _ ng  gì
+ Tắt  vùng  chọn
+ Đảo  vùng  chọn
+ Nổ _ i
+ Tạo  một  vùng  chọn  nổi
+ Hình  _ lông ...
+ Che  mờ  viền  vùng  chọn  để  tắt  dần  một  cách  đều  đều
+ Mài  _ sắc ...
+ Gỡ  bỏ  tình  mờ  ra  vùng  chọn
+ T _ hu  nhỏ ...
+ Co  rút  vùng  chọn
+ _ Nới ...
+ Mở  rộng  vùng  chọn
+ _ Viền ...
+ Thay  thế  vùng  chọn  bằng  viền  nó
+ Lưu  vào  _ kênh
+ Lưu  vùng  chọn  vào  kênh
+ Chọn  _ nét ...
+ Sơn  theo  nét  ngoài  vùng  chọn
+ Chọn  _ nét
+ Chọn  nét  vùng  chọn  với  các  giá  trị  cuối  cùng
+ Làm  vùng  chọn  hình  lông
+ Làm  vùng  chọn  hình  lông  bằng
+ Thu  nhỏ  vùng  chọn
+ Thu  nhỏ  vùng  chọn  bằng
+ Th _ u  nhỏ  từ  viền  ảnh
+ Nới  vùng  chọn
+ Nới  vùng  chọn  bằng
+ Chọn  viền
+ Chọn  viền  bằng
+ Làm  hình  _ lông  viền
+ Không  có  vùng  chọn  trong  đó  cần  vẽ  nét .
+ Không  có  lớp  hoặc  kênh  hoạt  động  nào  cần  nét  đến  nó .
+ Chọn  nét
+ Trình  đơn  Biểu  mẫu
+ _ Tạo  ảnh  từ  biểu  mẫu ...
+ Tạo  một  ảnh  mới  từ  biểu  mẫu  được  chọn .
+ Biểu  mẫu  _ mới ...
+ Tạo  một  biểu  mẫu  mới .
+ Nhân  đôi  biể _ u  mẫu ...
+ Nhân  đôi  biểu  mẫu  được  chọn .
+ _ Sửa  biểu  mẫu ...
+ Sưa  đổi  biểu  mẫu  được  chọn .
+ _ Xóa  bỏ  biểu  mẫu
+ Xóa  bỏ  biểu  mẫu  được  chọn .
+ Biểu  mẫu  mới
+ Sửa  biểu  mẫu
+ Xóa  bỏ  biểu  mẫu
+ Bạn  có  chắc  muốn  xóa  bỏ  biểu  mẫu  «  % s  »  ra  danh  sách  và  ra  đĩa  không ?
+ Mở
+ Tải  văn  bản  từ  tập  tin
+ Xóa
+ Xóa  hết  chữ
+ TSP
+ Từ  trái  sang  phải
+ PST
+ Từ  phải  sang  trái
+ Mở  tập  tin  văn  bản  ( UTF-8 )
+ Không  thể  mở  «  % s  »  để  đọc :  % s
+ Trình  đơn  Tùy  chọn  Công  cụ
+ _ Lưu  tùy  chọn  vào
+ _ Phục  hồi  tùy  chọn  từ
+ Thay  tê _ n  của  tùy  chọn  đã  lưu
+ _ Xóa  bỏ  tùy  chọn  đã  lưu
+ Mục  _ nhập  mới ...
+ Đặt  _ lại  tùy  chọn  công  cụ
+ Đặt  lại  là  giá  trị  mặc  định
+ Đặt  lại  _ mọi  tùy  chọn  công  cụ
+ Đặt  lại  mọi  tùy  chọn  công  cụ .
+ Lưu  tùy  chọn  công  cụ
+ Hãy  nhập  tên  cho  tùy  chọn  đã  lưu .
+ Tùy  chọn  đã  lưu
+ Đổi  tên  của  tùy  chọn  công  cụ  đã  lưu
+ Hãy  nhập  tên  mới  cho  tùy  chọn  đã  lưu .
+ Đặt  lại  tùy  chọn  công  cụ
+ Bạn  thật  sự  muốn  xóa  bỏ  mọi  tùy  chọn  công  cụ  là  giá  trị  mặc  định  không ?
+ Trình  đơn  Công  cụ
+ Công  cụ  lự _ a  chọn
+ Công  cụ  _ sơn
+ Công  cụ  chu _ yển  dạng
+ _ Công  cụ  màu
+ Nân _ g  công  cụ
+ Nâng  công  cụ
+ Nâng  _ lên  trên
+ Nâng  công  cụ  này  lên  trên  các  điều  khác .
+ _ Hạ  công  cụ
+ Hạ  công  cụ
+ Hạ  thấp  _ xuống  dưới
+ Hạ  thấp  công  cụ  này  xuống  dưới  các  điều  khác .
+ Đặt  _ lại  thứ  tự  và  cách  hiển  thị
+ Đặt  lại  thứ  tự  các  công  cụ  và  cách  hiển  thị  chúng .
+ _ Hiện  trong  Hộp  công  cụ
+ Th _ eo  màu
+ Chọn  vùng  theo  màu
+ _ Xoay  nhiệm  ý ...
+ Trình  đơn  đường  dẫn
+ Công  cụ  đường  _ dẫn
+ _ Sửa  thuộc  tính  đường  dẫn ...
+ Sửa  đổi  các  thuộc  tính  của  đường  dẫn .
+ Đườ _ ng  dẫn  mới ...
+ Đường  dẫn  mới ...
+ Đườ _ ng  dẫn  mới
+ Đường  dẫn  mới  với  các  giá  trị  cuối  cùng
+ Nhân  đô _ i  đường  dẫn
+ Nhân  đôi  đường  dẫn
+ Xóa  bỏ  đường  _ dẫn
+ Xóa  bỏ  đường  dẫn
+ T _ rộn  các  đường  dẫn  hiển  thị
+ Nân _ g  đường  dẫn
+ Nâng  đường  dẫn  lên _  trên
+ _ Hạ  đường  dẫn
+ Hạ  đường  dẫn  _ dưới
+ Đường  dẫn  _ nét ...
+ Đường  dẫn  _ nét
+ Đường  dẫn  nết  với  các  giá  trị  cuối  cùng
+ Ché _ p  đường  dẫn
+ _ Dán  đường  dẫn
+ _ Xuất  đường  dẫn ...
+ Nhậ _ p  đường  dẫn ...
+ Đường  dẫn  đến  lựa  _ chọn
+ Đường  dẫn  đến  vùng  chọn
+ _ Từ  đường  dẫn
+ Thêm
+ Trừ
+ Cắt  chéo
+ _ Vùng  chọn  tới  đường  dẫn
+ Vùng  chọn  tới  đường  dẫn
+ Tới  đường  _ dẫn
+ Vùng  chọn  tới  đường  dẫn  ( nâng  c _ ao )
+ Tùy  chọn  nâng  cao
+ Thuộc  tính  đường  dẫn
+ Sửa  thuộc  tính  đường  dẫn
+ Tùy  chọn  đường  dẫn  mới
+ Đường  dấn  nét
+ _ Xem
+ Thu  _ phóng
+ _ Màu  đệm
+ Chuyển  sang  màn  hình
+ Đón _ g
+ _ Vừa  ảnh  khít  cửa  sổ
+ Điều  chỉnh  tỷ  lệ  phong  để  hiện  rõ  toàn  bộ  ảnh
+ Vừa  khít  cửa  sổ
+ Điều  chỉnh  tỷ  lệ  phong  để  vừa  khít  cửa  sổ
+ Cửa  sổ  du _ yệt
+ Hiển  thị  cửa  sổ  toàn  cảnh  cho  ảnh  này
+ Hiện  bộ  _ lọc ...
+ Cấu  hình  các  bộ  lọc  được  áp  dụng  vào  khung  xem  này
+ _ Bọc  khít
+ Giảm  cửa  sổ  ảnh  thành  kích  cỡ  hiển  thị  ảnh
+ Chấm  _ với  chấm
+ Một  điểm  ảnh  trên  màn  hình  đại  diện  một  điểm  ảnh  của  ảnh
+ Hiện  _ vùng  chọn
+ Hiển  thị  nét  ngoài  vùng  chọn
+ Hiện  ranh  giới  _ lớp
+ Vẽ  một  viền  ở  quanh  lớp  hoạt  động
+ Hiện  nét  _ dẫn
+ _ Hiện  lưới
+ Hiện  điểm  mẫu
+ _ Dính  nét  dẫn
+ Dính  lướ _ i
+ Dính  _ cạnh  vùng  vẽ
+ Dính  đường  dẫn  h _ oạt  động
+ Xuất  đường  dẫn  hoạt  động
+ Hiện  thanh  t _ rình  đơn
+ Hiện  th _ anh  trình  đơn
+ Hiện  thước  đ _ o
+ Hiện  th _ anh  cuộn
+ H _ iện  thanh  cuộn
+ Hiện  _ thanh  trạng  thái
+ Hiện  mẹo  khi  _ khởi  động
+ T _ oàn  màn  hình
+ Bật / tắt  hiện  toàn  màn  hình
+ 1 _ 6 : 1   ( 1600 % )
+ Phóng  to  1 : 1
+ _ 8 : 1   ( 800 % )
+ _ 4 : 1   ( 400 % )
+ _ 2 : 1   ( 200 % )
+ _ 1 : 1   ( 100 % )
+ 1 : _ 2   ( 50 % )
+ 1 : _ 4   ( 25 % )
+ 1 : _ 8   ( 12.5 % )
+ 1 : 1 _ 6   ( 6.25 % )
+ _ Khác ...
+ _ Từ  sắc  thái
+ Màu  ca  _ rô  nhạt
+ Màu  ca  rô  nhạt
+ Màu  ca  rô  tố _ i
+ Màu  ca  rô  tối
+ _ Chọn  màu  riêng ...
+ Theo  tù _ y  thích
+ _ Phóng  ( % s )
+ _ Khác  ( % s )  ...
+ Đặt  màu  đệm  vùng  vẽ
+ Đặt  màu  đệm  vùng  vẽ  riêng
+ Màn  hình  % s
+ _ Hộp  công  cụ
+ Mịn
+ Bằng  tay
+ Giá  trị
+ Đỏ
+ Xanh  lá  cây
+ Xanh  dương
+ Anfa
+ RGB
+ Bình  thường
+ Mờ  chồng
+ Nằm  sau
+ Nhân
+ Màn  hình
+ Phủ
+ Hiệu  số
+ Cộng
+ Chỉ  làm  thẫm
+ Chỉ  làm  nhạt
+ Sắc  màu
+ Độ  bão  hòa
+ Màu
+ Chia
+ Né  tránh
+ Ghi
+ Sáng  cứng
+ Sáng  mềm
+ Chiết  hạt
+ Trộn  hạt
+ Xóa  màu
+ Th _ ay  thế
+ Chống  xóa  ( % s )
+ Không  thể  mở  tập  tin  trao  đổi .  Trình  GIMP  hết  bộ  nhớ  thì  không  thể  sử  dụng  tập  tin  trao  đổi .  Như  thế  thì  một  số  phần  ảnh  của  bạn  có  thể  bị  hỏng .  Bạn  hãy  cố  lưu  việc  mình  bằng  một  số  tên  tập  tin  khác  nhau ,  rồi  khởi  chạy  lại  GIMP  và  kiểm  tra  xem  có  địa  điểm  đúng  cho  thư  mục  trao  đổi  trong  Tùy  thích .
+ Không  thể  mở  «  % s  »  để  ghi :  % s
+ Gặp  lỗi  khi  ghi  «  % s  » :  % s
+ Gặp  lỗi  khi  đọc  «  % s  » :  % s
+ Gặp  lỗi  khi  phân  tách  tập  tin  «  % s  »  của  bạn .  Như  thế  thì  sẽ  sử  dụng  các  giá  trị  mặc  định .  Đã  tạo  một  bản  sao  dự  trữ  của  cấu  hình  bạn  tại  «  % s  » .
+ Khi  bật  thì  ảnh  sẽ  trở  thành  ảnh  hoạt  động  khi  cửa  sổ  nó  nhận  tiêu  điểm .  Có  ích  cho  bộ  quản  lý  cửa  sổ  sử  dụng  khả  năng  «  nhắp  để  tiêu  điểm  » .
+ Đặt  màu  đệm  vùng  vẻ  được  dùng  nếu  có  đặt  chế  độ  đệm  là  màu  riêng .
+ Xác  định  vẽ  vùng  quanh  ảnh  như  thế  nào .
+ Hỏi  xác  thực  trước  khi  đóng  ảnh  mà  chưa  lưu .
+ Đặt  dạng  thức  điểm  ảnh  của  các  con  trỏ  chuột .
+ Đặt  kiểu  con  trỏ  chuột  cần  dùng .
+ Con  trỏ  chuột  phụ  thuộc  vào  ngữ  cảnh  là  trơ  tráo .  Mặc  định  là  bật  con  trỏ  kiểu  này ,  nhưng  chúng  cần  thiết  tiềm  năng  thêm .
+ Khi  bật  thì  tính  năng  này  sẽ  đảm  bảo  mọi  điểm  ảnh  của  một  ảnh  nào  đó  sẽ  được  ánh  xạ  tới  một  điểm  ảnh  trên  màn  hình .
+ Giá  trị  này  là  bao  nhiêu  điểm  ảnh  đến  vị  trí  sẽ  hoạt  hóa  khả  năng  Dính  nét  dẫn  và  Dính  lưới .
+ Công  cụ  như  «  chọn  mờ  »  và  «  tô  cái  xô  »  có  tìm  vùng  đích  dựa  vào  một  thuật  toán  «  tô  hạt  » .  Việc  tô  hạt  bắt  đầu  từ  điểm  ảnh  được  chọn  ban  đầu ,  rồi  tiếp  tục  về  mọi  hướng  đến  khi  hiệu  của  độ  mạnh  điểm  ảnh  hiện  có  và  điều  gốc  vượt  quá  một  ngưỡng  đã  xác  định .  Giá  trị  này  là  ngưỡng  mặc  định .
+ Giá  trị  này  là  lời  gợi  kiểu  cửa  sổ  được  đặt  trên  cửa  sổ  Neo .  Nó  có  thể  tắc  động  tới  cách  nào  bộ  quản  lý  cửa  sổ  của  bạn  có  trang  trí  và  quản  lý  cửa  sổ  Neo .
+ Khi  bật  thì  sẽ  sử  dụng  bút  vẽ  được  chọn  cho  mọi  công  cụ .
+ Khi  bật  thì  sẽ  sử  dụng  độ  dốc  được  chọn  cho  mọi  công  cụ .
+ Khi  bật  thì  sẽ  sử  dụng  mẫu  được  chọn  cho  mọi  công  cụ .
+ Đặt  bộ  duyệt  hệ  thống  trợ  giúp .
+ Đặt  chuỗi  sẽ  xuất  hiện  trong  thanh  trạng  thái  cửa  sổ  ảnh .
+ Đặt  chuỗi  sẽ  xuất  hiện  trong  tựa  đề  cửa  sổ  ảnh .
+ Khi  bật  thì  khả  năng  này  sẽ  đảm  bảo  sẽ  hiển  thị  toàn  ảnh  sau  khi  mở  tập  tin ;  nếu  không  thì  sẽ  hiển  thị  nó  bằng  tỷ  lệ  1 : 1 .
+ Cài  đặt  một  bố  trí  màu  riêng ;  có  thể  có  ích  trên  bộ  trình  bày  8-bit  ( chỉ  có  256  màu ) .
+ Đặt  mức  nội  suy  được  dùng  cho  việc  co  dãn  và  nhiều  việc  chuyển  dạng  khác .
+ Giá  trị  này  là  bao  nhiêu  tên  tập  tin  ảnh  đã  mở  gần  đầy  sẽ  xuất  hiện  trong  trình  đơn  Tập  tin .
+ Giá  trị  này  là  tốc  độ  các  con  kiến  có  bước  đi  trong  khung  vùng  chọn ,  theo  mili  giây  ( thời  gian  nhỏ  hơn  ngụ  ý  tốc  độ  bước  đi  nhanh  hơn ) .
+ Trình  GIMP  sẽ  cảnh  báo  người  dùng  nếu  cố  tạo  một  ảnh  sẽ  chiếm  nhiều  bộ  nhớ  hơn  kích  thước  được  xác  định  vào  đây .
+ Khi  bật  thì  trình  GIMP  sẽ  hiển  thị  dấu  gợi  nhớ  trong  trình  đơn .
+ Thường  chỉ  quan  trọng  cho  bộ  trình  bày  8-bit  ( chỉ  256  màu ) ,  giá  trị  này  đặt  số  màu  hệ  thống  tối  thiểu  được  cấp  cho  trình  GIMP .
+ Đặt  độ  phân  giải  ngang  cho  màn  hình ,  theo  điểm / insơ ² .  Nếu  đặt  là  số  0  thì  ép  buộc  trình  phục  vụ  X  nhận  truy  vấn  về  thông  tin  cả  ngang  lẫn  dọc  đều .
+ Đặt  độ  phân  giải  dọc  cho  màn  hình ,  theo  điểm / insơ ² .  Nếu  đặt  là  số  0  thì  ép  buộc  trình  phục  vụ  X  nhận  truy  vấn  về  thông  tin  cả  ngang  lẫn  dọc  đều .
+ Nếu  bật  thì  công  cụ  di  chuyển  đặt  lớp  hay  đường  dẫn  đã  hiệu  chỉnh  là  hoạt  động .  Trong  phiên  bản  cũ  hơn ,  khả  năng  này  là  ứng  xử  mặc  định .
+ Đặt  kích  thước  của  khung  xem  thử  duyệt  sẵn  sàng  trong  góc  dưới  phải  của  cửa  sổ  ảnh .
+ Đặt  số  bộ  xử  lý  GIMP  nên  thử  dùng  đồng  thời .
+ Khi  bật  thì  tùy  chọn  này  truy  vấn  trình  phục  vụ  X  về  vị  trí  con  chuột  hiện  thời  đối  với  mỗi  sự  kiện  chuyển ,  hơn  là  nhờ  lời  gợi  vị  trí .  Có  nghĩa  là  việc  sơn  bằng  bút  vẽ  lớn  nên  là  chính  xác  hơn ,  mà  chậm  hơn .  Tuy  nhiên ,  trên  một  số  máy  chạy  trình  phục  vụ  X ,  bật  tùy  chọn  này  gây  ra  việc  sơn  nhanh  hơn .
+ Tùy  chọn  này  đặt  nếu  GIMP  nên  tạo  khung  xem  thử  lớp  và  kênh  hay  không .  Những  khung  xem  thử  này  có  thể  có  ích ,  nhưng  cũng  có  thể  làm  cho  trình  chạy  chậm  hơn  khi  thao  tác  ảnh  lớn .
+ Tùy  chọn  này  đặt  kích  thước  của  khung  xem  thử  lớp  và  kênh  trong  thoại  mới  tạo .
+ Khi  bật  thì  tùy  chọn  này  cho  phép  cửa  sổ  ảnh  có  tự  động  thay  đổi  kích  thước  chính  nó ,  khi  nào  kích  thước  vật  lý  có  thay  đổi .
+ Khi  bật  thì  tùy  chọn  này  cho  phép  cửa  sổ  ảnh  có  tự  động  thay  đổi  kích  thước  chính  nó ,  khi  phóng  to  và  thu  nhỏ  ảnh .
+ Cho  phép  GIMP  cố  phục  hồi  phiên  chạy  đã  lưu  trước  vào  mỗi  lúc  khởi  chạy .
+ Nhớ  công  cụ ,  mẫu ,  màu  và  bút  vẽ  hiện  thời  qua  nhiều  phiên  chạy  GIMP  khác .
+ Thêm  mọi  tập  tin  đã  mở  và  đã  lưu  vào  lược  sử  tài  liệu  trên  đĩa .
+ Lưu  các  vị  trí  và  kích  thước  của  những  thoại  chính ,  khi  GIMP  thoát .
+ Lưu  các  tùy  chọn  công  cụ ,  khi  GIMP  thoát .
+ Khi  bật  thì  mọi  công  cụ  sơn  sẽ  hiển  thị  khung  xem  thử  phác  thảo  của  bút  vẽ  hiện  thời .
+ Khi  bật  thì  mọi  thoại  sẽ  hiển  thị  một  cái  nút  trợ  giúp  cho  phép  truy  cập  trang  trợ  giúp  thích  hợp .  Nếu  không  có  cái  nút  này ,  vấn  còn  có  thể  tới  trang  trợ  giúp  bằng  cách  bấm  phím  F1 .
+ Khi  bật  thì  hiển  thị  con  trỏ  ở  trên  ảnh  khi  sử  dụng  một  công  cụ  sơn .
+ Khi  bật  thì  hiển  thị  thanh  trình  đơn  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  thanh  trình  đơn  » .
+ Khi  bật  thì  hiển  thị  những  thước  đo  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  thước  đo  » .
+ Khi  bật  thì  hiển  thị  những  thanh  cuộn  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  thanh  cuộn  » .
+ Khi  bật  thì  hiển  thị  thanh  trạng  thái  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  thanh  trạng  thái  » .
+ Khi  bật  thì  hiển  thị  vùng  chọn  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  vùng  chọn  » .
+ Khi  bật  thì  hiển  thị  ranh  giới  lớp  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  ranh  giới  lớp  » .
+ Khi  bật  thì  hiển  thị  những  nét  dẫn  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  nét  dẫn  » .
+ Khi  bật  thì  hiển  thị  lưới  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  lưới  » .
+ Khi  bật  thì  hiển  thị  những  điểm  mẫu  theo  mặc  định .  Cũng  có  thể  bật  tắt  khả  năng  này  bằng  lệnh  «  Xem  →  Hiện  điểm  mẫu  » .
+ Hiện  mẹo  công  cụ  khi  con  trỏ  di  chuyển  ở  trên  mục .
+ Đặt  địa  điểm  của  tập  tin  trao  đổi .  GIMP  sử  dụng  một  lược  đồ  cấp  phát  bộ  nhớ  dựa  vào  ô .  Nó  sử  dụng  tập  tin  trao  đổi  để  trao  đổi  một  cách  nhanh  và  dễ  dàng  các  ô  vào  đĩa  và  ngược  lại .  Bạn  hãy  ghi  nhớ  rằng  tập  tin  trao  đổi  có  thể  trở  thành  rất  lớn  nếu  GIMP  được  dùng  với  ảnh  lớn .  Hơn  nữa ,  tiến  trình  có  thể  chạy  rất  chấm  nếu  tập  tin  trao  đổi  được  tạo  trong  một  thư  mục  được  gắn  kết  qua  NFS .  Vì  những  lý  do  này ,  đề  nghị  bạn  để  tập  tin  trao  đổi  vào  thư  mục   <  tmp  >  .
+ Khi  bật  thì  có  thể  tách  trình  đơn  rời .
+ Khi  bật  thì  đặt  cửa  sổ  neo  ( hộp  công  cụ  và  các  bảng  chọn )  là  tạm  thời  với  cửa  sổ  ảnh  hoạt  động .  Như  thế  thì ,  phần  lớn  bộ  quản  lý  cửa  sổ  sẽ  giữ  các  cửa  sổ  neo  ở  trên  cửa  sổ  ảnh ,  nhưng  tùy  chọn  này  có  thể  làm  gì  khác .
+ Khi  bật  thì  bạn  có  thể  thay  đổi  phím  tắt  cho  mục  trình  đơn ,  bằng  cách  gõ  tổ  hợp  phím  khi  mục  trình  đơn  được  tô  sáng .
+ Lưu  các  phím  tắt  đã  thay  đổi  khi  GIMP  thoát .
+ Phục  hồi  các  phím  tắt  đã  lưu  vào  mỗi  lúc  khởi  chạy  GIMP .
+ Đặt  thư  mục  cất  giữ  tạm  thời .  Một  số  tập  tin  sẽ  xuất  hiện  trong  đó  trong  khi  chạy  GIMP .  Phần  lớn  tập  tin  sẽ  biến  mất  khi  GIMP  thoát ,  nhưng  một  số  điều  có  thể  còn  lại ,  vậy  đề  nghị  người  khác  không  sử  dụng  thư  mục  này .
+ Đặt  kích  thước  của  khung  xem  thử  trong  Lược  sử  Hủy  bước .
+ Hình  thu  nhỏ  trong  thoại  Mở  sẽ  tự  động  được  cập  nhật  nếu  tập  tin  đang  được  xem  thử  là  nhỏ  hơn  kích  thước  được  đặt  vào  đây .
+ Khi  số  lượng  dữ  liệu  điểm  ảnh  vượt  quá  hạn  chế  này ,  GIMP  sẽ  bắt  đầu  trao  đổi  các  «  ô  »  ( 256 × 256  điểm  ảnh )  với  đĩa .  Tiến  trình  này  là  rất  chậm  hơn ,  còn  cho  bạn  vẫn  có  khả  năng  thao  tác  ảnh  mà  bằng  bất  cứ  cách  khác  nào  chiếm  quá  nhiều  bộ  nhớ .  Nếu  bạn  có  rất  nhiều  bộ  nhớ  RAM ,  bạn  có  thể  đặt  giá  trị  này  là  cao  hơn .
+ Hiện  _ bút  vẽ ,  mẫu  và  độ  dốc  hoạt  động
+ Lời  gợi  ý  kiểu  cửa  sổ  được  đặt  trên  hộp  công  cụ .  Giá  trị  này  có  thể  tác  động  tới  cách  nào  bộ  quản  lý  trang  trí  và  quản  lý  cửa  sổ  hộp  công  cụ .
+ Đặt  cách  hiển  thị  độ  trong  suốt  trong  ảnh .
+ Đặt  kích  thước  của  bảng  ô  được  dùng  để  hiển  thị  độ  trong  suốt .
+ Khi  bật  thì  GIMP  sẽ  không  lưu  một  ảnh  nào  đó  nếu  nó  chưa  được  thay  đổi  kể  từ  việc  mở  nó .
+ Giá  trị  này  đặt  số  thao  tác  tối  thiểu  có  thể  được  hủy  bước .  Có  mức  hủy  bước  thêm  nữa  sẵn  sàng  đến  khi  tới  giới  hạn  trên  của  kích  thước  hủy  bước .
+ Đặt  giới  hạn  trên  của  bộ  nhớ  được  dùng  cho  mỗi  ảnh ,  để  giữ  thao  tác  trong  đống  hủy  bước .  Bất  chấp  thiết  lập  này ,  có  thể  hủy  bước  ít  nhất  số  mức  hủy  bước  đã  cấu  hình .
+ Khi  bật  thì  bấm  phím  F1  sẽ  mở  bộ  duyệt  trợ  giúp .
+ Đặt  bộ  duyệt  Mạng  bên  ngoài  cần  dùng .  Giá  trị  này  có  thể  là  một  đường  dẫn  tuyệt  đối ,  hoặc  tên  của  ứng  dụng  cần  tìm  kiếm  trong  PATH  ( đường  dẫn  đã  cấu  hình  đến  ứng  dụng )  của  người  dùng .  Nếu  lệnh  đó  chứa  «  % s  »  thì  nó  sẽ  được  thay  thế  bằng  địa  chỉ  Mạng ,  nếu  không  thì  địa  chỉ  Mạng  sẽ  được  phụ  thêm  vào  lệnh  đó ,  với  một  dấu  cách  phân  cách  cả  hai  điều .
+ lỗi  phân  tách  nghiêm  trọng
+ giá  trị  cho  hiệu  bài  % s  không  phải  là  chuỗi  UTF-8  hợp  lệ
+ Không  có
+ Floyd-Steinberg  ( bình  thường )
+ Floyd-Steinberg  ( màu  chảy  ít  hơn )
+ Đã  định  vị
+ Tạo  ra  bảng  chọn  tối  ưu
+ Dùng  bảng  chọn  tối  ưu  hoá  cho  Mạng
+ Dùng  bảng  chọn  màu  đen  và  trắng  ( 1-bit )
+ Dùng  bảng  chọn  riêng
+ Mục  đầu
+ Vùng  chọn
+ Lớp  hoạt  động
+ Kênh  hoạt  động
+ Đường  dẫn  hoạt  động
+ Màu  cảnh  gần
+ Màu  nền
+ Trắng
+ Độ  trong  suốt
+ Vẽ  nét  dòng
+ Vẽ  nét  bằng  công  cụ  sơn
+ Mộng  vuông  góc
+ Tròn
+ Góc  xiên
+ Nút
+ Vuông
+ Tự  chọn
+ Dòng
+ Gạch  dài
+ Gạch  vừa
+ Gạch  ngắn
+ Ít  chấm
+ Vừa  chấm
+ Nhiều  chấm
+ Chấm  lên
+ Gạch  chấm
+ Gạch  chấm  chấm
+ Hình  tròn
+ Kim  cương
+ Ngang
+ Dọc
+ Không  biết
+ Mọi  lớp
+ Lớp  co  cỡ  ảnh
+ Mọi  lớp  hiển  thị
+ Mọi  lớp  đã  liên  kết
+ Tí  tị
+ Rất  nhỏ
+ Nhỏ
+ Vừa
+ Lớn
+ Rất  lớn
+ Lớn  quá
+ Kếch  xù
+ Khổng  lồ
+ Xem  kiểu  danh  sách
+ Xem  kiểu  lưới
+ Không  có  hình  thu  nhỏ
+ Bình  thường  ( 128x128 )
+ Lớn  ( 256x256 )
+ • •  không  hợp  lệ  • •

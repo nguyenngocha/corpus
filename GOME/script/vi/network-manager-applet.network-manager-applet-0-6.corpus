@@ -1,0 +1,197 @@
+ Không  có
+ WEP  128-bit  cụm  từ  mật  khẩu
+ WEP  64 / 128-bit  thập  lục
+ WEP  64 / 128-bit  ASCII
+ WPA  Cá  nhân
+ WPA2  Cá  nhân
+ WPA  Enterprise
+ WPA2  Enterprise
+ PEAP
+ Tiểu  dụng  Quản  lý  mạng
+ Bản  quyền  ©  năm  2004-2005  Red  Hat ,  Inc .
+ Gặp  lỗi  khi  kết  nối  đến  mạng  vô  tuyến
+ Nhóm  Việt  hóa  Gnome   <  gnomevi \ -list \ @ lists \ .sourceforge \ .net  >
+ Cụm  từ  mật  khẩu  cho  mạng  vô  tuyến  % s
+ Không  thể  tải
+ Tự  động  ( Mặc  định )
+ AES-CCMP
+ TKIP
+ WEP  động
+ TLS
+ TTLS
+ Bây  giờ  bạn  có  kết  nối  hoạt  động  đến  mạng  vô  tuyến  Như  có  «  % s  » .
+ Bây  giờ  bạn  có  kết  nối  hoạt  động  đến  mạng  vô  tuyến  «  % s  » .
+ Bây  giờ  bạn  có  kết  nối  hoạt  động  đến  mạng  tuyến .
+ Kết  nối  đã  được  thiết  lập
+ Bị  ngắt  kết  nối
+ Kết  nối  mạng  đã  bị  ngắt .
+ Việc  kết  nối  đến  mạng  vô  tuyến  «  % s  »  bị  lỗi .
+ Việc  kết  nối  đến  mạng  tuyến  bị  lỗi .
+ Gặp  lỗi  khi  hiển  thị  thông  tin  kết  nối :
+ •  Không  thể  tìm  thấy  một  số  tài  nguyên  cần  thiết  ( tập  tin  glade ) .  •
+ •  Không  có  kết  nối  hoạt  động .  •
+ Ethernet  tuyến  ( % s )
+ Tiểu  dụng  vùng  thông  báo  để  quản  lý  các  thiết  bị  và  kết  nối  mạng  của  bạn .
+ Đăng  nhập  VPN  bị  lỗi
+ Không  thể  khởi  chạy  kết  nối  VPN  «  % s  »  do  việc  đăng  nhập  bị  lỗi .
+ Khởi  chạy  VPN  bị  lỗi
+ Không  thể  khởi  chạy  kết  nối  VPN  «  % s  »  do  việc  khởi  chạy  chương  trình  VPN  bị  lỗi .
+ Kết  nối  VPN  bị  lỗi
+ Không  thể  khởi  chạy  kết  nối  VPN  «  % s  »  do  lỗi  kết  nối .
+ Lỗi  cấu  hình  VPN
+ Chưa  cấu  hình  đúng  sự  kết  nối  VPN  «  % s  » .
+ Không  thể  khởi  chạy  kết  nối  VPN  «  % s  »  vì  trình  phục  vụ  VPN  chưa  trả  gởi  cấu  hình  mạng  hợp  lệ .
+ Thông  điệp  đăng  nhập  VPN
+ Tiểu  dụng  Quản  lý  mạng  không  thể  tìm  một  số  tài  nguyên  cần  thiết  ( không  tìm  thấy  tập  tin  glade ) .
+ Thiết  bị  mạng  «  % s  ( % s )  »  không  hỗ  trợ  khả  năng  quét  vô  tuyến .
+ Thiết  bị  mạng  «  % s  ( % s )  »  không  hỗ  trợ  khả  năng  phát  hiện  liên  kết .
+ Đang  chuẩn  bị  thiết  bị  % s  cho  mạng  tuyến ...
+ Đang  chuẩn  bị  thiết  bị  % s  cho  mạng  vô  tuyến  «  % s  » ...
+ Đang  cấu  hình  thiết  bị  % s  cho  mạng  tuyến ...
+ Đang  cố  tham  gia  mạng  vô  tuyến  «  % s  » ...
+ Đang  đợi  Khóa  mạng  cho  mạng  vô  tuyến  «  % s  » ...
+ Đang  yêu  cầu  địa  chỉ  mạng  từ  mạng  tuyến ...
+ Đang  yêu  cầu  địa  chỉ  mạng  từ  mạng  vô  tuyến  «  % s  » ...
+ Đang  kết  nối  xong  tới  mạng  tuyến ...
+ Đang  kết  nối  xong  tới  mạng  vô  tuyến  «  % s  » ...
+ Trình  NetworkManager  chưa  chạy .
+ Chạy  mạng  bị  tắt
+ Không  có  kết  nối  mạng
+ Kết  nối  mạng  tuyến
+ Đã  kết  nối  tới  một  mạng  vô  tuyến  Như  có
+ Cách  kết  nối  mạng  vô  tuyến  tới  «  % s  »  ( % d % % )
+ Cách  kết  nối  VPN  tới  «  % s  »
+ Đang  kết  nối  VPN  tới  «  % s  » ...
+ _ Kết  nối  tới  mạng  Vô  tuyến  Khác ...
+ Tạo  mạng  Vô  tuyến  _ Mới ...
+ Kết  nối  _ VPN
+ _ Cấu  hình  VPN ...
+ _ Ngắt  kết  nối  VPN ...
+ Kết  nối  _ quay  số
+ Kết  nối  đến  % s ...
+ Ngắt  kết  nối  từ  % s ...
+ Không  tìm  thấy  thiết  bị  mạng  nào
+ Trình  NetworkManager  chưa  chạy ...
+ Bật  chạy  _ mạng
+ Bật  _ Vô  tuyến
+ Thông  t _ in  kết  nối
+ mạng  Vô  tuyến  khác ...
+ Trợ  _ giúp
+ _ Giới  thiệu
+ Tiểu  dụng  Quản  lý  mạng  không  thể  tìm  một  số  tài  nguyên  nên  không  thể  tiếp  tục .
+
+   Thông   tin   kết   nối   hoạt   động 
+   Cụm   từ   Mật   khẩu   Cần   thiết   cho   mạng   Vô   tuyến  Cần  thiết  cụm  từ  mật  khẩu  hay  khóa  mật  mã  để  truy  cập  mạng  vô  tuyến  «  % s  » .
+   Chức   năng   mạng   bị   giảm  % s   Nó  sẽ  không  hoạt  động  hoàn  toàn .
+ Thực  thể  vô  danh :
+ Xác  thực :
+ Địa  chỉ  phát  thanh :
+ Tập  tin  chứng  nhận  của  CA :
+ _ Kết  nối
+ Tập  tin  chứng  nhận  của  ứng  dụng  khách :
+ Thông  tin  kết  nối
+ Tuyến  mặc  định :
+ Địa  chỉ  đích :
+ Trình  điều  khiển :
+ Phương  pháp  EAP :
+ Địa  chỉ  phần  cứng :
+ Địa  chỉ  IP :
+ Thực  thể :
+ Giao  diện :
+ Kiểu  khoá  :
+ Khóa :
+ Tên  người  dùng :
+ mạng  t _ uyến
+ Không  có  WEP  128-bit  cụm  từ  mật  khẩu  WEP  64 / 128-bit  thập  lục  WEP  64 / 128-bit  ASCII
+ Hệ  thống  mở  Khóa  dùng  chung
+ Cụm  từ  mật  khẩu  :
+ Mật  khẩu  :
+ DNS  chính :
+ Tập  tin  khoá  riêng :
+ Mật  khẩu  khoá  riêng :
+ DNS  phụ  :
+ _ Bảo  mật  vô  tuyến :
+ Chọn  tập  tin  chứng  nhận  của  nhà  cầm  quyền  chứng  nhận  ( CA ) .
+ Chọn  tập  tin  chứng  nhận  của  ứng  dụng  khách .
+ Chọn  tập  tin  là  khóa  riêng .
+ Khóa  dùng  chung
+ Hiện  khoá
+ HIện  cụm  từ  mật  khẩu
+ Hiện  mật  khẩu
+ Hiện  các  mật  khẩu
+ Tốc  độ  :
+ Mặt  nạ  mạng  cấp  dưới :
+ Kiểu  :
+ Cần  thiết  Khóa  mạng  Vô  tuyến :
+ mạng  vô  tuyến
+ _ Bộ  điều  hợp  vô  tuyến
+ _ Đừng  nhắc  nhở  tôi  lần  nữa
+ T _ ên  mạng :
+ _ Gỡ  bỏ
+ Hướng
+ Hướng  khay .
+ mạng  tuyến  ( % s )
+ ( Unicode  không  hợp  lệ )
+ Mặc  định  là  tên  của  mạng  vô  tuyến  được  đặt  thành  tên  của  máy  tính  bạn ,  % s ,  không  có  mật  mã  được  bật .
+ Tạo  mạng  vô  tuyến  mới
+ Hãy  nhập  tên  tên  và  thiết  lập  bảo  mật  của  mạng  vô  tuyến  bạn  muốn  thêm .
+ mạng  vô  tuyến  đã  có
+ Hãy  gõ  tên  của  mạng  vô  tuyến  đến  mà  bạn  muốn  kết  nối .
+ Kết  nối  đến  mạng  Vô  tuyến  Khác
+ mạng  vô  tuyến  đã  yêu  cầu  cần  thiết  khả  năng  bảo  mật  không  được  hỗ  trợ  bởi  phần  cứng  của  bạn .
+ Không  thể  khởi  chạy  kết  nối  VPN  tới  «  % s  »
+ Không  tìm  thấy  hộp  thoại  xác  thực  cho  cách  kết  nối  VPN  «  % s  » .  Hãy  liên  lạc  với  quản  trị  hệ  thống .
+ Gặp  lỗi  khi  khởi  chạy  hộp  thoại  xác  thực  cho  cách  kết  nối  VPN  «  % s  » .  Hãy  liên  lạc  với  quản  trị  hệ  thống .
+ Hệ  thống  mở
+ Ethernet  vô  tuyến  ( % s )
+   Xác   thực   Đăng   nhập   với   mạng   Vô   tuyến  Bạn  đã  chọn  đăng  nhập  với  mạng  vô  tuyến  «  % s  » .  Nếu  bạn  có  chắc  là  mạng  này  bảo  mật ,  hãy  đánh  dấu  trong  hộp  chọn  bên  dưới ,  vậy  trình  Quản  lý  mạng  sẽ  không  cần  thiết  xác  thực  khi  đăng  nhập  sau .
+ _ Luôn  luôn  tin  cây  mạng  vô  tuyến  này
+ _ Đăng  nhập  với  mạng
+ Không  thể  thêm  sự  kết  nối  VPN
+ Không  tìm  thấy  phần  mềm  VPN  thích  hợp  nào  trong  hệ  thống  của  bạn .  Hãy  liên  lạc  với  quản  trị  hệ  thống .
+ Không  thể  nhập  sự  kết  nối  VPN
+ Không  tìm  thấy  phần  mềm  thích  hợp  cho  kiểu  kết  nối  VPN  «  % s  »  để  nhập  tập  tin  «  % s  » .  Hãy  liên  lạc  với  quản  trị  hệ  thống .
+ Gặp  lỗi  khi  lấy  kết  nối  PN  «  % s  »
+ Không  tìm  thấy  những  tập  tin  giao  diện  người  dùng  cho  kiểu  kết  nối  VPN  «  % s  » .  Hãy  liên  lạc  với  quản  trị  hệ  thống .
+ Xóa  bỏ  sự  kết  nối  VPN  «  % s  »  không ?
+ Mọi  thông  tin  về  sự  kết  nối  VPN  «  % s  »  sẽ  bị  mất  và  có  lẽ  bạn  sẽ  cần  quản  trị  hệ  thống  cung  cấp  thông  tin  để  tạo  sự  kết  nối  mới .
+ •  Không  tìm  thấy  một  số  tài  nguyên  cần  thiết  ( tải  tập  tin  glade ) .  •
+ Sửa  đổi  sự  kết  nối  VPN
+ Thêm  sự  kết  nối  VPN  mới
+ Hãy  chọn  kiểu  kết  nối  VPN  nào  bạn  muốn  tạo .
+ Kết  nối  đến :
+ Tạo  sự  kết  nối  VPN
+ Tạo  sự  kết  nối  VPN  —  bước  1  trên  2
+ Tạo  sự  kết  nối  VPN  —  bước  2  trên  2
+ Xóa  bỏ  kết  nối  VPN  đã  chọn
+ _ Xuất
+ Sửa  đổi  kết  nối  VPN  đã  chọn .
+ Xuất  các  thiết  lập  VPN  vào  tập  tin
+ Xuất  kết  nối  VPN  đã  chọn  vào  tập  tin
+ Tạo  xong  kết  nối  VPN
+ Quản  lý  các  Kết  nối  mạng  Riêng  Ảo  ( VPN )
+ Trợ  lý  này  sẽ  hướng  dẫn  bạn  qua  tiến  trình  tạo  kết  nối  đến  một  mạng  Riêng  Ảo  ( VPN ) .  Cần  thiết  một  phần  thông  tin ,  như  địa  chỉ  IP  và  điều  bí  mật .  Hãy  hỏi  quan  trị  hệ  thống  cung  cấp  thông  tin  này .
+ Kết  nối  VPN
+ 40-bit  WEP
+ 104-bit  WEP
+ WPA  TKIP
+ WPA  CCMP
+ WPA  Tự  động
+ WPA2  TKIP
+ WPA2  CCMP
+ WPA2  Tự  động
+ không  có
+ không  thể  tạo  ổ  cắm  kiểu  liên  kết  mạng ,  để  theo  dõi  các  thiết  bị  Ethernet  tuyến  —  % s
+ không  thể  đóng  kết  tới  ổ  cắm  kiểu  liên  kết  mạng ,  để  theo  dõi  các  thiết  bị  Ethernet  tuyến  —  % s
+ thao  tác  quá  lâu
+ đã  nhận  dữ  liệu  từ  bộ  gởi  kiểu  không  đúng
+ đã  nhận  dữ  liệu  từ  bộ  gởi  bất  ngờ
+ quá  nhiều  dữ  liệu  đã  được  gởi  qua  ổ  cắm ,  và  một  phần  nó  bị  mất
+ gặp  lỗi  khi  đợi  dữ  liệu  trên  ổ  cắm
+ WEP  40 / 128-bit  ASCII
+ WEP  40 / 128-bit  thập  lục
+ WEP  Cụm  từ  mật  khẩu
+ Không  có  Cụm  từ  mật  khẩu  WEP  WEP  40 / 128-bit  thập  lục  WEP  40 / 128-bit  ASCII
+ leap _ subwindow
+ wep _ key _ subwindow
+ wep _ passphrase _ subwindow

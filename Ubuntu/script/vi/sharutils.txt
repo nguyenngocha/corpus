@@ -1,0 +1,84 @@
+ Ghi  chú :  không  kiểm  tra  các  md5sum .  Hãy  suy  tính  cài  đặt  gói  các  tiện  ích  lõi  coreutils  của  GNU .
+ thư  mục  khoá  % s  đã  có
+ lỗi  tạo  thư  mục  khoá  % s
+ x  -  đã  tạo  thư  mục  khoá  % s .
+ x  -  gặp  lỗi  tạo  thư  mục  khoá  % s .
+ x  -  đã  tạo  thư  mục  % s .
+ x  -  gặp  lỗi  tạo  thư  mục  % s .
+ có
+ ghi  đè  lên  tập  tin  này
+ không
+ bỏ  qua  tập  tin  này
+ tất  cả
+ ghi  đè  lên  mọi  tập  tin
+ không  có
+ đừng  ghi  đè  gì
+ trợ  giúp
+ giải  thích  các  lựa  chọn
+ thoát
+ thoát  ngay
+ việc  phục  hồi  % s  bị  lỗi
+ Kết  thúc  phần  % d ,  tiếp  tục  lại  với  phần  % d
+ Kết  thức  % s  phần  % d
+ cảnh  báo  phục  hồi :  kích  cỡ  % s  không  phải  % s
+ ( văn  bản )
+ ( đã  nén )
+ ( đã  nén  gzip )
+ ( đã  nén  bzip )
+ ( nhị  phân )
+ kho  nén
+ Tập  tin  % s  được  tiếp  tục  trong  phần  % d
+ Trước  tiên  hãy  giải  nén  phần  1 .
+ Kế  tiếp  hãy  giải  nén  phần  $ { shar _ sequence } .
+ x  -  VẪN  CÒN  BỎ  QUA  % s
+ đang  tiếp  tục  tập  tin  % s
+ ( rỗng )
+ x  -  đang  ghi  đè  lên  % s
+ ghi  đè  lên  % s
+ ĐANG  BỎ  QUA  % s
+ việc  giải  nén  bị  hủy  bỏ
+ x  -  ĐANG  BỎ  QUA  % s  ( tập  tin  đã  có )
+ x  —  đang  giải  nén  % s  % s
+ Tập  tin  % s  hoàn  tất
+ đang  giải  nén  tập  tin  kiểu  " uu "  % s
+ Việc  kiểm  tra  MD5  gặp  lỗi
+ Bạn  đã  giải  nén  mọi  phần
+ x  -  đã  gỡ  bỏ  thư  mục  khoá  % s .
+ x  -  gặp  lỗi  gỡ  bỏ  thư  mục  khoá  % s .
+ % s :  không  cho  phép  tùy  chọn  «  --  % c  » .
+ lỗi  định  dạng  printf :  % s
+ Quá  nhiều  thư  mục  để  tạo  ra  bằng  mkdir  ( tạo  thư  mục )
+ Không  thể  truy  cập  % s .
+ Không  thể  lấy  tên  thư  mục  hiện  có .
+ Đang  bắt  đầu  tập  tin  % s
+ Không  thể  mở  tập  tin  % s
+ văn  bản
+ % s :  không  phải  là  tập  tin  chuẩn
+ rỗng
+ Đang  lưu  % s  ( % s )
+ Không  có  tập  tin  nhập
+ QUAN  TRỌNG  là  bạn  tránh  shar  -X  trên  USENET  ( nhóm  tin )  hay  mạng  công .
+ Đã  tạo  % d  tập  tin
+ thiết  bị  nhập  chuẩn
+ Rất  có  thể  là  % s  không  phải  kho  trình  bao
+ Không  tìm  thấy  lệnh  trình  bao  trong  % s
+ % s  hình  như  mã  C  thô ,  không  phải  kho  trình  bao .
+ % s :  Tập  tin  ngắn
+ % s :  không  có  " end "  ( kết  thúc )  dòng
+ % s :  Tên  tập  tin  không  hợp  lệ :  % s
+ không  thể  truy  cập  % s
+ việc  chmod  ( thay  đổi  chế  độ )  % s
+ % s :  Lỗi  ghi
+ Không  cho  phép  ghi  rõ  một  tập  tin  kết  xuất  khi  xử  lý  nhiều  tập  tin  nhập  vào .
+ Lỗi  hệ  thống  không  rõ
+ % s :  tùy  chọn  " -- % s "  không  cho  phép  đối  số
+ % s :  tùy  chọn  " % c % s "  không  cho  phép  đối  số
+ % s :  tùy  chọn  ' -- % s '  yêu  cầu  một  đối  số
+ % s :  không  nhận  ra  tùy  chọn  " -- % s "
+ % s :  không  nhận  ra  tùy  chọn  " % c % s "
+ % s :  tùy  chọn  không  hợp  lệ   --  " % c "
+ % s :  tùy  chọn  yêu  cầu  một  đối  số  --  " % c "
+ % s :  tùy  chọn  " -W  % s "  vẫn  mơ  hồ
+ % s :  tùy  chọn  " -W  % s "  không  cho  phép  đối  số
+ % s :  tùy  chọn  ' -W  % s '  yêu  cầu  một  đối  số
+ cạn  bộ  nhớ

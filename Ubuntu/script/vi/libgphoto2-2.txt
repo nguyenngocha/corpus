@@ -1,0 +1,1283 @@
+ Adc65  Benjamin  Moos   <  benjamin \ @ psnw \ .com  >
+ agfa _ cl20  Nhóm  Trình  điều  khiển  Linux  Agfa  CL20 .  Liên  lạc  với  chúng  tôi  bằng  thư  điện  tử   <  cl20 \ @ poeml \ .de  >  .  Đến  thăm  chúng  tôi  ở   <  http \ : \ / \ / cl20 \ .poeml \ .de  >  . 
+ Máy  ảnh  USB  của  bạn  có  bộ  phiến  tinh  thể  Aox .  Số  ẢNH  phân  giải  thấp  =  % i  Số  ẢNH  phân  giải  cao  =  % i  Tổng  số  ẢNH  =  % i
+ Trình  điều  khiển  chung  Aox  Theodore  Kilgore   <  kilgota \ @ auburn \ .edu  >
+ Cấu  hình  khung  ảnh
+ Số  lượng  ảnh :  % i  Phiên  bản  Firmware :  % s
+ Barbie / HotWheels / WWF  Scott  Fritzinger   <  scottf \ @ unr \ .edu  >  Andreas  Meyer   <  ahm \ @ spies \ .com  >  Pete  Zaitcev   <  zaitcev \ @ metabyte \ .com  >  Thiết  kế  đối  chiếu  dữ  liệu  ảnh :  Jeff  Laing   <  jeffl \ @ SPATIALinfo \ .com  >  Thực  hiện  dùng  các  tài  liệu  trên  Web .  Vision  cho  phép .
+ Không  thể  tạo  thư  mục  % s .
+ Không  thể  gỡ  bỏ  thư  mục  % s .
+ lỗi  khoá  các  khoá .
+ * KHÔNG  RÕ *
+ canon _ int _ capture _ image :  tiến  trình  canon _ usb _ list _ all _ dirs ( )  ( liêt  kê  mọi  thư  mục )  đầu  tiên  đã  thất  bại  với  trạng  thái  % li
+ canon _ int _ capture _ image :  tiến  trình  canon _ usb _ list _ all _ dirs ( )  ( liêt  kê  mọi  thư  mục )  cuối  cùng  đã  thất  bại  với  trạng  thái  % i
+ Tên  “ % s ”  ( % li  ký  tự )  quá  dài ,  cho  phép  tối  đa  30  ký  tự .
+ Không  cho  phép  chữ  thường  trong  % s .
+ canon _ int _ list _ directory :  LỖI :  thông  điệp  đầu  tiên  quá  ngắn  ( % i   <   tối  thiểu  % i )
+ canon _ int _ list _ directory :  Tới  kết  thúc  gói  trong  khi  kiểm  tra  mục  nhập  thư  mục  thứ  nhất
+ canon _ int _ list _ directory :  gặp  mục  nhập  thư  mục  bị  cắt  ngắn
+ Tập  tin  đã  bảo  vệ .
+ Không  thể  trích  ảnh  mẫu  JPEG  từ  dữ  liệu  :  không  có  đầu / cuối
+ Không  thể  trích  ảnh  mẫu  JPEG  từ  dữ  liệu  :  dữ  liệu  không  phải  JFIF
+ Tham  số  vô  giá  trị  “ % s ”  trong  % s  dòng  % i
+ LỖI  NGHIÊM  TRỌNG :  không  rõ  giá  trị  CRC  đầu  tiên  cho  độ  dài  % d
+ không  thể  đoán  giá  trị  CRC  đầu  tiên
+ cảnh  báo :  chưa  kiểm  CRC  ( thêm  độ  dài  % d ,  giá  trị  0x % 04x )
+ Chế  độ  Tương  thích
+ Ảnh  thu  nhỏ
+ Ảnh  đầy  đủ
+ Bóng  đèn  sợi  đốt
+ Tự  động  lấy  nét :  chụp  một
+ Tự  động  lấy  nét :  AI  phụ
+ Tự  động  lấy  nét :  lấy  nét  AI
+ Lấy  nét  bằng  tay
+ Bíp  tắt
+ Bíp  bật
+ Đèn  nháy  tắt
+ Đèn  nháy  bật
+ Đèn  nháy  tự  động
+ TỰ _ ĐỘNG
+ P
+ Tv
+ Av
+ M
+ A-DEP
+ M-DEP
+ Bằng  tay  2
+ Chập  nhanh
+ Chập  chậm
+ Cảnh  đêm
+ Mức  xám
+ Kiểu  nâu  đen
+ Chân  dung
+ Chấm
+ Macro
+ Sặc  sỡ
+ Trung  lập
+ Siêu  macro
+ Trong  nhà
+ Pháo  hoa
+ Biển
+ Dưới  nước
+ Tuyết
+ Trẻ  em  và  động  vật
+ Chụp  ảnh  trong  đêm
+ Vĩ  mô  điện  số
+ RAW
+ RAW  2
+ JPEG  chuẩn  nhỏ
+ JPEG  chính  xác  nhỏ
+ JPEG  chuẩn  vừa
+ JPEG  chính  xác  vừa
+ JPEG  chuẩn  lớn
+ JPEG  chính  xác  lớn
+ RAW  +  JPEG  chuẩn  nhỏ
+ RAW  +  JPEG  chính  xác  nhỏ
+ RAW  +  JPEG  chuẩn  vừa
+ RAW  +  JPEG  chính  xác  vừa
+ RAW  +  JPEG  chuẩn  lớn
+ RAW  +  JPEG  chính  xác  lớn
+ Máy  ảnh  không  sẵn  sàng :  % s
+ Đang  tắt  máy  ảnh
+ Gặp  lỗi  khi  chụp  ảnh
+ Không  thể  lấy  tên  đĩa :  % s
+ Không  có  lý  do
+ Không  thể  lấy  thông  tin  về  đĩa :  % s
+ lỗi  nội  bộ  # 1  trong  hàm  lấy  tập  tin  get _ file _ func ( )  ( % s  dòng  % i )
+ Không  tìm  thấy  tập  tin  âm  thanh  cho  % s
+ % s  là  một  kiểu  tập  tin  cho  đó  chưa  có  ảnh  mẫu
+ Ổ  đĩa  % s    % 11s  byte  tổng    % 11s  byte  sẵn  còn  có  thể  sử  dụng
+ Bộ  chuyển  đổi  nguồn  điện
+ dùng  pin
+ nguồn  điện  OK
+ lỗi  nguồn  điện
+ không  sẵn  sàng :  % s
+ % s  ( thời  gian  máy  chủ  % s % i  giây )
+ Nhận  diện  máy  ảnh :    Mô  hình :  % s    Sở  hữu  :  % s  Trạng  thái  điện :  % s  Thông  tin  về  đĩa  Flash :  % s  Thời  gian :  % s
+ Gặp  lỗi  khi  xoá  tập  tin
+ Gặp  lỗi  khi  xoá  ảnh  mẫu  liên  quan
+ Không  hỗ  trợ  tốc  độ  hơn  57600  bps  để  tải  lên  máy  ảnh
+ Không  thể  lấy  chữ  đĩa  cực  nhanh
+ Không  thể  tải  lên ,  không  có  tên  thư  mục  còn  rảnh .  Tên  thư  mục  999CANON  tồn  tại  và  chứa  một  ảnh  AUT _ 9999.JPG.
+ Không  thể  tạo  thư  mục  \ \ DCIM .
+ Không  thể  tạo  thư  mục  đích .
+ Cấu  hình  máy  ảnh  và  trình  điều  khiển
+ Cài  đặt  máy  ảnh
+ Tên  Chủ  sở  hữu
+ Tốc  độ  ISO
+ Không  rõ
+ Tốc  độ  màn  trập
+ Thu  phóng
+ Khẩu  độ
+ Sự  bù  Phơi  sáng
+ Định  dạng  Ảnh
+ Chế  độ  Tiêu  điểm
+ Chế  độ  Đèn  nháy
+ Bíp
+ Hành  vi  Máy  ảnh
+ Đồng  bộ  hoá  ngày  giờ  máy  ảnh  với  máy  tính
+ Thông  tin  Trạng  thái  Máy  ảnh
+ Mô  hình  Máy  ảnh
+ Ngày  và  Giờ
+ Lỗi
+ Không  sẵn  sàng
+ Phiên  bản  Firmware
+ Điện
+ Trình  điều  khiển
+ Liệt  kê  mọi  tập  tin
+ Giữ  tên  tập  tin  khi  tải  lên
+ Máy  ảnh  không  sẵn  sàng
+ Tên  người  sở  hữu  bị  thay  đổi
+ không  thể  thay  đổi  tên  người  sở  hữu
+ Cài  đặt  tốc  độ  ISO  không  hợp  lệ
+ Tốc  độ  ISO  bị  thay  đổi
+ Không  thể  thay  đổi  tốc  độ  ISO
+ Chế  độ  chụp  ảnh  bị  thay  đổi
+ Không  thể  thay  đổi  chế  độ  chụp  ảnh
+ Cài  đặt  tốc  độ  chập  không  hợp  lệ
+ Tốc  độ  chập  bị  thay  đổi
+ Không  thể  thay  đổi  tốc  độ  chập
+ Cài  đặt  độ  mở  không  hợp  lệ
+ Độ  mở  bị  thay  đổi
+ Không  thể  thay  đổi  độ  mở
+ Cài  đặt  bù  phơi  sáng  không  hợp  lệ
+ Sự  bù  phơi  sáng  đã  thay  đổi
+ Không  thể  thay  đổi  sự  bù  phơi  sáng
+ Cài  đặt  định  dạng  ảnh  không  hợp  lệ
+ Định  dạng  ảnh  đã  thay  đổi
+ Không  thể  thay  đổi  định  dạng  ảnh
+ Cài  đặt  chế  độ  lấy  nét  không  hợp  lệ
+ Chế  độ  lấy  nét  bị  thay  đổi
+ Không  thể  thay  đổi  chế  độ  lấy  nét
+ Sai  đặt  chế  độ  bíp
+ Chế  độ  bíp  bị  thay  đổi
+ Không  thể  thay  đổi  chế  độ  bíp
+ Mức  phóng  to  bị  thay  đổi
+ Không  thể  thay  đổi  mức  phóng  to
+ Sai  đặt  chế  độ  đèn  nháy
+ Chế  độ  đèn  nháy  bị  thay  đổi
+ Không  thể  thay  đổi  chế  độ  đèn  nháy
+ giờ  đã  đặt
+ không  thể  đặt  giờ
+ Đưa  ra  kiểu  cổng  không  được  hỗ  trợ  % i  =  0x % x  nên  không  thể  sở  khởi .
+ Hết  pin  hoàn  toàn  nên  máy  ảnh  bị  tắt .
+ LỖI :  thông  điệp  bất  thường
+ LỖI :  tràn  thông  điệp
+ LỖI :  sai  thứ  tự .
+ LỖI :  kiểu  gói  tin  bất  thường .
+ LỖI :  lỗi  định  dạng  thông  điệp .
+ LỖI :  thông  điệp  bất  thường  2 .
+ Đang  tải  lên  tập  tin ...
+ Đang  lấy  tập  tin ...
+ canon _ serial _ get _ dirents :  hộp  nối  tiếp  canon _ serial _ dialogue  không  lấy  được  các  mục  nhập  thư  mục
+ canon _ serial _ get _ dirents :  gói  tin  mục  nhập  thư  mục  đầu  tiên  quá  ngắn  ( chỉ  % i  byte )
+ canon _ serial _ get _ dirents :  không  thể  cấp  phát  % i  byte  bộ  nhớ
+ canon _ serial _ get _ dirents :  lỗi  đọc  mục  nhập  thư  mục  khác
+ canon _ serial _ get _ dirents :  nhận  mục  nhập  thư  mục  bị  cắt  ngắn
+ canon _ serial _ get _ dirents :  quá  nhiều  mục  nhập  thư  mục ,  chắc  là  vòng  lặp
+ canon _ serial _ get _ dirents :  không  thể  thay  đổi  kích  cỡ  của  bộ  đệm  mục  nhập  thư  mục  thành  % i  byte
+ Gặp  lỗi  khi  thay  đổi  tốc  độ .
+ Đang  đặt  lại  giao  thức ...
+ Máy  ảnh  Tốt .
+ Đang  tìm  máy  ảnh ...
+ Đang  thử  liên  lạc  với  máy  ảnh ...
+ Lỗi  liên  lạc  1
+ Máy  ảnh  không  đáp  ứng
+ Đáp  ứng  không  được  nhận  ra
+ Phát  hiện  một  “ % s ”  cũng  được  biết  như  là  “ % s ”
+ Không  rõ  mô  hình  “ % s ”
+ EOT  sai
+ Lỗi  liên  lạc  2
+ Lỗi  liên  lạc  3
+ Đang  thay  đổi  tốc  độ .  Hãy  đời ...
+ Gặp  lỗi  khi  thay  đổi  tốc  độ
+ Lỗi  đợi  xác  nhận  trong  khi  sở  khởi
+ Đã  kết  nối  tới  máy  ảnh
+ LỖI :  phát  hiện  điều  kiện  lỗi  nghiêm  trọng  nên  không  thể  tiếp  tục 
+ LỖI :  % d  là  quá  quá  lớn .
+ Đang  lấy  ảnh  mẫu ...
+ KHÔNG  NHẬN  RA
+ Không  thể  thiết  lập  liên  lạc  khởi  tạo  với  máy  ảnh
+ Máy  ảnh  đã  hoạt  động
+ Máy  ảnh  đã  được  kích  hoạt
+ Không  rõ  ( lỗi  kiểu  nào )
+ Không  nhận  ra  đáp  ứng  máy  ảnh  đầu  tiên  “ % c ”
+ Máy  ảnh  chưa  sẵn  sàng ,  nhiều  yêu  cầu  “ nhận  diện  máy  ảnh ”  bị  lỗi :  % s
+ Máy  ảnh  chưa  sẵn  sàng ,  hàm  get _ battery  ( lấy  pin )  bị  lỗi :  % s
+ canon _ usb _ poll _ interrupt _ multiple :  hàm  ngắt  tiến  trình  đọc  đã  thất  bại  sau  % i  lần  thử ,  “ % s ” .
+ canon _ usb _ capture _ dialogue :  độ  dài  giả  0x % 04x  cho  gói  tin  kích  cỡ  ảnh  mẫu .
+ canon _ usb _ capture _ dialogue :  độ  dài  giả  0x % 04x  cho  gói  tin  kích  cỡ  ảnh  đầy  đủ .
+ canon _ usb _ capture _ dialogue :  hàm  thứ  nhất  ngắt  tiến  trình  đọc  không  theo  thứ  tự  đúng .
+ canon _ usb _ capture _ dialogue :  hàm  thứ  hai  ngắt  tiến  trình  đọc  không  theo  thứ  tự  đúng .
+ canon _ usb _ capture _ dialogue :  nhận  tin  hiệu  về  lỗi  chụp  ảnh ,  mã  =  0x % 08x
+ canon _ usb _ capture _ dialogue :  hàm  thứ  ba  ngắt  tiến  trình  đọc  EOS  không  theo  thứ  tự  đúng .
+ canon _ usb _ capture _ dialogue :  hàm  thứ  tư  ngắt  tiến  trình  đọc  EOS  không  theo  thứ  tự  đúng .
+ canon _ usb _ dialogue :  trong  tải  quá  lớn ,  không  thể  vừa  bộ  đệm  ( % i   >   % i )
+ canon _ usb _ dialogue :  mong  đợi  0x % x  byte ,  còn  máy  ảnh  thông  báo  0x % x
+ Đang  nhận  dữ  liệu ...
+ Hết  bộ  nhớ :  cần  thiết  % d  byte .
+ canon _ usb _ set _ file _ attributes :  hộp  thoại  USB  canon _ usb _ dialogue  bị  lỗi
+ Không  thể  đọc  tập  tin  “ % s ”
+ Hết  bộ  nhớ :  cần  % ld  byte .
+ Lỗi  tải  lên  tập  tin .
+ Tập  tin  quá  lớn .  Có  lẽ  bạn  cần  phải  tắt  máy  ảnh ,  rồi  mở  lại  trước  khi  tải  lên  tập  tin  thêm .
+ canon _ usb _ get _ dirents :  không  thể  vừa  trọng  tải  trong  bộ  đệm ,  “ % .96s ”  ( bị  cắt  ngắn )  quá  dài .
+ canon _ usb _ get _ dirents :  hộp  thoại  canon _ usb _ long _ dialogue  không  lấy  được  các  mục  nhập  thư  mục ,  trả  lại  % i .
+ canon _ usb _ list _ all _ dirs :  không  thể  vừa  trọng  tải  trong  bộ  đệm ,  “ % .96s ”  ( bị  cắt  ngắn )  quá  dài .
+ canon _ usb _ list _ all _ dirs :  hộp  thoại  canon _ usb _ long _ dialogue  không  lấy  được  các  mục  nhập  thư  mục ,  trả  lại  % i .
+ Phát  hiện  một  “ % s ” .
+ Tên  “ % s ”  từ  máy  ảnh  không  tương  ứng  với  máy  ảnh  đã  biết .
+ Không  hỗ  trợ  kiểu  ảnh  % d
+ Ảnh  % s  bị  bảo  vệ  chống  xoá .
+ Cấp  pin :  % .1f  Vôn .  Bản  sửa  đổi :  % 08x .
+ Cấu  hình  máy  ảnh
+ Pin
+ Độ  sáng
+ Quá  sáng
+ Quá  tối
+ OK
+ Trình  điều  khiển  Logitech  Clicksmart  310  Theodore  Kilgore   <  kilgota \ @ auburn \ .edu  >
+ Trình  điều  khiển  chung  sq905C  Theodore  Kilgore   <  kilgota \ @ auburn \ .edu  >
+ Kiểu  ảnh  không  được  hỗ  trợ
+ Số  ảnh :  % d
+ Digita  Johannes  Erdfelt   <  johannes \ @ erdfelt \ .com  >
+ Chỉ  hỗ  trợ  thư  mục  gốc :  bạn  đã  yêu  cầu  danh  sách  các  tập  tin  của  thư  mục  “ % s ” .
+ Lỗi  lấy  tổng  số  ảnh
+ Lỗi  lấy  thông  tin  về  ảnh
+ Không  hỗ  trợ  kiểu  chụp
+ ( battery  is  % d % %  full )
+ Đèn  nháy
+ Không  đèn  nháy
+ Mống  mắt  đôi
+ Không  mống  mắt  đôi
+ Chuyển  đổi  độ  phân  giải
+ Không  chuyển  đổi  độ  phân  giải
+ Không  đèn  có  điện
+ BẬT
+ TẮT
+ sẵn  sàng
+ Chưa  sẵn  sàng
+ trong  chế  độ  tô  đầy
+ Không  trong  chế  độ  tô  đầy
+ thấp  ( 320 × 240 )
+ cao  ( 640 × 480 )
+ bên  ngoài
+ nội  tại
+ Lỗi  ảnh  hay  lỗi  liên  lạc  thường  do  pin  yếu  gây  ra .     Ảnh  được  chụp  từ  xa  trên  máy  ảnh  này  \ tđược  cất  giữ  trong  bộ  nhớ  RAM  tạm  thời ,  \ tkhông  phải  trên  bo  mạch  bộ  nhớ  cực  nhanh .     Sự  điều  khiển  phơi  sáng  khi  chụp  ảnh  \ tcó  thể  được  cấu  hình  bằng  tay ,  \ thay  đặt  thành  chế  độ  tự  động .     Độ  chất  lương  ảnh  hiện  thời  bên  dưới  \ tmức  độ  có  thể .
+ gPhoto2  Mustek  VDC-3500 / Relisys  Dimera  3500  Phần  mềm  này  dùng  thông  tin  được  công  tyStarDot  Technologies  sở  hữu .  Tác  giả :    Brian  Beattie    <  URL \ : http \ : \ / \ / www \ .beattie \ -home \ .net  >  Người  đóng  góp :    Chuck  Homic   <  chuck \ @ vvisions \ .com  >       Chuyển  đổi  ảnh  chụp  thô  sang  RGB    Dan  Fandrich   <  dan \ @ coneharvesters \ .com  >       Thông  tin  về  giao  thức ,  định  dạng  ảnh  thô ,       chuyển  sang  gphoto2
+ Gặp  lỗi  khi  đọc  ảnh  từ  bộ  nhớ  cực  nhanh
+ Hết  bộ  nhớ
+ Đang  tài  về  ảnh ...
+ Gặp  lỗi  khi  tải  về  ảnh
+ Người  dùng  đã  thôi  tải  về
+ Gặp  lỗi  khi  chụp  ảnh  động
+ Phơi  sáng
+ Tự  động  điều  chỉnh  phơi  sáng  khi  xem  thử
+ Độ  phơi  sáng  khi  xem  thử
+ Tự  động  nháy  đèn  khi  chụp
+ Lỗi  mở  bản  chuyển
+ Gặp  lỗi  khi  đặt  lại  máy  ảnh
+ Gặp  lỗi  khi  đặt  lại  tốc  độ  liên  lạc  với  máy  ảnh
+ Hình  như  bộ  điều  giải ,  không  phải  máy  ảnh
+ Đang  liệt  kê  các  tập  tin  trong  “ % s ” ...
+ Đang  liệt  kê  các  thư  mục  trong  “ % s ”  ...
+ Không  thể  lấy  thông  tin  về  «  % s  »  ( % m ) .
+ Không  thể  lấy  thông  tin  về  «  % s  »  trong  «  % s  »  ( % m ) .
+ Không  thể  thay  đổi  giờ  của  tập  tin  «  % s  »  trong  «  % s  »  ( % m ) .
+ Không  thể  mở  “ % s ” .
+ “ Máy  ảnh ”  duyệt  qua  thư  mục  thì  cho  phép  bạn  phụ  lục  các  ảnh  trên  đĩa  cứng .
+ Chế  độ  Duyệt  qua  Thư  mục  —  được  tạo  bởi  Scott  Fritzinger   <  scottf \ @ unr \ .edu  >  .
+ Không  thể  xoá  tập  tin  «  % s  »  ra  thư  mục  «  % s  » .  ( mã  lỗi  % i :  % m ) .
+ Tải  về  chương  trình  cho  Digital  Dream  Enigma  1.3.  bởi   <  olivier \ @ aixmarseille \ .com  >  ,  được  thích  nghị  từ  trình  điều  khiển  spca50x .  Cám  ơn  nhóm  spca50x  vì  dễ  chuyển  trình  điều  khiển  sang  máy  ảnh  này . 
+ Máy  ảnh  đã  gửi  chỉ  % i  byte ,  còn  cần  ít  nhất  % i .
+ Không  thể  liên  lạc  với  máy  ảnh .
+ Nhận  được  dữ  liệu  bất  thường  ( 0x % 02x ,  0x % 02x ) .
+ Dãy  thoát  không  đúng :  mong  đợi  0x % 02x ,  còn  nhận  0x % 02x .
+ Dữ  liệu  sai :  nhận  0x % 02x ,  còn  mong  đợi  0x % 02x .
+ Dữ  liệu  sai :  nhận  0x % 02x ,  còn  mong  đợi  0x % 02x  hay  0x % 02x .
+ Sai  kiểm  tổng :  nhận  0x % 02x ,  còn  mong  đợi  0x % 02x .
+ Máy  ảnh  đã  từ  chối  lệnh .
+ Máy  ảnh  đã  tự  đặt  lại .
+ Máy  ảnh  đã  gửi  bất  thường  byte  0x % 02x .
+ Đang  tải  về ...
+ Không  bo  mạch  cấp  phát  % i  byte  để  tải  về  ảnh  mẫu .
+ Không  bo  mạch  cấp  phát  % i  byte  để  tải  về  ảnh .
+ Máy  ảnh  không  chấp  nhận  “ % s ”  là  tên  tập  tin .
+ Không  thể  sở  khởi  tiến  trình  tải  lên  ( máy  ảnh  đã  đáp  ứng  0x % 02x ) .
+ Máy  ảnh  không  hỗ  trợ  tốc  độ  % i .
+ Không  thể  đặt  tốc  độ  thành  % i  ( máy  ảnh  đã  đáp  ứng  % i ) .
+ Matthew  G.  Martin  Dựa  vào  fujiplay  của  Thierry  Bousch   <  bousch \ @ topo \ .math \ .u \ -psud \ .fr  >
+ Không  hỗ  trợ  tốc  độ  bit  % ld .
+ Cấu  hình  cho  máy  ảnh  FUJI  của  bạn
+ ID
+ Phiên  bản : 
+ Mô  hình : 
+ Bộ  nhớ  còn  lại : 
+ Thư  viện  gsmart300   Till  Adam   <  till \ @ adam \ -lilienthal \ .de  >  Jerome  Lodewyck   <  jerome \ .lodewyck \ @ ens \ .fr  >  Khả  năng  hỗ  trợ  máy  ảnh  điện  số  kiểu  Mustek  gSmart  300  dựa  vào  vài  mô-đun  thư  viện  máy  ảnh  của  gphoto2  và  các  đặt  tả  được  cung  cấp  thân  ái  bởi  Mustek .
+ Không  hỗ  trợ  kiểu  cổng :  % d .  Trình  điều  khiển  này  chỉ  chạy  được  với  máy  ảnh  kiểu  USB .
+ Không  thể  đặt  lại  máy  ảnh .
+ Trình  điều  khiển  iClick  5X  Theodore  Kilgore   <  kilgota \ @ auburn \ .edu  >
+ Khung  đã  chụp     :  % 4d
+ Thư  viện  jamcam  v
+ Đang  tải  về  dữ  liệu ...
+ Đang  tải  về  ảnh  mẫu ...
+ Máy  ảnh  JD11  hoạt  động  hơi  khá  với  trình  điều  khiển  này .  Một  giao  diện  RS232  có  tốc  đô  115  kbit  cần  thiết  để  truyền  ảnh .  Trình  điều  khiển  này  cho  bạn  có  khả  năng  lấy :       ảnh  mẫu  ( 64 × 48  định  dạng  PGM )       ảnh  đầy  đủ  ( 640 × 480  định  dạng  PPM )
+ JD11  Marcus  Meissner   <  marcus \ @ jet \ .franken \ .de  >  Trình  điều  khiển  cho  máy  ảnh  Jenoptik  JD11 .  Giao  diện  được  thiết  kế  đối  chiếu  dùng  WINE  và  IDA .
+ Cấu  hình  JD11
+ Cài  đặt  khác
+ Thời  gian  phơi  bày  bóng  đèn
+ Cài  đặt  màu
+ Đỏ
+ Lục
+ Xanh
+ Thư  viện  máy  ảnh  jl2005a  Theodore  Kilgore   <  kilgota \ @ auburn \ .edu  >
+ Bo  mạch  nhớ  cực  nhanh  gọn  ( CF )
+ Máy  ảnh  Kodak  DC120  camera  dùng  định  dạng  tập  tin  KDC  để  cất  giữ  các  ảnh .  Muốn  xem  những  ảnh  được  tải  xuống  máy  ảnh  thì  bạn  cũng  cần  phải  tải  xuống  chương  trình  “ kdc2tiff ” .  Có  thể  lấy  nó  ở  “ http : / / kdc2tiff.sourceforge.net ” .
+ Thư  viện  máy  ảnh  Kodak  DC120  Scott  Fritzinger   <  scottf \ @ gphoto \ .net  >  Thư  viện  máy  ảnh  cho  máy  ảnh  Kodak  DC120 .  ( được  nhiều  người  yêu  cầu ) .
+ Đang  lấy  dữ  liệu ...
+ Đang  đợi  hoàn  tất ...
+ Tập  tin
+ Kiểu  tập  tin
+ JPEG
+ FlashPix
+ Độ  phân  giải  tập  tin
+ 640  ×  480
+ 1152  ×  864
+ Nén  tập  tin
+ Thấp  ( chất  lượng  tốt  hơn )
+ Vừa  ( chất  lượng  tốt  hơn )
+ Cao  ( chất  lượng  tốt )
+ Chụp
+ 58  mm
+ 51  mm
+ 41  mm
+ 34  mm
+ 29  mm
+ Sự  bù  phơi  sáng
+ Tự  động
+ Ép  buộc
+ Không  có
+ Đèn  nháy  chống  mắt  đỏ
+ Bật
+ Tắt
+ Khác
+ Đặt  đồng  hồ  máy  ảnh
+ Tốc  độ  cổng
+ Tên  tập  ảnh
+ Tên  cần  đặt  trên  bo  mạch  khi  định  dạng .
+ Định  dạng  cực  nhanh  gọn
+ Định  dạng  bo  mạch  và  đặt  tên  tập  ảnh .
+ Gỡ  lỗi
+ Thực  hiện  lệnh  đã  định  sẵn  có  các  giá  trị  tham  số .
+ Ảnh  trên  máy  ảnh :  % d
+ Tổng  ảnh  đã  chụp :  % d
+ Tổng  lần  nháy :  % d
+ Firmware :      % d . % d
+ Kiểu  tập  tin :  JPEG  (
+ Kiểu  tập  tin :  FlashPix  (
+ nén  thấp , 
+ nén  vừa , 
+ nén  cao , 
+ nén  không  rõ  % d , 
+ phân  giải  không  rõ  % d )
+ Bộ  tiếp  hợp  điện  chính  đã  kết  nối .
+ Bộ  tiếp  hợp  điện  chính  không  kết  nối .
+ Giờ  :  % a ,  % d  % b  % Y  % T
+ Thu  phóng :  58  mm
+ Thu  phóng :  51  mm
+ Thu  phóng :  41  mm
+ Thu  phóng :  34  mm
+ Thu  phóng :  29  mm
+ Thu  phóng :  macro  ( chụp  cận  cảnh )
+ Không  rõ  chế  độ  thu  phóng  % d
+ Sự  bù  phơi  sáng :  % s
+ Sự  bù  phơi  sáng :  % d
+ Chế  độ  đèn  nháy :  tự  động 
+ Chế  độ  đèn  nháy :  buộc , 
+ Chế  độ  đèn  nháy :  tắt
+ Không  rõ  chế  độ  đèn  nháy  % d , 
+ chống  mắt  đỏ  :  bật .
+ chống  mắt  đỏ  :  tắt .
+ Không  có  bo  mạch  trong  máy  ảnh .
+ Tên  bo  mạch :  % s  Chỗ  rảnh  trên  bo  mạch :  % d  kB
+ Thư  viện  này  đã  được  thử  với  máy  ảnh  Kodak  DC  215  Zoom .  Nó  có  lẽ  hoạt  động  được  với  máy  ảnh  DC  200  và  DC  210 .  Nếu  bạn  có  máy  ảnh  kiểu  này ,  xin  hãy  viết  thư  cho  tôi  ở  địa  chỉ   <  koltan \ @ gmx \ .de  >   để  cho  tôi  biết  nếu  thư  viện  trình  điều  khiển  này  chạy  được  không .
+ Thư  viện  máy  ảnh  cho  máy  ảnh  Kodak  DC215  Zoom .  Michael  Koltan   <  koltan \ @ gmx \ .de  >
+ Đang  chờ ...
+ Tham  số  1
+ Tham  số  2
+ Tham  số  3
+ Mô  hình :  Kodak  % s
+ Phiên  bản  Firmware :  % d . % 02d
+ Trạng  thái  pin :  % s ,  Bộ  sạc  điện :  % s
+ Chỗ  còn  rảnh :  Cao :  % d ,  Vừa :  % d ,  Thấp :  % d
+ Trạng  thái  bo  mạch  nhớ  ( % d ) :  % s
+ Tổng  ảnh  chụp :  % d ,  Lần  nháy  đèn :  % d
+ Thư  viện  máy  ảnh  Kodak  DC240  Scott  Fritzinger   <  scottf \ @ gphoto \ .net  >   và  Hubert  Figuiere   <  hfiguiere \ @ teaser \ .fr  >  Thư  viện  máy  ảnh  cho  các  máy  ảnh  Kodak  DC240 ,  DC280 ,  DC3400  và  DC5000 .  Được  tạo  lại  và  cập  nhật  cho  gPhoto2 .
+ Yếu
+ Rỗng
+ Không  hợp  lệ
+ Không  dùng
+ Đang  dùng
+ Bo  mạch  mở
+ Bo  mạch  không  mở
+ Chưa  định  dạng  bo  mạch
+ Không  có  bo  mạch
+ Một  thao  tác  đang  chạy .  Máy  ảnh  này  chỉ  hỗ  trợ  chạy  một  thao  tác  mỗi  lần .  Hãy  đợi  kết  thúc  thao  tác  này .
+ máy  ảnh  đã  nghỉ  trong   >  9  giây  nên  sở  khởi  lại .
+ Vấn  đề  đã  biết :  1 .  Nếu  máy  ảnh  Kodak  DC3200  không  nhận  lệnh  trong  vòng  10  giây ,  nó  sẽ  quá  thời  nên  phải  được  sở  khởi  lại .  Bạn  thấy  máy  ảnh  không  đáp  ứng  thì  đơn  giản  chọn  nó  lần  nữa :  hành  động  này  sẽ  gây  ra  nó  sở  khởi  lại .
+ Trình  điều  khiển  Kodak  DC3200  Donn  Morrison   <  dmorriso \ @ gulf \ .uvic \ .ca  >  Mời  bạn  hỏi  câu  và  ghi  chú .
+ Máy  ảnh  USB  của  bạn  là  Kodak  EZ200 .  Tổng  ảnh  =  % i
+ Trình  điều  khiển  Kodak  EZ200  Bucas  Jean-Francois   <  jfbucas \ @ tuxfamily \ .org  >
+ Lỗi  lấy  nét .
+ Lỗi  mống  mắt .
+ Lỗi  ánh  sáng  nhấp  nháy .
+ Lỗi  tổng  kiểm  EEPROM .
+ Lỗi  nội  bộ  ( 1 ) .
+ Lỗi  nội  bộ  ( 2 ) .
+ Không  có  bo  mạch .
+ Bo  mạch  không  được  hỗ  trợ .
+ Bo  mạch  bị  gỡ  bỏ  trong  khi  truy  cập .
+ Số  hiệu  ảnh  không  hợp  lệ .
+ Không  thể  ghi  vào  bo  mạch .
+ Bo  mạch  bị  bảo  vệ  chống  ghi .
+ Không  còn  có  chỗ  rảnh  trên  bo  mạch .
+ Ảnh  bị  bảo  vệ .
+ Ánh  sáng  quá  tối .
+ Lỗi  lấy  nét  tự  động .
+ Lỗi  hệ  thống .
+ Tham  số  cấm .
+ Không  thể  thôi  lệnh  này .
+ Dữ  liệu  địa  phương  hoá  quá  dài .
+ Dữ  liệu  địa  phương  hoá  bị  hỏng .
+ Lệnh  không  được  hỗ  trợ .
+ Lệnh  khác  đang  chạy .
+ Lỗi  thứ  tự  lệnh .
+ Lỗi  lạ .
+ Máy  ảnh  mới  trả  lại  một  lỗi  chưa  được  phát  hiện .  Xin  hãy  thông  báo  cho  % s  thông  tin  này  với  thông  tin  thêm  về  cách  tạo  lỗi  đó :  ( 0x % x , 0x % x ) .  Cám  ơn  nhiều !
+ Đang  lấy  danh  sách  tập  tin ...
+ Đang  thử  các  tốc  độ  khác  nhau ...
+ Máy  ảnh  của  bạn  không  hỗ  trợ  khả  năng  thay  đổi  tên  tập  tin .
+ Không  thể  xoá  % i  ảnh  vì  chúng  bị  bảo  vệ .
+ Mô  hình :  % s  Số  sản  xuất :  % s ,  Phiên  bản  phần  cứng :  % i . % i  Phiên  bản  phần  mềm :  % i . % i  Phiên  bản  phần  mềm  thử  nghiệm :  % i . % i  Tên :  % s ,  Hãng  chế  tạo :  % s
+ Thư  viện  Konica  Lutz  Mueller   <  lutz \ @ users \ .sourceforge \ .net  >  Hỗ  trợ  mọi  máy  ảnh  Konica  và  vài  máy  ảnh  HP .
+ Đang  lấy  cấu  hình ...
+ Cấu  hình  Konica
+ Cài  đặt  bền  bỉ
+ Máy  ảnh  nên  kêu  bíp  khi  chụp  ảnh  không ?
+ Giờ  tự  hẹn  giờ
+ Giờ  tự  động  tắt
+ Thời  gian  chiếu  ảnh
+ Độ  phân  giải
+ Thấp  ( 576  ×  436 )
+ Vừa  ( 1152  ×  872 )
+ Cao  ( 1152  ×  872 )
+ Địa  phương  hoá
+ Ngôn  ngữ
+ Chưa  chọn  gì
+ Định  dạng  Xuất  ra  TV
+ NTSC
+ PAL
+ Không  hiển  thị  trình  đơn  TV
+ Định  dạng  ngày
+ Tháng / Ngày / Năm
+ Ngày / Tháng / Năm
+ Năm / Tháng / Ngày
+ Cài  đặt  bền  bỉ  trong  phiên  chạy
+ Tự  động ,  giảm  mặt  đỏ
+ Tiêu  điểm
+ Cố  định
+ Cài  đặt  hay  thay  đổi
+ Tự  hẹn  giờ  ( chỉ  ảnh  kế )
+ Chuẩn
+ Không  tìm  thấy  dữ  liệu  địa  phương  hoá  ở  “ % s ”
+ Tập  tin  địa  phương  hoá  quá  dài .
+ Ô  xem  thử  này  không  tồn  tại .
+ Dữ  liệu  bị  hỏng .
+ Kiểu  ảnh  % d  không  được  máy  ảnh  này  hỗ  trợ .
+ Không  thể  xoá  ảnh  % s .
+ Không  thể  xoá  mọi  ảnh .
+ Đang  tải  lên  ảnh ...
+ Máy  ảnh  không  trả  lời .
+ Thấp
+ Cao
+ LCD
+ Biểu  tượng
+ 2,0  m
+ 0,5  m
+ 0,1  m
+ Cán  cân  trắng
+ Văn  phòng
+ Ánh  sáng  ban  ngày
+ Độ  sắc
+ Sắc
+ Mềm
+ Màu
+ Nhẹ
+ Sâu
+ Đen  trắng
+ Đơn
+ Dãy  9
+ Hiển  thị  ngày
+ Bất  cứ  nơi  nào
+ Chế  độ  phát
+ Chế  độ  thu
+ Mọi  nơi
+ ĐIện  chính
+ Phát
+ Thu
+ DD / MM / YYYY
+ YYYY / MM / DD
+ MM / DD / YYYY
+ Mẫu :  % s  Sức  chứa :  % i  Mb  Điện :  % s  Tự  động  tắt :  % i  phút  Chế  độ :  % s  Ảnh :  % i / % i  Hiện  ngày :  % s  Ngày  và  Giờ :  % s
+ Thư  viện  Konica  Q-M150  Marcus  Meissner   <  marcus \ @ jet \ .franken \ .de  >  Aurelien  Croc  ( AP2C )   <  programming \ @ ap2c \ .com  >  http : / / www.ap2c.com  Hỗ  trợ  máy  ảnh  Konica  Q-M150  Pháp .
+ Trình  điều  khiển  Largan  Hubert  Figuiere   <  hfiguiere \ @ teaser \ .fr  >  Hỗ  trợ  máy  ảnh  Largan  Lmini .
+ Trình  điều  khiển  chung  LG  GSM  Guillaume  Bedot   <  littletux \ @ zarb \ .org  >
+ Thư  viện  máy  ảnh  Mars  MR97310  Theodore  Kilgore   <  kilgota \ @ auburn \ .edu  >
+ Mô  hình :  Minolta  Dimage  V  ( % s )  Bản  sửa  đổi  phần  cứng :  % s  Bản  sửa  đổi  Firmware :  % s
+ Chế  độ  máy  chủ :  % s  Sửa  chữa  phơi  sáng :  % s  Dữ  liệu  phơi  sáng :  % d  Ngày  hợp  lệ :  % s  Ngày :  % d / % 02d / % 02d  % 02d : % 02d : % 02d  Đặt  đồng  hồ  tự  hẹn  giờ :  % s  Độ  chất  lượng :  % s  Chế  độ  phát / thu :  % s  ID  bo  mạch  hợp  lệ :  % s  ID  bo  mạch :  % d  Chế  độ  nháy  đèn : \ t \ t
+ Từ  xa
+ Cục  bộ
+ Có
+ Không
+ Chính  xác
+ Buộc  nháy  đèn
+ Cấm  nháy  đèn
+ Giá  trị  không  hợp  lệ  ( % d )
+ Cấp  pin :  % s  Số  ảnh :  % d  Chỗ  còn  rảnh  ít  nhất :  % d  Bận :  % s  Đèn  nháy  đang  sạc :  % s  Trạng  thái  ống  kính : \ t \ t
+ Không  đầy
+ Đầy
+ Bận
+ Nghỉ
+ Đang  sạc
+ Sẵn  sàng
+ Hướng  ống  kính  không  tương  ứng  với  đèn  nháy
+ Chưa  kết  nối  ống  kính
+ Giá  trị  sai  đối  với  trạng  thái  ống  kính  % d
+ Trạng  thái  bo  mạch : \ t \ t
+ Bảo  vệ  chống  ghi
+ Bo  mạch  không  thích  hợp
+ Thư  viện  máy  ảnh  Minolta  Dimage  V  % s  Gus  Hartmann   <  gphoto \ @ gus \ -the \ -cat \ .org  >  Cám  ơn  đặc  biệt  Minolta  đã  cung  cấp  đặc  tả .
+ Đèn  nháy    :  tự  động  ( giảm  mặt  đỏ )
+ Đèn  nháy    :  tự  động
+ Đèn  nháy    :  bật  ( giảm  mặt  đỏ )
+ Đèn  nháy    :  bật
+ Đèn  nháy    :  tắt
+ Đèn  nháy    :  chưa  xác  định
+ Tóm  tắt  Mustek  MDC800 :
+ chưa  thông  báo  trạng  thái .
+ Phát  hiện  bo  mạch  cực  nhanh  gọn  ( CF )
+ Không  phát  hiện  bo  mạch  cực  nhanh  gọn  ( CF )
+ Chế  độ  hiện  thời :  chế  độ  máy  ảnh
+ Chế  độ  hiện  thời :  chế  độ  phát  lại
+ Pin  OK .
+ Pin  yếu .
+ Thư  viện  gPhoto2  Mustek  MDC-800  Henning  Zabel   <  henning \ @ uni \ -paderborn \ .de  >  Chuyển  sang  gphoto2  bởi  Marcus  Meissner   <  marcus \ @ jet \ .franken \ .de  >  Hỗ  trợ  cả  hai  giao  thức  nối  tiếp  và  USB .
+ thư  viện  coolshot  phiên  bản
+ Đang  ngắt  kết  nối  tới  máy  ảnh .
+ Đang  tải  về  ảnh  % s .
+ Đang  tải  lên  ảnh  % s .
+ Kích  cỡ  tập  tin :  % ld  byte .  Kích  cỡ  của  tập  tin  lớn  nhất  có  thể  tải  lên :  % i  byte .
+ Đang  tải  lên ...
+ Đang  xoá  ảnh  % s .
+ Thư  viện  gPhoto2  Panasonic  DC1000  Mariusz  Zynel   <  mariusz \ @ mizar \ .org  >  Dựa  vào  chương  trình  dc1000  của  Fredrik  Roubert   <  roubert \ @ df \ .lth \ .se  >   và  Galen  Brooks   <  galen \ @ nine \ .com  >  .
+ Đang  tải  về  % s .
+ Thư  viện  gPhoto2  Panasonic  DC1580  Mariusz  Zynel   <  mariusz \ @ mizar \ .org  >  Dựa  vào  chương  trình  dc1000  của  Fredrik  Roubert   <  roubert \ @ df \ .lth \ .se  >   và  Galen  Brooks   <  galen \ @ nine \ .com  >  .
+ Đang  tải  về  “ % s ” ...
+ Vấn  đề  đã  biết :  Gặp  khó  khăn  liên  lạc  thì  đặt  lại  máy  ảnh  và  khởi  chạy  lại  ứng  dụng .  Trình  điều  khiển  chưa  đủ  mạnh  để  phục  hồi  sau  trường  hợp  kiểu  này ,  đặc  biệt  nếu  gặp  khó  khăn  và  máy  ảnh  không  được  tắt  đúng  ở  tốc  độ  truyền  nhanh  hơn  9600  bps .
+ Trình  điều  khiển  máy  trên  tay  thu-ghi  hình  Panasonic  PV-L859-K / PV-L779-K  Palmcorder  Andrew  Selkirk   <  aselkirk \ @ mailandnews \ .com  >
+ Tổng  bộ  nhớ :  % 8d  byte  Bộ  nhớ  còn  rảnh :  % 8d  byte  Tổng  tập  tin :  % d
+ Creative  PC-CAM  300   Tác  giả :  Till  Adam  <  till \ @ adam \ -lilienthal \ .de  >  và  Miah  Gregory  <  mace \ @ darksilence \ .net  >
+ Đang  tải  về  tập  tin ...
+ Creative  PC-CAM600  Tác  giả :  Peter  Kajberg   <  pbk \ @ odense \ .kollegienet \ .dk  >
+ pccam600 _ init :  mong  đợi   >  % d  khối  còn  nhận  % d
+ pccam600 _ get _ file :  nhận  chỉ  mục  % d  còn  mong  đợi  chỉ  mục   >  % d
+ pccam600 _ close :  giá  trị  trả  lại  là  % d  thay  cho  % d
+ pccam600 _ init :  mong  đợi  % d  khối  còn  nhận  % d
+ pccam600  init : Unexpected  error :  gp _ port _ read  returned  % d  instead  of  % d
+ Chương  trình  tải  xuống  cho  vài  máy  ảnh  kiểu  Polaroid .  Tạo  gốc  bởi  Peter  Desnoyers   <  pjd \ @ fred \ .cambridge \ .ma \ .us  >  ,  thích  nghi  với  gPhoto2  bởi  Nathan  Stenzel   <  nathanstenzel \ @ users \ .sourceforge \ .net  >   và  Lutz  Mueller   <  lutz \ @ users \ .sf \ .net  >  .  Polaroid  640SE  được  thử  ra  bởi  Michael  Golden   <  naugrim \ @ juno \ .com  >  .
+ Mô  hình :  % x ,  % x ,  % x ,  % x
+ Chương  trình  tải  xuống  cho  các  máy  ảnh  dựa  vào  GrandTek  98x .  Tạo  gốc  bởi  Chris  Byrne   <  adapt \ @ ihug \ .co \ .nz  >  ,  và  thích  nghị  với  gPhoto2  bởi  Lutz  Mueller   <  lutz \ @ users \ .sf \ .net  >  .  Các  cải  tiến  giao  thức  và  xử  lý  sau  cho  máy  Jenoptik  JD350e  bởi  Michael  Trawny   <  trawny99 \ @ users \ .sourceforge \ .net  >  .  Các  lỗi  được  sửa  chữa  bởi  Marcus  Meissner   <  marcus \ @ jet \ .franken \ .de  >  .
+ Chất  lượng  ảnh
+ Cỡ  ảnh
+ Cài  đặt  đèn  nháy
+ Tự  động  tắt  điện  ( phút )
+ Thông  tin
+ chuẩn
+ chính  xác
+ siêu  chính  xác
+ tự  động
+ bật
+ tắt
+ phát
+ thu
+ trình  đơn
+ pin
+ bộ  tiếp  hợp  điện  chính
+ Nhận  được  phần  đầu  bất  thường  ( % i )
+ Nhận  được  đáp  ứng  bất  thường
+ Lỗi  tổng  kiểm  tra
+ Máy  ảnh  không  chấp  nhận  lệnh  đó .
+ Máy  ảnh  đã  gửi  nhiều  byte  hơn  số  mong  đợi  ( % i )
+ Đã  yêu  cầu  thông  tin  về  ảnh  % i  ( =  0x % x ) ,  còn  nhận  được  thông  tin  về  ảnh  % i
+ Nhận  được  % i  byte  theo  định  dạng  ảnh  không  rõ .  Hãy  gửi  thư  cho  % s  để  yêu  cầu  sự  giúp  đỡ .
+ Chương  trình  tải  xuống  cho  máy  ảnh  Polaroid  DC700 .  Tạo  gốc  bởi  Ryan  Lantzer   <  rlantzer \ @ umr \ .edu  >   cho  gphoto-4.x.  Thích  nghị  với  gphoto2  bởi  Lutz  Mueller   <  lutz \ @ users \ .sf \ .net  >  .
+ Máy  ảnh
+ Bao  nhiêu  phút  trước  khi  máy  ảnh  tắt  điện ?
+ Ảnh
+ Ngày :  % i / % 02i / % 02i  % 02i : % 02i : % 02i  Ảnh  đã  chụp :  % i  Chỗ  rảnh  ( ảnh ) :  % i  Phiên  bản  phần  mềm :  % s  Tốc  độ  bốt :  % s  Bộ  nhớ :  % i  Mb  Chế  độ  máy  ảnh :  % s  Chất  lượng  ảnh :  % s  Giá  trị  nháy  đèn :  % s  Thông  tin :  % s  Hẹn  giờ :  % s  LCD :  % s  Tự  động  tắt  điện :  % i  phút  Nguồn  điện :  % s
+ Kiểu  cổng  đã  yêu  cầu  ( % i )  không  được  hỗ  trợ  bởi  trình  điều  khiển  này .
+ Tiếc  là  máy  ảnh  Canon  của  bạn  không  hỗ  trợ  khả  năng  chụp  kiểu  Canon
+ Giá  trị  không  rõ  % 04x
+ kiểu  dữ  liệu  bất  thường  % i
+ Bằng  tay
+ Tự  động  bấm  một
+ Huỳnh  quang
+ Vonfam
+ Đầy  mây
+ Bóng
+ Nhiệt  độ  màu
+ Định  sẵn
+ JPEG  chính  xác
+ RAW  +  JPEG  chính  xác
+ RAW  +  JPEG  chuẩn
+ Tốc  độ  thấp  liên  tục
+ Tốc  độ  cao  liên  tục
+ chưa  xác  định
+ ít  mực
+ không  mất
+ Chưa  xác  định
+ CRW
+ TV
+ AV
+ A _ DEP
+ M _ DEP
+ Tự  chọn
+ Khoá
+ Chân  dung  đêm
+ Thể  thao
+ Nằm  ngang
+ Cận  cảnh
+ giảm  mắt  đỏ
+ tô  đầy  vào
+ tự  động ,  giảm  mặt  đỏ
+ bật ,  giảm  mắt  đỏ
+ iTTL
+ Lặp  lại
+ TTL
+ Tự  động  đặt  độ  mở
+ Toàn  thủ  công
+ AF-S
+ AF-C
+ AF-A
+ MF  ( cố  định )
+ MF  ( vùng  chọn )
+ Nặng  giữa
+ Trung  bình
+ Đánh  giá
+ Bộ  phận
+ Trung  bình  nặng  giữa
+ Đa  điểm
+ Trung  thực
+ Đơn  sắc
+ Tự  xác  định  1
+ Tự  xác  định  2
+ Tự  xác  định  3
+ 10  giây
+ 2  giây
+ Ảnh  động  RA
+ Không  rõ  % d
+ Mặc  định  của  hãng
+ mRAW
+ sRAW
+ mRAW  +  JPEG  Lớn  Đẹp
+ sRAW  +  JPEG  Lớn  Đẹp
+ mRAW  +  JPEG  Vừa  Đẹp
+ sRAW  +  JPEG  Vừa  Đẹp
+ mRAW  +  JPEG  Nhỏ  Đẹp
+ sRAW  +  JPEG  Nhỏ  Đẹp
+ RAW  +  JPEG  Thường  Lớn
+ sRAW  +  JPEG  Thường  Lớn
+ RAW  +  JPEG  Thường  Vừa
+ sRAW  +  JPEG  Thường  Vừa
+ mRAW  +  JPEG  Nhỏ  Thường
+ sRAW  +  JPEG  Nhỏ  Thường
+ Liên  tiếp
+ Hẹn  giờ  10  giây
+ Hẹn  giờ  2  giây
+ Im  lặng  liên  tục
+ % 0.4fs
+ Sáng  tạo
+ Hành  động
+ Phong  cảnh  đêm
+ Tự  động  ( không  nháy  đèn )
+ Chân  dung  động  vật
+ Loạt
+ Đồng  hồ  hẹn  giờ
+ Vùng  đơn
+ sRGB  ( chân  dung )
+ AdobeRGB
+ Giá  trị  không  rõ  0x % 04x
+ Giữa
+ Trên
+ Dưới
+ Trái
+ Phải
+ Đa  chấm
+ Chấm  giữa
+ Tự  động  mắt  đỏ
+ Đồng  bộ  bên  ngoài
+ Giảm  mắt  đỏ
+ Đồng  bộ  chậm
+ vô  hạn
+ % d  mm
+ Lấy  nét  thủ  công
+ Khoá  AE / AF
+ Chỉ  khoá  AE
+ Chỉ  khoá  AF
+ Giữ  khoá  AE
+ AF  bật
+ Khoá  cấp  nháy  đèn
+ 20  giây
+ 1  phút
+ 5  phút
+ 10  phút
+ 5  giây
+ Bo  mạch
+ 6  mm
+ 8  mm
+ 10  mm
+ 12  mm
+ 1 / 60
+ 1 / 30
+ 1 / 15
+ 1 / 8
+ 1 / 4
+ 1 / 2
+ 1
+ 2
+ 4
+ 8
+ 15
+ 30
+ bóng  đèn  sợi  đốt
+ 15  phút
+ Sắc  hơn
+ Mềm  hơn
+ In  trực  tiếp
+ Tương  phản  thấp
+ AF  phụ  liên  tục
+ 4  giây
+ 8  giây
+ Giữ
+ Cán  cân  trắng  riêng  PC-1
+ Cán  cân  trắng  riêng  PC-2
+ Cán  cân  trắng  riêng  PC-3
+ AE  và  nháy  đèn
+ Chỉ  AE
+ Chỉ  nháy  đèn
+ Đặt  ngoặc  WB
+ Đặt  ngoặc  ADL
+ JPEG  cơ  bản
+ NEF  ( Thô )
+ NEF + Cơ  bản
+ NEF + Chuẩn
+ NEF + Chính  xác
+ TIFF  ( RGB )
+ 6  giây
+ 16  giây
+ 30  giây
+ 30  phút
+ Khóa  AE  ( Khởi  động  sau  bấm  máy )
+ ( Giữ )  khoá  AE
+ 50 %
+ 100 %
+ 75 %
+ 25 %
+ Giá  trị  không  rõ
+ RAM  nội  bộ
+ Bo  mạch  nhớ
+ ESSID
+ Xoá
+ WEP  64-bit
+ WEP  128-bit
+ Như  thế
+ Tên  hồ  sơ
+ WIFI  ESSID
+ Địa  chỉ  IP  ( rỗng  để  dùng  DHCP )
+ Mặt  nạ  mạng
+ Cổng  ra  mặc  định
+ Chế  độ  truy  cập
+ Kênh  WIFI
+ Mật  mã
+ Khoá  mật  mã  ( thập  lục )
+ Ghi
+ Liệt  kê  hồ  sơ  WIFI
+ Tạo  hồ  sơ  WIFI
+ Khoá  lấy  nét
+ Chế  độ  Bóng
+ Khoá  UI
+ Phiên  bản  PTP
+ Phiên  bản  DPOF
+ Điện  chính
+ Đèn  nháy  ngoài
+ Cấp  pin
+ Tên  ống  kính
+ Số  sản  xuất
+ Bộ  đếm  chập
+ Khoá  AF
+ Khoá  AE
+ Khoá  FV
+ Ngày  và  Giờ  máy  ảnh
+ Chế  độ  bíp
+ Ghi  chú  ảnh
+ Thời  gian  tắt  LCD
+ Trình  đơn  CSM
+ Chế  độ  EVF
+ Nghệ  sĩ
+ Tác  quyền
+ Đích  Chụp
+ SD  định  dạng  ảnh
+ CF  định  dạng  ảnh
+ Đĩa  cứng  ngoài  định  dạng  ảnh
+ Tự  động  ISO
+ Cán  cân  trắng  chỉnh  A
+ Cán  cân  trắng  chỉnh  B
+ Cán  cân  trắng  X  A
+ Cán  cân  trắng  X  B
+ Hiệu  ứng  ảnh  chụp
+ Mô  hình  màu
+ Miền  Màu
+ Chế  độ  lấy  nét  tự  động  2
+ Giúp  ánh  sáng
+ Sự  bù  phơi  sáng  AEB
+ Chế  độ  bíp  AF
+ Số  F
+ Khoảng  cách  lấy  nét
+ Tiêu  cự
+ Chế  độ  hiệu  ứng
+ Chương  trình  phơi  sáng
+ Chế  độ  chụp  tĩnh
+ Chế  độ  tự  động  phơi  sáng  Canon
+ Chế  độ  ổ  đĩa
+ Kiểu  dáng  ảnh
+ Chế  độ  đo  tiêu  điểm
+ Chế  độ  đo  phơi  sáng
+ Điểm  tiêu
+ Tốc  độ  chập  2
+ Chế  độ  đo
+ Khoá  phơi  sáng
+ Sự  bù  phơi  sáng  đèn  nháy
+ Đặt  vùng
+ Chế  độ  ngoặc
+ Số  loạt
+ Khoảng  loạt
+ Vùng  nặng  giữa
+ Tốc  độ  cửa  chập  đèn  nháy
+ Đặt  ngoặc  Tự  động  Phơi  sáng
+ Tốc  độ  màn  chập  tối  đa
+ Chụp  cao  tốc  liên  tiếp
+ Tốc  độ  đồng  bộ  nháy  đèn
+ Chính  sách  nén  JPEG
+ Bật  khoá  AF
+ Cài  đặt  ảnh
+ Cài  đặt  chụp
+ Hồ  sơ  WIFI
+ Thuộc  tính  PTP  0x % 04x
+ Lỗi  không  xác  định  PTP
+ PTP  OK  !
+ Lỗi  chung  PTP
+ PTP :  buổi  hợp  chưa  mở
+ PTP :  mã  hiệu  giao  dịch  không  hợp  lệ
+ PTP :  thao  tác  không  được  hỗ  trợ
+ PTP :  tham  số  không  được  hỗ  trợ
+ PTP :  chưa  truyền  xong
+ PTP :  mã  hiệu  cất  giữ  không  hợp  lệ
+ PTP :  bộ  quản  lý  đối  tượng  không  hợp  lệ
+ PTP :  cái  đỡ  thiết  bị  không  được  hỗ  trợ
+ PTP :  mã  định  dạng  đối  tượng  không  hợp  lệ
+ PTP :  kho  đầy
+ PTP :  đối  tượng  bị  bảo  vệ  chống  ghi
+ PTP :  kho  chỉ  đọc
+ PTP :  truy  cập  bị  từ  chối
+ PTP :  không  có  ảnh  mẫu
+ PTP :  lỗi  tự  thử
+ PTP :  xoá  bộ  phạn
+ PTP :  kho  không  sẵn  sàng
+ PTP :  không  hỗ  trợ  khả  năng  xác  định  theo  định  dạng
+ PTP :  không  có  thông  tin  đối  tượng  hợp  lệ
+ PTP :  định  dạng  mã  không  hợp  lệ
+ PTP :  mã  nhà  sản  xuất  lạ
+ PTP :  tiến  trình  chụp  đã  kết  thúc
+ PTP :  thiết  bị  đang  bận
+ PTP :  đối  tượng  cha  không  hợp  lệ
+ PTP :  định  dạng  cái  dỡ  không  hợp  lệ
+ PTP :  giá  trị  cái  dỡ  không  hợp  lệ
+ PTP :  tham  số  không  hợp  lệ
+ PTP :  phiên  chạy  đã  mở
+ PTP :  giao  dịch  bị  hủy  bỏ
+ PTP :  đặc  tả  của  đích  không  được  hỗ  trợ
+ PTP :  cần  thiết  tên  tập  tin  EK
+ PTP :  xung  đột  tên  tập  tin  EK
+ PTP :  tên  tập  tin  EK  không  hợp  lệ
+ Lỗi  đặt  lại  cân  bằng  trắng
+ Bóng  đèn  tốc  độ  chập
+ PTP :  lỗi  V / R
+ PTP  Thôi  yêu  cầu
+ PTP :  lỗi :  tham  số  sai
+ PTP :  lỗi  giao  thức :  mong  đợi  dữ  liệu
+ PTP :  lỗi  giao  thức :  mong  đợi  đáp  ứng
+ Thời  hạn  PTP
+ Tiếc  là  máy  ảnh  của  bạn  không  hỗ  trợ  khả  năng  chụp  chung
+ chỉ  đọc
+ đọc  ghi
+ Phiên  bản :  % s
+ Số  sản  xuất :  % s
+ Mô  tả  phần  mở  rộng  nhà  sản  xuất :  % s
+ Phiên  bản  tiêu  chuẩn  PTP :  % d . % d
+ Khả  năng  thiết  bị :
+ \ tTải  về  tập  tin , 
+ Xoá  tập  tin , 
+ Không  xoá  tập  tin , 
+ Tải  lên  tập  tin
+ Không  tải  lên  tập  tin
+ \ tHỗ  trợ  WIFI  Nikon
+ \ tHỗ  trợ  WIFI  Canon
+ Tóm  tắt  các  thiết  bị  chứa :
+ \ tMô  tả  bộ  nhớ :  % s
+ \ tNhãn  khối  tin :  % s
+ ROM  có  sẵn
+ ROM  rời
+ RAM  có  sẵn
+ RAM  rời  ( bo  mạch  nhớ )
+ Không  rõ :  0x % 04x
+ \ tKiểu  Bộ  nhớ :  % s
+ \ tKhả  năng  truy  cập :  % s
+ \ tKhả  năng  tối  đa :  % llu  ( % lu  MB )
+ \ tChỗ  rảnh  ( byte ) :  % llu  ( % lu  MB )
+ \ tChỗ  rảnh  ( ảnh ) :  % d
+ Tóm  tắt  thuộc  tính  thiết  bị :
+ Tập  tin  “ % s / % s ”  không  tồn  tại
+ Đang  sở  khởi  máy  ảnh
+ PTP :  lỗi  không  xác  định
+ PTP :  OK .
+ PTP :  lỗi  chung
+ PTP :  phiên  chạy  chưa  mở
+ PTP :  định  dạng  cái  đỡ  thiết  bị  không  hợp  lệ
+ PTP :  giá  trị  cái  đỡ  thiết  bị  không  hợp  lệ
+ PTP :  không  hỗ  trợ  khả  năng  xác  định  đích
+ PTP :  chưa  xác  định  thuộc  tính
+ Chế  độ  chức  năng
+ Cài  đặt  nén
+ Khuếch  đại  RGB
+ Thời  gian  phơi  bày
+ Chế  độ  chương  trình  phơi  sáng
+ Số  mũ  phơi  sáng  ( tốc  độ  phim  ISO )
+ Sự  bù  khuynh  hướng  phơi  sáng
+ Độ  trễ  trước  khi  chụp
+ Tương  phản
+ Phóng  to  số
+ Số  khoảng  thời  gian
+ Khoảng  thời  gian
+ URL  tải  lên
+ Thông  tin  tác  quyền
+ Định  dạng  ghi  Ngày / Giờ
+ Ảnh  động  ra
+ Tiết  kiệm  điện
+ Ngôn  ngữ  Ui
+ Kiểu  pin
+ Chế  độ  pin
+ Chế  độ  máy  ảnh
+ Tự  kẹn  giờ
+ Chế  độ  ảnh
+ Chế  độ  AF
+ Khuếch  đại  màu
+ Độ  nhạy
+ Tiêu  cự  kính  viễn  vọng
+ Tiêu  cự  rộng
+ Tiền  tố  tên
+ Chế  độ  chất  lượng  kích  cỡ
+ Kích  cỡ  ảnh  mẫu  đã  hỗ  trợ
+ Phiên  bản  API  ở  xa
+ Người  sở  hữu  máy  ảnh
+ Giờ  UNIX
+ Mã  hiệu  thân  máy  ảnh
+ Chế  độ  mô  phỏng  dữ  kiện
+ Mã  hiệu  mô  hình
+ Đặt  lại  nhóm  0
+ Nén  thô
+ Bật  tác  quyền
+ Bước  ISO  phơi  sáng
+ Bước  phơi  sáng
+ Bù  phơi  sáng  ( EV )
+ Tốc  độ  Chụp
+ Chế  độ  tự  định  vị  giữa  ngoặc
+ Phát  lại  thông  tin  ảnh
+ Gán  nút  chức  năng
+ Tùy  chỉnh  đĩa  lệnh
+ Trình  đơn  và  Phát  lại
+ Nút  và  Hộp  thoại
+ Mã  số  ống  kính
+ Sắp  xếp  Ống  kính
+ Kiểu  ống  kính
+ Thời  gian  phơi  sáng  Nikon
+ Chế  độ  bit  thô
+ Chế  độ  tự  động  lấy  nét
+ Tốc  độ  Cao  Liên  tục
+ Chế  độ  chạy  xem  tại  chỗ
+ Mức  âm  lượng
+ Biểu  tượng  thiết  bị
+ Vị  trí  phát  lại
+ % .0f  mm
+ Nóng  sáng
+ Hẹn  giờ  +  Từ  xa
+ Khoá  đèn  nháy
+ Cảnh  báo  cấp  1
+ Cảnh  báo  cấp  0
+ Ít  mực
+ Rất  cao
+ Chụp  liên  tiếp
+ Chụp  thấp  tốc  liên  tục
+ 2 ×
+ 4 ×
+ Đo  nặng  giữa
+ Đo  đánh  giá
+ Đo  bộ  phạn
+ Đo  trung  bình  nặng  giữa
+ Bo  mạch  ảnh / nhạc
+ Nhóm  bo  mạch  ảnh / nhạc
+ M4A
+ Firmware
+ Định  dạng  ảnh  Windows
+ Tài  liệu  chưa  xác  định
+ Tài  liệu  XML
+ Tài  liệu  Word  của  Microsoft ™
+ vCard2
+ vCard3
+ vCalendar1
+ vCalendar2
+ Không  rõ  ( % 04x )
+ lấy  thông  tin  về  thiết  bị
+ Mở  phiên  chạy
+ Đóng  phiên  chạy
+ Lấy  các  mã  hiệu  cất  giữ
+ Lấy  thông  tin  cất  giữ
+ Lấy  số  đối  tượng
+ Lấy  thông  tin  về  đối  tượng
+ Lấy  đối  tượng
+ Lấy  ảnh  mẫu
+ Xoá  đối  tượng
+ Định  dạng  kho
+ Đặt  lại  thiết  bị
+ Đang  tải  về  phim ...
+ Đang  tải  về  âm  thanh ...
+ Đang  tải  về  dữ  liệu  EXIF ...
+ Không  có  dữ  liệu  EXIF  sẵn  sàng  cho  % s .
+ Không  thể  xoá  tập  tin .
+ Không  thể  gỡ  bỏ  thư  mục .
+ Không  thể  tạo  thư  mục .
+ Trạng  thái  RTC :  % d
+ Giờ  máy  ảnh :  % s  % s
+ Mã  hiệu  máy  ảnh :  % s
+ Không  có  bo  mạch  SD  đã  nạp .
+ Mã  hiệu  bo  mạch  SD :  % s
+ Bộ  nhớ  SD :  % d  MB  tổng ,  % d  MB  rảnh .
+ Bộ  nhớ  nội  bộ :  % d  MB  tổng ,  % d  MB  rảnh .
+ Ricoh  Caplio  G3 .  Marcus  Meissner   <  marcus \ @ jet \ .franken \ .de  >  Thiết  kế  đối  chiếu  dùng  USB  Snoopy ,  xem  lại  ảnh  cập  nhật  Firmware  và  đoán  phóng  túng .
+ Ricoh  /  Philips  driver  by  Lutz  Mueller   <  lutz \ @ users \ .sourceforge \ .net  >  ,  Martin  Fischer   <  martin \ .fischer \ @ inka \ .de  >  ,  dựa  vào  trình  điều  khiển  của  Bob  Paauwe .
+ không  rõ  ( 0x % 02x )
+ Mô  hình :  % s  Bộ  nhớ :  % d  byte  trên  % d  có  thể  sử  dụng
+ -2,0
+ -1,5
+ -1,0
+ -0,5
+ 0.0
+ 0,5
+ 1.0
+ 1.5
+ 2.0
+ 1280  ×  960
+ Ở  ngoài
+ Tối  đa
+ Tối  thiểu
+ Ký  tự
+ Âm  thanh
+ Ảnh  và  Âm  thanh
+ Ký  tự  và  Âm  thanh
+ 3 ×
+ 5 ×
+ 6 ×
+ 7 ×
+ 8 ×
+ 9 ×
+ Cấu  hình
+ Chung
+ Tác  quyền  ( tối  đa  20  ký  tự )
+ Lớp  trắng :
+ Nén
+ Không  hỗ  trợ  tốc  độ  % i .
+ Mong  đợi  % i ,  còn  nhận  % i .  Hãy  thông  báo  lỗi  này  cho  % s .
+ Mong  đợi  % i  byte ,  còn  nhận  % i .  Hãy  thông  báo  lỗi  này  cho  % s .
+ Mong  đợi  0x % x ,  còn  nhận  0x % x .  Hãy  liên  lạc  với  % s .
+ Ký  tự  sai  ( 0x % x ,  0x % x ) .  Hãy  liên  lạc  với  % s .
+ Máy  ảnh  đang  bận .  Cứ  gặp  khó  khăn  này  thì  liên  lạc  với  % s .
+ Quá  thời  ngay  cả  sau  hai  lần  thử  lại .  Hãy  liên  lạc  với  % s .
+ Lỗi  giao  thông  ngay  cả  sau  hai  lần  thử  lại .  Hãy  liên  lạc  với  % s .
+ Máy  ảnh  trong  chế  độ  không  đúng .  Hãy  liên  lạc  với  % s .
+ Máy  ảnh  đã  không  chấp  nhận  các  tham  số .  Hãy  liên  lạc  với  % s .
+ Gặp  lỗi  không  rõ .  Hãy  liên  lạc  với  % s .
+ Độ  dài  của  tên  tập  tin  không  thể  vượt  quá  12  ký  tự  ( ” % s ”  có  % i  ký  tự ) .
+ Trình  điều  khiển  Samsung  digimax  800k  được  tạo  bởi  James  McKenzie   <  james \ @ fishsoup \ .dhs \ .org  >   cho  phần  mềm  gphoto .  Lutz  Mueller   <  lutz \ @ users \ .sourceforge \ .net  >   đã  chuyển  nó  sang  gphoto2 .  Marcus  Meissner   <  marcus \ @ jet \ .franken \ .de  >   đã  sửa  chữa  và  tăng  cường  bản  chuyển .
+ Độ  phân  giải  cộng  với  kích  cỡ
+ Ngày  và  giờ  ( GMT )
+ Chế  độ  màu
+ Tiết  kiệm  điện  máy  chủ  ( giây )
+ Tiết  kiệm  điện  máy  ảnh  ( giây )
+ Chế  độ  ống  kính
+ Hàn
+ Anh
+ Pháp
+ Đức
+ Ý
+ Nhật
+ Tây  Ban  Nha
+ Bồ  Đào  Nha
+ Ghi  chú  về  máy  ảnh  Epson :     một  số  tham  số  không  thể  được  điều  khiển  từ  xa :       ‣  thu  phóng       ‣  lấy  nét       ‣  Cài  đặt  cân  bằng  trắng  riêng     Cấu  hình  đã  được  thiết  kế  đối  chiếu  bằng  máy  PhotoPC  3000z .  Nếu  máy  ảnh  của  bạn  hoạt  động  khác ,  xin  hãy  gửi  thư  ( tiếng  Anh )  cho  hộp  thư  chung  nhà  phát  triển  gphoto .  ( Ghi  chú :  bạn  gặp  khó  khăn  trong  việc  đọc  hay  viết  tiếng  Anh  thì  gửi  thư  cho  hộp  thư  chung  nhóm  dịch  tại  TranslationProject  ( translation-team-vi @ lists.sourceforge.net )  và  chúng  tôi  sẽ  dịch  cho  bạn )
+ Không  có  bo  mạch  nhớ
+ Không  thể  lấy  khả  năng  pin
+ Máy  ảnh  có  pin  quá  yếu  ( % d % % )  nên  thao  tác  bị  hủy  bỏ .
+ Không  thể  lấy  bộ  nhớ  còn  rảnh
+ Máy  ảnh  đã  từ  chối  ba  lần  bảo  tồn  sự  kết  nối  mở .
+ Byte  đầu  tiên  được  nhận  ( 0x % x )  không  phải  hợp  lệ .
+ Việc  truyền  gói  tin  đã  quá  thời ,  ngay  cả  sau  % i  lần  thử  lại .  Hãy  liên  lạc  với  % s .
+ Không  thể  gửi  gói  tin ,  ngay  cả  sau  vài  lần  thử  lại .
+ Không  thể  gửi  gói  tin  ( mã  lỗi  % i ) .  Hãy  liên  lạc  với  % s .
+ Tiến  trình  gửi  đã  quá  thời ,  ngay  cả  sau  hai  lần  thử  lại ,  nên  chịu  thua ...
+ Nhận  được  kết  quả  bất  thường  0x % x .  Hãy  liên  lạc  với  % s .
+ Nhận  được  trả  lời  bất  thường  ( % i ) .  Hãy  liên  lạc  với  % s .
+ Không  thể  lấy  thanh  ghi  % i .  Hãy  liên  lạc  với  % s .
+ Quá  nhiều  lần  thử  lại  đã  không  thành  công .
+ Đang  gửi  dữ  liệu ...
+ hàm  gọi  đệ  qui  không  phải  được  trình  điều  khiển  sierra  hỗ  trợ .  Hãy  liên  lạc  với  % s .
+ Không  thể  lấy  thanh  ghi  chuỗi  % i .  Hãy  liên  lạc  với  % s .
+ Mong  đợi  32  byte ,  còn  nhận  % i .  Hãy  liên  lạc  với  % s .
+ Tốc  độ  của  chập  theo  micrô-giây  ( 0  tự  động )
+ Tốc  độ  chập  ( theo  giây )
+ Đen / trắng
+ Chống  mắt  đỏ
+ Tương  phản +
+ Tương  phản-
+ Độ  sáng +
+ Độ  sáng-
+ Điều  chỉnh  ảnh
+ Chớp
+ Chế  độ  LED
+ Vô  hạn
+ Xem  thử  ảnh  mẫu
+ Kế  tiếp
+ Kế  trước
+ Chế  độ  thao  tác
+ Độ  sáng  LCD
+ Tự  động  tắt  LCD  ( giây )
+ Ma  trận
+ Chấm  AF
+ Đo  phơi  sáng
+ Thu  phóng  ( theo  mili-mét )
+ không  có
+ Mắt  cá
+ Rộng
+ Khoá  tự  động  phơi  sáng
+ Máy  ảnh  Nikon  Coolpix  880 :      Cấu  hình  máy  ảnh :          Khả  năng  thu  phóng  quang  \ tkhông  chức  năng  đúng .          Không  phải  tất  cả  các  Cài  đặt  \ tcáu  hình  có  thể  được  đọc  hay  viết  \ tcho  đúng ,  thí  dụ  các  Cài  đặt  ngôn  ngữ ,  \ tvà  Cài  đặt  điều  chỉnh  chính  xác  cân  bằng  trắng .        \ tHãy  đặt  máy  ảnh  trong  chế  độ  “ M ”  \ tđể  đặt  tốc  độ  của  chập .
+ Máy  ảnh  Nikon  Coolpix  995 :  \ tCấu  hình  máy  ảnh  cho  máy  ảnh  này  \ tchưa  hoàn  tất ,  hãy  liên  lạc  với  \ thộp  thư  chung  nhà  phát  triển  gphoto  \ t ( tiếng  Anh )  nếu  bạn  muốn  đóng  góp  \ tcùng  trình  điều  khiển  này .      \ tTiến  trình  tải  xuống  nên  chạy  được .
+ Bảng  trắng
+ Bảng  đen
+ Màn  hình
+ Chế  độ  LDC
+ ESP
+ Thu / phóng  số
+ Vị  trí  lấy  nét
+ Định  dạng  thời  gian
+ Trình  điều  khiển  sierra  mặc  định :      Đây  là  trình  điều  khiển  sierra  mặc  định :      nó  nên  có  khả  năng  hỗ  trợ  tiến  trình  tải  xuống      và  duyệt  các  ảnh  trên  máy  ảnh  của  bạn .      Cấu  hình  của  máy  ảnh  dựa  vào  máy  ảnh      Olympus  3040 ,  và  rất  có  thể  không  hoàn  tất .      Nếu  bạn  thẩm  tra  cấu  hình  này  không  hoàn  tất      cho  máy  ảnh  riêng  của  bạn ,  hoặc  có  thể  đóng  góp      mã  nguồn  để  hỗ  trợ  cấu  hình  hoàn  tất ,  hãy  liên  lạc      với  hộp  thư  chung  nhà  phát  triển  ( tiếng  Anh ) .
+ Tập  tin  cần  tải  lên  có  độ  dài  vô  giá  trị
+ Không  đủ  chỗ  trên  bo  mạch  nhớ
+ Không  thể  lấy  tên  của  thư  mục  chứa  các  ảnh
+ Chỉ  hỗ  trợ  khả  năng  tải  lên  thư  mục  “ % s ”
+ Tốt  nhất
+ % i  ( không  rõ )
+ Tốc  độ  chập  ( micrô-giây ,  0  là  tự  động )
+ Độ  tương  phản / sáng
+ Sáng +
+ Sáng-
+ Cửa  sổ  ở  mái  nhà
+ Vô  hạn / Mắt  cá
+ Chế  độ  đo  chấm
+ 1x
+ 1,6 ×
+ 2,5 ×
+ Tự  động  tắt  ( máy  chủ )  theo  giây
+ Bao  lâu  đến  khi  máy  ảnh  tự  tắt  khi  được  kết  nối  đến  máy  tính ?
+ Tự  động  tắt  ( trường )  theo  giây
+ Bao  lâu  đến  khi  máy  ảnh  tự  tắt  khi  không  được  kết  nối  đến  máy  tính ?
+ Tự  động  tắt  LCD  ( theo  giây )
+ F2
+ F2,3
+ F2,8
+ F4
+ F5,6
+ F8
+ HyPict
+ màu
+ đen  trắng
+ Ghi  chú :  không  có  bo  mạch  nhớ ,  một  số  giá  trị  có  thể  không  hợp  lệ
+ Mô  hình  máy  ảnh :  % s
+ Bản  sửa  đổi  phần  mềm :  % s
+ Khung  đã  chụp :  % i
+ Khung  còn  lại :  % i
+ Thời  gian  pin :  % i
+ Bộ  nhớ  còn  lại :  % i  byte
+ Ngày :  % s
+ Không  có  sẵn  sổ  tay  máy  ảnh .
+ Ghi  chú  về  máy  ảnh  Epson :     một  số  tham  số  không  thể  được  điều  khiển  từ  xa :       ‣  thu  phóng       ‣  lấy  nét       ‣  Cài  đặt  cân  bằng  trắng  riêng     Cấu  hình  đã  được  thiết  kế  đối  chiếu  bằng  máy  PhotoPC  3000z .  Nếu  máy  ảnh  của  bạn  hoạt  động  khác ,  xin  hãy  gửi  thư  cho  % s  ( bằng  tiếng  Anh ) .  ( Ghi  chú :  bạn  gặp  khó  khăn  trong  việc  đọc  hay  viết  tiếng  Anh  thì  gửi  thư  cho  hộp  thư  chung  của  nhóm  dịch  tại  TP  ( translation-team-vi @ lists.sourceforge.net )  và  chúng  tôi  sẽ  dịch  cho  bạn )
+ % lld  ( không  rõ )
+ Trình  điều  khiển  Sipix  StyleCam  Blink  Vincent  Sanders   <  vince \ @ kyllikki \ .org  >  Marcus  Meissner   <  marcus \ @ jet \ .franken \ .de  >  .
+ Không  thể  áp  dụng  Cài  đặt  USB
+ SiPix  Web2  Marcus  Meissner   <  marcus \ @ jet \ .franken \ .de  >  Trình  điều  khiển  để  truy  cập  máy  ảnh  SiPix  Web2 .
+ Smal  Ultrapocket  Lee  Benfield   <  lee \ @ benf \ .org  >  Trình  điều  khiển  để  truy  cập  máy  ảnh  Smal  Ultrapocket ,  và  các  phiên  bản  OEM  ( slimshot ) .
+ Thư  viện  máy  ảnh  Sonix  Theodore  Kilgore   <  kilgota \ @ auburn \ .edu  >
+ Hỗ  trợ  máy  ảnh  điện  số  Sony  DSC-F1  M.  Adam  Kendall   <  joker \ @ penguinpub \ .com  >  Dựa  vào  diao  diện  dòng  lệnh  chotplay  của  Ken-ichi  Hayashi  Chuyển  sang  Gphoto2  bởi  Bart  van  Leeuwen   <  bart \ @ netage \ .nl  >
+ Thư  viện  gPhoto  Sony  DSC-F55 / 505  Hỗ  trợ  máy  Sony  MSAC-SR1  và  Thanh  Nhớ  dùng  bởi  máy  DCR-PC100  Tạo  gốc  bởi  Mark  Davies   <  mdavies \ @ dial \ .pipex \ .com  >  Chuyển  sang  Gphoto2  bởi  Raymond  Penners   <  raymond \ @ dotsphinx \ .com  >
+ Bản  sửa  đổi  Firmware :  % 8s  Ảnh :      % i  Tổng  bộ  nhớ :  % ikB  Bộ  nhớ  còn  rảnh :   % ikB
+ Bản  sửa  đổi  Firmware :  % 8s
+ Trình  điều  khiển  Soundvision  Vince  Weaver   <  vince \ @ deater \ .net  >
+ CỰC  NHANH :   Tập  tin :  % d
+ SDRAM :   Tập  tin :  % d    Ảnh :  % 4d    Phim :  % 4d  Chỗ  dùng :  % 8d  Chỗ  rảnh :  % 8d
+ Thư  viện  spca50x  phiên  bản
+ Máy  ảnh  USB  của  bạn  có  bộ  chíp  điều  khiển  của  SQ .  Tổng  số  ảnh  mà  nó  chứa  là  % i  Một  số  ảnh  có  thể  là  trích  đoạn  chứa  vài  khung .
+ Đối  với  các  máy  ảnh  chứa  phiến  tinh  thể  SQ  Technologies .  Nên  hoạt  động  được  với  gtkam .  Các  ảnh  chụp  được  lưu  theo  định  dạng  PPM .  Mọi  máy  ảnh  SQ  đã  biết  có  hai  giá  trị  độ  phân  giải .  Giá  trị  phụ  thuộc  vào  mô  hình  máy  ảnh .  Một  số  máy  ảnh  kiểu  này  cũng  hỗ  trợ  khả  năng  xoá  mọi  ảnh  trên  máy  ảnh .  Phần  lớn  không  phải .  Không  hỗ  trợ  khả  năng  tải  dữ  liệu  lên  máy  ảnh .  Chế  độ  nén  ảnh  chụp  của  nhiều  máy  ảnh  SQ  được  hỗ  trợ  đến  một  chừng  mực  nào  đó .  Trích  đoạn  ảnh  động  trên  máy  ảnh  được  thấy  dạng  thư  mục  con .  Gtkam  sẽ  tải  xuống  mỗi  thư  mục  một  lần .  Một  hình  giác  nhỏ  được  hiển  thị  trước  tên  của  máy  ảnh  thì  ngụ  ý  trích  đoạn  ảnh  động  trên  máy  đó .  Không  thấy  thư  mục  thì  nhấn  vào  hình  giác  để  làm  cho  thư  mục  xuất  hiện .  Nhấn  vào  thư  mục  riêng  để  vào  nó  và  thấy  các  tập  tin  trong  nó ,  hoặc  để  tải  xuống  các  tập  tin .  Mỗi  khung  sẽ  được  tải  xuống  dạng  ảnh  chụp  riêng ,  có  tên  đặc  biệt  ghi  rõ  trích  đoạn  gốc .  Vì  vậy  bạn  cũng  có  thể  lưu  trích  đoạn  trong  các  thư  mục  khác  nhau .
+ Trình  điều  khiển  chung  sq905  Theodore  Kilgore   <  kilgota \ @ auburn \ .edu  >
+ STV0674  Vincent  Sanders   <  vince \ @ kyllikki \ .org  >  Trình  điều  khiển  cho  các  máy  ảnh  dùng  bộ  xử  lý  STV0674  ASIC .  Giao  thức  được  thiết  kế  đối  chiếu  dùng  SnoopyPro
+ Phơi  sáng  sai  ( rất  có  thể  không  đủ  ánh  sáng )
+ Thông  tin  về  máy  ảnh  dựa  vào  STV0680 :
+ Bản  sửa  đổi  Firmware :  % d . % d
+ Bản  sửa  đổi  ASIC :  % d . % d
+ Mã  hiệu  máy  nhạy :  % d . % d
+ Bộ  nhớ  máy  ảnh :  % d  Mbit .
+ Máy  ảnh  hỗ  trợ  ảnh  mẫu .
+ Máy  ảnh  hỗ  trợ  ảnh  động .
+ Máy  ảnh  có  ảnh  đơn  sắc .
+ Máy  ảnh  có  bộ  nhớ .
+ Máy  ảnh  hỗ  trợ  định  dạng  ảnh  động : 
+ Mã  hiệu  nhà  sản  xuất :  % 02x % 02x
+ Mã  hiệu  sản  phẩm :  % 02x % 02x
+ Số  ảnh  tối  đa :  % d
+ Độ  rộng  ảnh :  % d
+ Độ  cao  ảnh :  % d
+ Kích  cỡ  ảnh :  % d
+ Độ  rộng  ảnh  thu  nhỏ :  % d
+ Độ  cao  ảnh  thu  nhỏ :  % d
+ Kích  cỡ  ảnh  thu  nhỏ :  % d
+ STV0680  Adam  Harrison   <  adam \ @ antispin \ .org  >  Trình  điều  khiển  cho  các  máy  ảnh  dùng  bộ  xử  lý  STV0680  ASIC .  Giao  thức  được  thiết  kế  đối  chiếu  dùng  CommLite  Beta  5  Carsten  Weinholz   <  c \ .weinholz \ @ netcologne \ .de  >  Được  mở  rộng  cho  máy  Aiptek  PenCam  và  các  máy  ảnh  STM  USB  chế  độ  đôi  khác .
+ Đang  lấy  thông  tin  về  % i  tập  tin ...
+ Thư  viện  ( Traveler )  SX330z  ( và  các  máy  ảnh  kiểu  Aldi  khác ) .  Cũng  nên  hoạt  động  được  với  máy  ảnh  khác  như  Jenoptik ,  Skanhex  và  Maginon .  Mời  bạn  gửi  báo  cáo  lỗi  và  ghi  chú .  Dominik  Kuhlen   <  kinimod \ @ users \ .sourceforge \ .net  >
+ sx330z  chỉ  dùng  USB
+ Cài  đặt  trình  điều  khiển
+ Chế  độ  tính  nhanh

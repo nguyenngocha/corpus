@@ -1,0 +1,54 @@
+ Bạn  cần  phải  xác  thực  để  truy  cập  đến  Mạng  Riêng  Ảo  ( VPN )  «  % s  » .
+ Xác  thực  VPN
+ Mật  _ khẩu  :
+ Mật  khẩu  _ nhóm :
+ Dùng  miền  để  xác  thực
+ Bộ  Quản  Lý  Kết  Nối  VPN  ( vpnc )
+ Thêm ,  Bỏ  và  Sửa  kết  nối  VPN
+ Đòi  hỏi
+ Cổn _ g  ra :
+ Tên  nhó _ m :
+ Tùy  chọn
+ _ Tên  người  dùng :
+ _ Miền :
+ Mật  khẩu  _ phụ  :
+ Kết  nối  nặc  d _ anh
+ Kết  nối  _ với  tư  cách  người  dùng :
+ Nhớ  các  mật  khẩu  cho  _ buổi  hợp  này
+ _ Lưu  các  mật  khẩu  vào  vòng  khoá
+ Ứng  dụng  khách  VPN  Cisco  tương  thích  ( vpnc )
+ Kết  nối  VPN  vpnc  theo  đây  sẽ  được  tạo  :
+ Tên :  % s
+ Cổng  ra :  % s
+ Tên  nhóm :  % s
+ Tên  người  dùng :  % s
+ Miền :  % s
+ Tuyến :  % s
+ Khoảng  đợi  gói  tin  cứ  hoạt  động  NAT :  % s
+ Bật  DES  Đơn
+ Tắt  đi  ngang  qua  NAT
+ Chi  tiết  kết  nối  có  thể  được  sửa  đổi  bằng  nút  «  Sửa  » .
+ Không  hỗ  trợ  đường  hầm  TCP
+ Tập  tin  thiết  lập  VPN  «  % s  »  xác  định  rằng  giao  thông  VPN  nên  theo  đường  hầm  qua  TCP ,  mà  hiện  thời  không  được  hỗ  trợ  bởi  phần  mềm  vpnc .  Vẫn  còn  có  khả  năng  tạo  kết  nối ,  với  chức  năng  chạy  đường  hầm  bị  tắt ,  nhưng  mà  nó  có  thể  không  hoạt  động  như  mong  đợi .
+ Chưa  nhập  thiết  lập  hoàn  toàn
+ Tập  tin  thiết  lập  VPN  «  % s  »  chưa  hoàn  thành .  Do  đó  bạn  có  thể  không  kết  nối  được  mà  không  cung  cấp  thêm  thông  tin .
+ Không  thể  nhập  thiết  lập
+ Tập  tin  thiết  lập  VPN  «  % s  »  không  đọc  được  hay  không  hợp  lệ .
+ Chọn  tập  tin  cần  nhập  vào
+ Lưu  dạng ...
+ Một  tập  tin  tên  «  % s  »  đã  có .
+ Bạn  có  muốn  thay  thế  nó  bằng  tập  tin  đang  lưu  không ?
+ Lỗi  xuất  cấu  hình
+ Lỗi  lưu  tập  tin  % s
+   v.d.  :   172.16.0.0  /  16   10.11.12.0  /  24 
+ Tên  _ kết  nối :
+ _ Tắt  đi  ngang  qua  NAT
+ Bật  mật  mã  DES  đơn  _ yếu
+ Nhập  cấu  hình  đã  _ lưu ...
+ Khoảng :
+ Tên  dùng  để  nhận  diện  kết  nối  cho  mạng  riêng ,  v.d.  «  VPN  đại  học  »  hay  «  Mạng  công  ty  » .
+ _ Ghi  đè  lên  tên  người  dùng
+ Hãy  gõ  dưới  đây  thông  tin  được  cung  cấp  bởi  nhà  quản  trị  hệ  thống .  Đừng  gõ  mật  khẩu  vào  đây :  bạn  sẽ  được  nhắc  gõ  nó  trong  khi  kết  nối .
+ Ghi  chú  :  tập  tin  nhập  vào  không  phải  là  tập  tin  cấu  hình  kiểu  VPN  Cisco  hay  VPNC .  Hãy  xin  nhà  quản  trị  hệ  thống  cung  cấp  tập  tin  đó .
+ Dùng  gói  cứ  h _ oạt  động  NAT
+ Chỉ  dùng  kết  nối  VPN  ch _ o  những  địa  chỉ  này

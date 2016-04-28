@@ -1,0 +1,11 @@
+ エラーなし
+ 非標準的入力
+ 不明瞭な出力
+ 翻訳できない入力
+ 不正な入力
+ コード変換の内部エラー
+ Written  by  Franc , ois  Pinard   <  pinard \ @ iro \ .umontreal \ .ca  >  .
+ Copyright  ( C )  1990 ,  92 ,  93 ,  94 ,  96 ,  97 ,  99  Free  Software  Foundation ,  Inc .
+ 文字セット `%s ' は不明もしくは不明瞭です。
+ 要求された `%s ' は誤りです。
+ 仮想メモリが無くなりました

@@ -1,0 +1,25 @@
+ Kích  hoạt  Khả  năng  tiếp  cậnyour
+ Chúng  tôi  mong  muốn  rằng  máy  tính  có  thể  phục  vụ  cho  tất  cả  mọi  người  cho  dù  thể  trạng  của  người  đó  là  như  thế  nào  đi  nữa .  Vì  lẽ  đó ,  chúng  tôi  mang  đến  những  công  cụ  để  làm  cho  Edubuntu  trở  thành  một  trong  những  hệ  điều  hành  dễ  tiếp  cận  nhất.Assistive  Technologies  PreferencesSystem  menu
+ Các  công  cụ  này  được  tập  trung  tại  một  nơi :    Tùy   chỉnh   các   Kỹ   thuật   Phụ   tá  ,  trong  trình  đơn  Hệ  thống .  Tại  đấy ,  bạn  có  thể  bật  những  công  cụ  hữu  ích  như    Orca  ,  để  đọc  văn  bản  trên  màn  hình ,  hoặc  dừng  lâu  để  tự  động  nhấn  nút  chuột.Appearance  Preferences
+ Đừng  quên  xem  qua  mục    Tùy   chỉnh   Thể   hiện   nhé .  Ở  đó  bạn  có  thể  chọn  các  phong  cách  thể  hiện  khác  nhau  và  thậm  chí  thay  đổi  phông  chữ  của  các  ứng  dụng .
+ Chạy  phần  mềm  theo  cách  an  toàn
+   Arkose   giúp  bạn  chạy  một  ứng  dụng  trong  một  môi  trường  được  cách  ly .
+ Giờ  đây  bạn  có  thể  dễ  dàng  thử  nghiệm  trong  một  môi  trường  được  bảo  vệ  trước  khi  triển  khai  các  phần  mềm  được  tải  xuống  từ  mạng .
+   Arkose   dựa  trên  dự  án  LXC  thông  dụng ,  tận  dụng  các  khả  năng  cách  ly  tiên  tiến  của  Linux .
+ Tính  toán  mọi  thứ
+ Edubuntu  đi  cùng  phiên  bản  mới  nhất  của  phần  mềm  tính  toán    Gnome   Calculator   mạnh  mẽ .
+ Nó  hỗ  trợ  các  thao  tác  kế  toán  cùng  với  việc  chuyển  đổi  tiền  tệ  và  đơn  vị  mới  nhất .
+ Sử  dụng  các  chức  năng  lập  trình  cho  tính  toán  luận  lý  và  chế  độ  nâng  cao  cho  các  tính  toán  khoa  học .
+ Quản  lý  thư  viện  e-book  của  bạn
+   Calibre   là  một  giải  pháp  thư  viện  điện  tử  để  phân  loại  sách  điện  tử .
+ Nó  hỗ  trợ  rất  nhiều  định  dạng ,  bao  gồm  MOBI ,  LIT ,  PRC ,  EPUB ,  ODT ,  HTML ,  CBR ,  RTF ,  PDF  và  hơn  thế  nữa .
+ Hỗ  trợ  nhiều  nền  tảng  phần  cứng  khác  nhau ,  bao  gồm  cả  nền  tảng  ebook   thương  mại  có  sẵn  phổ  biến  nhất .
+ Tự  động  đồng  bộ  tin  mới  và  nguồn  tin  vào  thiết  bị  ưa  thích  của  bạn .
+ Phần  mềm  desktop  tuyệt  hảo
+   LibreOffice   là  một  bộ  phần  mềm  văn  phòng  mạnh  và  dễ  hiểu .
+   Firefox   mang  lại  một  trải  nghiệm  duyệt  web  dễ  dàng  và  an  toàn  với  rất  nhiều  phần  mở  rộng  hữu  ích  sẵn  có .
+   Inkscape   là  một  phần  mềm  vẽ  véc-tơ  có  khả  năng  xuất  ra  nhiều  định  dạng  ảnh  phổ  biến .
+   Gimp   là  một  trình  biên  tập  hình  ảnh  mạnh  mẽ  có  thể  chạy  các  đoạn  mã .
+ Hãy  tham  giaHelp  and  Support
+ Nếu  cần  sự  trợ  giúp ,  hãy  thử  xem  mục    Trợ   giúp   và   Hỗ   trợ   trong  trình  đơn  Hệ  thống  hoặc  mục    Trợ   giúp   có  trong  hầu  hết  các  ứng  dụng.edubuntu.org / support
+ Ngoài  phần  trợ  giúp  phong  phú  đã  đươc  viết  sẵn ,  cộng  đồng  Edubuntu  còn  có  thể  hỗ  trợ  kỹ  thuật  miễn  phí  qua  Internet .  Ngoài  ra ,  bạn  có  thể  trả  phí  để  được  hỗ  trợ  từ  công  ty  Canonical ,  các  đối  tác  của  nó  và  những  công  ty  khác  đã  được  phê  chuẩn .  Xem  thêm  tại  trang  

@@ -1,0 +1,59 @@
+ Bàn  giao  tiếp  tương  tác  để  phát  triển  Script-Fu
+ _ Bàn  giao  tiếp
+ Máy  phục  vụ  để  thao  tác  Script-Fu  từ  xa
+ _ Khởi  chạy  trình  phục  vụ
+ _ GIMP  trực  tuyến
+ _ Sổ  tay  người  dùng
+ _ Script-Fu
+ _ Thử  ra
+ _ Nút
+ _ Biểu  hình
+ _ Mẫu
+ Sắc  thái  trang  _ Mạng
+ Sáng  _ rực  rỡ  lạ
+ Mẫu  _ góc  xiên
+ Gimp.Org  _ cổ  điển
+ Anfa  đến  _ Biểu  hình
+ Đọc  lại  mọi  tập  lệnh  Script-Fu  sẵn  sàng
+ _ Cập  nhật  tập  lệnh
+ Không  cho  phép  bạn  sử  dụng  lệnh  «  Cập  nhật  tập  lệnh  »  khi  có  một  hộp  thoại  Script-Fu  được  mở .  Háy  đóng  mọi  cửa  sổ  Script-Fu ,  rồi  thử  lại .
+ Bàn  giao  tiếp  Script-Fu
+ Chúc  mừng  dùng  TinyScheme
+ Lập  trình  Scheme  tương  tác
+ _ Duyệt ...
+ Lưu  bàn  giao  tiếp  Script-Fu
+ Không  thể  mở  «  % s  »  để  ghi :  % s
+ Bộ  duyệt  thủ  tục  Script-Fu
+ Chế  độ  định  giá  Script-Fu  cho  phép  chỉ  việc  gọi  không  tương  tác
+ Script-Fu  không  thể  xử  lý  hai  tập  lệnh  cùng  lúc .
+ Bạn  đang  chạy  tập  lệnh  «  % s  » .
+ Script-Fu :  % s
+ % s :
+ Chọn  màu  của  Script-Fu
+ Chọn  tập  tin  của  Script-Fu
+ Chọn  thư  mục  của  Script-Fu
+ Chọn  phông  chữ  của  Script-Fu
+ Chọn  bảng  chọn  của  Script-Fu
+ Chọn  mẫu  của  Script-Fu
+ Chọn  độ  dốc  của  Script-Fu
+ Chọn  bút  vẽ  của  Script-Fu
+ Gặp  lỗi  khi  thực  thi  % s :
+ Gặp  lỗi  khi  nạp  % s :
+ Tùy  chọn  trình  phục  vụ  Script-Fu
+ Cổng  trình  phục  vụ  :
+ Tập  tin  bản  ghi  của  máy  phục  vụ  :
+ Phải
+ Gần-Nền-RGB
+ Hàng
+ Chẵn
+ Xoá
+ Đen  lên  trắng
+ Ngang
+ Lát
+ Cuộn
+ Mẫu  xoắn  ốc
+ Tròn
+ Bút  chì
+ Màu  đặc
+ Vuông
+ IIR
