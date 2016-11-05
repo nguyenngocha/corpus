@@ -1,4 +1,0 @@
- % s  nguồn  đầu  vào
- Sơ  đồ  kí  tự
- Biểu  đồ  Bố  cục  Bàn  phím
- Thiết  đặt  nhập  văn  bản ...

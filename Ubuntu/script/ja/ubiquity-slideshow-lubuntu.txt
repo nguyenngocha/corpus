@@ -1,6 +1,0 @@
- 含まれるソフトウェア
- サポートされるソフトウェア
- Abiword
- Gnumeric
- LibreOffice
- Pidgin

@@ -1,4 +1,0 @@
- Đăng  nhập  từ  xa
- Tệp  cấu  hình  cho  dicchj  vụ  đăng  nhập  từ  xa .  Mặc  định  là  ' / etc / remote-login-service.conf ' .
- tệp _ khoá
- -  Xác  định  các  máy  chủ  có  thể  truy  cập  từ  xa

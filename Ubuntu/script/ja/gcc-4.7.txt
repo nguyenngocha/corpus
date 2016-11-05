@@ -1,5 +1,0 @@
-   \
-
-
-
-%s\tcompiled by GNU C version %s, 

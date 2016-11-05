@@ -1,6 +1,0 @@
- Phần  mềm  cài  sẵn
- Phần  mềm  được  hỗ  trợ
- Abiword
- Gnumeric
- LibreOffice
- Pidgin

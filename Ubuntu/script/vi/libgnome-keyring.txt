@@ -1,9 +1,0 @@
- Truy  cập  bị  từ  chối
- The  gnome-keyring-daemon  application  is  not  running .
- Gặp  lỗi  khi  giao  tiếp  với  trình  nền  gnome-keyring-daemon
- Đã  có  một  vòng  khóa  với  tên  này  rồi
- Lỗi  nhà  lập  trình :  ứng  dụng  đã  gửi  dữ  liệu  không  hợp  lệ .
- Không  tìm  thấy
- Không  có  vòng  khoá  tên  đó .
- Vòng  khoá  đã  được  bỏ  khoá .
- Default

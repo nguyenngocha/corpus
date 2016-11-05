@@ -1,6 +1,0 @@
- snd _ pcm _ avail ( )  trả  lại  một  giá  trị  đặc  biệt  lớn :  % lu  bytes  ( % lu  ms ) .  Nhiều  khả  năng  đây  là  một  lỗi  trong  trình  điều  khiển  ALSA  ' % s ' .  Vui  lòng  báo  vấn  đề  này  cho  các  nhà  phát  triển  ALSA .
- snd _ pcm _ delay ( )  trả  lại  một  giá  trị  đặc  biệt  lớn :  % li  bytes  ( % s % lu  ms ) .  Nhiều  khả  năng  đây  là  một  lỗi  trong  trình  điều  khiển  ALSA  ' % s ' .  Vui  lòng  báo  vấn  đề  này  cho  các  nhà  phát  triển  ALSA .
- snd _ pcm _ mmap _ begin ( )  trả  lại  một  giá  trị  đặc  biệt  lớn :  % lu  bytes  ( % lu  ms ) .  Nhiều  khả  năng  đây  là  một  lỗi  trong  trình  điều  khiển  ALSA  ' % s ' .  Vui  lòng  báo  vấn  đề  này  cho  các  nhà  phát  triển  ALSA .
- Luôn  giữ  một  tiến  trình  được  nạp  kể  cả  nó  là  một  tiến  trình  rỗng
- Không  có  thiết  bị  xuất
- Tiến  trình  ảo  hóa  LADSPA

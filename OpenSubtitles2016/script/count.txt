@@ -1,2 +1,0 @@
-file corpus.ja have: 3231899 characters
-file corpus.vi have: 10145878 characters

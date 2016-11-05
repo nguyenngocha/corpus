@@ -1,8 +1,0 @@
- Mozilla  Firefox  インストーラ
- インストール
- 終了
- Mozilla  Firefox  は数々の賞を獲得してきた人気のあるウェブブラウザで 、 そのシンプルさ 、 安全性 、 莫大なアドオンのコレクション故に何百万もの人に愛用されています 。
- ( C )  2010  Harald  Sitter
- Harald  Sitter
- Jonathan  ThomasThis  is  the  description  of  a  command  line  argument
- 直接  Mozilla  Firefox  をインストールする

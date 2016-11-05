@@ -1,7 +1,0 @@
- Tập  tin  dữ  liệu  hoạt  động  hệ  thống :  % s  ( % # x )
- Máy : 
- Kích  thước  của  kiểu  số  nguyên  dài :  % d
- Danh  sách  các  hoạt  động :
- \ t [ Không  hiểu  định  dạng  hoạt  động ]
- Cách  dùng :  % s  [  tùy _ chọn ...  ]  [     nh \
-\t\tThống kê về lượng CPU được dùng  (ALL: tất cả)

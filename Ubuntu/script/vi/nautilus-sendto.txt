@@ -1,8 +1,0 @@
- Chạy  từ  thư  mục  xây  dựng  ( bị  bỏ  qua )
- Dùng  XID  như  là  mẹ  cho  hộp  thoại  gửi  ( bị  bỏ  qua )
- Các  tập  tin  gửi  đi
- Xuất  thông  tin  phiên  bản  và  thoát
- KhoLưu
- Không  thể  phân  tích  tuỳ  chọn  dòng  lệnh :  % s
- Chưa  cài  đặt  phần  mềm  gửi  và  nhận  thư  điện  tử ,  nên  không  thể  gửi  các  tập  tin
- Muốn  nhận  URI  hoặc  tên  tập  tin  như  tuỳ  chọn

@@ -1,0 +1,2898 @@
+nohup: ignoring input
+
+line - 6
+
+line - 11
+translated successfully: " {1} trong bài hát {0} để nhập khẩu các nhạc " - "{ 1 } 曲中 { 0 } 曲目をインポートしています" - "Đang nhập { 0 } trên { 1 } ..."
+translated successfully: " siêu dữ liệu cập nhật " - "メタデータの更新" - "Đang làm mới dữ liệu lý lịch ( metadata )"
+translated successfully: " Câu lạc bộ " - "クラブ" - "Câu lạc bộ"
+translated successfully: " Đại lễ " - "大ホール" - "Đại sảnh lớn"
+translated successfully: " Xóa từ Thư viện " - "ライブラリから削除" - "Loại bỏ khỏi Thư viện"
+translated successfully: " cấu trúc file " - "ファイル構成" - "Tổ chức tập tin"
+translated successfully: " thay đổi các tập tin và thư mục có tên phù hợp với phương tiện truyền thông của siêu dữ liệu " - "メディアのメタデータに従いファイルとフォルダー名を変更します" - "Đổi tên tập tin và thư mục theo dữ liệu lý lịch của phương tiện"
+translated successfully: " thư mục video" - "ビデオフォルダー" - "Thư mục video"
+
+line - 19
+
+line - 25
+translated successfully: " Chọn ảnh bìa mới ... " - "外部ドキュメント" - "Tài liệu bên ngoài"
+translated successfully: " " - "新しいカバーアートを選択 ..." - "Chọn ảnh bìa mới ..."
+translated successfully: " tài liệu bên ngoài tháo vỏ nghệ thuật này " - "このカバーアートを削除" - "Xóa ảnh bìa này"
+translated successfully: " dõi số " - "トラック番号" - "Tập nhạc #"
+translated successfully: " theo dõi số " - "トラック番号" - "Số thứ tự bài trong tổng số"
+translated successfully: " thay đổi kích thước của bảng điều khiển bối cảnh " - "コンテキストパネルの大きさを変更します" - "Làm cho khung ngữ cảnh to hơn hay nhỏ hơn"
+translated successfully: " ẩn bảng điều khiển bối cảnh " - "コンテキストパネルを隠す" - "Ẩn khung ngữ cảnh"
+translated successfully: " Bạn không thể xuất khẩu một danh sách nhạc" - "プレイリストをエクスポートできません" - "Không thể xuất danh sách phát"
+
+line - 33
+
+line - 38
+
+line - 42
+
+line - 51
+
+line - 58
+
+line - 67
+
+line - 80
+
+line - 88
+translated successfully: " Để tua " - "前方へスキップ" - "Nhảy tới trước"
+translated successfully: " lùi bỏ qua " - "後方へスキップ" - "Nhảy lùi lại"
+translated successfully: " stereo " - "ステレオ" - "Âm lập thể"
+translated successfully: " hiệu ứng hình ảnh " - "視覚効果" - "Hiệu ứng hình ảnh"
+translated successfully: " cân bằng màu sắc của " - "色のバランス" - "Cân bằng màu"
+translated successfully: " tiếng nói của đầu ra " - "音声の出力" - "Xuất âm thanh"
+translated successfully: " thanh thời gian phát lại " - "再生時間バー" - "Thanh trượt thời gian"
+translated successfully: " cũng để cho phép các trình bảo vệ màn hình khi bạn đang chơi một giọng nói " - "音声を再生している時もスクリーンセーバーを有効にする" - "Cho phép chương trình bảo vệ màn hình chạy kể cả khi đang phát nhạc"
+translated successfully: " thử lại sau " - "あとでもう一度試してみて下さい" - "Hãy thử lại về sau ."
+translated successfully: " khác " - "他のディスクを挿入して下さい 。" - "Vui lòng đưa đĩa khác vào để phát tiếp ."
+
+line - 98
+
+line - 105
+
+line - 115
+translated successfully: " Thổ Nhĩ Kỳ " - "トルコ語" - "Thổ Nhĩ Kỳ"
+translated successfully: " tên file " - "ファイル名" - "Tên tập tin"
+translated successfully: " độ phân giải " - "解像度" - "Độ phân giải"
+translated successfully: " file video " - "動画ファイル" - "Tập tin phim ảnh"
+translated successfully: " tập tin phụ đề " - "字幕のファイル" - "Tập tin phụ đề"
+translated successfully: " đã không thể mở vị trí (bạn không có sự cho phép để mở tập tin). " - "場所を開けませんでした ( そのファイルを開く権限がありません ) 。" - "Không thể mở địa điểm ; có lẽ bạn không có quyền mở tập tin đó ."
+
+line - 122
+translated successfully: " Surround " - "サラウンド" - "Âm thanh vòm"
+translated successfully: " không chứa một dòng video với giới truyền thông. " - "このメディアには映像ストリームが含まれていません 。" - "Thiết bị lưu trữ không hỗ trợ phát phim ."
+
+line - 127
+
+line - 131
+
+line - 133
+
+line - 139
+translated successfully: " Thời gian phơi sáng " - "露出時間" - "Thời gian phơi sáng"
+translated successfully: " chế độ phơi sáng " - "露出モード" - "Chế độ phơi sáng"
+translated successfully: " tốc độ màn trập " - "シャッター速度" - "Tốc độ chập"
+translated successfully: " máy ảnh của các loại " - "カメラの型式" - "Mô hình máy ảnh"
+translated successfully: " Thể loại: " - " カテゴリ : " - " Loại : "
+translated successfully: " kênh thông tin: " - " チャンネルの情報 : " - " Thông  tin  về  kênh : "
+translated successfully: " Bạn có muốn ghi đè lên hình ảnh cũ với hình ảnh mới? " - " 新しい画像で古い画像を上書きしますか ？ " - " Ghi  đè  lên  ảnh  cú  bằng  điều  mới  không ? "
+
+line - 150
+
+line - 161
+
+line - 169
+
+line - 177
+
+line - 182
+
+line - 189
+
+line - 195
+
+line - 200
+
+line - 207
+
+line - 213
+translated successfully: " Hiệu chuẩn và hồ sơ của các phần mềm không được cài đặt. " - "キャリブレーションとプロファイルのソフトウェアがインストールされていません 。" - "Chưa cài đặt phần mềm lập hồ sơ và tinh chỉnh ."
+
+line - 217
+
+line - 221
+
+line - 227
+
+line - 230
+
+line - 235
+
+line - 243
+
+line - 248
+
+line - 254
+
+line - 261
+
+line - 267
+
+line - 272
+
+line - 278
+
+line - 284
+
+line - 289
+translated successfully: " String của những bảng thông báo sẽ được hiển thị trong cửa sổ đăng nhập " - "バナーメッセージの文字列" - "Chuỗi thông điệp băng cờ"
+translated successfully: " chuỗi các thông điệp banner. " - "ログインウィンドウに表示するバナーメッセージの文字列です 。" - "Thông điệp băng cờ cần hiển thị trên cửa sổ đăng nhập ."
+
+line - 295
+translated successfully: " Czech (tiểu học) " - "チェコ語 ( 1級 )" - "Séc lớp 1"
+translated successfully: " Tây Ban Nha (tiểu học) " - "スペイン語 ( 1級 )" - "Tây Ban Nha lớp 1"
+translated successfully: " Canada nói tiếng Pháp (lớp 2) " - "カナダ系フランス語 ( 2級 )" - "Pháp ( Ca-na-đa ) lớp 2"
+translated successfully: " Pháp-Pháp (lớp 2) " - "フランス系フランス語 ( 2級 )" - "Pháp ( Pháp ) lớp 2"
+translated successfully: " đệm được chèn vào bên trái của các widget con " - "子ウィジェットの左側に挿入するパディング" - "Đệm cần chèn bên trái ô điều khiển ."
+translated successfully: " đệm được chèn vào phía bên phải của các phụ tùng" - "ウィジェットの右側に挿入するパディングです" - "Đệm cần chèn bên phải ô điều khiển ."
+
+line - 301
+
+line - 308
+translated successfully: " Cho dù nhiều phím mũi tên một danh sách các mục để di chuyển " - "親ウィジェットと一緒に破棄" - "Hủy cùng mẹ"
+translated successfully: " " - "親ウィジェットが破棄された時にこのウィンドウも破棄するかどうか" - "Nếu cửa sổ mẹ bị hủy thì cửa sổ này cũng bị hủy theo"
+translated successfully: " bỏ đi cùng với các phụ tùng cha mẹ " - "色にアルファ値を設定するかどうか" - "Số byte giữa đầu hàng và đầu hàng kế tiếp"
+translated successfully: " liệu để cung cấp cho các màu một giá trị alpha " - "アイテムの一覧をずっと矢印キーが移動するかどうか" - "Bộ trỏ tới dữ liệu điểm ảnh của bộ đệm điểm ảnh"
+translated successfully: " rằng cửa sổ này cũng được loại bỏ nếu khi widget cha mất luôn được kích hoạt vào mũi tên " - "矢印を常に有効に" - "GdkScreen cho bộ vẽ"
+
+line - 314
+
+line - 321
+
+line - 327
+
+line - 333
+
+line - 342
+
+line - 350
+
+line - 356
+
+line - 364
+
+line - 367
+
+line - 371
+
+line - 381
+
+line - 390
+
+line - 394
+
+line - 400
+
+line - 410
+
+line - 419
+
+line - 427
+
+line - 430
+
+line - 435
+translated successfully: " Tên Christian " - "クリスチャンネーム" - "Tên hay gọi"
+translated successfully: " Trợ lý của điện thoại " - "アシスタントの電話" - "Điện thoại phụ tá"
+translated successfully: " điện thoại của công việc " - "仕事の電話" - "Điện thoại kinh doanh"
+translated successfully: " điện thoại khách hàng " - "仕事の電話2" - "Điện thoại kinh doanh 2"
+translated successfully: " " - "得意先の電話" - "Số gọi lại"
+translated successfully: " Điện thoại 2 của công việc-board điện thoại " - "車載電話" - "Điện thoại xe"
+translated successfully: " Address Book Properties " - "アドレス帳のプロパティ" - "Không có Sổ địa chỉ này"
+translated successfully: " Thông tin liên hệ " - "連絡先の情報" - "Không tìm thấy liên lạc"
+translated successfully: " đã có được một giấy chứng nhận " - "既に証明書があります" - "ID Liên lạc đã có"
+translated successfully: " đã không thể mở nguồn nguồn " - "送信元ソースを開けませんでした" - "Không thể thôi"
+translated successfully: " " - "認証" - "Việc xác thực bị lỗi"
+
+line - 448
+translated successfully: " Dùng không hợp lệ " - "無効なユーザ" - "Phiên bản máy phục vụ không hợp lệ"
+translated successfully: " không thể mở sổ địa chỉ. " - "このアドレス帳を開けませんでした 。 考えられる原因としては 、 このアドレス帳がオフライン用にマークされていないか 、 またはオフライン用に未だダウンロードしていないかのどちらかです 。 まずはオンラインの状態でアドレス帳を読み込んでアドレス帳の内容をダウンロードしてみてください 。" - "Sổ địa chỉ này không mở được . Có nghĩa là sổ này hoặc không đánh dấu để sử dụng ngoại tuyến , hoặc chưa được tải về để sử dụng ngoại tuyến . Hãy nạp sổ địa chỉ này một lần trong chế độ trực tuyến để tải về nội dung của nó ."
+
+line - 450
+
+line - 453
+
+line - 456
+
+line - 459
+
+line - 464
+translated successfully: " Bạn sẽ có thể cung cấp cho tôi một câu trả lời vì nó sẽ gửi một thông báo cuộc họp với tất cả những người tham dự. " - "すべての出席者へ会議開催通知を送信するので返事をお願いできるようになります 。" - "Lời mời thư điện tử sẽ được gửi cho mọi người dự và cho phép họ trả lời ."
+
+line - 467
+
+line - 470
+
+line - 475
+
+line - 478
+
+line - 483
+
+line - 496
+
+line - 504
+translated successfully: " Vui lòng chọn một lịch để được thông báo bởi báo động: " - "アラームで通知するカレンダを選択してください :" - "Chọn những lịch cần dùng tính năng báo động"
+translated successfully: " danh sách ghi nhớ của " - "メモの一覧" - "Danh sách Ghi nhớ"
+translated successfully: " lịch bất động sản " - "カレンダのプロパティ" - "Thuộc tính Lịch"
+translated successfully: " bất động sản của các danh sách các nhiệm vụ " - "タスクの一覧のプロパティ" - "Thuộc tính Danh sách Tác vụ"
+translated successfully: " (hoàn thành " - "( 完了 " - "( Hoàn tất "
+translated successfully: " đã hoàn thành " - "完了しました " - "Hoàn tất "
+translated successfully: " (ngày " - "( 期日 " - "( Đến hạn "
+translated successfully: " Ngày " - "期日 " - "Đến hạn "
+translated successfully: " không lưu các tập tin đính kèm " - "添付ファイルを保存できませでした" - "Lưu đính kèm"
+translated successfully: " dự kiến " - "予定の編集" - "Sửa cuộc hẹn"
+
+line - 514
+
+line - 522
+
+line - 529
+
+line - 536
+
+line - 542
+translated successfully: " Cài đặt mục tiêu của " - "ターゲットのインストール" - "Đích cài đặt"
+translated successfully: " điều chỉnh màu sắc và độ tương phản và độ sáng hồ sơ là không thay đổi hãy chắc chắn rằng nó không được áp dụng. " - "コントラストと輝度が未変更であることと色補正プロファイルが未適用であることを確認してください 。" - "Bảo đảm độ tương phản và độ sáng không thay đổi và không áp dụng hồ sơ màu điều chỉnh ."
+
+line - 547
+
+line - 555
+
+line - 564
+
+line - 571
+
+line - 576
+
+line - 583
+
+line - 590
+
+line - 594
+
+line - 603
+
+line - 609
+translated successfully: " Hãy thưởng thức các trò chơi cờ vua của các loại trận đấu lên cổ điển " - "古典的な対戦型のチェスゲームをお楽しみください" - "Chơi cờ hai người truyền thống"
+translated successfully: " trở lại bắt đầu của trò chơi " - "ゲームの開始まで戻します" - "Tua lại về đầu lượt chơi"
+translated successfully: " để xem sự chuyển động của chỉ trước " - "直前の移動を表示します" - "Hiện lượt trước"
+translated successfully: " mở khi đọc thư mục game " - "ゲームを読み込む際に開くフォルダー" - "Thư mục cần mở để nạp cuộc thoại trò chơi"
+translated successfully: " mặt nạ nhanh tài sản " - "クイックマスクのプロパティ" - "Thuộc tính Mặt nạ Nhanh"
+translated successfully: " sửa các thuộc tính của các mặt nạ nhanh " - "クイックマスクのプロパティを編集" - "Sửa thuộc tính Mặt nạ Nhanh"
+translated successfully: " nhanh " - "クイックマスク表示色の設定" - "Sửa màu Mặt nạ Nhanh"
+
+line - 616
+
+line - 624
+
+line - 629
+
+line - 639
+
+line - 649
+
+line - 655
+
+line - 661
+
+line - 668
+
+line - 676
+
+line - 683
+
+line - 692
+
+line - 696
+
+line - 702
+translated successfully: " Vui lòng chọn một thư mục mà bạn muốn áp dụng các bản vá " - "パッチを適用するフォルダーを選択してください" - "Hãy chọn thư mục cho đó cần áp dụng đắp vá"
+translated successfully: " vá đã được áp dụng. " - "パッチが適用されました 。 エラーメッセージを確認してください 。 リジェクトされたファイルを調べて削除してください 。" - "Đắp vá không thành công . Hãy xem lại các thông điệp lỗi . Kiểm tra và gỡ bỏ bất cứ tập tin bị từ chối nào ."
+
+line - 706
+
+line - 713
+
+line - 717
+
+line - 723
+
+line - 730
+
+line - 738
+
+line - 743
+
+line - 752
+
+line - 760
+
+line - 767
+
+line - 772
+
+line - 780
+
+line - 787
+
+line - 792
+
+line - 796
+
+line - 804
+
+line - 810
+
+line - 816
+
+line - 824
+
+line - 831
+
+line - 838
+
+line - 846
+translated successfully: " Nguyên nhân chưa được biết rõ. " - "原因は不明です 。" - "Không lý do ."
+
+line - 855
+
+line - 863
+
+line - 870
+
+line - 873
+
+line - 881
+
+line - 887
+
+line - 890
+
+line - 894
+
+line - 898
+
+line - 901
+
+line - 905
+
+line - 910
+
+line - 913
+
+line - 918
+
+line - 921
+
+line - 933
+
+line - 941
+
+line - 947
+translated successfully: " Bạn không thể sử dụng các phiên bản hiện tại " - "現在のバージョンを使用できません !" - "Không thể dùng phiên bản hiện thời ."
+translated successfully: "! 11 tháng 5 " - "11月" - "Tháng Mười Một"
+translated successfully: " ghi nhớ này In " - "このメモを印刷" - "In bản ghi nhớ này"
+translated successfully: " Lưu ý ngày bắt đầu trong quá khứ " - "メモの開始日が過去です" - "Ngày bắt đầu bản ghi nhớ trong quá khứ"
+translated successfully: " ghi nhớ không thể được chỉnh sửa. " - "メモは編集できません 。 選択したメモは読み込み専用です" - "Không thể sửa ghi nhớ vì danh sách ghi nhớ được chọn là chỉ đọc"
+
+line - 953
+
+line - 959
+
+line - 966
+
+line - 974
+translated successfully: " Là một ràng buộc quan trọng hoặc dừng lại để khởi động máy ghi âm màn hình tích hợp. " - "内蔵のスクリーンレコーダーを起動したり止めたりするキーバインドです 。" - "Phím chạy hoặc ngừng trình thu màn hình ."
+
+line - 979
+
+line - 983
+
+line - 993
+
+line - 997
+
+line - 1001
+translated successfully: " Tới trang được truy cập trước " - "前に訪問したページへ移動します" - "Đi đến trang đã xem ở trước"
+translated successfully: " quay trở lại lịch sử trước " - "前の履歴へ戻ります" - "Lược sử có thể lùi"
+translated successfully: " và sau đó di chuyển để truy cập vào trang " - "次に訪問したページへ移動します" - "Đi đến trang đã xem tiếp theo"
+translated successfully: " Tới lịch sử tiếp theo " - "次の履歴へ進みます" - "Lược sử có thể tiếp"
+translated successfully: " Tới mức trên một sự " - "一つ上のレベルへ移動します" - "Lên một bậc"
+translated successfully: " tab bên trái " - "このタブを左へ移動します" - "Chuyển thẻ hiện tại sang bên trái"
+
+line - 1009
+
+line - 1015
+
+line - 1023
+
+line - 1036
+
+line - 1042
+
+line - 1049
+
+line - 1050
+
+line - 1052
+
+line - 1058
+
+line - 1065
+translated successfully: " Entry của tên máy chủ hoặc sử dụng tên là trống " - "サーバ名またはユーザ名のエントリが空です" - "Trường máy chủ hay tên người dùng còn trống ."
+translated successfully: " bạn phải đồng bộ hóa các bản ghi nhớ ... " - "メモを同期しています ..." - "Đang đồng bộ hoá các ghi chú của bạn ..."
+translated successfully: " nó dường như mất một ít thời gian. " - "少々時間がかかると思われます 。 ゆっくりくつろいで下さい ！" - "Tiến trình này có thể kéo dài một lát . Hãy nghỉ ."
+
+line - 1070
+translated successfully: " Chú ý ghi chú: " - "付箋紙 : " - "Ghi Chú Dính : "
+translated successfully: " là trong kết nối với máy chủ ... " - "サーバへ接続中です ..." - "Đang kết nối tới máy chủ ..."
+translated successfully: " thất bại đồng bộ " - "同期の失敗" - "Đồng bộ hoá không thành công"
+translated successfully: " để tạo ghi chú mới " - "新しいノートを作成します" - "Tạo sổ ghi chú mới"
+translated successfully: " Nhập tên của chú mà bạn muốn tạo. " - "作成するノートの名前を入力して下さい 。" - "Gõ tên của sổ ghi chú bạn muốn tạo ."
+
+line - 1077
+
+line - 1082
+
+line - 1090
+
+line - 1096
+
+line - 1103
+
+line - 1109
+
+line - 1118
+
+line - 1124
+translated successfully: " Bạn phải làm rỗng thùng rác là để tăng không gian miễn phí trên thiết bị này. " - "このデバイス上の空き領域を増やすにはゴミ箱を空にしなければなりません 。 空にすると 、 ゴミ箱の中にあるすべてのアイテムが完全に消去されます 。" - "Để lấy lại vùng trống trên phân vùng này , cần phải đổ sọt rác . Mọi thứ trong sọt rác sẽ bị xoá vĩnh viễn ."
+
+line - 1126
+
+line - 1134
+
+line - 1144
+
+line - 1149
+
+line - 1156
+
+line - 1164
+
+line - 1171
+
+line - 1173
+
+line - 1178
+
+line - 1181
+
+line - 1185
+
+line - 1188
+
+line - 1193
+translated successfully: " Bạn sẽ có thể cung cấp cho tôi một câu trả lời vì nó sẽ gửi một thông báo cuộc họp với tất cả những người tham dự. " - "すべての出席者へ会議開催通知を送信するので返事をお願いできるようになります 。" - "Lời mời thư điện tử sẽ được gửi cho mọi người dự và cho phép họ trả lời ."
+
+line - 1196
+
+line - 1199
+
+line - 1203
+
+line - 1206
+
+line - 1210
+
+line - 1215
+
+line - 1227
+translated successfully: " Weekday: " - "平日 :" - "Ngày làm việc :"
+translated successfully: " trước để hiển thị " - "前に表示する" - "trước mỗi ngày kỷ niệm / ngày sinh"
+translated successfully: " hãy chọn lịch được thông báo bởi báo động " - "タスクの一覧" - "Danh sách tác vụ"
+translated successfully: " Danh sách nhiệm vụ: " - "アラームで通知するカレンダを選択してください :" - "Chọn những lịch cần dùng tính năng báo động"
+translated successfully: " Nhiệm vụ này đã được thay đổi. " - "このタスクは変更されました 。" - "Tác vụ này đã được thay đổi ."
+
+line - 1236
+
+line - 1244
+
+line - 1250
+
+line - 1257
+
+line - 1268
+
+line - 1281
+
+line - 1285
+
+line - 1291
+
+line - 1294
+
+line - 1301
+
+line - 1312
+
+line - 1322
+
+line - 1330
+
+line - 1333
+
+line - 1340
+
+line - 1345
+
+line - 1350
+
+line - 1355
+
+line - 1358
+
+line - 1361
+
+line - 1364
+
+line - 1368
+translated successfully: " Nhiệm vụ này đã được sửa đổi, nhưng chưa được lưu. " - "このタスクは変更されていますが 、 まだ保存していません 。" - "Bạn đã sửa đổi tác vụ này , nhưng chưa lưu lại ."
+
+line - 1371
+
+line - 1374
+
+line - 1378
+
+line - 1381
+
+line - 1389
+
+line - 1397
+
+line - 1405
+
+line - 1411
+
+line - 1417
+
+line - 1424
+
+line - 1433
+
+line - 1438
+
+line - 1444
+translated successfully: " Không thể được gắn " - "添付できません" - "Không thể thêm vào phần đính kèm"
+translated successfully: " bắt đầu soạn thảo văn bản để thất bại " - "テキストエディターの起動に失敗しました" - "Xảy ra lỗi khi mở trình biên soạn văn bản mặc định ."
+translated successfully: " Chọn file " - "ファイルを選択" - "Chọn một tập tin"
+translated successfully: " Vui lòng nhập mật khẩu " - "パスワードを入力してください" - "Xin vui lòng điền vào mật khẩu email của bạn"
+translated successfully: " Tất cả các thư " - "すべてのメール" - "Tất cả thư"
+translated successfully: " Outbox " - "送信トレイ" - "Hộp thư chờ gửi"
+translated successfully: " Không " - "なし" - "Không có gì"
+translated successfully: " ---------- nhắn chuyển tiếp --- " - "---------- 転送されたメッセージ ----------" - "---------- Thư được chuyển tiếp ----------"
+
+line - 1452
+
+line - 1461
+
+line - 1467
+
+line - 1475
+
+line - 1480
+
+line - 1485
+
+line - 1493
+
+line - 1500
+
+line - 1506
+
+line - 1513
+
+line - 1519
+
+line - 1529
+
+line - 1538
+
+line - 1546
+
+line - 1552
+
+line - 1560
+
+line - 1569
+
+line - 1577
+
+line - 1581
+
+line - 1587
+
+line - 1596
+
+line - 1606
+
+line - 1610
+
+line - 1620
+
+line - 1632
+
+line - 1636
+
+line - 1642
+
+line - 1647
+
+line - 1654
+
+line - 1661
+
+line - 1667
+
+line - 1675
+
+line - 1682
+
+line - 1686
+
+line - 1691
+
+line - 1703
+
+line - 1704
+
+line - 1709
+translated successfully: " Nếu tên của các lưu ý đã được thay đổi, là một giá trị số nguyên cho biết rằng một trong hai, để làm được chắc chắn để cập nhật các liên kết thay vì người sử dụng để xác nhận. " - "メモの名前が変更された場合 、 ユーザーに確認をするかわりにリンクの更新を必ずどうするのか 、 を示す整数値です 。 値は内部的な列挙値にマッピングされます 。 0 ならば 、 メモの名前を変更した時 、 他のメモに存在するリンクに影響を与えるようであればユーザーに確認をとることを示します 。 1 ならば 、 リンクが自動的に削除されることを示します 。 2 ならば 、 名前の変更されたメモへリンクし続けるようにリンクの文字列が更新されることを示します 。" - "Giá trị số nguyên ngụ ý nếu có tùy thích để luôn luôn thực hiện một hành vị nào đó khi phát hiện trường hợp xung đột , thay vì nhắc người dùng . Giá trị ánh xạ tới sự đánh số nội bộ . Giá trị số không ngụ ý rằng người dùng muốn được nhắc khi trường hợp xung đột xảy ra , để quản lý mỗi trường hợp xung đột một cách từng trường ."
+
+line - 1710
+
+line - 1715
+
+line - 1720
+
+line - 1723
+
+line - 1728
+
+line - 1737
+
+line - 1747
+
+line - 1754
+
+line - 1758
+sh: 1: Syntax error: "(" unexpected
+
+line - 1761
+
+line - 1766
+
+line - 1773
+
+line - 1783
+
+line - 1790
+
+line - 1798
+
+line - 1807
+
+line - 1814
+
+line - 1823
+
+line - 1833
+
+line - 1841
+
+line - 1849
+
+line - 1857
+
+line - 1868
+
+line - 1880
+
+line - 1891
+
+line - 1899
+
+line - 1909
+
+line - 1918
+
+line - 1926
+
+line - 1934
+
+line - 1941
+
+line - 1948
+
+line - 1956
+
+line - 1966
+
+line - 1974
+
+line - 1984
+
+line - 1990
+
+line - 1997
+
+line - 2004
+
+line - 2014
+
+line - 2024
+
+line - 2028
+
+line - 2033
+
+line - 2040
+
+line - 2045
+
+line - 2048
+
+line - 2052
+
+line - 2058
+
+line - 2067
+
+line - 2081
+
+line - 2091
+
+line - 2096
+
+line - 2101
+
+line - 2107
+
+line - 2112
+
+line - 2120
+
+line - 2127
+
+line - 2133
+
+line - 2141
+
+line - 2145
+
+line - 2148
+
+line - 2153
+
+line - 2159
+
+line - 2165
+
+line - 2176
+
+line - 2181
+
+line - 2187
+
+line - 2193
+
+line - 2203
+
+line - 2209
+
+line - 2213
+
+line - 2220
+
+line - 2230
+
+line - 2240
+
+line - 2245
+
+line - 2252
+
+line - 2257
+
+line - 2267
+
+line - 2273
+
+line - 2280
+
+line - 2289
+
+line - 2298
+
+line - 2307
+
+line - 2314
+
+line - 2321
+
+line - 2326
+
+line - 2332
+
+line - 2338
+
+line - 2343
+
+line - 2351
+
+line - 2358
+
+line - 2363
+
+line - 2369
+
+line - 2376
+
+line - 2381
+
+line - 2390
+
+line - 2398
+
+line - 2403
+
+line - 2408
+
+line - 2411
+
+line - 2417
+
+line - 2428
+
+line - 2436
+
+line - 2442
+
+line - 2449
+
+line - 2460
+
+line - 2464
+
+line - 2471
+
+line - 2479
+
+line - 2488
+
+line - 2497
+
+line - 2503
+
+line - 2513
+
+line - 2520
+
+line - 2523
+
+line - 2531
+
+line - 2535
+
+line - 2540
+
+line - 2544
+
+line - 2552
+
+line - 2558
+
+line - 2563
+
+line - 2567
+
+line - 2573
+
+line - 2581
+
+line - 2585
+
+line - 2588
+
+line - 2591
+
+line - 2595
+
+line - 2598
+
+line - 2601
+
+line - 2605
+
+line - 2608
+
+line - 2616
+
+line - 2624
+
+line - 2632
+
+line - 2640
+
+line - 2646
+
+line - 2654
+
+line - 2659
+
+line - 2668
+
+line - 2675
+
+line - 2682
+
+line - 2685
+
+line - 2692
+
+line - 2698
+
+line - 2704
+
+line - 2710
+
+line - 2715
+
+line - 2723
+
+line - 2731
+
+line - 2742
+
+line - 2756
+
+line - 2758
+
+line - 2763
+
+line - 2773
+
+line - 2777
+
+line - 2785
+
+line - 2788
+
+line - 2794
+
+line - 2797
+
+line - 2800
+
+line - 2815
+translated successfully: " Thiết kế giao diện người dùng " - "ユーザー インターフェース デザイナー" - "Bộ thiết kế giao diện người dùng"
+translated successfully: " chỉ trước khi hoạt động " - "直前の操作" - "hành động cuối cùng"
+translated successfully: " và sẽ tiết kiệm ở đây, bạn sẽ mất tất cả các thay đổi được thực bên ngoài. " - "ここで保存してしまうと 、 外部で変更した内容を全て失うことになります 。 それでも保存しますか ？" - "Lưu thì tất cả các thay đổi bên ngoài có thể bị mất . Vẫn còn lưu không ?"
+
+line - 2821
+
+line - 2827
+
+line - 2833
+
+line - 2837
+
+line - 2844
+
+line - 2850
+
+line - 2855
+
+line - 2861
+
+line - 2866
+
+line - 2875
+
+line - 2880
+
+line - 2888
+
+line - 2898
+
+line - 2900
+
+line - 2905
+
+line - 2911
+
+line - 2923
+
+line - 2924
+
+line - 2932
+
+line - 2943
+
+line - 2948
+
+line - 2954
+
+line - 2961
+
+line - 2968
+
+line - 2975
+
+line - 2983
+
+line - 2989
+
+line - 2995
+
+line - 3001
+
+line - 3007
+
+line - 3014
+
+line - 3020
+
+line - 3028
+
+line - 3036
+
+line - 3043
+
+line - 3048
+
+line - 3054
+
+line - 3064
+
+line - 3068
+
+line - 3074
+
+line - 3078
+
+line - 3083
+
+line - 3091
+
+line - 3099
+
+line - 3106
+
+line - 3118
+
+line - 3128
+
+line - 3131
+
+line - 3141
+
+line - 3148
+
+line - 3155
+
+line - 3161
+
+line - 3167
+
+line - 3176
+
+line - 3183
+
+line - 3191
+
+line - 3197
+
+line - 3203
+
+line - 3212
+
+line - 3221
+
+line - 3235
+
+line - 3241
+
+line - 3245
+
+line - 3248
+
+line - 3260
+
+line - 3263
+
+line - 3275
+
+line - 3280
+
+line - 3285
+
+line - 3290
+
+line - 3297
+
+line - 3300
+
+line - 3303
+
+line - 3313
+
+line - 3317
+
+line - 3323
+
+line - 3328
+
+line - 3337
+
+line - 3343
+
+line - 3347
+
+line - 3355
+
+line - 3362
+
+line - 3368
+
+line - 3373
+
+line - 3379
+
+line - 3385
+
+line - 3391
+
+line - 3399
+
+line - 3408
+
+line - 3418
+
+line - 3426
+
+line - 3430
+
+line - 3437
+
+line - 3443
+
+line - 3446
+
+line - 3454
+
+line - 3460
+
+line - 3467
+
+line - 3471
+
+line - 3479
+
+line - 3484
+
+line - 3488
+
+line - 3496
+
+line - 3502
+
+line - 3512
+
+line - 3525
+
+line - 3527
+
+line - 3531
+
+line - 3539
+
+line - 3552
+
+line - 3558
+
+line - 3567
+
+line - 3573
+
+line - 3582
+
+line - 3594
+
+line - 3598
+
+line - 3608
+
+line - 3618
+
+line - 3625
+
+line - 3634
+
+line - 3639
+
+line - 3643
+
+line - 3647
+
+line - 3651
+
+line - 3661
+
+line - 3666
+
+line - 3670
+
+line - 3676
+
+line - 3681
+
+line - 3684
+
+line - 3688
+
+line - 3693
+
+line - 3697
+
+line - 3701
+
+line - 3709
+
+line - 3716
+
+line - 3717
+
+line - 3722
+
+line - 3727
+
+line - 3730
+
+line - 3738
+
+line - 3739
+
+line - 3748
+
+line - 3752
+
+line - 3761
+
+line - 3765
+
+line - 3772
+
+line - 3779
+
+line - 3786
+
+line - 3798
+
+line - 3805
+
+line - 3814
+
+line - 3822
+
+line - 3826
+
+line - 3829
+
+line - 3834
+
+line - 3838
+
+line - 3847
+
+line - 3854
+
+line - 3863
+
+line - 3871
+
+line - 3878
+
+line - 3886
+
+line - 3895
+
+line - 3902
+
+line - 3910
+
+line - 3918
+
+line - 3923
+
+line - 3930
+
+line - 3942
+
+line - 3950
+
+line - 3958
+
+line - 3964
+
+line - 3974
+
+line - 3982
+
+line - 3992
+
+line - 3998
+
+line - 4008
+
+line - 4010
+
+line - 4019
+
+line - 4031
+
+line - 4040
+
+line - 4052
+
+line - 4058
+
+line - 4062
+
+line - 4066
+
+line - 4071
+
+line - 4080
+
+line - 4084
+
+line - 4088
+
+line - 4095
+
+line - 4099
+
+line - 4103
+
+line - 4108
+
+line - 4112
+
+line - 4117
+
+line - 4127
+
+line - 4135
+
+line - 4144
+
+line - 4150
+
+line - 4154
+
+line - 4161
+
+line - 4167
+
+line - 4175
+
+line - 4181
+
+line - 4183
+
+line - 4187
+
+line - 4190
+
+line - 4196
+
+line - 4204
+
+line - 4208
+
+line - 4211
+
+line - 4214
+
+line - 4218
+
+line - 4221
+
+line - 4224
+
+line - 4228
+
+line - 4231
+
+line - 4241
+
+line - 4248
+
+line - 4256
+
+line - 4265
+
+line - 4272
+
+line - 4278
+
+line - 4283
+
+line - 4288
+
+line - 4295
+
+line - 4300
+
+line - 4309
+
+line - 4317
+
+line - 4322
+
+line - 4326
+
+line - 4333
+
+line - 4348
+
+line - 4355
+
+line - 4364
+
+line - 4373
+
+line - 4382
+
+line - 4385
+
+line - 4390
+
+line - 4395
+
+line - 4403
+
+line - 4410
+
+line - 4415
+translated successfully: " Tốc độ bit không đổi: " - "固定ビットレート :" - "Tỷ lệ bit bất biến :"
+translated successfully: " giá trị mã hóa " - "エンコード値" - "Mã hoá giá trị"
+translated successfully: " Định dạng video: " - "動画フォーマット :" - "Dạng thức ảnh động :"
+translated successfully: " định dạng Video " - "動画フォーマット" - "Dạng thức ảnh động"
+translated successfully: " lỗi: chiều rộng không phải là một bội số của 16 " - "エラー : 幅が 16 の倍数ではありません" - "LỖI : độ rộng không phải là bội số cho 16"
+translated successfully: " lỗi: không phải là một bội số của chiều cao là 16 " - "エラー : 高さが 16 の倍数ではありません" - "LỖI : độ cao không phải là bội số cho 16"
+translated successfully: " thay thế dán " - "置き換えてペースト" - "Dán thay thế"
+translated successfully: " đệm video rõ ràng" - "ビデオバッファのクリア" - "Xoá bộ đệm ảnh động"
+
+line - 4423
+
+line - 4431
+
+line - 4439
+
+line - 4444
+
+line - 4452
+
+line - 4459
+
+line - 4463
+
+line - 4471
+
+line - 4474
+
+line - 4481
+
+line - 4488
+
+line - 4496
+
+line - 4503
+
+line - 4509
+
+line - 4513
+
+line - 4520
+
+line - 4528
+
+line - 4537
+
+line - 4543
+
+line - 4548
+
+line - 4552
+
+line - 4557
+
+line - 4562
+
+line - 4568
+
+line - 4574
+
+line - 4581
+
+line - 4587
+
+line - 4595
+
+line - 4602
+
+line - 4611
+
+line - 4618
+
+line - 4625
+
+line - 4636
+
+line - 4643
+
+line - 4650
+
+line - 4653
+
+line - 4657
+
+line - 4670
+
+line - 4671
+
+line - 4675
+
+line - 4683
+
+line - 4691
+
+line - 4697
+
+line - 4701
+
+line - 4711
+
+line - 4716
+
+line - 4721
+
+line - 4726
+
+line - 4733
+
+line - 4740
+
+line - 4746
+
+line - 4755
+
+line - 4762
+
+line - 4768
+
+line - 4774
+
+line - 4778
+
+line - 4784
+
+line - 4795
+
+line - 4800
+
+line - 4806
+
+line - 4813
+
+line - 4820
+
+line - 4826
+
+line - 4834
+
+line - 4840
+
+line - 4842
+
+line - 4848
+
+line - 4851
+
+line - 4853
+
+line - 4855
+
+line - 4857
+
+line - 4866
+
+line - 4876
+
+line - 4883
+
+line - 4887
+
+line - 4893
+
+line - 4899
+
+line - 4906
+
+line - 4910
+
+line - 4918
+
+line - 4925
+
+line - 4930
+
+line - 4936
+
+line - 4944
+
+line - 4951
+
+line - 4956
+
+line - 4963
+
+line - 4970
+
+line - 4977
+
+line - 4983
+
+line - 4989
+translated successfully: " '.' Nó có thể không được sử dụng vào đầu tên phiên. " - "‘ . ’ はセッション名の先頭には使用できません 。" - "Tên phiên chạy không thể bắt đầu với ký tự ‘ . ’"
+
+line - 4994
+translated successfully: " Có thể là tải vẫn chưa giải quyết. " - "まだ保留中のダウンロードがあります 。 ログアウトすると 、 それらのダウンロードが途中で中止されてしまい結果が残りません 。" - "Vẫn còn có tập tin đang tải về . Việc đăng xuất sẽ hủy bỏ tải về nên hủy các tập tin đó ."
+
+line - 4998
+
+line - 5008
+
+line - 5015
+
+line - 5023
+
+line - 5028
+
+line - 5031
+
+line - 5036
+
+line - 5046
+
+line - 5053
+
+line - 5059
+
+line - 5066
+
+line - 5073
+
+line - 5081
+
+line - 5093
+
+line - 5103
+
+line - 5107
+
+line - 5113
+
+line - 5115
+
+line - 5119
+
+line - 5123
+
+line - 5131
+
+line - 5137
+
+line - 5140
+
+line - 5147
+
+line - 5153
+
+line - 5160
+
+line - 5169
+
+line - 5179
+
+line - 5182
+
+line - 5192
+
+line - 5199
+
+line - 5202
+
+line - 5207
+
+line - 5219
+
+line - 5225
+
+line - 5230
+
+line - 5234
+
+line - 5239
+
+line - 5242
+
+line - 5250
+
+line - 5254
+
+line - 5259
+
+line - 5265
+
+line - 5269
+
+line - 5275
+
+line - 5280
+
+line - 5294
+
+line - 5311
+
+line - 5324
+
+line - 5331
+
+line - 5335
+
+line - 5342
+
+line - 5349
+
+line - 5355
+
+line - 5356
+translated successfully: " Cung cấp một tiện ích để hiển thị thời gian để quản lý cửa sổ để khởi chạy các ứng dụng khác nhau " - "新しいファイルを指定したフォルダーに作成する" - "Tạo tập tin mới trong thư mục đã cho"
+translated successfully: " tập tin mới được tạo ra trong thư mục chỉ định " - "ランチャーの作成" - "Tạo bộ khởi chạy"
+translated successfully: " phóng của tạo " - "フォルダーのプロパティ" - "Thuộc tính của thư mục"
+translated successfully: " tài sản thư mục của " - "ランチャーのプロパティ" - "Thuộc tính của bộ khởi chạy"
+translated successfully: " tính phóng của" - "他のアプリケーションを起動してウィンドウを管理したり時刻を表示するためのユーティリティをいろいろ提供します" - "Khởi chạy các ứng dụng khác và cung cấp các tiện ích khác nhau để quản lý cửa sổ , hiển thị giờ v.v."
+
+line - 5361
+
+line - 5366
+
+line - 5371
+
+line - 5379
+
+line - 5382
+
+line - 5389
+
+line - 5392
+
+line - 5399
+
+line - 5405
+
+line - 5412
+
+line - 5417
+
+line - 5424
+
+line - 5430
+
+line - 5441
+
+line - 5450
+
+line - 5454
+
+line - 5460
+
+line - 5466
+
+line - 5474
+
+line - 5480
+
+line - 5487
+
+line - 5493
+
+line - 5500
+
+line - 5505
+
+line - 5512
+
+line - 5522
+
+line - 5531
+
+line - 5533
+
+line - 5535
+
+line - 5537
+
+line - 5540
+
+line - 5544
+
+line - 5548
+
+line - 5552
+
+line - 5561
+
+line - 5568
+
+line - 5573
+
+line - 5579
+
+line - 5585
+
+line - 5592
+
+line - 5595
+
+line - 5603
+
+line - 5608
+
+line - 5617
+
+line - 5622
+
+line - 5631
+
+line - 5645
+
+line - 5653
+
+line - 5661
+
+line - 5667
+
+line - 5670
+
+line - 5677
+
+line - 5686
+
+line - 5696
+
+line - 5697
+
+line - 5700
+
+line - 5703
+
+line - 5707
+
+line - 5709
+
+line - 5714
+
+line - 5722
+
+line - 5727
+
+line - 5734
+
+line - 5746
+
+line - 5754
+
+line - 5759
+translated successfully: " Đọc bạn đang chỉnh sửa các đối tượng duy nhất - bạn không thể lưu " - "読み取り専用オブジェクトを編集しています - 保存できません" - "Đang chỉnh sửa một đối tượng chỉ-đọc nên bạn không thể lưu nó"
+translated successfully: " Chi tiết đối tượng " - "オブジェクト詳細" - "Chi tiết đối tượng"
+translated successfully: " số lượt xoắn ốc " - "螺旋の巻き数" - "Hình xoắn ốc : số lần quay"
+translated successfully: " số sao điểm " - "星型のポイント数" - "Hình sao : số điểm"
+translated successfully: " đường dẫn là không chính xác " - "パスが間違っています" - "Đường dẫn không hợp lệ"
+translated successfully: " (None) " - "( 該当なし )" - "Không tìm thấy"
+translated successfully: " Có những người thuộc chỉ có một " - "一つだけ該当するものがあります" - "Hoàn tất duy nhất"
+translated successfully: " khi áp dụng " - "該当するものがありますが 、 これ以上の補完は不可です" - "Hoàn tất mà không duy nhất"
+
+line - 5767
+
+line - 5773
+
+line - 5780
+
+line - 5781
+translated successfully: " Số cột để đính kèm phía bên phải của một widget con " - "子ウィジェットの左側にアタッチする列番号" - "Số thứ tự cột vào nó cần gắn bên trái của ô điều khiển con"
+translated successfully: " " - "子ウィジェットの右側にアタッチする列番号" - "Số cột nơi cần gắn bên phải của ô điều khiển con"
+translated successfully: " số cột để gắn vào phía bên trái của padding tiện ích con được chèn vào bên trái của các widget con " - "子ウィジェットの左側に挿入するパディング" - "Đệm cần chèn bên trái ô điều khiển ."
+translated successfully: " Các padding để chèn vào bên phải của các widget " - "ウィジェットの右側に挿入するパディングです" - "Đệm cần chèn bên phải ô điều khiển ."
+translated successfully: " hay không để hiển thị các ứng cử viên hoàn thành trong cửa sổ pop-up " - "ポップアップウィンドウの中に補完候補を表示するかどうか" - "Có nên hiển thị các điều đã hoàn thành trong cửa sổ bật lên hay không"
+
+line - 5786
+
+line - 5794
+
+line - 5800
+
+line - 5812
+translated successfully: " Import Settings " - "インポート設定" - "Thiết lập nhập"
+translated successfully: " xác nhận: " - "確認 :" - "Xác nhận :"
+translated successfully: " Mật khẩu không khớp. " - "パスワードが一致しません 。" - "Mật khẩu không khớp ."
+
+line - 5820
+translated successfully: " Lỗi tạo File. " - "ファイルの作成エラー 。 他の場所を選択するか 、 もう一度試してください 。" - "Không thể tạo tập tin . Hãy chọn một vị trí khác và thử lại ."
+
+line - 5826
+
+line - 5827
+
+line - 5832
+translated successfully: " Có hay không để cho phép các máy tính để bàn từ xa " - "リモート ・ デスクトップを有効にするかどうか" - "Cho phép truy cập màn hình làm việc từ xa"
+translated successfully: " đã không thể xác thực người dùng " - "ユーザを認証できませんでした" - "Không thể xác thực người dùng"
+translated successfully: " Không thay đổi được xác thực token. " - "認証トークンの変更に失敗しました 。 後で再試行するか 、 システム管理者に連絡して下さい 。" - "Sự thay đổi của hiệu bài xác thực thất bại . Hãy thử lại hoặc liên hệ quản trị hệ thống ."
+
+line - 5836
+
+line - 5839
+
+line - 5845
+
+line - 5851
+
+line - 5855
+
+line - 5862
+
+line - 5868
+
+line - 5872
+
+line - 5877
+
+line - 5886
+
+line - 5891
+
+line - 5893
+
+line - 5897
+
+line - 5902
+
+line - 5907
+
+line - 5911
+
+line - 5914
+
+line - 5918
+
+line - 5922
+
+line - 5925
+
+line - 5929
+
+line - 5932
+
+line - 5942
+
+line - 5949
+
+line - 5957
+
+line - 5970
+
+line - 5981
+
+line - 5990
+
+line - 5995
+
+line - 6001
+
+line - 6008
+
+line - 6014
+
+line - 6023
+
+line - 6032
+
+line - 6036
+
+line - 6043
+
+line - 6050
+
+line - 6056
+
+line - 6062
+
+line - 6068
+
+line - 6076
+
+line - 6084
+
+line - 6092
+
+line - 6097
+
+line - 6104
+
+line - 6108
+
+line - 6114
+
+line - 6122
+
+line - 6128
+
+line - 6133
+
+line - 6140
+
+line - 6149
+
+line - 6159
+
+line - 6164
+
+line - 6173
+
+line - 6180
+
+line - 6186
+
+line - 6196
+
+line - 6205
+
+line - 6216
+
+line - 6226
+
+line - 6234
+
+line - 6241
+
+line - 6250
+
+line - 6256
+
+line - 6262
+
+line - 6267
+
+line - 6271
+
+line - 6275
+
+line - 6279
+
+line - 6283
+
+line - 6288
+
+line - 6292
+
+line - 6297
+
+line - 6302
+
+line - 6314
+
+line - 6322
+
+line - 6328
+
+line - 6333
+
+line - 6341
+
+line - 6347
+
+line - 6356
+
+line - 6370
+
+line - 6381
+
+line - 6386
+
+line - 6392
+
+line - 6394
+
+line - 6397
+
+line - 6401
+
+line - 6402
+translated successfully: " Để dừng việc triển khai của các kho lưu trữ " - "書庫の展開を中止します" - "Chưa giải nén"
+translated successfully: " trong việc tìm kiếm ứng dụng lỗi nội bộ đã xảy ra: " - "アプリケーションの検索中に内部エラーが起こりました :" - "Gặp lỗi nội bộ trong khi thử tìm kiếm ứng dụng :"
+translated successfully: " loại tập tin không thể được mở ra " - "この種類のファイルは開けませんでした" - "Không thể mở tập tin kiểu này"
+translated successfully: " Ngày giờ: " - "変更日時 :" - "Sửa lúc :"
+translated successfully: " Bạn không có thể thêm các kho lưu trữ chính nó. " - "書庫自身を追加できません 。" - "Bạn không thể thêm một kho vào chính nó ."
+
+line - 6409
+
+line - 6418
+
+line - 6422
+
+line - 6430
+
+line - 6441
+
+line - 6454
+
+line - 6457
+
+line - 6460
+translated successfully: " Hồ sơ Monitor: " - "モニタープロファイル :" - "Xác lập bộ trình bày :"
+translated successfully: " mô phỏng hồ sơ: " - "シミュレーション対象のプロファイル :" - "Hồ sơ mô phỏng in :"
+translated successfully: " màu bằng chứng " - "色校正" - "Xem thử màu"
+translated successfully: " Tất cả các tập tin (*. *) " - "すべてのファイル ( * . * )" - "Mọi tập tin ( * . * )"
+translated successfully: " Kết nối đến máy chủ proxy xác thực " - "認証プロキシ ・ サーバへの接続" - "Xác thực sự kết nối đến máy phục vụ ủy nhiệm"
+translated successfully: " bạn muốn xóa các phân vùng đã chọn " - "プロキシ設定モード" - "Chế độ cấu hình ủy nhiệm"
+translated successfully: " chế độ cài đặt proxy" - "選択したパーティションを削除します" - "Xóa bỏ phân vùng đã chọn"
+
+line - 6467
+
+line - 6472
+
+line - 6483
+
+line - 6489
+translated successfully: " " - "% 1 を % 2 から % 3 へ拡大" - "Tăng % 1 từ % 2 lên % 3"
+translated successfully: "% 1% 2 tăng từ đến% 3 " - "% 1 を右に移動して % 2 から % 3 に拡大" - "Chuyển % 1 sang phải và tăng nó từ % 2 lên % 3"
+translated successfully: " mở rộng trong% 1 để di chuyển sang trái từ% 2% 3 " - "% 1 を左に移動して % 2 から % 3 に拡大" - "Chuyển % 1 sang trái và tăng nó từ % 2 lên % 3"
+translated successfully: "% 1 mở rộng từ di chuyển% 2% đến 3 ở bên phải " - "% 1 を左に移動して % 2 から % 3 に縮小" - "Chuyển % 1 sang trái và giảm nó từ % 2 xuống % 3"
+
+line - 6493
+
+line - 6499
+
+line - 6506
+
+line - 6511
+
+line - 6517
+translated successfully: " Quy mô giá trị " - "スケールの値です" - "Giá trị của tỷ lệ"
+translated successfully: " chuỗi các tên biểu tượng " - "アイコン名の並び" - "Danh sách các tên biểu tượng"
+translated successfully: " giá trị tối thiểu của thanh trượt kích thước " - "スライダ ・ サイズの最小値" - "Độ dài con trượt tối thiểu"
+translated successfully: " của thanh cuộn của kích thước trượt giá trị tối thiểu là " - "スクロールバーのスライダの大きさの最小値" - "Chiều dài tối thiểu của con trượt của thanh cuộn"
+translated successfully: " là số hàng đó là trong bảng " - "テーブルの中にある行の数です" - "Số hàng trong bảng"
+translated successfully: " là số cột có trong bảng " - "テーブルの中にある列の数です" - "Số cột trong bảng"
+translated successfully: " tiếp theo " - "隣り合うセルの間に挿入する空白 ( 列間 ) の大きさです" - "Khoảng cách giữa hai cột liên tiếp"
+
+line - 6524
+
+line - 6530
+
+line - 6534
+
+line - 6539
+
+line - 6544
+
+line - 6551
+
+line - 6561
+
+line - 6571
+
+line - 6572
+
+line - 6578
+
+line - 6579
+
+line - 6585
+
+line - 6592
+
+line - 6599
+
+line - 6606
+
+line - 6611
+
+line - 6616
+
+line - 6622
+
+line - 6627
+
+line - 6634
+
+line - 6647
+
+line - 6650
+
+line - 6664
+
+line - 6680
+
+line - 6688
+
+line - 6699
+
+line - 6706
+
+line - 6717
+
+line - 6725
+
+line - 6732
+
+line - 6736
+
+line - 6745
+
+line - 6751
+
+line - 6756
+
+line - 6760
+
+line - 6764
+
+line - 6766
+
+line - 6773
+
+line - 6781
+
+line - 6786
+
+line - 6793
+translated successfully: " (Vô danh) " - "( 不明 )" - "( không rõ )"
+translated successfully: " sub-key không thể được gỡ bỏ " - "副鍵を削除できません" - "Không thể xoá khoá phụ"
+translated successfully: " tin cậy không thể thay đổi " - "信用度を変更できません" - "Không thể thay đổi tình trạng đáng tin"
+translated successfully: " bạn không thể xuất khóa " - "鍵をエクスポートできません" - "Không thể xuất khẩu khoá"
+translated successfully: " hết " - "期限切れ" - "Đã hết hạn"
+translated successfully: " tính chính " - "鍵のプロパティ" - "Thuộc tính khoá"
+translated successfully: " Chỉ định màu nền của các nội dung " - "コンテンツの背景色を指定します" - "Mầu nền của nội dung đã được đặt"
+translated successfully: " logo của màu nền " - "ロゴの背景色" - "Mầu nền của biểu hình"
+translated successfully: " màu nền logo " - "ロゴの背景色" - "Mầu nền của biểu hình đã đặt"
+translated successfully: " logo của màu nền " - "ロゴの背景色を指定します" - "Mầu nền của biểu hình đã được đặt"
+
+line - 6804
+
+line - 6811
+
+line - 6819
+
+line - 6823
+
+line - 6831
+
+line - 6840
+translated successfully: " Ứng dụng của nền " - "デフォルトのポインタ" - "Làm mịn điểm con ( màn hình LCD )"
+translated successfully: " " - "背景の適用" - "Sắc thái điều khiển đang dùng không hỗ trợ giản đồ màu ."
+translated successfully: " mặc định của con trỏ trở lại với bản gốc " - "元に戻す" - "Xếp lát Thu / Phóng Ở giữa Co giãn Màn hình đầy"
+translated successfully: " Chủ đề này đã có một nền và phông chữ được khuyến cáo sử dụng. " - "このテーマには使用が推奨されている背景とフォントがあります 。 最後に適用したフォントから推奨フォントに戻すことも可能です 。" - "Nhãn nút thanh công cụ :"
+
+line - 6846
+
+line - 6852
+
+line - 6862
+
+line - 6868
+
+line - 6872
+
+line - 6879
+
+line - 6884
+
+line - 6890
+
+line - 6894
+
+line - 6898
+
+line - 6902
+
+line - 6906
+
+line - 6916
+
+line - 6922
+
+line - 6927
+
+line - 6938
+
+line - 6943
+
+line - 6948
+
+line - 6957
+
+line - 6964
+
+line - 6972
+
+line - 6979
+
+line - 6985
+translated successfully: " Nối tiếp modem " - "シリアル ・ モデム" - "Bộ điều giải nối tiếp"
+translated successfully: " giao diện mạng này không được thiết lập " - "このネットワーク ・ インターフェースは設定されていません" - "Chưa cấu hình giao diện mạng này"
+translated successfully: " địa chỉ: " - "アドレス :" - "Địa chỉ : % s"
+translated successfully: " Type: " - "種類 :" - "Kiểu : % s"
+translated successfully: " kết nối có dây " - "有線接続" - "Kết nối bằng tuyến"
+translated successfully: " cổng kết nối song song " - "パラレルポート接続" - "Kết nối cổng nối tiếp"
+translated successfully: " Bạn phải thay đổi vị trí mạng " - "ネットワークの場所を変更しています" - "Đang thay đổi địa điểm mạng"
+translated successfully: " đã vị trí của tên cùng tồn tại" - "既に同じ名前の場所が存在します" - "Đã có một địa điểm với tên này rồi"
+
+line - 6993
+
+line - 6998
+
+line - 7002
+
+line - 7007
+
+line - 7011
+
+line - 7017
+
+line - 7019
+
+line - 7025
+
+line - 7028
+
+line - 7035
+translated successfully: " Setting xuất hiện " - "サブピクセルの順番" - " Thứ  tự  điểm  ảnh  con "
+translated successfully: " " - "外観の設定" - "Tùy thích Diện mạo"
+translated successfully: " thứ tự của điểm ảnh phụ để mở hộp thoại để xác định màu sắc " - "色を指定するダイアログを開きます" - "Mở hộp thoại để chọn màu"
+translated successfully: " menu và thanh công cụ " - "描画の種類" - " Vẽ  phông "
+translated successfully: " " - "メニューとツールバー" - " Trình  đơn  và  Thanh  công  cụ "
+translated successfully: " Kazakhstan (với Nga) " - "カザフ語 ( ロシア語付き )" - "Kha-xắc với tiếng Nga"
+translated successfully: " loại bản vẽ Bồ Đào Nha " - "ポルトガル語" - "Bồ Đào Nha"
+translated successfully: " Tây Ban Nha (với dấu ngã chết) " - "スペイン語 ( デッドティルダ付き )" - "Bao gồm dấu sóng chết"
+translated successfully: " Nga (Thụy Điển " - "ロシア語 ( スウェーデン 、 表音 、 デッドキー無し )" - "Nga ngữ âm , phím chết loại trừ"
+
+line - 7044
+
+line - 7045
+
+line - 7052
+
+line - 7058
+
+line - 7064
+
+line - 7070
+
+line - 7075
+
+line - 7084
+
+line - 7087
+
+line - 7092
+
+line - 7097
+
+line - 7105
+
+line - 7109
+
+line - 7117
+
+line - 7126
+
+line - 7132
+
+line - 7139
+
+line - 7142
+
+line - 7148
+
+line - 7154
+
+line - 7159
+
+line - 7166
+
+line - 7175
+
+line - 7180
+translated successfully: " Khi bạn chọn một kịch bản từ trình đơn, và sau đó chạy kịch bản các item đã được chọn là giá trị đầu vào. " - "メニューからスクリプトを選択すると 、 選択したアイテムを入力値としてスクリプトを実行します 。" - "Chọn một văn lệnh trong trình đơn sẽ chạy văn lệnh đó với đầu vào của tập lệnh là những mục đã chọn ."
+
+line - 7183
+
+line - 7193
+
+line - 7203
+
+line - 7209
+
+line - 7218
+
+line - 7225
+
+line - 7230
+
+line - 7236
+translated successfully: " Nó không thể được sử dụng bởi vì liên kết này không có liên kết. " - "このリンクはリンク先が存在しないので使用できません 。" - "Không thể dùng liên kết này vì nó không có đích đến ."
+
+line - 7240
+
+line - 7253
+
+line - 7261
+
+line - 7266
+
+line - 7272
+
+line - 7276
+
+line - 7280
+
+line - 7288
+
+line - 7294
+translated successfully: " Ràng buộc khoá sẵn sàng " - "利用可能なキーバインディング" - "Tự động cài đặt các bản cập nhật loại này ."
+translated successfully: " nếu nó không phải là trống rỗng, nếu không có thư mục cấu hình vào danh sách này, tổ hợp phím sẽ bị bỏ qua. " - "空でない場合 、 設定ディレクトリがこのリストになければ 、 キーバインディングは無視されます 。 これは主にロックダウンで有用です 。" - "Lấy danh sách bản cập nhật khi bắt đầu phiên làm việc"
+
+line - 7299
+
+line - 7303
+
+line - 7310
+translated successfully: " Cung cấp một tiện ích để hiển thị thời gian để quản lý cửa sổ để khởi chạy các ứng dụng khác nhau " - "新しいファイルを指定したフォルダーに作成する" - "Tạo tập tin mới trong thư mục đã cho"
+translated successfully: " tập tin mới được tạo ra trong thư mục chỉ định " - "ランチャーの作成" - "Tạo bộ khởi chạy"
+translated successfully: " phóng của tạo " - "フォルダーのプロパティ" - "Thuộc tính của thư mục"
+translated successfully: " tài sản thư mục của " - "ランチャーのプロパティ" - "Thuộc tính của bộ khởi chạy"
+translated successfully: " tính phóng của" - "他のアプリケーションを起動してウィンドウを管理したり時刻を表示するためのユーティリティをいろいろ提供します" - "Khởi chạy các ứng dụng khác và cung cấp các tiện ích khác nhau để quản lý cửa sổ , hiển thị giờ v.v."
+
+line - 7315
+
+line - 7321
+
+line - 7328
+
+line - 7336
+
+line - 7339
+
+line - 7344
+
+line - 7349
+
+line - 7354
+
+line - 7357
+
+line - 7360
+
+line - 7363
+
+line - 7367
+translated successfully: " Nhiệm vụ này đã được sửa đổi, nhưng chưa được lưu. " - "このタスクは変更されていますが 、 まだ保存していません 。" - "Bạn đã sửa đổi tác vụ này , nhưng chưa lưu lại ."
+
+line - 7370
+
+line - 7373
+
+line - 7377
+
+line - 7382
+
+line - 7392
+
+line - 7400
+
+line - 7408
+
+line - 7413
+
+line - 7421
+translated successfully: " Ảnh chụp màn hình có được gửi trực tiếp vào clipboard " - "取得したスクリーンショットをクリップボードへ直接送信する" - "Gửi ảnh chụp thẳng vào bảng tạm"
+translated successfully: " để có được các cửa sổ một mình chứ không phải là toàn bộ màn hình " - "画面全体ではなくウィンドウ単体を取得する" - "Lấy một cửa sổ riêng thay vì toàn bộ màn hình"
+translated successfully: " màn hình bắn để bao gồm các ranh giới của cửa sổ " - "スクリーンショットにウィンドウの境界を含める" - "Gồm viền cửa sổ khi chụp màn hình"
+translated successfully: " mở ranh giới của các cửa sổ từ các ảnh chụp màn hình " - "スクリーンショットからウィンドウの境界を取り除く" - "Gỡ bỏ viền cửa sổ khỏi ảnh chụp màn hình"
+translated successfully: " để hiển thị hộp thoại cấu hình" - "設定ダイアログを表示する" - "Đặt tuỳ chọn tương tác"
+
+line - 7426
+
+line - 7434
+
+line - 7442
+
+line - 7447
+
+line - 7453
+
+line - 7463
+
+line - 7469
+
+line - 7481
+
+line - 7485
+
+line - 7490
+
+line - 7495
+
+line - 7498
+
+line - 7506
+
+line - 7511
+
+line - 7520
+
+line - 7526
+
+line - 7532
+
+line - 7542
+
+line - 7547
+
+line - 7557
+
+line - 7568
+
+line - 7578
+
+line - 7582
+
+line - 7588
+
+line - 7599
+
+line - 7604
+
+line - 7613
+
+line - 7616
+
+line - 7620
+
+line - 7628
+
+line - 7632
+translated successfully: " Khi bạn xóa, mục được loại bỏ hoàn toàn. " - "削除すると 、 そのアイテムは完全に無くなります 。" - "Nếu bạn xoá mục nào , nó sẽ bị mất hoàn toàn ."
+
+line - 7636
+
+line - 7642
+
+line - 7652
+translated successfully: " Để thực hiện "nướng" kịch bản, bạn phải có hai lớp. " - "「 焼き付け 」 スクリプトの実行には 、 2 枚のレイヤーが必要です 。 （ 前面のレイヤーには透明部分がなければいけません 。 ）" - "Hệ số crom"
+
+line - 7656
+
+line - 7661
+
+line - 7669
+
+line - 7674
+
+line - 7679
+
+line - 7688
+
+line - 7695
+
+line - 7701
+translated successfully: " Cửa sổ luôn chuyển đổi cho dù các thiết lập được hiển thị trên mặt trước " - "ウィンドウを常に前面に表示するかどうかの設定を切り替える" - "Bật / tắt nếu một cửa sổ nào đó lúc nào cũng hiển thị phía trước các cửa sổ khác"
+translated successfully: " file gốc " - "元のファイル" - "Tập tin gốc"
+translated successfully: " Kích thước: " - "サイズ :" - "Kích thước :"
+translated successfully: " hành động cho tất cả các file " - "このアクションをすべてのファイルに適用する" - "Áp dụng thao tác này cho mọi tập tin"
+translated successfully: " va chạm của các tập tin " - "ファイルの衝突" - "Xung đột tập tin"
+translated successfully: " (bản sao) " - "( コピー )" - "( bản sao )"
+translated successfully: " items tại đây " - "( 別のコピー )" - "( bản sao khác )"
+translated successfully: " (bản sao khác) " - "ここでアイテムを削除すると元に戻すことはできません 。" - "Nếu bạn xóa bỏ một mục , nó sẽ bị mất vĩnh viễn ."
+
+line - 7709
+
+line - 7715
+
+line - 7719
+
+line - 7732
+
+line - 7741
+
+line - 7746
+
+line - 7754
+
+line - 7762
+
+line - 7769
+
+line - 7776
+
+line - 7777
+
+line - 7783
+
+line - 7793
+
+line - 7799
+
+line - 7805
+
+line - 7811
+translated successfully: " Khi các phương tiện rời được lắp vào, và điều tra xem liệu có chứa tên tập tin quan trọng trong thư mục gốc. " - "リムーバブルメディアが挿入された時 、 ルートディレクトリに重要なファイル名が含まれていないかどうか調査します 。 ファイル名が一致した場合 、 更新の調査が実行されます 。 これで 、 すでにインストールしたディスクで実行中のシステムを更新することが可能になります 。" - "Không thể hiệu lực các tính năng khả năng truy cập bàn phím"
+
+line - 7812
+
+line - 7819
+translated successfully: " Plug-in của tổ hợp phím " - "キーバインディングのプラグイン" - "Không cài bản cập nhật"
+translated successfully: " nó không thể bắt đầu các thiết bị đầu cuối mặc định. " - "デフォルトの端末を起動できませんでした 。 デフォルトの端末を起動するコマンドが指定され 、 それに対応するアプリケーションがインストールされているか確認してください 。" - "Cần khởi động lại ."
+
+line - 7821
+
+line - 7830
+
+line - 7844
+
+line - 7856
+
+line - 7865
+
+line - 7875
+
+line - 7884
+translated successfully: " Là liệu có nên trì hoãn nhiều cho đến khi tăng tốc (trong mili giây). " - "加速するまでにどれくらい遅延するかです ( ミリ秒単位 ) 。" - "Bao nhiêu mili giây để tăng tốc"
+
+line - 7887
+
+line - 7897
+translated successfully: " Để xem các ứng dụng của phiên bản " - "アプリケーションのバージョンを表示する" - "Hiện phiên bản ứng dụng"
+translated successfully: " - để hiển thị các chứng chỉ và tập tin quan trọng " - "- 証明書や鍵ファイルを表示する" - "- Xem chứng nhận và khoá"
+translated successfully: " xem giấy chứng nhận " - "証明書ビューアー" - "Trình xem chứng nhận"
+translated successfully: " mật khẩu là không chính xác " - "パスワードが間違っています" - "Mật khẩu không đúng"
+translated successfully: " nhập trang " - "インポートに失敗しました" - "Nhập thất bại"
+translated successfully: " cho dù để bắt đầu chương trình để chờ đợi một kết nối đảo ngược" - "リバースコネクションを待つプログラムを開始するかどうか" - "Có nên để lại các ứng dụng khách được kết nối hay không"
+
+line - 7903
+
+line - 7913
+
+line - 7918
+
+line - 7923
+
+line - 7930
+translated successfully: " Trình tự " - "シーケンス" - " Cảnh "
+translated successfully: " slideshow dừng " - "スライドショー停止" - "Trình chiếu ảnh"
+translated successfully: " plug-in " - "プラグイン" - "Phần bổ sung"
+translated successfully: " hướng tự động điều chỉnh " - "向きの自動調整" - "Tự động định hướng"
+translated successfully: " sửa hình ảnh " - "画像の補正" - "Nội suy ảnh"
+translated successfully: " sửa hình ảnh " - "画像の補正" - "Ngoại suy ảnh"
+translated successfully: " Chỉ định liệu điều chỉnh vào thời điểm đó để phóng to hình ảnh. " - "画像を拡大する際に補正するかどうかを指定します 。 これは画像がぼやけた状態になり 、 補正しない場合と比較して描画が多少遅くなります 。" - "Có ngoại suy ảnh khi phóng to hay không . Tính năng này giúp nâng cao chất lượng ảnh , nhưng chạy chậm hơn ảnh không ngoại suy ."
+
+line - 7937
+
+line - 7939
+
+line - 7944
+
+line - 7951
+
+line - 7958
+
+line - 7962
+
+line - 7966
+
+line - 7970
+
+line - 7980
+
+line - 7986
+
+line - 7990
+
+line - 7997
+
+line - 8002
+
+line - 8006
+
+line - 8011
+
+line - 8024
+
+line - 8035
+
+line - 8039
+
+line - 8045
+
+line - 8053
+
+line - 8064
+
+line - 8070
+
+line - 8074
+
+line - 8080
+
+line - 8087
+
+line - 8090
+
+line - 8097
+
+line - 8102
+
+line - 8111
+
+line - 8126
+
+line - 8134
+
+line - 8144
+
+line - 8154
+
+line - 8158
+
+line - 8162
+
+line - 8170
+
+line - 8182
+
+line - 8186
+
+line - 8194
+
+line - 8202
+
+line - 8206
+
+line - 8210
+translated successfully: " Chuyển sang nguồn đầu vào trước " - "前の入力ソースへ切り替える" - "Chuyển sang kiểu gõ trước"
+translated successfully: " launcher " - "ランチャー" - "Chạy phần mềm"
+translated successfully: " khởi động trình duyệt trợ giúp " - "ヘルプブラウザーを起動" - "Chạy trình duyệt trợ giúp"
+translated successfully: " khởi động máy tính " - "電卓を起動" - "Chạy bàn tính"
+translated successfully: " khởi động các ứng dụng thư " - "メールクライアントを起動" - "Chạy trình đọc thư"
+translated successfully: " khởi động trình duyệt web " - "ウェブブラウザーを起動" - "Chạy trình duyệt web"
+translated successfully: " để sao chép các ảnh chụp màn hình của cửa sổ vào clipboard " - "ウィンドウのスクリーンショットをクリップボードにコピーする" - "Chụp hình cửa sổ vào clipboard"
+translated successfully: " khóa màn hình " - "画面をロック" - "Khoá màn hình"
+translated successfully: " tiếp cận phổ cập" - "ユニバーサルアクセス" - "Hỗ trợ truy cập"
+
+line - 8219
+
+line - 8225
+
+line - 8231
+
+line - 8234
+
+line - 8238
+
+line - 8244
+
+line - 8250
+
+line - 8255
+
+line - 8258
+
+line - 8262
+
+line - 8267
+
+line - 8271
+translated successfully: " Bạn phải tải về các tập tin đính kèm. " - "添付ファイルをダウンロードしています 。 ここで予定を保存してしまうと 、 いくつかの添付ファイルが失われてしまいます 。" - "Hiện thời đang tải về một số đính kèm . Khi lưu cuộc hẹn này , sẽ cũng mất các đính kèm này ."
+
+line - 8273
+
+line - 8277
+
+line - 8281
+
+line - 8290
+
+line - 8299
+
+line - 8303
+
+line - 8310
+
+line - 8317
+
+line - 8326
+
+line - 8340
+
+line - 8343
+
+line - 8344
+
+line - 8351
+
+line - 8359
+
+line - 8365
+
+line - 8373
+
+line - 8377
+translated successfully: " Tên File " - "ファイル名" - "Tên tập tin"
+translated successfully: " cập nhật ngày " - "更新日時" - "Đã sửa đổi"
+translated successfully: " thư mục Home " - "ホームフォルダー" - "Thư mục mới"
+translated successfully: " Để lại một bản sao mới " - "新しい複製を残す" - "Lưu ảnh mới dạng :"
+translated successfully: " ẩn thanh lọc " - "フィルターバーを隠します" - "Xem các thư mục"
+translated successfully: " theo các thiết lập máy tính để bàn " - "デスクトップ設定に従う" - "Thiết lập hệ thống"
+translated successfully: " nhãn bên dưới biểu tượng " - "アイコンの下にラベル" - "Nhãn dưới biểu tượng"
+translated successfully: " Album Web " - "ウェブアルバム" - "Tập ảnh Mạng"
+translated successfully: " đã không thể thay đổi tên tập tin " - "ファイル名を変更できませんでした" - "Không thể thay đổi tên ảnh :"
+translated successfully: " đã không thể in" - "印刷できませんでした" - "Không thể nhập các ảnh"
+
+line - 8387
+
+line - 8394
+
+line - 8406
+
+line - 8410
+
+line - 8418
+
+line - 8422
+
+line - 8429
+
+line - 8436
+
+line - 8444
+
+line - 8451

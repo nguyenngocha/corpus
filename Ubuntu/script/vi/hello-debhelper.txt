@@ -1,4 +1,0 @@
- chào  thế  giới
- + --------------- +  |  Chào  thế  giới ! |  + --------------- +
- Chào  thế  giới  !
- -h ,  --help             hiển  thị  trợ  giúp  này ,  sau  đó  thoát   -v  --version          hiển  thị  thông  tin  phiên  bản ,  sau  đó  thoát

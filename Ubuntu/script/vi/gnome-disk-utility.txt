@@ -1,7 +1,0 @@
- Trình  gắn  ảnh  đĩa
- Gắn  ảnh  đĩa
- Đĩa
- Quản  lí  đĩa  và  các  thiết  bị  lưu  trữ
- Vị  trí  mặc  định  cho  hộp  thoại  Tạo / Phục  hồi  ảnh  đĩa
- Xem ,  thay  đổi  và  cấu  hình  đĩa
- Nguyễn  Thái  Ngọc  Duy   <  pclouds \ @ gmail \ .com  >  Launchpad  Contributions :    Lê  Kiến  Trúc  https : / / launchpad.net / ~ le-kien-truc    Nguyễn  Thái  Ngọc  Duy  https : / / launchpad.net / ~ pclouds    Ngô  Huy  Hoàng  https : / / launchpad.net / ~ hoangnh    Sang  Hoang  https : / / launchpad.net / ~ sanghoang04

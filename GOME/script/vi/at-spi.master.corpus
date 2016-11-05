@@ -1,7 +1,0 @@
- Mô-đun  GTK +  hỗ  trợ  khả  năng  truy  cập
- Khóa  này  quyết  định  việc  nạp  các  module  để  hỗ  trợ  khả  năng  truy  cập .
- Bật  hạ  tầng  AT-SPI  dựa  trên  CORBA
- Kết  hợp  với  / desktop / gnome / interface / accessibility ,  khoá  này  yêu  cầu  để  hiệu  lực  hạ  tầng  AT-SPI  dựa  trên  CORBA  nếu  hạ  tầng  đó  đã  định  vị  lại .  Nếu  không ,  khoá  này  bị  lờ  đi .
- Đăng  ký  AT-SPI
- Đăng  ký  Khả  năng  Truy  cập
- Đăng  ký  AT  SPI

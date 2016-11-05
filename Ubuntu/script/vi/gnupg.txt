@@ -1,6 +1,0 @@
- không  thể  sinh  số  nguyên  tố  với  pbits = % u  qbits = % u
- không  thể  sinh  số  nguyên  tố  với  số  bit  nhỏ  hơn  % d
- không  thể  mở `%s ':  % s
- CHÚ  Ý :  kích  thước  tệp  hạt  giống  ngẫu  nhiên  không  hợp  lệ  -  không  sử  dụng
- | A |
- | * |

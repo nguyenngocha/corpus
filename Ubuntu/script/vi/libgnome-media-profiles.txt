@@ -1,2 +1,0 @@
- Lỗi  hiển  thị  trợ  giúp :  % s
- Đang  biên  soạn  hồ  sơ  «  % s  »

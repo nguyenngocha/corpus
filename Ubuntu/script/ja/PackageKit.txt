@@ -1,3 +1,0 @@
- 偽update-packages
- ユーザー名Richard  Hughes
- パッケージ名が必要ですprovides
